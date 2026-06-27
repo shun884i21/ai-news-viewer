@@ -1,5 +1,5 @@
 // オフライン閲覧（PWA）：オンライン時は最新を取得し、失敗時のみキャッシュを使う
-const CACHE = "ai-news-v3";
+const CACHE = "ai-news-v4";
 const ASSETS = ["./index.html", "./app.js", "./manifest.json", "./icon.svg"];
 
 self.addEventListener("install", (e) => {
