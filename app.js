@@ -18,6 +18,7 @@ let DATA = { days: [] };
 let query = "";
 let favOnly = false;
 let favs = loadFavs();
+let selectedDate = null; // 表示中の日付（既定は最新日＝今日）
 
 function loadFavs() {
   try { return new Set(JSON.parse(localStorage.getItem(FAV_KEY) || "[]")); }
@@ -73,36 +74,54 @@ function dayBlock(day, items, filtering) {
 function applyFilters() {
   const feed = document.getElementById("feed");
   const sel = document.getElementById("jumpSel");
+  const jump = document.querySelector(".jump");
   const filtering = !!query || favOnly;
   const days = (DATA.days || []).slice().sort((a, b) => (a.date < b.date ? 1 : -1));
 
-  const visible = [];
-  for (const day of days) {
-    let items = (day.items || []).filter(matches);
-    if (favOnly) items = items.filter((it) => favs.has(favKey(day.date, it)));
-    if (items.length) visible.push({ day, items });
-  }
-
-  if (!visible.length) {
-    const msg = favOnly ? "お気に入りはまだありません。★を押して追加できます。"
-      : query ? `「${esc(query)}」に一致するニュースはありません。`
-      : "まだニュースがありません。<br>毎朝7時に最初の記事が入ります。";
-    feed.innerHTML = `<div class="empty"><div class="big">${favOnly ? "★" : query ? "🔍" : "📰"}</div>${msg}</div>`;
-  } else {
-    feed.innerHTML = visible.map((v) => dayBlock(v.day, v.items, filtering)).join("");
-  }
-
-  // 日付ジャンプは表示中の日のみ
-  sel.innerHTML = visible.map(({ day }) => {
+  // 日付ドロップダウンは常に全日分を用意（既定は最新日＝今日）
+  sel.innerHTML = days.map((day) => {
     const f = fmtDate(day.date);
-    return `<option value="day-${esc(day.date)}">${f.y}年 ${f.full}（${f.wd.replace("曜日", "")}）</option>`;
+    return `<option value="${esc(day.date)}">${f.y}年 ${f.full}（${f.wd.replace("曜日", "")}）</option>`;
   }).join("");
-  document.querySelector(".jump").style.display = (visible.length > 1 && !query) ? "" : "none";
 
-  const total = visible.reduce((n, v) => n + v.items.length, 0);
-  document.getElementById("foot").textContent = filtering
-    ? `${total}件表示中`
-    : `${days.length}日分・The Verge / TechCrunch / VentureBeat / MIT Tech Review / Bloomberg`;
+  // 検索・お気に入り中は、日付をまたいで全該当記事を縦に並べて表示
+  if (filtering) {
+    const visible = [];
+    for (const day of days) {
+      let items = (day.items || []).filter(matches);
+      if (favOnly) items = items.filter((it) => favs.has(favKey(day.date, it)));
+      if (items.length) visible.push({ day, items });
+    }
+    if (!visible.length) {
+      const msg = favOnly ? "お気に入りはまだありません。★を押して追加できます。"
+        : `「${esc(query)}」に一致するニュースはありません。`;
+      feed.innerHTML = `<div class="empty"><div class="big">${favOnly ? "★" : "🔍"}</div>${msg}</div>`;
+    } else {
+      feed.innerHTML = visible.map((v) => dayBlock(v.day, v.items, true)).join("");
+    }
+    jump.style.display = "none";
+    const total = visible.reduce((n, v) => n + v.items.length, 0);
+    document.getElementById("foot").textContent = `${total}件表示中`;
+    return;
+  }
+
+  // 通常時：選択中の1日だけをパッと表示
+  if (!days.length) {
+    feed.innerHTML = `<div class="empty"><div class="big">📰</div>まだニュースがありません。<br>毎朝7時に最初の記事が入ります。</div>`;
+    jump.style.display = "none";
+    document.getElementById("foot").textContent = "";
+    return;
+  }
+  // 選択中の日付が未設定/無効なら最新日（今日）にフォールバック
+  if (!selectedDate || !days.some((d) => d.date === selectedDate)) {
+    selectedDate = days[0].date;
+  }
+  sel.value = selectedDate;
+  const day = days.find((d) => d.date === selectedDate);
+  feed.innerHTML = dayBlock(day, day.items || [], false);
+  jump.style.display = days.length > 1 ? "" : "none";
+  document.getElementById("foot").textContent =
+    `${days.length}日分・The Verge / TechCrunch / VentureBeat / MIT Tech Review / Bloomberg`;
 }
 
 function render(data) {
@@ -147,8 +166,9 @@ favToggle.addEventListener("click", () => {
 });
 
 document.getElementById("jumpSel").addEventListener("change", (e) => {
-  const el = document.getElementById(e.target.value);
-  if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
+  selectedDate = e.target.value;
+  applyFilters();
+  window.scrollTo({ top: 0, behavior: "smooth" });
 });
 
 fetch("news.json?" + Date.now())
