@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#0b1220" />
+<meta name="description" content="毎朝のAIニュース5本＋今後の展望" />
+<link rel="manifest" href="manifest.json" />
+<link rel="apple-touch-icon" href="icon.svg" />
+<title>AIニュース</title>
+<style>
+  :root{
+    --bg:#0b1220; --bg2:#0e1626; --card:#141d30; --card2:#18233a;
+    --ink:#e8edf6; --muted:#93a0b8; --faint:#64708a;
+    --accent:#5b8cff; --accent-bg:#16223d; --border:#23304d;
+    --good:#3ec98a;
+  }
+  @media (prefers-color-scheme: light){
+    :root{
+      --bg:#f5f7fb; --bg2:#eef2f9; --card:#ffffff; --card2:#f7f9fd;
+      --ink:#1a2336; --muted:#5a667e; --faint:#8b97ad;
+      --accent:#2f63e0; --accent-bg:#e8eefc; --border:#dde4f0;
+    }
+  }
+  *{box-sizing:border-box; -webkit-tap-highlight-color:transparent;}
+  html,body{margin:0; padding:0;}
+  body{
+    font-family:-apple-system,"Hiragino Kaku Gothic ProN","Yu Gothic UI","Meiryo",system-ui,sans-serif;
+    color:var(--ink);
+    background:var(--bg);
+    min-height:100dvh;
+    line-height:1.6;
+  }
+  #app{max-width:560px; margin:0 auto; padding:0 14px 60px;}
+
+  header.top{
+    position:sticky; top:0; z-index:10;
+    background:color-mix(in srgb, var(--bg) 86%, transparent);
+    backdrop-filter:saturate(160%) blur(10px);
+    padding:14px 2px 10px; margin-bottom:6px;
+    border-bottom:1px solid var(--border);
+  }
+  .brand{display:flex; align-items:center; gap:9px;}
+  .brand .logo{
+    width:30px; height:30px; border-radius:9px; background:var(--accent-bg);
+    display:flex; align-items:center; justify-content:center; flex:0 0 auto;
+  }
+  .brand .logo svg{width:18px; height:18px; display:block;}
+  .brand h1{font-size:18px; font-weight:700; margin:0; letter-spacing:.3px;}
+  .brand .sub{font-size:12px; color:var(--muted); margin-left:auto;}
+
+  .jump{margin-top:10px; display:flex; align-items:center; gap:8px;}
+  .jump label{font-size:12px; color:var(--muted); flex:0 0 auto;}
+  .jump select{
+    flex:1; appearance:none; -webkit-appearance:none;
+    background:var(--card); color:var(--ink);
+    border:1px solid var(--border); border-radius:10px;
+    padding:8px 30px 8px 12px; font-size:14px; font-family:inherit;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%2393a0b8' stroke-width='2.5' stroke-linecap='round'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+    background-repeat:no-repeat; background-position:right 10px center;
+  }
+
+  .day{margin-top:18px; scroll-margin-top:96px;}
+  .day-head{display:flex; align-items:baseline; gap:10px; margin:0 2px 10px;}
+  .day-head .d{font-size:16px; font-weight:700;}
+  .day-head .wd{font-size:12px; color:var(--muted);}
+  .day-head .badge{
+    font-size:11px; color:var(--accent); background:var(--accent-bg);
+    border-radius:999px; padding:2px 9px; margin-left:auto;
+  }
+
+  .card{
+    background:var(--card); border:1px solid var(--border);
+    border-radius:14px; padding:13px 15px; margin-bottom:10px;
+  }
+  .card .meta{display:flex; align-items:center; justify-content:space-between; margin-bottom:7px;}
+  .src{
+    font-size:11px; font-weight:700; color:var(--accent);
+    background:var(--accent-bg); border-radius:999px; padding:3px 9px;
+  }
+  .date{font-size:11px; color:var(--faint);}
+  .card h3{font-size:15px; font-weight:700; margin:0 0 5px; line-height:1.45;}
+  .card p{font-size:13px; color:var(--muted); margin:0 0 9px;}
+  .card a.read{
+    display:inline-flex; align-items:center; gap:5px;
+    font-size:12.5px; color:var(--accent); text-decoration:none; font-weight:600;
+  }
+  .card a.read svg{width:13px; height:13px;}
+
+  .outlook{
+    background:var(--accent-bg); border:1px solid var(--border);
+    border-radius:14px; padding:13px 15px; margin:4px 0 4px;
+  }
+  .outlook .lab{display:flex; align-items:center; gap:6px; font-size:13px; font-weight:700; color:var(--accent); margin-bottom:6px;}
+  .outlook .lab svg{width:16px; height:16px;}
+  .outlook p{font-size:13px; color:var(--ink); margin:0;}
+
+  .note{font-size:11px; color:var(--faint); margin:2px 2px 0;}
+  .empty{text-align:center; color:var(--muted); padding:60px 20px; font-size:14px;}
+  .empty .big{font-size:40px; margin-bottom:10px;}
+  footer{text-align:center; color:var(--faint); font-size:11px; margin-top:28px;}
+</style>
+</head>
+<body>
+<div id="app">
+  <header class="top">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#5b8cff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M4 6h16M4 12h10M4 18h7"/><circle cx="18" cy="16" r="3"/>
+        </svg>
+      </span>
+      <h1>AIニュース</h1>
+      <span class="sub" id="updated"></span>
+    </div>
+    <div class="jump">
+      <label for="jumpSel">日付</label>
+      <select id="jumpSel" aria-label="日付にジャンプ"></select>
+    </div>
+  </header>
+  <main id="feed"></main>
+  <footer id="foot"></footer>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

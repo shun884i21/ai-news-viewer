@@ -1,0 +1,48 @@
+{
+  "updatedAt": "2026-06-27T07:00:00+09:00",
+  "days": [
+    {
+      "date": "2026-06-27",
+      "sample": true,
+      "note": "これは表示確認用のサンプルです。明日の朝7時に最初の本物のニュースが入ります。",
+      "items": [
+        {
+          "title": "サンプル：OpenAIが新しい自律エージェント機能を発表",
+          "summary": "複数ステップのタスクを自律実行する新機能を公開。企業向けの業務自動化が一段進む見込みで、競合各社の追随が予想される。",
+          "url": "https://techcrunch.com/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-06-27"
+        },
+        {
+          "title": "サンプル：大手チップメーカーがAI向け次世代GPUを公開",
+          "summary": "推論コストを大幅に下げる新世代チップを発表。学習・推論の価格競争が加速し、低コスト化が進むとみられる。",
+          "url": "https://www.theverge.com/",
+          "source": "The Verge",
+          "publishedAt": "2026-06-27"
+        },
+        {
+          "title": "サンプル：AIスタートアップが大型資金調達を実施",
+          "summary": "エンタープライズ向けAI基盤を手がける新興企業が大規模ラウンドを完了。評価額が大きく上昇した。",
+          "url": "https://venturebeat.com/",
+          "source": "VentureBeat",
+          "publishedAt": "2026-06-27"
+        },
+        {
+          "title": "サンプル：AI規制をめぐる新たな政策議論が前進",
+          "summary": "主要国でAIの安全性・透明性に関する規制枠組みの議論が進展。企業のコンプライアンス対応が論点に。",
+          "url": "https://www.bloomberg.com/",
+          "source": "Bloomberg",
+          "publishedAt": "2026-06-27"
+        },
+        {
+          "title": "サンプル：新しい大規模言語モデルのベンチマーク結果が公開",
+          "summary": "推論能力を測る新ベンチマークで最新モデル群を比較。研究コミュニティで評価手法の妥当性が議論された。",
+          "url": "https://www.technologyreview.com/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-06-27"
+        }
+      ],
+      "outlook": "エージェント機能の高度化と推論チップの低コスト化が同時に進み、今後は『自動化×低価格』を軸に企業導入が一段と広がりそう。並行して規制・ガバナンスの議論が本格化するため、各社の対応姿勢にも注目したい。"
+    }
+  ]
+}
