@@ -49,6 +49,34 @@
   .brand h1{font-size:18px; font-weight:700; margin:0; letter-spacing:.3px;}
   .brand .sub{font-size:12px; color:var(--muted); margin-left:auto;}
 
+  .controls{margin-top:10px; display:flex; gap:8px; align-items:center;}
+  .searchwrap{flex:1; position:relative; display:flex; align-items:center;}
+  .searchwrap .si{width:16px; height:16px; color:var(--muted); position:absolute; left:11px; pointer-events:none;}
+  .searchwrap input{
+    width:100%; background:var(--card); color:var(--ink);
+    border:1px solid var(--border); border-radius:10px;
+    padding:8px 30px 8px 34px; font-size:14px; font-family:inherit;
+  }
+  .searchwrap input::-webkit-search-cancel-button{display:none;}
+  .searchwrap input:focus{outline:none; border-color:var(--accent);}
+  .clr{
+    position:absolute; right:6px; width:24px; height:24px; border:none;
+    background:transparent; color:var(--muted); font-size:14px; cursor:pointer; border-radius:6px;
+  }
+  .favtgl{
+    flex:0 0 auto; background:var(--card); color:var(--muted);
+    border:1px solid var(--border); border-radius:10px;
+    padding:8px 11px; font-size:13px; font-family:inherit; cursor:pointer; white-space:nowrap;
+  }
+  .favtgl[aria-pressed="true"]{color:#ffcf5c; border-color:#ffcf5c; background:color-mix(in srgb,#ffcf5c 12%, var(--card));}
+
+  .fav{
+    background:transparent; border:none; cursor:pointer; padding:2px 4px;
+    font-size:17px; line-height:1; color:var(--faint); border-radius:6px;
+  }
+  .fav[aria-pressed="true"]{color:#ffcf5c;}
+  .meta .right{display:flex; align-items:center; gap:6px;}
+
   .jump{margin-top:10px; display:flex; align-items:center; gap:8px;}
   .jump label{font-size:12px; color:var(--muted); flex:0 0 auto;}
   .jump select{
@@ -112,6 +140,14 @@
       </span>
       <h1>AI関連ニュース</h1>
       <span class="sub" id="updated"></span>
+    </div>
+    <div class="controls">
+      <div class="searchwrap">
+        <svg class="si" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        <input id="search" type="search" inputmode="search" placeholder="キーワードで検索（例: 規制, GPU）" aria-label="ニュースを検索" />
+        <button id="clearSearch" class="clr" aria-label="検索をクリア" hidden>✕</button>
+      </div>
+      <button id="favToggle" class="favtgl" aria-pressed="false">☆ お気に入り</button>
     </div>
     <div class="jump">
       <label for="jumpSel">日付</label>
