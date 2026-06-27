@@ -1,6 +1,6 @@
 {
-  "name": "AIニュース",
-  "short_name": "AIニュース",
+  "name": "AI関連ニュース",
+  "short_name": "AI関連ニュース",
   "description": "毎朝の世界の主要AIニュース5本＋今後の展望",
   "start_url": "./index.html",
   "display": "standalone",
