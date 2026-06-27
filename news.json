@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-06-27T07:00:00+09:00",
+  "updatedAt": "2026-06-28T08:05:00+09:00",
   "days": [
+    {
+      "date": "2026-06-28",
+      "items": [
+        {
+          "title": "OpenAI、初の自社推論チップ「Jalapeño」をBroadcomと発表",
+          "summary": "OpenAIは半導体大手Broadcomと共同開発した初の自社推論チップ「Jalapeño（ハラペーニョ）」を発表した。設計から製造のテープアウトまでをわずか9カ月で完了し、OpenAI自身のモデルを設計工程に活用して開発を加速したという。レチクルサイズの大型ASICで、現行の最先端品より電力当たり性能が大幅に高いとされ、2026年末から自社データセンターへの初期導入を目指す。Nvidiaへの依存を薄めつつ推論コストを下げる狙いで、IPOを控える同社の収益化に向けた重要な布石でもある。",
+          "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-06-24"
+        },
+        {
+          "title": "TechCrunch「もはやAnthropic対OpenAIではない」――政府が公開を握る時代",
+          "summary": "TechCrunchは「もはやAnthropic対OpenAIの構図ではない」と論じ、米政府がどのAIモデルを世に出すかを実質的に握りつつある現状を指摘した。政府はAnthropicのFable／Mythosの一般公開を止めたのに続き、OpenAIのGPT-5.6も『顧客ごとに承認』する限定プレビューに押し込まれる見通しだという。最先端を競う2社が、いまや同じ規制の檻の中で同じ問題に直面しているという見立てだ。能力競争よりも『誰が公開を許可するか』が勝敗を左右する時代に入りつつあることを示している。",
+          "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-06-26"
+        },
+        {
+          "title": "企業のAIエージェント導入が急加速、運用組織が11%→33%に（KPMG調査）",
+          "summary": "VentureBeatは、企業によるAIエージェント導入が予想を超える速さで進んでいると報じた。KPMGの最新調査では、実運用でAIエージェントを展開している組織が直近2四半期の11%から33%へと約3倍に急増したという。Intuitは請求書の自動生成・督促エージェントをQuickBooksに組み込み、利用企業は入金が平均5日早まったとされる。一方でIT部門は社内システムへの権限付与に慎重で、自律実行の利便性とガバナンス・セキュリティの両立が次の課題として浮かび上がっている。",
+          "url": "https://venturebeat.com/ai/the-great-ai-agent-acceleration-why-enterprise-adoption-is-happening-faster-than-anyone-predicted",
+          "source": "VentureBeat",
+          "publishedAt": "2026-06-26"
+        },
+        {
+          "title": "MIT Tech Review「The Download」：記録的熱波と前例のないOpenAI規制",
+          "summary": "MIT Technology Reviewのニュースレター「The Download」6月26日号は、記録的な熱波と『前例のないOpenAI規制』を取り上げた。西欧を襲った熱波で英国は6月として観測史上最高の36.1℃を記録し、高温が判断力や攻撃性など脳機能に与える影響を解説している。あわせて、フロンティアAIの公開に政府が前例のない制限をかけている状況を整理した。気候と先端技術ガバナンスという一見無関係な二つのテーマが、いずれも社会の足元を揺らしていることを示す構成になっている。",
+          "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-06-26"
+        },
+        {
+          "title": "Bloomberg：AnthropicとOpenAIの値下げ競争は「双方に痛手」",
+          "summary": "Bloombergのオピニオンは、AnthropicとOpenAIが本格的な値下げ競争に突入すれば『双方にとって痛手になる』と論じた。DeepSeekなど中国勢の安価なオープンウェイトモデルが台頭し、企業はROIとコスト管理を一段と強める方向にある。実際、OpenRouterのデータでは大手3社（Google・OpenAI・Anthropic）が占めるトークン比率が1年前の72%から33%へ低下したという。高い基盤投資を抱える2社にとって安売り合戦は採算をさらに圧迫しかねず、価格と収益性の綱引きが今後の焦点になる。",
+          "url": "https://www.bloomberg.com/opinion/articles/2026-06-11/anthropic-openai-price-war-would-be-brutal-for-both-companies",
+          "source": "Bloomberg",
+          "publishedAt": "2026-06-11"
+        }
+      ],
+      "outlook": "今日は「誰が・いくらで・どこまでAIを動かすか」が同時に主題化した。OpenAIは自社チップJalapeñoで推論コストとNvidia依存の低減に動く一方、政府はGPT-5.6やAnthropicのモデル公開を顧客単位で管理し、最先端2社をそろって規制の檻に入れつつある。足元では企業のエージェント導入が約3倍に伸びる一方、DeepSeekなど安価勢の台頭でROIとコスト統制の圧力が強まり、大手のトークンシェアは1年で72%→33%へ急落した。前日からの『能力 × 統制 × 採算』の三つ巴はさらに鮮明で、自前ハード・ガバナンス対応・価格戦略を併走できる企業が優位に立ちそうだ。",
+      "note": "本日はAnthropicによるAlibaba（Qwen）への大規模蒸留攻撃の告発も話題になったが、指定5媒体での確実な一次記事が取れなかったため不採用とした。"
+    },
     {
       "date": "2026-06-27",
       "items": [
