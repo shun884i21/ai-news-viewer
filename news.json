@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-06-28T08:05:00+09:00",
+  "updatedAt": "2026-06-29T20:15:00+09:00",
   "days": [
+    {
+      "date": "2026-06-29",
+      "items": [
+        {
+          "title": "Anthropic、Alibabaを「不正アクセス」と告発――過去最大の蒸留攻撃",
+          "summary": "BloombergによるとAnthropicは、Alibaba（傘下のQwen AIラボ関係者）がClaudeに『不正アクセス』し、過去最大規模の能力抜き取りを行ったと告発した。約2.5万の不正アカウントで2,880万回ものやり取りを生成し、ソフトウェア工学やエージェント的推論などClaudeの中核能力を狙ったという。米中のAI競争と輸出規制が緊迫するなか、米トップ研究所の成果を『蒸留』で吸い上げる行為への警戒が一段と高まっている。AnthropicはこれをSenate Banking委員会への書簡で訴えており、Alibaba側は不正を否定している。",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
+          "source": "Bloomberg",
+          "publishedAt": "2026-06-24"
+        },
+        {
+          "title": "GoogleのトップAI研究者、AnthropicやOpenAIへ相次ぎ流出",
+          "summary": "TechCrunchは、GoogleのトップAI研究者が相次いでライバルへ流出していると報じた。Gemini開発に深く関わったJonas AdlerとAlexander PritzelがAnthropicへ移り、Transformer論文の共著者でもあるNoam ShazeerはOpenAIへ移籍した。巨額の報酬と計算資源を武器にした人材争奪が激化し、DeepMindが最前線を維持できるか懸念する声も出ている。モデル性能だけでなく『誰を抱えるか』が各社の競争力を左右する局面に入りつつある。",
+          "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-06-24"
+        },
+        {
+          "title": "Alibaba「Qwen3.7-Max」、35時間の自律実行とClaude Code対応",
+          "summary": "VentureBeatは、Alibabaの新フラッグシップ『Qwen3.7-Max』が最大35時間にわたり自律実行でき、Anthropicの『Claude Code』など外部ハーネスにも対応すると報じた。長時間の自律タスクをこなすエージェント志向の独自（クローズド）モデルで、中国勢が最先端の能力に急速に追いついていることを示す。AnthropicがAlibabaを蒸留攻撃で告発した直後だけに、能力向上の出どころをめぐる議論とも重なる。オープン路線で台頭してきた中国勢が、高性能な独自モデルでも存在感を強めている。",
+          "url": "https://venturebeat.com/technology/alibabas-proprietary-qwen3-7-max-can-run-for-35-hours-autonomously-and-supports-external-harnesses-like-anthropics-claude-code",
+          "source": "VentureBeat",
+          "publishedAt": "2026-06-25"
+        },
+        {
+          "title": "Bloomberg：AIの電力需要でデータセンターは「設計の作り直し」へ",
+          "summary": "Bloombergは、AIの急拡大でデータセンターが限界に近づき、設計そのものの作り直しが迫られていると報じた。Nvidiaなどが投入する高性能チップは桁違いの電力を必要とし、次世代のデータセンターは従来の何倍もの電力を消費する見込みだという。Nvidiaによれば、流入電力の約3割はAI計算以外（冷却や送電ロス等）に費やされており、効率化が大きな課題になっている。能力拡大の制約が、いまや『電力とインフラ』へ移りつつあることを浮き彫りにする内容だ。",
+          "url": "https://www.bloomberg.com/graphics/2026-ai-data-center-redesign/",
+          "source": "Bloomberg",
+          "publishedAt": "2026-06-24"
+        },
+        {
+          "title": "MIT Tech Review「The Download」：最新は“エンジニアリング特集号”",
+          "summary": "MIT Technology Reviewのニュースレター『The Download』は、最新の『Engineering（エンジニアリング）特集号』を紹介した。AIを支える計算基盤やハードウェア、ものづくりの最前線を横断的に取り上げる内容で、派手なモデル発表の裏で進む『土台』の進化に光を当てている。AIの能力競争が過熱するほど、それを動かすチップ・電力・製造といった工学的課題の重要性が増していることを示す。技術の本質を、地に足のついた視点で捉え直す特集となっている。",
+          "url": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-06-24"
+        }
+      ],
+      "outlook": "今日は『中国勢の台頭と、それを支える人材・電力・規律』が軸になった。AnthropicはAlibabaによる過去最大の蒸留攻撃を告発する一方、そのAlibabaは35時間自律実行できるQwen3.7-Maxを投入——能力の出どころと正当性をめぐる緊張が高まっている。並行して、GoogleのトップAI人材がAnthropicやOpenAIへ流出し、競争は『誰を抱えるか』の段階へ。さらにデータセンターは電力の壁に直面し、MITは派手なモデルの裏で進む工学的基盤に注目する。モデル性能だけでなく、人材・電力・知財保護といった『足回り』が次の勝敗を分けそうだ。",
+      "note": "本日は朝7時の自動配信が起動に失敗したため、夜に手動でキャッチアップ配信。記事は6/24〜6/25の最新分。一部の公開日は概算。"
+    },
     {
       "date": "2026-06-28",
       "items": [
