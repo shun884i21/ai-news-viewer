@@ -1,47 +1,46 @@
 {
-  "updatedAt": "2026-06-30T20:38:00+09:00",
+  "updatedAt": "2026-06-30T20:54:29+09:00",
   "days": [
     {
       "date": "2026-06-30",
       "items": [
         {
-          "title": "「Claude Code」を乗っ取る新型攻撃 agentjacking が判明",
-          "summary": "VentureBeatは、AIコーディング支援『Claude Code』を乗っ取る新型攻撃『agentjacking』を報じた。エラー監視サービスSentryに細工したエラーイベントを送るだけで、Claude CodeやCursor、Codexが診断情報を信頼して攻撃者の指示を実行してしまうという。認証情報の窃取も境界突破も伴わず、すべて『正規の権限内』で成立する点が厄介で、Tenet Securityの検証では85%もの成功率を記録した。Datadog・PagerDuty・Jiraなど同種の連携にも同じ穴があるとされ、AIエージェント時代の新たなサプライチェーン・セキュリティ課題を突きつけている。",
-          "url": "https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure",
-          "source": "VentureBeat",
-          "publishedAt": "2026-06-30"
-        },
-        {
-          "title": "Meituan、1.6兆パラメータのオープンモデル「LongCat-2.0」を中国製チップだけで学習",
-          "summary": "中国の食品デリバリー大手Meituanが、1.6兆パラメータの大規模モデル『LongCat-2.0』をMITライセンスでオープンソース公開した。エージェント的なコーディングに強く、OpenRouterのランキングで首位に立つなど『フロンティア級』の性能を示しているという。最大の注目点は、米国製GPUに頼らず全面的に中国製チップで学習された点で、輸出規制下でも独自に最先端モデルを生み出せることを示した。安価なオープンモデルで台頭する中国勢が、性能でも米国の最先端に肉薄しつつある象徴的な動きだ。",
+          "title": "美団がオープンソース「LongCat-2.0」を公開──中国製チップのみで訓練した1.6兆パラメータのコーディングモデル",
+          "summary": "中国の配送大手・美団（Meituan）が、1.6兆パラメータのエージェント型コーディングモデル「LongCat-2.0」をGitHubおよびHugging Faceで公開した。同モデルは過去2か月間、匿名モデル「Owl Alpha」としてOpenRouterの開発者ランキングで首位を維持していた正体であることも判明。中国製チップのみで訓練されており、米国の輸出規制下でも高性能モデルを開発できることを示す事例として注目される。クローズドソースのエンタープライズAIへの対抗を明確に打ち出しており、オープンソースコミュニティへの影響は大きい。",
           "url": "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
           "source": "VentureBeat",
           "publishedAt": "2026-06-30"
         },
         {
-          "title": "TechCrunch：AIと雇用の議論、データが入り乱れ一段と複雑に",
-          "summary": "TechCrunchは、AIと雇用をめぐる議論が一段と複雑になっていると報じた。新たな調査では、AIを積極導入する企業ほど人員が10.2%増え、しかも『消える』と懸念された新卒・エントリー職が12%増えるという逆説的な結果が出た。一方で2026年5月までにAI起因とされる人員削減は約9万人に上り、今後5年で米雇用の最大15%が失われるとの見方もある。企業が最高益を出しながら人員整理を進める構図の中で、AIが雇用を奪うのか増やすのか、相反するデータが交錯している。",
-          "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+          "title": "DeepSeekがLLM推論を最大85%高速化するフレームワーク「DSpark」をオープンソース公開",
+          "summary": "DeepSeekがMITライセンスの新推論高速化フレームワーク「DSpark」を公開し、LLMの推論速度を最大85%改善できると発表した。米国政府がAnthropicやOpenAIの新モデルへのアクセスを制限する地政学的緊張が高まる中での公開であり、中国発のオープンソースAIが再び世界の開発動向を左右しうることを示している。推論コストの削減はエンタープライズAI導入の障壁を下げるため、商用・研究双方への波及効果が期待される。DeepSeekは今回も無償公開という戦略で、商用クラウドプロバイダーへの圧力を強めている。",
+          "url": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85",
+          "source": "VentureBeat",
+          "publishedAt": "2026-06-30"
+        },
+        {
+          "title": "AnthropicがカリフォルニアとClaudeの半額提供契約を締結──連邦政府との対立が鮮明に",
+          "summary": "Anthropicはカリフォルニア州ニューサム知事と、州政府機関がClaudeを通常の半額で利用できる契約を締結した。同社は連邦政府とは対立関係にあり、米国政府がAnthropicの新モデルへのアクセスを制限するなど緊張が続いている。州政府レベルでの大規模AI導入契約は、生成AIの公共セクター普及を加速させる先行事例となる。OpenAIとの競争においても、政府調達という新たな戦線でのポジション獲得として注目される。",
+          "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
           "source": "TechCrunch",
-          "publishedAt": "2026-06-29"
+          "publishedAt": "2026-06-30"
         },
         {
-          "title": "Google、科学研究向けの専門特化AIモデルをクラウドで提供へ",
-          "summary": "Bloombergによると、GoogleはソフトウェアSandboxAQの専門特化型AIモデルを自社クラウドで提供し始める。創薬・材料科学・半導体製造などの研究を加速させる狙いで、企業や研究機関がこうした科学向けAIにアクセスしやすくなる。汎用チャットボットの競争が過熱する裏で、特定領域に深く効く『専門特化モデル』を提供基盤に載せる動きが進んでいる。クラウド各社にとって、科学・産業の現場でAIをどう実装し収益化するかが新たな競争軸になりつつあることを示す。",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-29/google-cloud-to-offer-specialist-ai-models-for-science-research",
-          "source": "Bloomberg",
-          "publishedAt": "2026-06-29"
+          "title": "AIエージェントへの「agentjacking」攻撃が判明──Sentryの偽エラーでClaude Codeが乗っ取られる",
+          "summary": "セキュリティ企業Tenet Securityが、SentryのパブリックAPIを悪用した1件の偽エラーレポートだけでClaude Codeを乗っ取れる「agentjacking」攻撃を実証した。攻撃者はブレーチ不要・認証不要の公開クレデンシャルを使い、エージェントが開発者の全権限でコードを実行させることに成功した。EDR・WAF・IAM・ファイアウォールのいずれも検知できず、Datadog・PagerDuty・Jiraも同様のリスクを抱えることが指摘されている。AIエージェントが企業インフラに深く統合される中、従来のセキュリティ対策では対応できない新たな脅威として緊急性が高い。",
+          "url": "https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure/",
+          "source": "VentureBeat",
+          "publishedAt": "2026-06-30"
         },
         {
-          "title": "MIT Tech Review「The Download」：すべてを数値化することの危うさ",
-          "summary": "MIT Technology Reviewのニュースレター『The Download』6月29日号は、私たちの生活を数値化することの危うさを論じた。外部の指標やデータは本当に大切なものを捉えきれず、かえって『何が重要か』という核心の感覚を作り替えてしまう、と警告する。AIが評価や意思決定を数値で最適化していく時代に、計測できるものだけを追う危うさへの注意喚起となっている。あわせて『AIと象』に関する警告的な話題も取り上げ、効率化の陰で見落とされがちな価値に目を向けている。",
-          "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-06-29"
+          "title": "サムスン・SKが総額880億ドル超を投資──韓国がAIメモリ覇権確立へ「RAMageddon」に対応",
+          "summary": "サムスン電子とSKハイニックスが合計8800億ドル超の投資を表明し、AI需要急増によるメモリ不足「RAMageddon」への対応と韓国のAIテック強国化を目指す方針を打ち出した。両社は世界のメモリチップ市場を寡占しており、この大規模投資はAIデータセンター向けHBMなどの供給制約緩和に直結する。AIモデルの大規模化に伴うメモリ需要は今後も拡大が見込まれており、韓国の国家戦略としての半導体投資は地政学的な競争優位にも影響する。米中のAIチップ覇権争いに韓国が独自ポジションで割って入る構図が鮮明になっている。",
+          "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-06-30"
         }
       ],
-      "outlook": "今日は『中国勢の実力』と『AIエージェントの新たなリスク』が際立った。MeituanはLongCat-2.0を中国製チップだけで学習してオープン公開し、輸出規制下でも最先端に迫る実力を見せた。一方、Claude Codeを正規の権限のまま乗っ取る『agentjacking』が明らかになり、エージェント運用のセキュリティが新たな急所として浮上している。雇用ではAIを積極導入する企業ほど人員が増える逆説、Googleは科学特化AIをクラウド提供と、AIの“実装と影響”が多方面で具体化してきた。能力・安全・社会への波及が同時並行で動く局面だ。",
-      "note": "本日も朝の自動配信は未稼働のため手動でキャッチアップ（PC不要のGitHub Actions版はAPIキー登録後に本稼働予定）。記事は6/29〜6/30の最新分。"
+      "outlook": "中国勢（美団・DeepSeek）による高性能オープンソースモデルと推論効率化技術の相次ぐ公開は、米国の輸出規制の実効性に疑問を投げかけつつ、グローバルなAI開発コストを押し下げる圧力を強めている。一方でAnthropicの州政府契約やagentjacking問題が示すように、AIの公共・企業インフラへの深い統合が進む中でセキュリティと政策リスクが新たな焦点として浮上している。韓国のメモリ大規模投資はAIハードウェアサプライチェーンの安定化に寄与する可能性があるが、米中対立を軸とした技術デカップリングの波は各国産業戦略に引き続き大きな影響を与えそうだ。"
     },
     {
       "date": "2026-06-29",
