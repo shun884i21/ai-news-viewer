@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-06-30T20:54:29+09:00",
+  "updatedAt": "2026-07-01T08:19:52+09:00",
   "days": [
+    {
+      "date": "2026-07-01",
+      "items": [
+        {
+          "title": "AnthropicがClaude Sonnet 5を発表——低コストでエージェントAIを加速、IPOも視野",
+          "summary": "AnthropicはIPOに向けた勢いを背景に、Claude Sonnet 5を発表した。旗艦モデルのOpusに近い性能を中価格帯で提供し、GPT-5.5やGemini Proに対抗するポジショニングだ。エージェント機能の強化と安全性の向上も盛り込まれており、コスト重視の企業開発者に広く訴求する。AI推論コストの低下競争が加速する中、Anthropicが量と質の両立を図る戦略的な価格設定として業界から注目されている。",
+          "url": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo",
+          "source": "VentureBeat",
+          "publishedAt": "2026-07-01"
+        },
+        {
+          "title": "Etchedが評価額50億ドル・受注額10億ドルを達成——NvidiaへのAIチップ対抗軸が鮮明に",
+          "summary": "AI推論チップのスタートアップEtchedが評価額50億ドルに達し、自社チップを用いた推論システムの受注契約が10億ドルを超えたと発表した。Jane StreetやTSMC関連のVCが投資家として名を連ね、資本面でも信任を得ている。Nvidiaが独占してきたAIインフラ市場に本格参入する姿勢を示す動きとして業界に衝撃を与えている。推論需要の爆発的な拡大が続く中、専用設計チップが汎用GPUに取って代わるシナリオが現実味を帯びてきた。",
+          "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-01"
+        },
+        {
+          "title": "SchneiderがCogniteを31億ドルで買収——産業AIの本格統合時代へ",
+          "summary": "エネルギー管理大手Schneider Electricが産業向けAIプラットフォームのCogniteを約31億ドルで買収すると発表した。Cogniteは石油・ガス・製造業などの重工業向けにデジタルツイン・データ統合ソリューションを提供してきた企業だ。大手インフラ企業がAIスタートアップを大型M&Aで取り込む動きは、産業AIが「試験導入」から「事業統合」フェーズに移行したことを示している。AIの活用が製造・エネルギー分野の基幹システムへ深く組み込まれていく転換点として注目される。",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSXMzd2FHNjNoTzhhZDZWU3JyN3dXNG12Q1dnNUFhSXZLMEZEdXl4eFV6bGp4YUFMUlRSVzEwRkJjOHZtTTZKUjB1Q1U0ZURxSVlxeEFLNUVKQ0RyZVRXRElBemczNlQyY054c2FGa3lpODVGSnZFaERlazBBM0VTZnZYQjZmWmV3R3Q0dXBwbFNQR19ZWXFpRmFQb1B1SlEteW1LYTZwMEVRdTNROFpJ?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-07-01"
+        },
+        {
+          "title": "DeepSeekがLLM推論を最大85%高速化するオープンソースフレームワーク「DSpark」を公開",
+          "summary": "中国のAI研究機関DeepSeekが、LLMの推論速度を最大85%向上させるとするフレームワーク「DSpark」をMITライセンスで公開した。米国が中国向けAIモデルの輸出制限を強化する地政学的緊張の中でのリリースであり、オープンソース戦略による国際的な影響力拡大を狙う動きとみられる。推論コスト削減はAIサービス普及の最大の障壁の一つであり、採用が広がれば世界的なAI開発の効率を底上げする可能性がある。中国発オープンソースが欧米企業の製品コスト競争に直接影響を与える構図が改めて浮き彫りになった。",
+          "url": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85",
+          "source": "VentureBeat",
+          "publishedAt": "2026-06-30"
+        },
+        {
+          "title": "AnthropicがClaude Scienceを発表——科学研究向けの自律型AIワークベンチ",
+          "summary": "Anthropicは製薬・バイオテック業界向けイベントでClaude Scienceを正式発表した。これはClaude Codeのソフトウェア開発支援と同様のコンセプトで、科学者がデータベース・パイプライン・ツール間を行き来せずに一つの環境で計算研究を完結できる自律型ワークベンチだ。高レベルの指示だけで意味ある研究作業を自律的に遂行できる点が特徴であり、創薬や材料科学など研究サイクルが長い分野での大幅な効率化が期待される。AIが専門的な科学ワークフローへ本格進出する象徴的な製品として、研究コミュニティから大きな関心を集めている。",
+          "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-07-01"
+        }
+      ],
+      "outlook": "AnthropicによるClaude Sonnet 5とClaude Scienceの同日発表は、コスト削減とドメイン特化という二方向でのAI拡張戦略を示しており、IPOに向けた布石として企業・研究機関双方の取り込みを図る姿が鮮明だ。Etchedの躍進とSchneiderによるCognite買収は、AIインフラ・産業統合の両面で大型マネーが動き始めたことを示し、Nvidiaへの依存脱却と重工業へのAI浸透が同時進行している。さらにDeepSeekのDSpark公開は、地政学的規制の壁を越えてオープンソースで技術的優位を確保しようとする中国勢の戦略継続を示しており、推論効率を巡るグローバルな競争はさらに激化する見通しだ。"
+    },
     {
       "date": "2026-06-30",
       "items": [
