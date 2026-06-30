@@ -42,8 +42,6 @@ jobs:
             echo "変更なし。スキップ。"
           else
             git add news.json
-            git commit -m "ニュース更新 $(TZ=Asia/Tokyo date +%Y-%m-%d)（GitHub Actions）
-
-Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>"
+            git commit -m "ニュース更新 $(TZ=Asia/Tokyo date +%Y-%m-%d)（GitHub Actions）" -m "Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>"
             git push
           fi
