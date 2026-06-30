@@ -1,0 +1,49 @@
+name: daily-ai-news
+
+# 毎朝7:03 JST（=前日22:03 UTC）にクラウドで実行。PCの電源は不要。
+on:
+  schedule:
+    - cron: "3 22 * * *"
+  workflow_dispatch: {}   # 手動実行ボタン（テスト用）
+
+permissions:
+  contents: write          # news.json をコミット/pushするため
+
+concurrency:
+  group: daily-ai-news
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install anthropic
+
+      - name: Generate news
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NEWS_MODEL: claude-sonnet-4-6
+        run: python scripts/fetch_daily_news.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "AI News Bot"
+          git config user.email "noreply@anthropic.com"
+          if git diff --quiet -- news.json; then
+            echo "変更なし。スキップ。"
+          else
+            git add news.json
+            git commit -m "ニュース更新 $(TZ=Asia/Tokyo date +%Y-%m-%d)（GitHub Actions）
+
+Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>"
+            git push
+          fi
