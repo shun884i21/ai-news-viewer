@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-01T08:19:52+09:00",
+  "updatedAt": "2026-07-02T08:21:53+09:00",
   "days": [
+    {
+      "date": "2026-07-02",
+      "items": [
+        {
+          "title": "米国がAnthropicのFable 5輸出規制を解除、グローバルアクセスを回復",
+          "summary": "米商務省は2026年6月12日に発動したAnthropicの最上位モデル「Claude Fable 5」への緊急輸出規制を撤回し、Anthropicは7月2日付けで同モデルへのグローバルアクセスを回復した。規制期間中は国外企業がアクセスできず、顧客の間では米国が「キルスイッチ」を握るリスクへの懸念が高まっていた。一方で上位モデル「Mythos」に対する規制は一部継続されており、外国企業は依然として不確実な状況に置かれている。トランプ政権のAI政策の一貫性のなさが改めて浮き彫りとなり、企業の長期計画立案を難しくしている。",
+          "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
+          "source": "VentureBeat",
+          "publishedAt": "2026-07-02"
+        },
+        {
+          "title": "AnthropicがClaude Science発表——科学研究向けの新フラッグシップ製品",
+          "summary": "Anthropicは製薬・バイオテク業界向けイベントで「Claude Science」を発表した。ソフトウェア開発向けの「Claude Code」と同様に、簡潔な高レベル指示で自律的に科学研究の作業を遂行できる製品だ。創薬や研究プロセスの自動化を狙っており、AIの産業応用が医療・科学分野に本格拡大する重要な転換点となる。同社はIPOに向けた動きも加速させており、Claude Sonnet 5の低価格リリースと合わせてエンタープライズ市場での存在感を急速に高めている。",
+          "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-07-01"
+        },
+        {
+          "title": "MetaがAIコンピュート販売のクラウドビジネス参入を計画——AWS・Google・Azureに挑戦",
+          "summary": "Metaが余剰AIコンピュートとモデルへのアクセスを外部企業に販売するクラウドインフラビジネスの構築を計画していることが明らかになった。実現すればAWS・Google Cloud・Microsoft Azureという「ビッグ3」に正面から挑む形となる。Metaは莫大なAIインフラ投資のコストを収益化する必要があり、SpaceXも同様に余剰コンピュートの収益化を模索しているなど、AI大手がクラウド事業者化するトレンドが鮮明になっている。クラウド市場の競争激化は企業の調達選択肢を広げる一方、既存プロバイダーへの圧力となる。",
+          "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-01"
+        },
+        {
+          "title": "CloudflareがAI企業にコンテンツ対価支払いを要求——9月15日までにクローラー分離を義務付け",
+          "summary": "Cloudflareは、AI企業に対して検索用クローラーとAIトレーニング・エージェント用クローラーを9月15日までに分離するよう新ポリシーを発表した。対応しなければ多数のパブリッシャーサイトでデフォルトブロックの対象となる。これはコンテンツ制作者がAI学習データの無断利用に対し対価を求める動きの一環であり、AI企業とメディア・出版業界の間の権利問題に大きな圧力をかける。Cloudflareが仲介者として業界標準のルール形成に乗り出した点で、今後の業界慣行を左右しうる重要な動きだ。",
+          "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-02"
+        },
+        {
+          "title": "NvidiaライバルのEtched、評価額50億ドル・受注10億ドル超でAIチップ市場に台頭",
+          "summary": "AIチップスタートアップのEtchedが評価額50億ドルに達し、推論特化チップ搭載システムの契約受注残が10億ドルを超えたことを発表した。Nvidiaが支配するAIアクセラレータ市場に本格参入する競合として注目を集めている。推論（インファレンス）処理に特化した設計がコスト効率で優位に立つとされており、AIモデルの大規模実運用が進む中で需要が拡大している。AI半導体市場における競争の多様化は、Nvidia依存を懸念するエンタープライズ顧客にとっても選択肢拡大を意味する。",
+          "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-01"
+        }
+      ],
+      "outlook": "今週最大のテーマはAnthropicを巡る米国の輸出規制の発動と撤回であり、AI政策の不安定さが国際的なビジネスリスクとして定着しつつある。同時にMetaのクラウド参入計画やEtchedの台頭は、AIインフラ市場の競争構造が根本的に再編されるフェーズに入ったことを示している。Cloudflareによるコンテンツ対価ルール化の動きは、AI学習データを巡る法的・商業的枠組みの整備を加速させるだろう。AnthropicのClaude ScienceやClaude Sonnet 5のリリースはIPOへの布石でもあり、今後数か月でAI主要プレーヤーの企業価値が公開市場で問われる局面が続く。"
+    },
     {
       "date": "2026-07-01",
       "items": [
