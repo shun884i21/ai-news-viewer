@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-02T08:21:53+09:00",
+  "updatedAt": "2026-07-03T08:15:56+09:00",
   "days": [
+    {
+      "date": "2026-07-03",
+      "items": [
+        {
+          "title": "AnthropicがClaudeの最強モデル「Claude Fable 5」の輸出規制解除後に世界展開を再開、Samsungとカスタムチップ交渉も",
+          "summary": "Anthropicは米商務省が2026年6月12日に発動したClaudeの輸出規制を撤回したことを受け、最上位モデル「Claude Fable 5」の全世界へのアクセスを復活させた。同時に、OpenAIがBroadcomとのカスタムチップ提携を発表した約1週間後、AnthropicはSamsungと独自AIチップの開発について交渉中であることが報じられた。AIラボが半導体の自前調達を急ぐ競争が激化しており、NVIDIAへの依存低減と推論コスト削減が主な狙いとみられる。規制解除と半導体戦略の両面でAnthropicの事業拡大が加速している。",
+          "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
+          "source": "VentureBeat",
+          "publishedAt": "2026-07-02"
+        },
+        {
+          "title": "AnthropicがClaude Scienceを発表──科学研究向けの新フラッグシップ製品",
+          "summary": "Anthropicは製薬幹部・バイオテック創業者・研究者向けイベントで「Claude Science」を正式発表した。Claude Codeがソフトウェアエンジニアリングを支援するのと同様に、簡潔な指示だけで科学研究を自律的に遂行できる設計となっている。創薬・材料科学・ゲノム研究などAIの活用余地が大きい分野をターゲットとしており、製薬・バイオ業界へのAI浸透を加速させる可能性がある。AI企業が汎用アシスタントから専門領域特化の「研究エージェント」へと戦略をシフトしていることを示す重要な動きだ。",
+          "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-07-01"
+        },
+        {
+          "title": "OpenAIが株式5%を米国政府系ファンドに提供する案を提示──AI利益の国家共有を打診",
+          "summary": "OpenAIのCEOサム・アルトマンが、同社株式の5%を米国の政府系ウェルスファンドに譲渡する案を提案したとFTが報じた。AI産業の利益を国民に還元するという議論を再燃させる動きで、政府との関係強化を通じた規制リスクの低減や、同社の営利化転換プロセスにおける政治的支持獲得が狙いとみられる。米国のAI主導権を国家レベルで制度化する布石にもなりうるため、他国の政策立案にも影響を与える可能性がある。",
+          "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-03"
+        },
+        {
+          "title": "中国Kling AIが動画生成拡大に向け20億ドルを調達──中国AI動画市場に巨額資本",
+          "summary": "中国のAI動画生成スタートアップKling AIが20億ドル（約2900億円）の資金調達を実施し、AI動画事業の拡大を加速させる方針を示した。Soraなど米国勢が先行した動画生成AI分野で、中国勢が大規模資本を投入して追い上げを図る構図が鮮明になっている。これは米中のAI技術・資本競争がテキストや画像を超えて動画・マルチモーダル分野へ本格拡大していることを示す象徴的な動きであり、グローバルなAI動画市場の競争地図を塗り替える可能性がある。",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUDhkSEVhbjV2endId3k5aWVVa0k5LXNSRHhETGpZVnVBTzZFZG5Nek55X0tQdm1ReDVsTEpxSV9kUTVPZ3JqNlZiWlpBVEQzZ1g2MlUtckF5cE12MUVfbUZZSHhReFBZaHRJd3EzeTdZdENTRnJkRkZmX25rS2hFbEllMVJIYWliRjdfMUlWT1g0TFRUb0Y1WXlDZEF4aDRYMTRPNThxZ3Z1RV9DRFJFRUFfR0g",
+          "source": "Bloomberg",
+          "publishedAt": "2026-07-03"
+        },
+        {
+          "title": "Microsoftが25億ドルのAI展開専門会社を設立──6000人規模でエンタープライズ導入を加速",
+          "summary": "Microsoftは25億ドルのコミットメントとともに、企業顧客のAI導入を専門に支援する新会社を立ち上げた。Amazon・OpenAI・Anthropicに続く動きで、AIモデル開発の次の戦場が「デプロイ（実装・定着）」にあることを示している。6000人の専任人材を動員して顧客企業のAI活用を後押しする体制は、AI投資対効果に悩む企業の課題に直接応えるものだ。AI市場のマネタイズが「モデル販売」から「導入支援・運用」へとシフトしつつある業界トレンドを加速させる。",
+          "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-02"
+        }
+      ],
+      "outlook": "今週の動向を総合すると、AIは「モデル競争」から「半導体自前調達・専門領域特化・エンタープライズ展開・国家関与」という多層的な競争フェーズへ突入していることが明確だ。AnthropicのClaude ScienceやSamsung連携は垂直統合戦略の深化を示し、OpenAIの政府ファンド提案はAIガバナンスの国家化という新局面を予感させる。中国Kling AIへの巨額調達は米中動画AI競争を激化させ、Microsoftの展開専門会社設立はAI収益化の主戦場が「実装」にあることを印象づけた。今後は輸出規制・国家資本・半導体確保・業種特化の四つの軸がAI産業の構造を規定していく可能性が高い。"
+    },
     {
       "date": "2026-07-02",
       "items": [
