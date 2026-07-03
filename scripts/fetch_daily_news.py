@@ -41,6 +41,48 @@ AI_HINTS = ("ai", "artificial intelligence", "openai", "anthropic", "claude", "g
             "agent", "chip", "data center", "datacenter")
 
 
+def norm_url(u):
+    """URLを緩く正規化して重複判定に使う（scheme/www/クエリ/末尾スラッシュを無視）。"""
+    u = (u or "").strip().lower()
+    if not u:
+        return ""
+    for pre in ("https://", "http://"):
+        if u.startswith(pre):
+            u = u[len(pre):]
+            break
+    if u.startswith("www."):
+        u = u[4:]
+    u = u.split("#", 1)[0].split("?", 1)[0]
+    return u.rstrip("/")
+
+
+def published_history(days_back=7):
+    """過去に配信済みの記事を返す。
+    - seen_urls: 全期間の既出URL(正規化)の集合 → プールの機械的な重複除外に使う
+    - recent: 直近 days_back 日ぶんの (date, title) → モデルへの「再掲禁止リスト」に使う
+    """
+    try:
+        with open(NEWS_PATH, encoding="utf-8") as f:
+            news = json.load(f)
+    except Exception:
+        return set(), []
+    seen_urls = set()
+    for d in news.get("days", []):
+        if d.get("sample"):
+            continue
+        for it in d.get("items", []):
+            u = norm_url(it.get("url", ""))
+            if u:
+                seen_urls.add(u)
+    recent = []
+    ordered = sorted((x for x in news.get("days", []) if not x.get("sample")),
+                     key=lambda x: x.get("date", ""), reverse=True)
+    for d in ordered[:days_back]:
+        for it in d.get("items", []):
+            recent.append((d.get("date", ""), it.get("title", "")))
+    return seen_urls, recent
+
+
 def strip_html(text):
     out, depth = [], 0
     for ch in text:
@@ -126,21 +168,29 @@ def gather():
     return pool
 
 
-def curate(pool, today):
+def curate(pool, today, recent=None):
     """Claude API に候補を渡して 5本＋展望のJSONを作らせる。"""
     client = anthropic.Anthropic()
     catalog = "\n".join(
         f"- [{p['source']}] {p['title']} ({p['publishedAt'] or '日付不明'})\n  url: {p['url']}\n  snippet: {p['snippet']}"
         for p in pool
     )
+    recent_block = "\n".join(f"- ({d}) {t}" for d, t in (recent or [])) or "（なし）"
     prompt = f"""あなたはAIニュースのキュレーターです。本日は {today} です。
 以下はThe Verge / TechCrunch / VentureBeat / MIT Technology Review / Bloomberg のRSSから集めた候補記事です。
 この中から、本日付近で最も重要なAIニュースを最大5本選び、日本語でまとめてください。
 
+# 【最重要】重複禁止
+次のリストは直近の配信で既に取り上げ済みのニュースです。同じ出来事・同じ発表は、URLや見出しの表現が違っても絶対に再掲しないでください。既出の続報を扱う場合は、新しい進展がある場合に限り、その新展開に絞って書くこと（前回と同じ内容の焼き直しは不可）。
+--- 既出リスト（直近の配信済み見出し）---
+{recent_block}
+--- 既出リストここまで ---
+
 # 選定方針
 - 実行日（{today}）付近の最新記事を優先。古い記事・まとめ記事・薄い記事は避ける。
+- 上記「既出リスト」と実質的に同じニュースは選ばない。新しいニュースだけで構成する。
 - 業界横断（新モデル/企業・資金/規制・政策/研究 等）でインパクト順。媒体が偏らないよう努める。
-- 候補が乏しい場合は無理に5本にせず、拾える本数だけにする。
+- 候補が乏しい場合は無理に5本にせず、拾える本数だけにする（既出の重複で埋めない）。
 
 # 各記事の要約
 - 日本語4〜6文・180〜280字。何が起きたかだけでなく背景・なぜ重要か・影響まで含め、読まなくても要点が掴める詳しさにする。
@@ -195,7 +245,13 @@ def main():
     pool = gather()
     if not pool:
         raise SystemExit("[error] 候補記事が0件。RSS取得に失敗した可能性。")
-    data = curate(pool, today)
+    # 過去に配信済みの記事をプールから機械的に除外（同じニュースの複数日掲載を防ぐ）
+    seen_urls, recent = published_history()
+    fresh = [p for p in pool if norm_url(p["url"]) not in seen_urls]
+    print(f"[info] 重複除外: {len(pool)}→{len(fresh)}件（既出 {len(seen_urls)}URL）", file=sys.stderr)
+    # 全て既出になった場合のみ、元プールに戻す（モデル側の再掲禁止指示で最終的に重複を避ける）
+    pool = fresh if fresh else pool
+    data = curate(pool, today, recent)
     day_entry = {
         "date": today,
         "items": data["items"][:5],

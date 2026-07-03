@@ -5,20 +5,6 @@
       "date": "2026-07-03",
       "items": [
         {
-          "title": "AnthropicがClaudeの最強モデル「Claude Fable 5」の輸出規制解除後に世界展開を再開、Samsungとカスタムチップ交渉も",
-          "summary": "Anthropicは米商務省が2026年6月12日に発動したClaudeの輸出規制を撤回したことを受け、最上位モデル「Claude Fable 5」の全世界へのアクセスを復活させた。同時に、OpenAIがBroadcomとのカスタムチップ提携を発表した約1週間後、AnthropicはSamsungと独自AIチップの開発について交渉中であることが報じられた。AIラボが半導体の自前調達を急ぐ競争が激化しており、NVIDIAへの依存低減と推論コスト削減が主な狙いとみられる。規制解除と半導体戦略の両面でAnthropicの事業拡大が加速している。",
-          "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
-          "source": "VentureBeat",
-          "publishedAt": "2026-07-02"
-        },
-        {
-          "title": "AnthropicがClaude Scienceを発表──科学研究向けの新フラッグシップ製品",
-          "summary": "Anthropicは製薬幹部・バイオテック創業者・研究者向けイベントで「Claude Science」を正式発表した。Claude Codeがソフトウェアエンジニアリングを支援するのと同様に、簡潔な指示だけで科学研究を自律的に遂行できる設計となっている。創薬・材料科学・ゲノム研究などAIの活用余地が大きい分野をターゲットとしており、製薬・バイオ業界へのAI浸透を加速させる可能性がある。AI企業が汎用アシスタントから専門領域特化の「研究エージェント」へと戦略をシフトしていることを示す重要な動きだ。",
-          "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-07-01"
-        },
-        {
           "title": "OpenAIが株式5%を米国政府系ファンドに提供する案を提示──AI利益の国家共有を打診",
           "summary": "OpenAIのCEOサム・アルトマンが、同社株式の5%を米国の政府系ウェルスファンドに譲渡する案を提案したとFTが報じた。AI産業の利益を国民に還元するという議論を再燃させる動きで、政府との関係強化を通じた規制リスクの低減や、同社の営利化転換プロセスにおける政治的支持獲得が狙いとみられる。米国のAI主導権を国家レベルで制度化する布石にもなりうるため、他国の政策立案にも影響を与える可能性がある。",
           "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
@@ -53,13 +39,6 @@
           "publishedAt": "2026-07-02"
         },
         {
-          "title": "AnthropicがClaude Science発表——科学研究向けの新フラッグシップ製品",
-          "summary": "Anthropicは製薬・バイオテク業界向けイベントで「Claude Science」を発表した。ソフトウェア開発向けの「Claude Code」と同様に、簡潔な高レベル指示で自律的に科学研究の作業を遂行できる製品だ。創薬や研究プロセスの自動化を狙っており、AIの産業応用が医療・科学分野に本格拡大する重要な転換点となる。同社はIPOに向けた動きも加速させており、Claude Sonnet 5の低価格リリースと合わせてエンタープライズ市場での存在感を急速に高めている。",
-          "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-07-01"
-        },
-        {
           "title": "MetaがAIコンピュート販売のクラウドビジネス参入を計画——AWS・Google・Azureに挑戦",
           "summary": "Metaが余剰AIコンピュートとモデルへのアクセスを外部企業に販売するクラウドインフラビジネスの構築を計画していることが明らかになった。実現すればAWS・Google Cloud・Microsoft Azureという「ビッグ3」に正面から挑む形となる。Metaは莫大なAIインフラ投資のコストを収益化する必要があり、SpaceXも同様に余剰コンピュートの収益化を模索しているなど、AI大手がクラウド事業者化するトレンドが鮮明になっている。クラウド市場の競争激化は企業の調達選択肢を広げる一方、既存プロバイダーへの圧力となる。",
           "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
@@ -72,13 +51,6 @@
           "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
           "source": "TechCrunch",
           "publishedAt": "2026-07-02"
-        },
-        {
-          "title": "NvidiaライバルのEtched、評価額50億ドル・受注10億ドル超でAIチップ市場に台頭",
-          "summary": "AIチップスタートアップのEtchedが評価額50億ドルに達し、推論特化チップ搭載システムの契約受注残が10億ドルを超えたことを発表した。Nvidiaが支配するAIアクセラレータ市場に本格参入する競合として注目を集めている。推論（インファレンス）処理に特化した設計がコスト効率で優位に立つとされており、AIモデルの大規模実運用が進む中で需要が拡大している。AI半導体市場における競争の多様化は、Nvidia依存を懸念するエンタープライズ顧客にとっても選択肢拡大を意味する。",
-          "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-          "source": "TechCrunch",
-          "publishedAt": "2026-07-01"
         }
       ],
       "outlook": "今週最大のテーマはAnthropicを巡る米国の輸出規制の発動と撤回であり、AI政策の不安定さが国際的なビジネスリスクとして定着しつつある。同時にMetaのクラウド参入計画やEtchedの台頭は、AIインフラ市場の競争構造が根本的に再編されるフェーズに入ったことを示している。Cloudflareによるコンテンツ対価ルール化の動きは、AI学習データを巡る法的・商業的枠組みの整備を加速させるだろう。AnthropicのClaude ScienceやClaude Sonnet 5のリリースはIPOへの布石でもあり、今後数か月でAI主要プレーヤーの企業価値が公開市場で問われる局面が続く。"
@@ -106,13 +78,6 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSXMzd2FHNjNoTzhhZDZWU3JyN3dXNG12Q1dnNUFhSXZLMEZEdXl4eFV6bGp4YUFMUlRSVzEwRkJjOHZtTTZKUjB1Q1U0ZURxSVlxeEFLNUVKQ0RyZVRXRElBemczNlQyY054c2FGa3lpODVGSnZFaERlazBBM0VTZnZYQjZmWmV3R3Q0dXBwbFNQR19ZWXFpRmFQb1B1SlEteW1LYTZwMEVRdTNROFpJ?oc=5",
           "source": "Bloomberg",
           "publishedAt": "2026-07-01"
-        },
-        {
-          "title": "DeepSeekがLLM推論を最大85%高速化するオープンソースフレームワーク「DSpark」を公開",
-          "summary": "中国のAI研究機関DeepSeekが、LLMの推論速度を最大85%向上させるとするフレームワーク「DSpark」をMITライセンスで公開した。米国が中国向けAIモデルの輸出制限を強化する地政学的緊張の中でのリリースであり、オープンソース戦略による国際的な影響力拡大を狙う動きとみられる。推論コスト削減はAIサービス普及の最大の障壁の一つであり、採用が広がれば世界的なAI開発の効率を底上げする可能性がある。中国発オープンソースが欧米企業の製品コスト競争に直接影響を与える構図が改めて浮き彫りになった。",
-          "url": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85",
-          "source": "VentureBeat",
-          "publishedAt": "2026-06-30"
         },
         {
           "title": "AnthropicがClaude Scienceを発表——科学研究向けの自律型AIワークベンチ",
