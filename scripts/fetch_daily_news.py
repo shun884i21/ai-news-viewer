@@ -26,13 +26,19 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NEWS_PATH = os.path.join(ROOT, "news.json")
 MODEL = os.environ.get("NEWS_MODEL", "claude-sonnet-4-6")
 
-# 5媒体のRSS。BloombergはRSSが弱いのでGoogleニュース経由で site 絞り込み。
+# 主要テックメディアのRSS。BloombergとReutersはRSSが弱い/無いのでGoogleニュース経由で site 絞り込み。
+# 毎日5本を安定して確保するため候補元を広く取る（重複除外後も5本残るように）。
 FEEDS = [
     ("TechCrunch", "https://techcrunch.com/category/artificial-intelligence/feed/"),
     ("The Verge", "https://www.theverge.com/rss/index.xml"),
     ("VentureBeat", "https://venturebeat.com/feed/"),
     ("MIT Technology Review", "https://www.technologyreview.com/feed/"),
     ("Bloomberg", "https://news.google.com/rss/search?q=AI%20site:bloomberg.com%20when:3d&hl=en-US&gl=US&ceid=US:en"),
+    ("Ars Technica", "https://arstechnica.com/ai/feed/"),
+    ("The Register", "https://www.theregister.com/headlines.atom"),
+    ("Wired", "https://www.wired.com/feed/tag/ai/latest/rss"),
+    ("ZDNET", "https://www.zdnet.com/topic/artificial-intelligence/rss.xml"),
+    ("Reuters", "https://news.google.com/rss/search?q=AI%20site:reuters.com%20when:3d&hl=en-US&gl=US&ceid=US:en"),
 ]
 
 # AI関連かどうかのゆるいフィルタ（The Verge等は全ジャンル混在のため）
@@ -155,9 +161,9 @@ def parse_feed(source, url, days=4):
             "title": title,
             "url": link.strip(),
             "publishedAt": (dt.astimezone(JST).strftime("%Y-%m-%d") if dt else ""),
-            "snippet": desc[:400],
+            "snippet": desc[:300],
         })
-    return items[:12]
+    return items[:8]
 
 
 def gather():
@@ -177,8 +183,8 @@ def curate(pool, today, recent=None):
     )
     recent_block = "\n".join(f"- ({d}) {t}" for d, t in (recent or [])) or "（なし）"
     prompt = f"""あなたはAIニュースのキュレーターです。本日は {today} です。
-以下はThe Verge / TechCrunch / VentureBeat / MIT Technology Review / Bloomberg のRSSから集めた候補記事です。
-この中から、本日付近で最も重要なAIニュースを最大5本選び、日本語でまとめてください。
+以下は主要テックメディア（TechCrunch / The Verge / VentureBeat / MIT Technology Review / Bloomberg / Ars Technica / The Register / Wired / ZDNET / Reuters）のRSSから集めた候補記事です。
+この中から、本日付近で重要なAIニュースを**必ず5本ちょうど**選び、日本語でまとめてください。
 
 # 【最重要】重複禁止
 次のリストは直近の配信で既に取り上げ済みのニュースです。同じ出来事・同じ発表は、URLや見出しの表現が違っても絶対に再掲しないでください。既出の続報を扱う場合は、新しい進展がある場合に限り、その新展開に絞って書くこと（前回と同じ内容の焼き直しは不可）。
@@ -190,7 +196,9 @@ def curate(pool, today, recent=None):
 - 実行日（{today}）付近の最新記事を優先。古い記事・まとめ記事・薄い記事は避ける。
 - 上記「既出リスト」と実質的に同じニュースは選ばない。新しいニュースだけで構成する。
 - 業界横断（新モデル/企業・資金/規制・政策/研究 等）でインパクト順。媒体が偏らないよう努める。
-- 候補が乏しい場合は無理に5本にせず、拾える本数だけにする（既出の重複で埋めない）。
+- **必ず5本そろえること。** 突出した大ニュースが5本に満たない日は、候補の中から未報道（既出リストに無い）の注目度の高いAI記事で残り枠を埋め、5本にする。多少地味でも、数日内の新しい話題であればよい。
+- ただし5本を埋めるために既出ニュースを再掲するのは厳禁。重複よりは内容の幅（別テーマ・別媒体）でカバーする。
+- 候補の総数がどうしても5本に満たない極端な場合のみ、拾える本数だけにしてよい（その旨をnoteに書く）。
 
 # 各記事の要約
 - 日本語4〜6文・180〜280字。何が起きたかだけでなく背景・なぜ重要か・影響まで含め、読まなくても要点が掴める詳しさにする。
