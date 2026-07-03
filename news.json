@@ -1,32 +1,46 @@
 {
-  "updatedAt": "2026-07-03T08:15:56+09:00",
+  "updatedAt": "2026-07-03T23:59:29+09:00",
   "days": [
     {
       "date": "2026-07-03",
       "items": [
         {
-          "title": "OpenAIが株式5%を米国政府系ファンドに提供する案を提示──AI利益の国家共有を打診",
-          "summary": "OpenAIのCEOサム・アルトマンが、同社株式の5%を米国の政府系ウェルスファンドに譲渡する案を提案したとFTが報じた。AI産業の利益を国民に還元するという議論を再燃させる動きで、政府との関係強化を通じた規制リスクの低減や、同社の営利化転換プロセスにおける政治的支持獲得が狙いとみられる。米国のAI主導権を国家レベルで制度化する布石にもなりうるため、他国の政策立案にも影響を与える可能性がある。",
-          "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+          "title": "MarkザッカーバーグがAIエージェント開発の遅れを社内で認める──Metaの計画に黄信号",
+          "summary": "Metaのマーク・ザッカーバーグCEOが社内会議で、AIエージェント技術の進捗が当初の期待よりも遅れていると率直に認めた。Metaは仮想AIチームメイトや自律エージェントの展開を主要戦略に位置付けていただけに、トップ自らが修正を認めたことは業界全体への重要なシグナルとなる。エージェントAIへの過大な期待が漂う中、現実との乖離が表面化したかたちであり、競合他社の戦略にも影響を与えかねない。Metaの次の一手として、エージェント開発のロードマップ見直しが焦点になりそうだ。",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
           "source": "TechCrunch",
           "publishedAt": "2026-07-03"
         },
         {
-          "title": "中国Kling AIが動画生成拡大に向け20億ドルを調達──中国AI動画市場に巨額資本",
-          "summary": "中国のAI動画生成スタートアップKling AIが20億ドル（約2900億円）の資金調達を実施し、AI動画事業の拡大を加速させる方針を示した。Soraなど米国勢が先行した動画生成AI分野で、中国勢が大規模資本を投入して追い上げを図る構図が鮮明になっている。これは米中のAI技術・資本競争がテキストや画像を超えて動画・マルチモーダル分野へ本格拡大していることを示す象徴的な動きであり、グローバルなAI動画市場の競争地図を塗り替える可能性がある。",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUDhkSEVhbjV2endId3k5aWVVa0k5LXNSRHhETGpZVnVBTzZFZG5Nek55X0tQdm1ReDVsTEpxSV9kUTVPZ3JqNlZiWlpBVEQzZ1g2MlUtckF5cE12MUVfbUZZSHhReFBZaHRJd3EzeTdZdENTRnJkRkZmX25rS2hFbEllMVJIYWliRjdfMUlWT1g0TFRUb0Y1WXlDZEF4aDRYMTRPNThxZ3Z1RV9DRFJFRUFfR0g",
-          "source": "Bloomberg",
+          "title": "AnthropicがSamsungと独自AIチップ開発を協議中──OpenAIのBroadcom提携に対抗",
+          "summary": "AnthropicがSamsungと新たなカスタムAIチップの開発について協議を進めていることが明らかになった。OpenAIがBroadcomとの提携で独自チップ「Jalapeño」を発表してから約1週間というタイミングであり、主要AIラボが軒並み自社シリコン確保へ動く流れが加速している。Anthropicにとってはクラウドプロバイダーへの依存を減らし、推論コストを下げる戦略的意義が大きい。Samsungはメモリ分野での強みをロジックチップに展開する足がかりにもなり、韓国半導体産業にとっても重要な契約になり得る。",
+          "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+          "source": "TechCrunch",
           "publishedAt": "2026-07-03"
         },
         {
-          "title": "Microsoftが25億ドルのAI展開専門会社を設立──6000人規模でエンタープライズ導入を加速",
-          "summary": "Microsoftは25億ドルのコミットメントとともに、企業顧客のAI導入を専門に支援する新会社を立ち上げた。Amazon・OpenAI・Anthropicに続く動きで、AIモデル開発の次の戦場が「デプロイ（実装・定着）」にあることを示している。6000人の専任人材を動員して顧客企業のAI活用を後押しする体制は、AI投資対効果に悩む企業の課題に直接応えるものだ。AI市場のマネタイズが「モデル販売」から「導入支援・運用」へとシフトしつつある業界トレンドを加速させる。",
-          "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-          "source": "TechCrunch",
+          "title": "GoogleのAI投資が電力使用量を2025年に37%増加させた──データセンターの環境負荷が深刻化",
+          "summary": "Googleが2025年の環境報告書で、AI関連データセンターの拡張により電力使用量が前年比37%増加したことを公表した。同社はクリーンエネルギー調達の努力を強調しているが、AI学習・推論の電力需要増が再生可能エネルギーの供給を上回るペースで拡大していることが浮き彫りになった。AI大手の中でも最大規模の電力消費増を示すデータであり、規制当局や投資家からの環境負荷への圧力がさらに高まる可能性がある。Microsoftやアマゾンなど他社の同様の開示にも注目が集まりそうだ。",
+          "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
+          "source": "Ars Technica",
           "publishedAt": "2026-07-02"
+        },
+        {
+          "title": "AlibabがClaude Codeの社員利用を禁止──Anthropicとの対立が新局面へ",
+          "summary": "アリババが社員に対してAnthropicのAIコーディングツール「Claude Code」の利用を禁止する方針を決定したと、関係者がReutersに語った。両社は先月、AnthropicがAlibabaによる「不正な蒸留攻撃」を告発したばかりであり、今回の禁止令は対立が実務レベルにまで波及したことを意味する。中国最大のテック企業がAnthropicのツールを締め出すことで、AIコーディング市場における中国・欧米間の分断が一段と鮮明になる。また、ZhipuのZCodeなど中国産代替ツールへの需要が高まる可能性もある。",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1ozV1JIcjJDWWRCZGZZZUN0Z0p4dHVpMkw3eXBWMF9EMlJOemlKSEg1WVRjV2I5VklmMGFFT3FLblVuTEtKa3dYUXctSmpMS0tQdzJhbmhGTEVlRjhHSWdrUUlXZXJydTN2Q3JQTXRSWUVzVkh5TThmaEtVZURBMzdFTHFHaWI0UE43aUw1QS1vbXRoS3BmRUQ0bExHZ0hDQzRmc09kSkxlNUVDOGxNRXctN2dWWGwtX21DSnN3?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-07-03"
+        },
+        {
+          "title": "AIコストの請求体系が経営幹部を混乱させる──KPMG調査で3分の1が「理解困難」と回答",
+          "summary": "KPMGの最新調査により、AIサービスが従量課金制（使用量ベース）に移行したことで、企業の経営幹部の約3分の1がコスト構造を正確に把握できていないことが明らかになった。固定ライセンスと異なり、エージェントが自律的にAPIを呼び出すと想定外の高額請求が発生するケースが増えており、AI投資のROI評価自体が困難になっている。企業がAI展開を拡大するほどコスト管理の複雑さが増すというジレンマは、AI導入加速の潜在的な障壁になりかねない。FinOps（財務運用）のAI版として新たなガバナンス体制の整備を求める声が高まっている。",
+          "url": "https://www.theregister.com/ai-and-ml/2026/07/03/ai-bills-are-baffling-the-c-suite-after-shift-to-usage-based-pricing/5266383",
+          "source": "The Register",
+          "publishedAt": "2026-07-03"
         }
       ],
-      "outlook": "今週の動向を総合すると、AIは「モデル競争」から「半導体自前調達・専門領域特化・エンタープライズ展開・国家関与」という多層的な競争フェーズへ突入していることが明確だ。AnthropicのClaude ScienceやSamsung連携は垂直統合戦略の深化を示し、OpenAIの政府ファンド提案はAIガバナンスの国家化という新局面を予感させる。中国Kling AIへの巨額調達は米中動画AI競争を激化させ、Microsoftの展開専門会社設立はAI収益化の主戦場が「実装」にあることを印象づけた。今後は輸出規制・国家資本・半導体確保・業種特化の四つの軸がAI産業の構造を規定していく可能性が高い。"
+      "outlook": "今週のニュースを総合すると、AIエージェントへの期待と現実の乖離（ザッカーバーグ発言）、米中テック対立の深化（Alibaba禁止令）、独自シリコン争奪（Anthropic×Samsung）、電力・コストという持続可能性の課題（Google電力増・KPMG調査）という四つの軸が同時に浮上している。AIブームの「第二フェーズ」として、単なる技術開発競争から、インフラ確保・ガバナンス・地政学的分断という複合的な課題への対処が焦点に移りつつある。今後は各社のチップ戦略の具体化、AIコスト管理ツールの台頭、そして米中間のAIツール利用制限がどこまで広がるかが注目点となる。"
     },
     {
       "date": "2026-07-02",
