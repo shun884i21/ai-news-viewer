@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-03T23:59:29+09:00",
+  "updatedAt": "2026-07-04T08:12:54+09:00",
   "days": [
+    {
+      "date": "2026-07-04",
+      "items": [
+        {
+          "title": "OpenAIがトランプ政権に米国政府ファンドへの株式5%提供を提案——公共利益との共存を模索",
+          "summary": "OpenAIのサム・アルトマンCEOが、米国の主権富裕ファンド（ソブリン・ウェルス・ファンド）に対して同社株式の5%を提供する案をトランプ政権に提示したことが報じられた。AIブームの利益を一般市民が享受できる仕組みの構築が狙いで、政権との関係強化も図る。ただしバーニー・サンダース上院議員らが要求していた比率を大幅に下回るとの批判もある。OpenAIが非営利から営利転換を進める中、政府との資本関係を深めることで規制リスクを低減しつつ事業拡大を図る戦略と見られ、業界全体の官民連携モデルに先例を作る可能性がある。",
+          "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-07-03"
+        },
+        {
+          "title": "MicrosoftがAI導入専門会社を新設——25億ドルを投じてAWS・Google・OpenAIに対抗",
+          "summary": "Microsoftは25億ドルのコミットメントを伴うAI導入支援専門子会社を新設した。企業がAIシステムを実装・運用する際の伴走支援に特化した組織で、AmazonやOpenAI、Anthropicが類似のAI展開部門を立ち上げている動きに対抗する。AI開発競争がモデル提供から「企業への実装支援」へと主戦場が移行しつつあることを示す動きであり、クラウド大手がコンサルティング機能を内製化することでシステムインテグレーターを圧迫する懸念も指摘されている。日本企業を含むグローバル顧客への影響も大きく注目される。",
+          "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-02"
+        },
+        {
+          "title": "アリババ・テンセントがKuaishouのKling AIに20億ドル出資——中国AI動画生成が大型資金調達",
+          "summary": "中国動画プラットフォームKuaishou（快手）傘下のAI動画生成サービス「Kling AI」が、アリババとテンセントを含む投資家から総額20億ドルの資金調達を完了した。Kling AIは高品質な動画生成技術で急成長しており、OpenAIのSoraやGoogleのVeoに対抗する中国勢の主力となっている。中国テック大手2社が競合に見えるKuaishouへ共同出資するのは異例で、国内AI産業の競争力強化を優先した判断と見られる。米国の輸出規制が続く中、中国勢が動画生成AIで独自エコシステムを確立しようとする動きが加速している。",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUDhkSEVhbjV2endId3k5aWVVa0k5LXNSRHhETGpZVnVBTzZFZG5Nek55X0tQdm1ReDVsTEpxSV9kUTVPZ3JqNlZiWlpBVEQzZ1g2MlUtckF5cE12MUVfbUZZSHhReFBZaHRJd3EzeTdZdENTRnJkRkZmX25rS2hFbEllMVJIYWliRjdfMUlWT1g4TFRUb0Y5WXlDZEF4aDRYMTRPNThxZ3Z1RV9DRFJFRUFfR0g?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-07-03"
+        },
+        {
+          "title": "Google DeepMindで組合結成交渉が暗礁——経営陣の対話姿勢に従業員が不満",
+          "summary": "Google DeepMindの従業員による組合結成に向けた交渉が難航していることがWiredの報道で明らかになった。7月2日に行われた交渉で従業員側は、経営幹部が組合化の議論に実質的に応じていないと批判した。AIブームを支える研究者・エンジニアの労働環境や安全性に関する懸念が背景にあり、Googleが急速に拡大するAI事業を推進する中で内部のガバナンス問題が表面化した形だ。テック大手でのAI関連労使問題は今後の業界規範形成にも影響を与えうる動向として注目される。",
+          "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+          "source": "Wired",
+          "publishedAt": "2026-07-04"
+        },
+        {
+          "title": "Claudeがハッカーによるライブコンサートチケットの不正発行を支援——セキュリティ研究者が脆弱性を実証",
+          "summary": "セキュリティ研究者がAnthropicのClaude Opus 4.7を使い、ロラパルーザやボナルーなどほぼ全ての米国主要音楽フェスのチケット発行システム「Front Gate」への侵入に成功し、任意のチケットを無制限に発行できる脆弱性を発見したとWiredが報じた。AIが高度なサイバー攻撃の実行支援ツールとして機能することを実証した事例として業界に衝撃を与えた。Anthropicはモデルの悪用防止策を講じているとするが、攻撃的なセキュリティ研究にLLMが利用される事例が相次いでおり、AIアシスト型サイバー犯罪への対策強化が急務となっている。",
+          "url": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
+          "source": "Wired",
+          "publishedAt": "2026-07-01"
+        }
+      ],
+      "outlook": "OpenAIの政府ファンドへの株式提供提案やMicrosoftのAI導入専門会社設立が示すように、AI産業は技術競争から「政府・社会との資本的関係構築」および「企業実装支援」の段階へと軸足を移しつつある。中国勢はKling AIへの大型投資など国内エコシステム強化を加速しており、米中のAI産業構造がそれぞれ異なるモデルで成熟していく展開が予想される。一方でGoogle DeepMindの組合問題やClaudeを悪用したチケット不正発行事案は、AIガバナンスと安全性の課題が企業内外で同時に噴出していることを示しており、技術の普及スピードに制度・倫理整備が追いつくかが今後の最大の焦点となる。"
+    },
     {
       "date": "2026-07-03",
       "items": [
