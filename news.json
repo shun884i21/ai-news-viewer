@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-04T08:12:54+09:00",
+  "updatedAt": "2026-07-05T08:04:43+09:00",
   "days": [
+    {
+      "date": "2026-07-05",
+      "items": [
+        {
+          "title": "Fable 5がAIフリーランス業務で新記録達成——人間代替にはまだ壁も",
+          "summary": "Anthropicの最上位モデルFable 5が、フリーランス業務の自動化性能で新たなベンチマーク記録を樹立したとZDNetが報じた。輸出規制解除後に再びグローバル展開されたFable 5は、文書作成・コーディング・調査などの実務タスクで他モデルを圧倒した。一方でZDNetは「完全な人間代替にはまだ至っていない」と評価しており、複雑な判断や対人業務では限界も示された。AIの実用能力が急速に向上する中、ホワイトカラー職への影響が改めて注目される。",
+          "url": "https://www.zdnet.com/article/anthropic-fable-5-freelance-work-performance-record/",
+          "source": "ZDNET",
+          "publishedAt": "2026-07-03"
+        },
+        {
+          "title": "NvidiaがAIスタートアップ向けに収益分配モデルを提供——GPU調達の新スキームで生態系拡張",
+          "summary": "NvidiaがAI新興企業に対し、GPU購入費用の一部を将来の収益から支払う「レベニューシェアモデル」を提供し始めたとBloombergが報じた。初期投資負担が重いスタートアップがGPUリソースにアクセスしやすくなり、Nvidiaのエコシステム拡大と顧客囲い込みを同時に狙う戦略とみられる。AI投資の裾野を広げることでクラウド大手に対する優位性を維持しつつ、次世代AIユニコーンの育成にも貢献する可能性がある。GPU供給を軸に金融サービスも提供するNvidiaの新たな事業モデルとして業界の関心を集めている。",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUNmYklncm5DdGlsa1ZrNE1wczZXUlRKSEcwVFQ3T2hubGVWZDdBcllXcE5UNG9FeldSQjdvSUMzazUtNF80dUJ3N3M5VTYxVkdZZlhpc2VfTWhEdF9URHQ4T3lSQWdRaUxyNXJsTDBTYTNIQXRKcVBXcnd6SHNuMFhSRkxNVVF6TUd0cWZQUVNTdTBxd25ocXBvSC03LUk5WjdWallqQ1hCVE5ENlRwdA?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-07-02"
+        },
+        {
+          "title": "SoftBankが米国でAIクラウドサービス展開を計画——急増需要を取り込む新事業",
+          "summary": "SoftBankが米国市場でAIクラウドサービスの提供を計画していることをBloombergが報じた。ARM買収や各種AI投資で存在感を高めてきたSoftBankが、インフラ提供側として本格参入することで、AWS・Azure・Google Cloudなど既存大手との競争が激化する見通しだ。孫正義氏が主導するAI投資戦略の延長線上にある動きであり、データセンター需要の急騰を直接取り込む狙いがある。日本発の投資企業がクラウドインフラ事業にまで踏み込む異例の展開として注目される。",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQi1uZ0dCaU5ncWdDU2F6ZmU0cjJhY0VnOWZlVUxJWFZnVEtyS3J0b2JFSnhSN1VzanRPekhXXzh2V3hHWjN2MlVxNHN5dk9SUU5IZlRWZm1HYkgzTFA2MXh5akJOUS14NHduWXpHQ1BMT3ZBVy1Lbld2WkNGWW5uNTFJdHpyZjhGQ0hOVDF0OVhBdExRX3drbFh1RWFLa1NYeUhYQVBBSEZtLTJXWHFhcjFDWUh2cm42ZVd2WTFn?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-07-02"
+        },
+        {
+          "title": "Palo AltoのAIレポートが誤った中国スパイ疑惑を生成——スタートアップが提訴",
+          "summary": "セキュリティ企業Palo Alto Networksの子会社Koi Securityが作成したAI生成のセキュリティレポートが、会議管理スタートアップMeetingTVを中国スパイ活動と誤って関連付けたとしてMeetingTVが提訴したとThe Registerが報じた。AIの「ハルシネーション（幻覚）」が実際のビジネス被害を生じさせた訴訟事例として注目される。AI生成コンテンツの信頼性と企業の法的責任に関する問いを提起しており、セキュリティ分野でのAI活用リスクを浮き彫りにする。判決次第ではAI生成レポートの取り扱いに業界全体で見直しを迫る先例になりうる。",
+          "url": "https://www.theregister.com/legal/2026/07/02/startup-sues-palo-alto-networks-koi-security-saying-an-ai-hallucinated-report-falsely-linked-it-to-chinese-espionage/5266201",
+          "source": "The Register",
+          "publishedAt": "2026-07-03"
+        },
+        {
+          "title": "SpaceXに買収後もCursorはOpenAI・Anthropicモデルを提供継続できるか——AIラボとの関係が試練に",
+          "summary": "SpaceXによる買収が進むAIコーディングツールCursorが、OpenAIやAnthropicなどサードパーティモデルの提供を今後も継続できるかどうかが焦点となっているとWiredが報じた。SpaceXの親会社Xが競合するGrokを持つことから、OpenAI・Anthropicとの契約関係に摩擦が生じる可能性がある。AIコーディング市場では事実上の標準プラットフォームとなりつつあるCursorが、買収後にオープン性を維持できるかは開発者コミュニティにとって重大な関心事だ。AI企業間の提携と競争が複雑に絡み合う業界構造の断面を示す事例として注目される。",
+          "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+          "source": "Wired",
+          "publishedAt": "2026-07-03"
+        }
+      ],
+      "outlook": "Fable 5の業務自動化記録やNvidiaの収益分配モデルが示すように、AIの実用化と資金調達エコシステムの整備が同時進行している。SoftBankのクラウド参入はインフラ競争をさらに激化させ、Cursor買収問題はAIプラットフォームの「オープン性」という新たな競争軸を浮上させた。一方でPalo Alto子会社の誤報訴訟は、AI生成コンテンツの法的リスクが無視できない段階に入ったことを示しており、今後は技術性能と同等以上にガバナンスや責任体制の整備が業界の課題となりそうだ。"
+    },
     {
       "date": "2026-07-04",
       "items": [
