@@ -14,6 +14,14 @@ function fmtDate(iso) {
 const extLink = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 4h6v6M20 4l-9 9M19 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h5"/></svg>`;
 const scope = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l18-5-7 16-3-7-8-4z"/></svg>`;
 
+// 媒体名から一貫した色相を決める（全媒体に固有色を自動付与）。読みやすい範囲の彩度・明度に固定。
+function sourceColor(name) {
+  const s = String(name || "");
+  let h = 0;
+  for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) % 360;
+  return `hsl(${h} 70% 62%)`;
+}
+
 let DATA = { days: [] };
 let query = "";
 let favOnly = false;
@@ -35,16 +43,21 @@ function matches(it) {
   return query.toLowerCase().split(/\s+/).filter(Boolean).every((t) => hay.includes(t));
 }
 
-function itemCard(date, it) {
+function itemCard(date, it, idx) {
   const key = favKey(date, it);
   const on = favs.has(key);
+  const sc = sourceColor(it.source);
+  const rank = Number.isInteger(idx) ? `<span class="rank">${idx + 1}</span>` : "";
   const link = it.url
     ? `<a class="read" href="${esc(it.url)}" target="_blank" rel="noopener">元記事を読む ${extLink}</a>`
     : "";
   return `
-    <article class="card">
+    <article class="card${idx === 0 ? " lead" : ""}" style="--sc:${sc}">
       <div class="meta">
-        <span class="src">${esc(it.source || "ニュース")}</span>
+        <span class="left">
+          ${rank}
+          <span class="src">${esc(it.source || "ニュース")}</span>
+        </span>
         <span class="right">
           <span class="date">${esc(it.publishedAt || "")}</span>
           <button class="fav" data-key="${esc(key)}" aria-pressed="${on}" aria-label="お気に入り" title="お気に入り">${on ? "★" : "☆"}</button>
@@ -58,7 +71,7 @@ function itemCard(date, it) {
 
 function dayBlock(day, items, filtering) {
   const { full, wd } = fmtDate(day.date);
-  const cards = items.map((it) => itemCard(day.date, it)).join("");
+  const cards = items.map((it, i) => itemCard(day.date, it, i)).join("");
   const outlook = (!filtering && day.outlook)
     ? `<div class="outlook"><div class="lab">${scope} 今後の展望</div><p>${esc(day.outlook)}</p></div>`
     : "";
@@ -66,7 +79,7 @@ function dayBlock(day, items, filtering) {
   const sample = day.sample ? `<span class="badge">サンプル</span>` : "";
   return `
     <section class="day" id="day-${esc(day.date)}">
-      <div class="day-head"><span class="d">${full}</span><span class="wd">${wd}</span>${sample}</div>
+      <div class="day-head"><span class="d">${full}</span><span class="wd">${wd}</span><span class="line"></span>${sample}</div>
       ${cards}${outlook}${note}
     </section>`;
 }
@@ -121,7 +134,7 @@ function applyFilters() {
   feed.innerHTML = dayBlock(day, day.items || [], false);
   jump.style.display = days.length > 1 ? "" : "none";
   document.getElementById("foot").textContent =
-    `${days.length}日分・The Verge / TechCrunch / VentureBeat / MIT Tech Review / Bloomberg`;
+    `${days.length}日分・TechCrunch / The Verge / VentureBeat / MIT Tech Review / Bloomberg / Ars Technica / The Register / Wired / ZDNET / Reuters`;
 }
 
 function render(data) {
