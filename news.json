@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-05T08:04:43+09:00",
+  "updatedAt": "2026-07-06T08:08:59+09:00",
   "days": [
+    {
+      "date": "2026-07-06",
+      "items": [
+        {
+          "title": "SK Hynixが290億ドルの米国上場でAI投資家へのアクセスを狙う",
+          "summary": "韓国の半導体大手SK Hynixが、約290億ドル規模の米国株式市場への上場を通じてAI投資家層へのアクセス拡大を目指していることをBloombergが報じた。同社はNvidiaのHBM（高帯域幅メモリ）の主要サプライヤーであり、AIデータセンター需要の急拡大を直接の追い風としている。米国上場によりAI関連の機関投資家からの資金調達を有利に進める狙いがある。HBM市場での優位性を維持しながら、設備投資余力をさらに高める戦略として注目される。",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0diUTF3cmJsLTRqTlpvbGVrOFhYSDBKam5tWm1ISm1NZnUwakNsa0dFbDhTa0pROHZZeTNSRWE0MEZaNm1CRzNINHB6UEVYbEg1TVBPa1g5ZWhxZkNyZHpobWJ1MkV1Y0xoS25fbjdrLUYwV3FZaVFfV3MyTlBFSXNCVEVvOGxobTNkYXFMS0lQMXUtNEpRbGotLXl2MmJyUndyMWJoUzRTQzdPSEpMM0ttYw?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-07-05"
+        },
+        {
+          "title": "中国ロボットメーカーUnitree、6億1900万ドルの上海IPOを承認——ヒト型ロボットAI市場が本格離陸",
+          "summary": "中国のロボットメーカーUnitreeが6億1900万ドル規模の上海IPOを当局から承認された。同社は四足歩行・二足歩行ロボットの開発で世界的な注目を集めており、AIと物理ロボティクスを融合した製品ラインが評価されている。中国政府がヒト型ロボットを国家戦略産業に位置付ける中、国内資本市場での上場は研究開発投資の加速を後押しする。テスラやFigureなど欧米勢との競争が激化する中、中国発のAIロボット企業が資本面でも台頭する重要な節目となる。",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON1M3X3F3NUMzdUg4cTFsRkd2cTU2Sml2VGtMSHNkWU5VRHN5cGxQZGs0dkFieUFCVGR2NFNNRmpBa0tFalV2UkRqSC0zUTI4QVNSdHM2RWdvd19HVU5MMmtCX3RXVlJncjNGa084aDY0OE1lenZzT0pWS29hQnZDaGp6b2tvTmg3OFdCQXNONEUyUXF6ZUR5U29Scm93T0FSdU9lTXd0WGgxcmZrM0hoNy1uSDMzMm9mdjlrVFFn?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-07-03"
+        },
+        {
+          "title": "インドでAI人材採用がIT全体の採用ペースを上回る——新レポートが示す構造的シフト",
+          "summary": "Reutersが報じた新調査によると、インドのIT採用市場においてAI関連職種の求人増加率がIT全体の成長率を大幅に上回っていることが明らかになった。機械学習エンジニアやAIオペレーション人材の需要が急増しており、従来のソフトウェア開発・BPO分野から採用の重心が移動している。インドはグローバルなAI開発拠点として米国や欧州企業の人材獲得競争の焦点となっており、賃金上昇圧力も顕在化している。AI人材不足が世界的課題となる中、インド市場の動向はグローバルなAI産業の人材供給構造を左右する指標として注目される。",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdzN3S05KWUZNTnRhZDdUcERXbjBQT09sUXd1MzVWTk5mdFRwU2VXMzFwWE80SHRFZzFmSTVKbkhqS3UxZXp4ckZ2UFdiOUtnUi1lbTl2QUc2Y2ZxelUxMWkzTUswTGlGUnFiWG15TC1kcnV1dm5qSU5xWnA3N2Qwb0RWZk1RZ19fU0huNGxneUYzaHB4bkd3X2ZjT0JJTEJacG0xbHllRmVncDBr?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-07-03"
+        },
+        {
+          "title": "Z.aiがAIコーディングツール「ZCode」を無償公開——Cursor・Claude Code・GitHub Copilotに挑む中国勢",
+          "summary": "北京を拠点とするAIラボZ.ai（旧Zhipu AI）が、自社開発の大規模言語モデルGLM-5.2に特化したAIコーディング環境「ZCode」を無償デスクトップアプリとして正式公開した。同ツールは「Agentic Development Environment」と位置付けられ、CursorやClaude Code、GitHub Copilotが席巻するAIコーディング市場への本格参入を宣言するものだ。無償提供という価格戦略でユーザー獲得を狙う一方、GLM系モデルの独自最適化によるパフォーマンスを訴求している。中国製AIコーディングツールが欧米主導の市場に切り込む動きとして、競争激化の新たな局面を示す。",
+          "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
+          "source": "VentureBeat",
+          "publishedAt": "2026-07-02"
+        },
+        {
+          "title": "富裕層がAIで子どもを教育——米国でAI特化型私立教育サービスが急成長",
+          "summary": "The Vergeの報道によると、米国の富裕層の間でAIを主軸とした子ども向け教育サービスへの関心が急速に高まっており、Forge Prepなどの企業が従来の私立学校に代わる選択肢として台頭している。一般的なAI不信が根強い中、経済的余裕のある層が独自の教育投資としてAI教育を先取りする二極化が浮き彫りになっている。AI家庭教師・個別最適化カリキュラムの普及は教育格差の新たな形を生む可能性があり、公教育との乖離が社会的議論を呼ぶ段階に入りつつある。AI技術の恩恵が富裕層から先行普及する「AI教育格差」の実態を示す注目事例だ。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+          "source": "The Verge",
+          "publishedAt": "2026-07-06"
+        }
+      ],
+      "outlook": "今回の5本は、AIの影響が半導体市場（SK Hynix上場）、ロボティクス産業（Unitree IPO）、労働市場（インドの採用動向）、開発ツール競争（ZCode参入）、教育格差（富裕層AI教育）へと多面的に広がっていることを示している。特に中国勢のAIコーディングツール無償参入と、ロボットメーカーの資本市場への本格登場は、AI覇権競争が技術開発の枠を超えて産業・金融・社会構造全体を再編しつつあることを示唆する。AIが生む恩恵の偏在（教育格差・雇用シフト）への対応が、今後の政策・企業戦略双方の焦点になると見られる。"
+    },
     {
       "date": "2026-07-05",
       "items": [
