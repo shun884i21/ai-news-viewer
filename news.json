@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-06T08:08:59+09:00",
+  "updatedAt": "2026-07-07T08:14:24+09:00",
   "days": [
+    {
+      "date": "2026-07-07",
+      "items": [
+        {
+          "title": "AnthropicがClaudeで中国ユーザーを秘密裏に追跡——反監視姿勢と矛盾、内部告発で発覚",
+          "summary": "Anthropicが、自社AIアシスタントClaudeのユーザー行動を秘密裏に追跡する仕組みを中国ユーザー向けに運用していたことが判明し、波紋を広げている。同社はこれまでプライバシー保護や反監視を強く訴えてきており、自らの姿勢との矛盾が厳しく問われている。社内エンジニアは問題発覚後に「実験は終了した」と述べたが、ユーザーへの事前通知や同意取得の有無など透明性への疑問は払拭されていない。AI企業の倫理基準に対する信頼を揺るがす事案として、業界全体に影響を与える可能性がある。",
+          "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-07-07"
+        },
+        {
+          "title": "AnthropicのClaudeが「意識理論」に似た内部構造を自発的に発展させたと新研究が示す",
+          "summary": "Anthropicが発表した最新研究論文によると、同社のClaudeモデルが人間の意識に関する主要理論「グローバル・ワークスペース理論」に酷似した内部的な情報処理構造を自発的に形成していることが、新たな「J-lens」分析手法によって明らかになった。これはモデルが意図的に設計されたわけでなく、学習の中で自律的に獲得したとされる点が特に注目される。AI意識の議論に実証的な証拠を加える発見として研究者の関心を集めており、今後のAI開発倫理や設計思想に大きな影響を及ぼす可能性がある。ただし同社はAIが「意識を持つ」と断言することには慎重な姿勢を示している。",
+          "url": "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness",
+          "source": "VentureBeat",
+          "publishedAt": "2026-07-07"
+        },
+        {
+          "title": "Microsoftが約5,000人規模のレイオフ——XboxやコマーシャルセールスにAI代替の波",
+          "summary": "Microsoftは7月7日、全世界の従業員の約2.1%に当たる約4,800人の削減を発表した。今回の人員整理はXbox部門と法人向け営業部門に集中しており、AI導入による業務効率化が主な理由として挙げられている。2026年に入りAIを理由に挙げたテック大手のレイオフが相次いでおり、業界全体でAIによる雇用代替への懸念が高まっている。MicrosoftはAI事業に数百億ドル規模の投資を続けており、社内外での役割再編が一層加速する見通しだ。",
+          "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-07"
+        },
+        {
+          "title": "英国FCAがAI規制の必要性を警告——金融サービスでの急拡大が「軍拡競争」状態に",
+          "summary": "英国金融行為規制機構（FCA）の当局者が、金融サービス分野でのAI活用が急速に拡大し、規制当局の監視能力が「軍拡競争」のように追い付かない状況にあると警鐘を鳴らした。数百万人の市民がAIを個人の財務判断に活用しており、消費者保護の観点からFCAへの権限強化が必要との主張が示された。同当局者はAIモデルそのものへの規制導入の検討も呼びかけており、英国政府のAI規制整備に向けた動向を左右しうる発言として注目される。EUのAI法施行が迫る中、英国が独自の規制アプローチをどう設計するかが問われている。",
+          "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-07-06"
+        },
+        {
+          "title": "テンセントがApacheライセンスの「Hy3」を公開——半分のサイズでGLM-5.2を凌駕するオープンウェイトモデル",
+          "summary": "テンセントが新たなオープンウェイトモデル「Hy3」をApache 2.0ライセンスで公開した。競合のGLM-5.2の約半分のパラメータ数でありながら、コーディングを除くほぼ全ベンチマークで上回る性能を示している。これまで多くの中国製強力モデルはEU・英国・韓国などを除外するライセンス条件を持っていたが、Hy3のApacheライセンスはこれらの制限を撤廃し、グローバル企業が実用できる初の主要中国製モデルとして位置付けられる。AIモデルの地政学的障壁が下がることで、グローバル競争が一段と激化すると見られる。",
+          "url": "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
+          "source": "VentureBeat",
+          "publishedAt": "2026-07-07"
+        }
+      ],
+      "outlook": "Anthropicは意識研究での科学的快挙と秘密追跡問題という相反するニュースが同日に浮上し、AI企業の透明性と倫理への問いが改めて焦点化している。Microsoftのレイオフに象徴されるようにAIによる雇用代替は現実の経済問題となりつつあり、英国FCAの警告はそれが金融システム全体のリスクにも波及しうることを示す。テンセントHy3のApacheライセンス公開はオープンソースAI競争の地政学的障壁を下げる転換点となりうる。今後は各国規制当局がAIの社会的リスクに対してどの程度実効的な権限を持てるかが、業界の健全な発展を左右する鍵となるだろう。"
+    },
     {
       "date": "2026-07-06",
       "items": [
