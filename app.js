@@ -184,13 +184,27 @@ document.getElementById("jumpSel").addEventListener("change", (e) => {
   window.scrollTo({ top: 0, behavior: "smooth" });
 });
 
-fetch("news.json?" + Date.now())
-  .then((r) => r.json())
-  .then(render)
-  .catch(() => {
-    document.getElementById("feed").innerHTML =
-      `<div class="empty"><div class="big">⚠️</div>ニュースを読み込めませんでした。</div>`;
-  });
+let lastLoad = 0;
+function loadNews() {
+  lastLoad = Date.now();
+  // クエリのキャッシュバスター＋no-storeでHTTP/ブラウザキャッシュを完全に回避（常に最新を取得）
+  return fetch("news.json?" + Date.now(), { cache: "no-store" })
+    .then((r) => r.json())
+    .then(render)
+    .catch(() => {
+      if (!DATA.days || !DATA.days.length) {
+        document.getElementById("feed").innerHTML =
+          `<div class="empty"><div class="big">⚠️</div>ニュースを読み込めませんでした。</div>`;
+      }
+    });
+}
+loadNews();
+
+// アプリを再び開いた／オンライン復帰したら最新を取り直す（PWAで古い日付が残るのを防ぐ）
+document.addEventListener("visibilitychange", () => {
+  if (document.visibilityState === "visible" && Date.now() - lastLoad > 60000) loadNews();
+});
+window.addEventListener("online", loadNews);
 
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));

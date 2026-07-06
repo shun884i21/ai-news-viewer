@@ -1,5 +1,5 @@
 // オフライン閲覧（PWA）：オンライン時は最新を取得し、失敗時のみキャッシュを使う
-const CACHE = "ai-news-v4";
+const CACHE = "ai-news-v5";
 const ASSETS = ["./index.html", "./app.js", "./manifest.json", "./icon.svg"];
 
 self.addEventListener("install", (e) => {
@@ -21,6 +21,12 @@ self.addEventListener("fetch", (e) => {
         caches.open(CACHE).then((c) => c.put(e.request, copy)).catch(() => {});
         return res;
       })
-      .catch(() => caches.match(e.request).then((hit) => hit || caches.match("./index.html")))
+      // オフライン時：まず完全一致、無ければクエリ無視で探す（news.json?ts のキャッシュバスター対策）、
+      // それも無ければ最後にindex.htmlを返す。
+      .catch(() =>
+        caches.match(e.request).then((hit) =>
+          hit || caches.match(e.request, { ignoreSearch: true }).then((h2) => h2 || caches.match("./index.html"))
+        )
+      )
   );
 });
