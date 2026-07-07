@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-07T08:14:24+09:00",
+  "updatedAt": "2026-07-08T08:08:38+09:00",
   "days": [
+    {
+      "date": "2026-07-08",
+      "items": [
+        {
+          "title": "DeepSeekが独自AIチップ開発を計画——米輸出規制からの脱却を目指す",
+          "summary": "ロイターとArs Technicaが複数の関係者の情報として報じたところによると、中国のAIスタートアップDeepSeekが自社製AIチップの開発に着手している。米国の輸出規制によりNvidiaの最先端GPUへのアクセスが制限される中、HuaweiチップへのB依存も減らす狙いがある。まだ初期段階とされるが、成功すれば中国AIの対米技術依存を大幅に低減させる可能性があり、半導体輸出規制の抑止効果に疑問を投げかける重大な動きとして注目される。",
+          "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-07-08"
+        },
+        {
+          "title": "北京が中国AIモデルへの海外アクセス制限を検討——DeepSeekなど対象か",
+          "summary": "Reutersの独自報道によると、中国政府はDeepSeekをはじめとする主要国産AIモデルへの海外からのアクセスを制限する措置を検討中だという。背景には、国産AIモデルが国際的な競争力を持つ一方で、技術流出や地政学リスクへの懸念がある。実施されれば、グローバルに利用されている中国製AIサービスが遮断され、AI分野における米中「デカップリング」がさらに深まることになる。OpenAIやAnthropicへの対抗軸として期待されてきた中国モデルのオープンな展開戦略が根本から変わりうる重大な政策転換だ。",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWk5sbnFqSktyYjJZYUZWOVFQYTc0YldVbnhfWmlOQmFpYkF0RENrUXlwQ1lyZ1F2bzVJalFrRE5yZzhwdUZpQU55bjFiTS1jVlFfWmFxMG01TVpQcmZfOU1fdkw0WEo0bmtra3ZoMmNFWG5vUU9PZ3dXNHFaUDI0RHRWWS05bGdQRUZ3OE81dE00UkZzOUJOOVRHMGtzZENOXzJGd19TNEV2MzJkazFiZlljUmJJZ0Uy",
+          "source": "Reuters",
+          "publishedAt": "2026-07-08"
+        },
+        {
+          "title": "MetaがSuperintelligence Labs製「Muse Image」を公開——Instagram公開アカウントの写真をオプトアウト式でAI学習に利用",
+          "summary": "MetaはSuperintelligence Labs部門が開発した初のAI画像生成モデル「Muse Image」を発表し、Meta AIアプリ・Instagram・WhatsAppへの統合を開始した。広告やクリエイターコンテンツなど多様な用途を想定しているが、Wiredの報道によればInstagramの公開アカウントユーザーは自分の写真が他者のAI生成画像に利用されることをオプトアウトで拒否しなければならない仕組みとなっており、プライバシー面で強い批判を呼んでいる。MetaのAI画像生成能力の大幅な強化を示すと同時に、ユーザーデータ活用の倫理的境界線に改めて問題を提起する動きだ。",
+          "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
+          "source": "Wired",
+          "publishedAt": "2026-07-08"
+        },
+        {
+          "title": "MicrosoftがOpenAI・Anthropicモデルを自社AIに置き換えコスト削減——AI支出抑制の新潮流",
+          "summary": "BloombergおよびTechCrunchの報道によると、MicrosoftはCopilotなど一部アプリケーションでOpenAIやAnthropicのモデルを自社開発モデルに切り替えるコスト削減策を進めていることが明らかになった。OpenAIへの大口顧客であるMicrosoftがこうした動きを取ることは、フロンティアラボのビジネスモデルへの直接的な打撃となりうる。GoogleやMetaも自社モデルへの内製化を強化しており、ビッグテック各社が外部AIコストの圧縮に本格的に動き出したことを示す業界トレンドの象徴的事例だ。",
+          "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-08"
+        },
+        {
+          "title": "イングランド銀行がAIによる金融安定リスクを警告——システミックリスクの新たな震源として注視",
+          "summary": "イングランド銀行は最新報告書で、金融システムへのAI急速普及が金融安定に対する重大なリスクをもたらしていると警告した。AIモデルの集中利用による「単一障害点」の形成や、アルゴリズム間の想定外の相互作用が市場の連鎖的混乱を招く恐れがあるとしている。英FCAが先に同種の警告を発したのに続く中央銀行レベルの懸念表明であり、欧米の金融規制当局がAIリスクの制度的管理に本腰を入れ始めたことを示す重要なシグナルだ。",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObUdISUlkdHhqQXoyVHdfNzNTaUp5bmtFYzNxMGQyREZVaWMwdG5Ha2tZSUdBcGo4VGRiX2VzbWxON3ZsZk5nMmJfYi1MdHp3SjRhZWVmSmhVN2JaWE9QRUZQaGV4dzRnN0hiaEVhWk55dURTNTZjdVdlLUlqc3A4SW55RnRFSVdYdm9TNDU0NHBheG91N0VKTUw4TWVObnNrdGN6V3phYUVtNkk",
+          "source": "Reuters",
+          "publishedAt": "2026-07-08"
+        }
+      ],
+      "outlook": "DeepSeekの独自チップ開発と中国政府による国産AIモデルの海外アクセス制限検討は、AI分野における米中デカップリングが技術・政策の両面で加速していることを示しており、今後の輸出規制の実効性や国際的なAIエコシステムの分断が焦点となる。Microsoftによる外部AIモデルの内製化切り替えは、フロンティアラボの収益モデルに構造的な圧力をかける先例となり得る。MetaのMuse Imageはプライバシー論争を再燃させており、EU・米国双方での規制対応が迫られる見込みだ。イングランド銀行をはじめとする中央銀行・金融当局のAIリスク警告が相次ぐ中、金融分野向けのAI規制フレームワーク整備が2026年後半の主要政策課題として浮上しそうだ。"
+    },
     {
       "date": "2026-07-07",
       "items": [
