@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-08T08:08:38+09:00",
+  "updatedAt": "2026-07-09T08:16:17+09:00",
   "days": [
+    {
+      "date": "2026-07-09",
+      "items": [
+        {
+          "title": "SpaceX AIがGrok 4.5を発表——コーディング・エージェント特化で競合の半額以下の価格設定",
+          "summary": "イーロン・マスク率いるSpaceX AIは7月9日、コーディングと自律エージェントタスクに特化した新モデル「Grok 4.5」を公開した。同モデルはCursorの買収（約600億ドル）後初の具体的な成果物であり、競合他社の同等モデルと比べ半額以下の価格で提供される点が最大の差別化要因だ。AnthropicやOpenAIに対する価格競争を激化させるとともに、コーディングAI市場の勢力図を塗り替える可能性がある。VentureBeat・Bloomberg・Reutersが一斉に報じており、業界注目度は非常に高い。",
+          "url": "https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai",
+          "source": "VentureBeat",
+          "publishedAt": "2026-07-09"
+        },
+        {
+          "title": "OpenAIが新音声モデル「GPT-Live-1」を公開——割り込みを抑え、同時送受話で人間らしい会話を実現",
+          "summary": "OpenAIは7月8日、ChatGPTの音声機能を刷新する新モデル「GPT-Live-1」を発表した。従来のAdvanced Voice Modeを置き換えるフルデュプレックス（同時送受話）設計を採用し、ユーザーが話し終わる前に割り込む問題を大幅に改善。リアルタイム翻訳など会話の自然さが求められる用途に適しており、音声AIのUX競争において重要なマイルストーンとなる。The VergeやVentureBeat、ZDNETが詳細を報じており、GoogleのGemini LiveやAmazon Alexaとの競争が一段と激しくなる見通しだ。",
+          "url": "https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person",
+          "source": "VentureBeat",
+          "publishedAt": "2026-07-09"
+        },
+        {
+          "title": "中国がトップAI企業に限定的なNvidia H200チップの購入を解禁へ——輸出規制緩和の新局面",
+          "summary": "The Informationの報道によると、中国政府は一部の主要AI企業に対し、これまで事実上禁じられていたNvidiaの高性能チップ「H200」の購入を限定的に認める方針を固めたとされる。米国の輸出規制が続く中での異例の措置であり、中国AI産業の競争力維持と国内需要への対応が背景にある。NvidiaはH200販売拡大による業績回復期待から株価への影響が注目される一方、米政府の反応次第ではさらなる規制強化のリスクも残る。BloombergとReutersが同日報じた。",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRlNtV2pJdEhRb0U4NTlpWU5vMnZqYWNTTUZ2clRfUVRZY0FXTzZMN1pWNVNXZU1FZDlnS3A4RFBhX1lRbWNZcEhZbUV1S0JVdkFiaGdyS2dFakY5NW1LeXRnMVF4dVNITmIwbXZkYzI4SVdvV19leEVlNXFVRndUMS00bWVzT3ZONll3OGVpUDRFSklIOW1JVTROR29SUWZqQXhJekRweUlzTFRzOHRtLQ?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-07-09"
+        },
+        {
+          "title": "Mistral AIがロボティクス向けAIモデルを公開——Physical AI市場への本格参入を宣言",
+          "summary": "フランスのAIスタートアップMistral AIは7月8日、ロボット制御や物理的環境での動作に特化した新モデルを発表した。大手テック企業が独占しがちな「Physical AI」領域に欧州のオープン志向の企業が参入することで、多様性と競争が促進される可能性がある。ヒト型ロボット市場の急拡大と相まって、言語・画像以外のモダリティでのAI競争が新たな局面に入ったことを示す象徴的な動きだ。Bloombergが報じた。",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWVqM2VWMGItbDI3UkVockIzVVR3eFRYMzJSVHRKbTg0ZjIwVHYxSFBERXN5V3hJOWtJZG9VbkJsdzZoTW1rWWZpOEdfSkowTEpoZlpZOGloZUwwbVRndi1ia0g1ZGhmMHNBMHVDaHFwM29LYzMzVXo2UnhjLWs5b0V3NXU0ek5PSGJrN1VMa0lSNVNpVTN5MWRERkt3Z1NIdlVTaFc1dDQxdVBMX0lCbE9WSQ?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-07-08"
+        },
+        {
+          "title": "AIツール9種がボットネット構築に悪用可能と判明——「HalluSquatting」攻撃手法をセキュリティ研究者が実証",
+          "summary": "Ars Technicaが報じたセキュリティ研究によると、主要AIツール9種が「HalluSquatting」と呼ばれる新手法によって大規模ボットネットの構築に利用できることが示された。LLMが「知らない」と答えられない性質を悪用し、存在しないパッケージ名を生成・実行させることでマルウェア配布を誘導する。この脆弱性はAIコーディングアシスタントが普及する中で深刻なサプライチェーンリスクとなりうる。AIセキュリティの制度整備や開発者の注意喚起が急務となっている。",
+          "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-07-08"
+        }
+      ],
+      "outlook": "Grok 4.5の半額投入とOpenAIのGPT-Live-1公開が重なり、AIモデルの価格競争と機能競争が同時進行する局面に入った。中国へのH200輸出解禁報道は米中AI規制の複雑化を示しており、今後の米政府の対応が業界の地政学的リスクを左右する。Mistral AIのPhysical AI参入は欧州勢の存在感を高め、AIの応用領域がソフトウェアから物理世界へと拡張する流れを加速させる。一方でAIツールを悪用したサイバー攻撃の高度化は、AI普及と安全確保の両立という根本的課題を改めて浮き彫りにしている。各国の規制・投資・技術開発が絡み合う中で、今後数週間でさらなる大型発表が相次ぐ可能性が高い。"
+    },
     {
       "date": "2026-07-08",
       "items": [
