@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-09T08:16:17+09:00",
+  "updatedAt": "2026-07-10T08:19:02+09:00",
   "days": [
+    {
+      "date": "2026-07-10",
+      "items": [
+        {
+          "title": "OpenAIがGPT-5.6を正式公開——「ChatGPT Work」で職場向けAIエージェント市場に本格参入",
+          "summary": "OpenAIはGPT-5.6モデルファミリーを一般公開し、同時に企業向けエージェント製品「ChatGPT Work」を発表した。同ツールは数時間にわたって自律的に業務タスクを実行できるとされ、コーディング支援から業務自動化まで幅広い用途を想定している。トランプ政権の規制審査を経て一般提供に至った経緯も注目を集めている。Anthropicや他のAI企業と激化する職場AI市場での競争で、OpenAIが価格・速度・生産性を軸に差別化を図る戦略的な動きとして位置づけられる。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+          "source": "The Verge",
+          "publishedAt": "2026-07-10"
+        },
+        {
+          "title": "MetaがAIコーディングツール「Muse Spark 1.1」を公開——大規模エンタープライズ自動化市場に参戦",
+          "summary": "MetaはAIコーディング支援ツール「Muse Spark 1.1」を開発者向けプレビューとして公開した。大規模エージェント型ワークロードの処理、バグ修正、大規模なコード移行支援を強みとして打ち出しており、CursorやGitHub Copilotなどとの直接対決となる。同日、ザッカーバーグCEOはMetaとしてAIクラウドビジネスの展開も検討していると述べており、AI事業の多角化戦略が鮮明になっている。エンタープライズ向けAIコーディング市場は大手テックが一斉に参入する激戦区となっており、Metaの本格参入は競争をさらに加速させるとみられる。",
+          "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-10"
+        },
+        {
+          "title": "New York TimesがOpenAIの著作権訴訟で証拠隠滅を主張——制裁申立てで法廷闘争が激化",
+          "summary": "New York Timesなどのニュース出版社は、OpenAIがChatGPTの学習データに関連するログや著作権侵害検出ツールを故意に隠蔽・削除したとして、裁判所に制裁を申し立てた。OpenAIが訓練データを検索できないように偽装したとも主張されており、事実であれば訴訟の行方を大きく左右する可能性がある。AI企業が学習データの透明性を巡って法的責任を問われる初の大型事例として、業界全体に与える影響は計り知れない。判決次第では他のメディア企業のAI企業に対する訴訟を後押しし、AI学習データを巡る法的枠組みの形成に直結する。",
+          "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-07-10"
+        },
+        {
+          "title": "AnthropicがClaudeの内部「思考空間」を解析——LLM内部動作の解明に新たな知見",
+          "summary": "AnthropicはClaudeが質問に答えたりタスクを実行する際に内部で何が起きているかを可視化する新技術を開発し、その結果を公開した。研究者が構築したツールにより、モデルが概念を処理する「隠れた空間」が明らかになり、一部の発見は「不気味」と表現されるほど予想外のものだったという。大規模言語モデルの解釈可能性（Interpretability）研究として最も詳細な成果の一つであり、AIの安全性・アライメント研究に直接貢献する。モデルの内部動作を理解することは規制当局やユーザーの信頼獲得にも不可欠であり、業界全体の透明性向上に向けた重要な一歩となる。",
+          "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-07-10"
+        },
+        {
+          "title": "MetaがAI専用チップを9月量産開始——コンピューティング能力の倍増を計画",
+          "summary": "Reutersのスクープによると、Metaは独自開発のAIチップを2026年9月に量産ラインに乗せ、コンピューティング能力を現在の2倍に引き上げる計画を社内メモで示した。Nvidiaへの依存を減らし自社インフラを強化する戦略の一環であり、同社のAIモデル開発・推論コストの削減に直結する。GoogleのTPUやAmazonのTrainiumと同様に、大手テック各社が独自シリコンでAI競争力を高める潮流が加速している。Metaが同日カナダ・アルバータ州に130億カナダドル規模のデータセンター建設を発表したことと合わせ、AI基盤への大規模投資姿勢が改めて鮮明になった。",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmJUcmlIQzJ4M0Vmd1QxQno5ajZPWnFqRHMtQkNMSzVRMHlnOXBqZDN4cjVuRU1XR3IyajdHekZJRkNpeXA2UjRBaXdiaDlnbkxVa1VXb1hwY3BDMUE1am9uX0o3OUxYTWVkeUMyemFUQ0JkMlVpX1RWSTBLVzI3bC1uaTVGelVXd1pSdEY4RHpreUQySmhOUjZMemVGQ3k4YTREY3VxN3k5alhELVdJa1hGeGYxbUltMV9mVUtHZWM4SmQ1eGNqRkk0RUk",
+          "source": "Reuters",
+          "publishedAt": "2026-07-10"
+        }
+      ],
+      "outlook": "本日は「GPT-5.6＋ChatGPT Work」の正式公開を軸に、MetaのコーディングAI参入・独自チップ量産と、OpenAIの著作権訴訟の激化、そしてAnthropicによるLLM内部解析の新知見が重なった。職場向けAIエージェント市場は大手3社（OpenAI・Meta・Anthropic）が正面衝突する局面に入り、価格と機能の競争がさらに激化するとみられる。一方、著作権訴訟や規制当局の注視が強まるなかで、透明性・解釈可能性の確保がAI企業の競争優位にも直結する時代が到来しつつある。独自AIチップへの大規模投資は、Nvidiaへの依存低減とコスト構造の抜本的な変革を業界全体に迫るものであり、2026年後半のAIインフラ競争の焦点となるだろう。"
+    },
     {
       "date": "2026-07-09",
       "items": [
