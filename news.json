@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-10T08:19:02+09:00",
+  "updatedAt": "2026-07-11T08:04:44+09:00",
   "days": [
+    {
+      "date": "2026-07-11",
+      "items": [
+        {
+          "title": "AppleがOpenAIを提訴——元従業員によるハードウェア企業秘密窃取を主張",
+          "summary": "Appleは2026年7月11日、OpenAIがApple出身の元従業員を通じて同社のハードウェア関連企業秘密を組織的に盗んだとして提訴した。訴状ではOpenAIの上級幹部が主導し、機密プレゼン資料・試作品情報・主要サプライヤー情報が持ち出されたと主張する。被告にはOpenAIのほかIO Productsも含まれており、AppleのAIハードウェア戦略への影響が懸念される。両社は以前にApple Intelligenceで協力関係にあっただけに、AI業界最大級の法廷闘争として注目される。",
+          "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+          "source": "The Verge",
+          "publishedAt": "2026-07-11"
+        },
+        {
+          "title": "SK Hynixが米国上場で265億ドル調達——外国企業IPO史上最大規模でAIメモリ需要を証明",
+          "summary": "韓国の半導体メモリ大手SK Hynixが米国市場に上場し、265億ドルを調達。アリババが保持していた外国企業の米国IPO最大記録を塗り替えた。Nvidiaの主要HBMサプライヤーとしてAIブームの恩恵を直接受けており、初値は1株170ドルで取引開始。米政府はSK HynixとSamsungに対し米国内での新工場建設を要請しており、AI向けメモリの地産地消を促す動きが加速している。このIPOはAIインフラへの資本流入が依然として強いことを市場に示す象徴的な出来事となった。",
+          "url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
+          "source": "The Verge",
+          "publishedAt": "2026-07-11"
+        },
+        {
+          "title": "米国がUAEへのNvidia AIチップ輸出規制を緩和——中東のAIインフラ整備に道",
+          "summary": "バイデン政権が設けたAIチップ輸出規制の枠組みを見直し、トランプ政権がUAEに対するNvidiaチップの輸出制限を緩和した。これによりUAEは大規模なAIデータセンター整備に必要なGPUを取得しやすくなる。先日の中国向け規制緩和に続く動きで、同盟国・友好国への輸出促進という政策転換の一環とみられる。UAEはMicrosoftやG42を通じてAI投資を積極化しており、米国の技術外交と経済安全保障の両立を試みる新局面として注目される。",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaVEzYmM2SWx3eHBwdUxjbjhCZzBWc2FITVlfOS1JTFMyeElaeDAwQzVKeG9SOG1sMGpTSVI1V0tjSUIzX3NEbGloQVhlSkdkR0EtSEdFNmhFcGwtS18xMWlEQVctelppaWxXREc4akd1ZHdsNkJhN3NkUjhXXzZXM1dtdnFkSWFuQjNZZXVMVF9PdFg1RE53RWpDRl9ESWhhRjZBN3A1ZlFaSDAweTFn?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-07-11"
+        },
+        {
+          "title": "OpenAI幹部フィジ・シモがNo.2の座を退任——IPO直前の指導体制に空白",
+          "summary": "OpenAIのAGI展開担当CEOであるフィジ・シモが、医療休暇が当初の想定より長引いたことを理由にフルタイムの経営幹部職を退くと発表した。今後はパートタイムのアドバイザーとして関与を続ける予定。シモはMetaやInstacartでのキャリアを持つ経営のプロとしてOpenAIの収益化を担ってきたが、同社がIPOを視野に入れエンタープライズ市場でAnthropicと激しく競争するまさに重要な局面での退任となる。経営トップ層の空白が投資家や企業顧客の信頼に与える影響が注目される。",
+          "url": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
+          "source": "Wired",
+          "publishedAt": "2026-07-10"
+        },
+        {
+          "title": "AnthropicがClaude Fable 5を従量課金制へ移行——AIサブスクの「定額黄金時代」が終焉",
+          "summary": "AnthropicはClaude最上位モデル「Fable 5」について、従来の月額サブスクリプションに加え使用量ベースの追加課金を導入すると発表した。消費者向けAIサービスが定額制から従量課金への移行を始めた初期事例として業界的に大きな意味を持つ。AIモデルの計算コストが増大する中、ラボが固定料金のみでは採算を確保しきれない実態が背景にある。OpenAIもChatGPT Workの有料化を進めており、AIサービス全体で収益モデルの転換が加速しそうだ。",
+          "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
+          "source": "Wired",
+          "publishedAt": "2026-07-10"
+        }
+      ],
+      "outlook": "AppleによるOpenAI提訴は、AI人材の引き抜き競争に法的リスクという新たな次元を加え、今後の業界慣行に広範な影響を与える可能性がある。SK HynixのIPO成功はAIインフラへの資本流入がまだ衰えていないことを示す一方、ビッグテックが借入金を350億ドル規模に倍増させてまでAI投資を続ける財務的持続可能性への問いも深まっている。UAEへの輸出規制緩和は米国が同盟国を取り込む形でAI技術圏を再編成しようとする外交戦略の表れであり、中国包囲網の形成を意識したものと読める。一方で消費者向けAIの課金モデルがサブスク一本足から従量課金へシフトし始めており、利用者・事業者双方にとってコスト管理の重要性が一段と高まる局面を迎えている。"
+    },
     {
       "date": "2026-07-10",
       "items": [
