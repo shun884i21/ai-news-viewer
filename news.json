@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-11T08:04:44+09:00",
+  "updatedAt": "2026-07-12T07:58:07+09:00",
   "days": [
+    {
+      "date": "2026-07-12",
+      "items": [
+        {
+          "title": "OpenAI安全責任者が退社——安全・研究チーム統合の混乱が表面化",
+          "summary": "OpenAIの安全担当責任者ヨハネス・ハイデッケ氏が同社を離れることがWiredの報道で明らかになった。OpenAIは安全チームと研究チームの統合を進めているさなかであり、今回の退社はその組織再編への内部摩擦を示すものと受け止められている。最高執行責任者フィジ・シモの退任に続く幹部の離脱であり、IPOを控えた重要な時期に経営陣の安定性への懸念が高まっている。AI安全への取り組みを巡る透明性の問題は規制当局や投資家からも注目されており、影響は広範に及ぶ可能性がある。",
+          "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+          "source": "Wired",
+          "publishedAt": "2026-07-11"
+        },
+        {
+          "title": "MetaがInstagramのAI画像生成機能を公開直後に撤回——プライバシー批判が直撃",
+          "summary": "MetaはInstagramで公開アカウントの写真をAI学習・生成に活用する新機能を導入したが、ユーザーからの強烈なプライバシー批判を受けて数日以内に機能を削除した。同社は「有益なクリエイティブツールを提供するつもりだったが、フィードバックを受けて目標を達成できていないと判断した」とコメントしている。オプトアウト方式での学習利用に対する反発はMetaだけでなく業界全体が直面する課題を象徴しており、AI学習におけるユーザーデータの扱いに関する議論を再燃させた。AI機能の拙速な展開がブランドリスクに直結することを示す事例として注目される。",
+          "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-11"
+        },
+        {
+          "title": "ビッグテックが負債を3500億ドルに倍増——AI投資競争が財務を圧迫",
+          "summary": "BloombergはMicrosoft・Google・Amazonなど主要テック企業がAIインフラへの大規模投資を賄うために負債を合計3500億ドル規模に倍増させたと報じた。データセンターやGPUクラスターの建設費用が急増する中、エクイティ調達に加えて社債発行を積極活用する動きが顕著になっている。AI投資が実際の収益にいつ貢献するかを巡るウォール街の懐疑論が高まっており、金利環境次第では財務健全性へのリスクが増す可能性がある。AIビルドアウトの持続可能性を問う論点として、今後の決算シーズンで投資家の主要な焦点となりそうだ。",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMC1Ka1UzcHYwa05MbzdudFZGcXV6dFFsaEw3UWFZeE1iaW0waEU0QVhSandFV3E1dzB2cFotbjZjOVBjdlZ0ci1HVHVlVHljVFVBQUNpMkkyTzdxX0ZwNC1QaXFBcjJueVF6NkVBYV9LbWg1Ni1iVHJXSlByeDU2QWl0TDQtT2M4cXlRUVMzYkh1WEpoRk9tdzh0YTUzUTdmcDRUejVPem5vb3dHSkFLQVFydw?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-07-10"
+        },
+        {
+          "title": "「スロップスクワッティング」が新たなサプライチェーン脅威に——AIコーディングツールの幻覚を悪用",
+          "summary": "AIコーディングアシスタントが実在しないパッケージ名を「幻覚」として提案する現象を悪用した「スロップスクワッティング」と呼ばれる新型攻撃手法が報告された。攻撃者はAIが生成しがちな偽パッケージ名を事前に登録し、開発者がAIの提案をそのまま実装した瞬間に悪意あるコードを混入させる。従来のタイポスクワッティングと異なり人間のミスではなくAI自体の特性を突くため、開発フローの自動化が進むほどリスクが拡大する構造的問題だ。AIコーディングツールの急速な普及に伴い、ソフトウェアサプライチェーン全体の脆弱性として早急な対策が求められている。",
+          "url": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
+          "source": "VentureBeat",
+          "publishedAt": "2026-07-12"
+        },
+        {
+          "title": "JPモルガンがAIエージェントで伝統的な60/40ポートフォリオを上回る成果——金融AIの実用化が加速",
+          "summary": "JPモルガンが独自開発したAIエージェントを用いた投資戦略が、バックテストにおいて株式60・債券40の伝統的ポートフォリオ配分を上回るリターンを示したとBloombergが報じた。同行はAIを単なる分析補助ツールとしてではなく、ポートフォリオの意思決定そのものに組み込む方向で実験を進めている。金融機関のAIエージェント活用は規制上のリスク管理が課題だが、大手が具体的な運用成果を示したことで業界全体の採用を後押しする可能性がある。イングランド銀行やFCAが金融AIのシステミックリスクを警告する中、実用化の動きが規制議論を加速させそうだ。",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeERVOTV0M2h4M1RqZThDemF4cTZrb29qbndmazlsN2lUZEFDTE1GV3Mza3pfbjF5THhkbFhyblZRc2JTcVpLZkFMMU9rX1U3LTBqWmtESjRITWgwN0hybElacS1OcUFndkNIMkNlOVk2UklBOFhUUi1tMmh1czNJdW9malh4cVI3bU1ES1VHUnZGaDRyVDdqRHBGUXhSWno0WDZOWU9sNFc3eWZMT3hIX3Z4eDQ1dw?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-07-10"
+        }
+      ],
+      "outlook": "OpenAIでは安全責任者の退社とCOO退任が重なり、IPO前の経営体制の安定性が問われる局面に入った。MetaのInstagram AI機能の即時撤回はユーザーデータ活用への社会的許容限界を改めて示しており、今後各社はAI機能展開の手法を慎重に設計する必要がある。ビッグテックの負債膨張とGPU稼働率の低さ（86%が半分以下）が同時に浮き彫りになったことで、AI投資の費用対効果を問う圧力が強まりそうだ。スロップスクワッティングに代表されるAI固有のセキュリティリスクは今後の開発プロセス全体に影響し、セキュリティベンダーや開発ツール企業にとって新たな市場機会となるだろう。金融機関でのAIエージェント実用化の加速は規制当局の対応を急かす形となり、金融AI規制の枠組み整備が2026年後半の主要議題になると見られる。"
+    },
     {
       "date": "2026-07-11",
       "items": [
