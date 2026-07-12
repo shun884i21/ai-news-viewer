@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-12T07:58:07+09:00",
+  "updatedAt": "2026-07-13T07:57:34+09:00",
   "days": [
+    {
+      "date": "2026-07-13",
+      "items": [
+        {
+          "title": "DeepSeekが価格75%引き下げも「100倍問題」は未解決——エンタープライズAIの収益構造に暗雲",
+          "summary": "DeepSeekがV4-Proモデルの価格を75%引き下げたにもかかわらず、エンタープライズ向けAIベンダーや開発者の利益率改善にはつながっていないことが明らかになった。モデルコストが下がっても、推論インフラ・オーケストレーション・品質保証などの周辺コストが依然として高止まりしており、「100倍問題」と呼ばれる構造的コスト課題が残る。安価なモデルの登場がAI民主化を加速させる一方で、ビジネスとしての持続可能性をめぐる議論が業界全体で激化している。AIコスト競争の勝者が誰になるかを占う上で極めて示唆に富む事例だ。",
+          "url": "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains",
+          "source": "VentureBeat",
+          "publishedAt": "2026-07-13"
+        },
+        {
+          "title": "TCSが最大8,900人のAI展開エンジニアを計画——インドIT大手がAI人材・買収で大規模シフト",
+          "summary": "インドのIT大手タタ・コンサルタンシー・サービス（TCS）が、AI導入・展開専門のエンジニアを最大8,900人規模で採用する計画を発表し、AI関連企業の買収も積極的に検討していることをロイターが報じた。世界有数のITアウトソーシング企業がビジネスモデルをAI中心に再編する動きは、インドのIT産業全体の構造変化を象徴する。人件費の安さを武器とした従来型の労働集約モデルから、高付加価値なAI実装サービスへの転換を鮮明にしており、競合他社にも同様の動きが波及するとみられる。",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZHVWMTZfdlZoNHBPbVhNSTktYk5yTzBaN3BOTWc2NjNhczhUWVJVTktLZld3WC0zeGEyREFDZk1kWkFjNzBFaXV0M3JSMC1mNFlPQU9DYy1palFFbTRoUFYxR1JZVDNRVmhCQzREYnMxOGd1cEFhNE9aeTFOVzhDTjF6UVY3b0RzUm5ReWIyQkQ2ZjF2OC1kNG40clpPNzhkTTJZOWJUckc0SUlaWVhaa1VFOVpkVXA3am9aY1I2bWlqODM3N2c",
+          "source": "Reuters",
+          "publishedAt": "2026-07-12"
+        },
+        {
+          "title": "MetaのAI画像検出ツール、自社生成画像の一部を見破れず——Reutersの調査で信頼性に疑問符",
+          "summary": "Reutersの独自分析により、Metaが提供するAI生成画像検出ツールが、同社自身のAIが生成した画像をトリミングするだけで検出を回避できてしまうことが明らかになった。AI生成コンテンツの氾濫が社会問題化する中で、プラットフォーム自身の検出技術の限界が露呈した形だ。MetaはInstagramのAI画像生成機能をプライバシー批判で撤回したばかりであり、AI画像をめぐるMetaの一連の対応への信頼が改めて問われている。偽情報対策や選挙介入防止の観点からも業界全体に深刻な波紋を呼びそうだ。",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdFhDN2xpWkkxOUxmT0V6VXVRclktUGVBWW01V1M3dFlZbFRGM1o1bjNVVlI4a09ZdVBPak15S0JXVFFWVXFOckJZVE5oYklpTDNQMjdudmVPU281dmRyMzlwNmJBMm9LRTJQY292UXZURGhYUl83Vl9fTW5iTzVyX0RQMG5mUm1vTXZnYUNpd3hBYzdlYzZXdFc3bTVQVmhhTHFQNzRXNE4wWFhQNGh1UHcwSkEzQUFJQU9tYXNR",
+          "source": "Reuters",
+          "publishedAt": "2026-07-12"
+        },
+        {
+          "title": "アイルランドのデータセンターが国内電力消費の23%に達する——AI需要急増がエネルギーインフラを圧迫",
+          "summary": "アイルランドのデータセンターが国内総電力消費の23%を占めるに至ったことが新たな統計で明らかになった。消費量は前年比さらに10%増加しており、ダブリン周辺では新規グリッド接続の制限が続いている。AI向けコンピューティング需要の爆発的増加がエネルギーインフラへの負荷を急速に高めており、欧州各国の電力政策や気候目標との矛盾が深刻化している。データセンター建設と再生可能エネルギー供給のペース差が埋まらない中、各国規制当局のAIインフラに対する姿勢が問われる局面に入っている。",
+          "url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
+          "source": "The Register",
+          "publishedAt": "2026-07-11"
+        },
+        {
+          "title": "エストニアがAI「失敗発見ツール」を導入——2800万ドルのミスが国家DXの起爆剤に",
+          "summary": "エストニア政府は、法律の文言ミスによって2800万ドルの損失が生じた教訓を活かし、法案の誤りや矛盾をAIで自動検出する「フックアップ・ファインダー」システムを導入した。同国はデジタル政府の先進国として知られ、今回のツールは立法プロセスの効率化と行政コスト削減を同時に狙う。AIを単なる民間産業のツールにとどめず、国家ガバナンスの根幹に組み込もうとする取り組みとして、他国の政府DXにも示唆を与える事例だ。デジタル小国の実験が世界標準になる可能性を示している。",
+          "url": "https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/",
+          "source": "Wired",
+          "publishedAt": "2026-07-09"
+        }
+      ],
+      "outlook": "今週のAIニュースを総合すると、技術競争の焦点がモデル性能からコスト構造・インフラ持続可能性・信頼性へと移行しつつあることが鮮明になった。DeepSeekの大幅値下げが示すように、安価なモデルだけでは企業収益は改善されず、周辺エコシステム全体の効率化が次の勝負どころとなる。一方、MetaのAI検出ツールの失敗やアイルランドの電力問題は、AIの急速な普及が生むインフラ・信頼性リスクを浮き彫りにしている。TCSの大規模採用計画は、AI実装を担う「人材」の争奪戦が本格化することを示唆しており、エストニアの事例はAIが国家統治にも深く組み込まれる段階に入ったことを象徴している。今後は技術開発競争と並行して、信頼性・持続可能性・ガバナンスをめぐる議論がAI産業の中心課題になるだろう。"
+    },
     {
       "date": "2026-07-12",
       "items": [
