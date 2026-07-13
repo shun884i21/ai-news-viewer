@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-13T07:57:34+09:00",
+  "updatedAt": "2026-07-14T08:02:01+09:00",
   "days": [
+    {
+      "date": "2026-07-14",
+      "items": [
+        {
+          "title": "TSMCがAI需要でQ2過去最高売上——36%増収でAIインフラ投資の勢いを証明",
+          "summary": "TSMCが2026年第2四半期の売上高が前年同期比36%増となり、過去最高を記録した。高性能AIチップ向け先端プロセスの需要がけん引しており、NvidiaやAMDなど主要顧客からの大口受注が継続していることを示す。ウォール街で続くAI設備投資の持続性に関する議論に対し、半導体サプライチェーンの実態データが強力な反証を提示した形だ。AI向けデータセンター投資がピークを過ぎたとの懸念を払拭し、今後の業界拡大を示す指標として注目される。",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEVtckxTOVlzOGY4clpUVGtUcEpoUTc1Qjg5NWxTUFh3TFRwbjJyTkhSLXh0d1AxVE5JRUJOVlVMQWxVT2NUMERNSzBRc1lWYnQyX0x2S0hjci1kLTNTTm9aQ3BaTWpvRHdqemxSYXZiSmVuQXI5eUdJblYxa01wSnl0U085Z056NldneVZBNVQ3VzBKTTVPZHlkRVRzR2JZX3J1NG1GVnk1WmRRUjlmNHBvYUFaekNQS1VMYw?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-07-13"
+        },
+        {
+          "title": "ホワイトハウスがAI電力コスト抑制へ電力会社・データセンターに協力要請——エネルギー問題が政策課題に浮上",
+          "summary": "米ホワイトハウスが電力会社とデータセンター事業者に対し、AI関連の電力コストを抑制する誓約への参加を呼びかける動きに出ていることが報じられた。AI需要急増によるデータセンターの電力消費拡大が電気料金を押し上げ、一般消費者や製造業への影響が懸念されている。政府がエネルギーコストと電力インフラへの影響を「AI政策」の中心課題として位置付け始めた点は重要な転換点を示す。アイルランドのデータセンター問題と同様に、AIのエネルギー問題は各国で政策対応を迫る段階に入っている。",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQW9VcURIMWNFdXRxakJ3c3ZHcnJucDRjY0NZU3k2b2tJM1V4SnNYT0ZlVWZwQ3E0LUFIaXlJWnk2aDU1OTFIVkQzRVgxWmJDZXUtS09wZkFuUmhfbGVWOHNEbDA2azVBQXA3ZlZpR2Z5RHQyd1N5aC1GbWE2cUprZS16QzNrdFBRdHdvQlRJWDNRLWpKQkY1ZjBVWElWbVlmMmxFbUF5R3pDc1ZMc3FlTExHZw?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-07-14"
+        },
+        {
+          "title": "習近平が中国主要AIサミットに初登場——米中AI覇権争いが新局面へ",
+          "summary": "習近平国家主席が中国のフラッグシップAIサミットに初めて登壇する予定であることが明らかになった。米国との技術競争が激化する中、中国政府がAIを国家戦略の最優先課題として位置付けていることを改めて内外に示す狙いがあるとみられる。米国によるチップ輸出規制や中国モデルへの海外アクセス制限検討など圧力が高まる中での最高指導者の直接関与は、AI分野における国家間競争の象徴的な節目となる。今後の中国AI政策の方向性や国際的な標準化交渉にも影響を与える可能性がある。",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbGtFVlRObEVVVUd5Ymh0anpweHVHT3JUOUdNR3ZlcGJGTU90MFZwaUQyQmFiUlRvMFBEZk5DLXhDRmRPeDJld0JsMnBoaHZDcUlUSmxUejNpaXJETm9XMTcyWDM4UTN1Q1J5NGwxNXdIY2ZmN01WZEdsSVRNLWVtX0hPTjRFRmljelhWVW5FRENVVWFBUjA2UVo4cXVSaDYxMk04OF9JWDJPR1d5eXlXWHFaX2U0QQ?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-07-13"
+        },
+        {
+          "title": "サティア・ナデラがAIラボを「トロイの木馬」と警告——企業にIP保護を強く促す",
+          "summary": "MicrosoftのCEOサティア・ナデラが、大手AIラボの独自モデルを利用する企業に対し、自社の知的財産が危険にさらされる可能性があると異例の警告を発した。特に大規模プロプライエタリモデルがトロイの木馬として機能するリスクを指摘し、企業データの保護を強く呼びかけた。MicrosoftはOpenAIに巨額投資してきた当事者でもあるため、この発言は業界に大きな波紋を呼んでいる。AIサービス利用時のデータ主権やベンダー依存のリスクが改めて問われる契機となり、エンタープライズAI戦略に影響を与えそうだ。",
+          "url": "https://www.theregister.com/ai-and-ml/2026/07/13/microsoft-chief-turns-hostile-on-frontier-ai-labs-warns-companies-to-guard-their-ip/5270628",
+          "source": "The Register",
+          "publishedAt": "2026-07-14"
+        },
+        {
+          "title": "ノーベル賞受賞者ら200人超がAIの経済的影響への対策を緊急提言——雇用・格差問題で科学者が結集",
+          "summary": "ノーベル賞受賞者を含む200人以上の研究者や専門家が、AIが経済に与える影響への早急な対応を求める共同声明を発表した。自動化による雇用喪失や経済格差の拡大リスクを具体的に示し、政策立案者に実効的な措置を促している。AIの技術的進歩が加速する一方で、その社会経済的影響への対策が立法・政策面で追いついていないとの問題意識が背景にある。著名科学者の集団的な訴えは、AI規制・再分配政策の議論を国際的に加速させる可能性がある。",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUt1OTNadWljZVE1WXI3UzhWbC15R3h2eVpFWXFkY2wzeTcyWGNsaFZnYjc5TFhzTE1wX1RRQmdSRGJ5VkFRRzUxZUJ0N0tYdXBkZk1IdGlETTRfaDVXbUs2aTAtcjI3TU9UOFZKU1A3SEs0R25wWWNYTlFyZDZ2ejRGUkJiMjdYaFdOTE9zbmF5QTRxTTFzSmxGWHZqOUhYS1RfNFNGVFdYN00?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-07-13"
+        }
+      ],
+      "outlook": "TSMCの過去最高売上はAIインフラ投資の勢いが衰えていないことを示す一方、ホワイトハウスのエネルギーコスト対策や習近平のAIサミット登壇は、AI競争が純粋な技術・ビジネス領域を超え、エネルギー政策・地政学・社会経済政策を巻き込む「国家課題」へと昇格しつつあることを明確に示している。ナデラのIPリスク警告やノーベル賞受賞者らの経済影響提言は、急速なAI普及に対する「揺り戻し」の兆候でもあり、企業・政府ともにリスク管理と受益者設計の再考を迫られる局面に入りつつある。今後数週間は規制・政策動向と半導体サプライチェーンの動向が市場センチメントを大きく左右しそうだ。"
+    },
     {
       "date": "2026-07-13",
       "items": [
