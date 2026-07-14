@@ -2,29 +2,37 @@
 """毎朝のAIニュースを生成して news.json を更新する。
 
 GitHub Actions のクラウド上で動く想定（PC不要）。
-1. 5媒体のRSSから直近のAI関連記事を集める
-2. Claude API に渡して「最新5本＋日本語要約＋今後の展望」をJSONで作らせる
+1. 10媒体のRSSから直近のAI関連記事を集める
+2. Claudeに渡して「最新5本＋日本語要約＋今後の展望」をJSONで作らせる
 3. news.json の先頭に当日分を追加して書き出す（同日があれば置換、sampleは削除）
 
+生成バックエンドは2系統（メルマガ図解バッチと同方式）:
+  - CLAUDE_CODE_OAUTH_TOKEN があれば Claude Code CLI（サブスク枠・追加費用ゼロ）
+  - 無ければ / CLIが失敗したら Anthropic API（従量課金）にフォールバック
+
 必要な環境変数:
-  ANTHROPIC_API_KEY  … Claude API キー（GitHub Secrets で渡す）
-  NEWS_MODEL         … 任意。使用モデル（既定: claude-sonnet-4-6）
+  CLAUDE_CODE_OAUTH_TOKEN … Claude Codeの長期トークン（`claude setup-token`で発行）
+  ANTHROPIC_API_KEY       … Claude API キー（フォールバック用）
+  NEWS_MODEL              … 任意。API時のモデル（既定: claude-sonnet-4-6）
+  NEWS_CLI_MODEL          … 任意。CLI時のモデル（既定: sonnet）
+  NEWS_BACKEND            … 任意。"cli"/"api" を強制指定（既定: 自動判定）
 """
 
 import json
 import os
+import shutil
+import subprocess
 import sys
 import datetime
 import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
 
-import anthropic
-
 JST = datetime.timezone(datetime.timedelta(hours=9))
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NEWS_PATH = os.path.join(ROOT, "news.json")
 MODEL = os.environ.get("NEWS_MODEL", "claude-sonnet-4-6")
+CLI_MODEL = os.environ.get("NEWS_CLI_MODEL", "sonnet")
 
 # 主要テックメディアのRSS。BloombergとReutersはRSSが弱い/無いのでGoogleニュース経由で site 絞り込み。
 # 毎日5本を安定して確保するため候補元を広く取る（重複除外後も5本残るように）。
@@ -174,9 +182,54 @@ def gather():
     return pool
 
 
-def curate(pool, today, recent=None):
-    """Claude API に候補を渡して 5本＋展望のJSONを作らせる。"""
+def call_model_cli(prompt):
+    """Claude Code CLI（サブスク枠・追加費用ゼロ）で生成する。メルマガ図解バッチと同方式。"""
+    claude_bin = shutil.which("claude")
+    if not claude_bin:
+        raise RuntimeError("claude CLIが見つかりません（npm install -g @anthropic-ai/claude-code）")
+    env = dict(os.environ)
+    env.pop("ANTHROPIC_API_KEY", None)  # 誤ってAPI従量課金にならないようサブスク認証を強制
+    proc = subprocess.run(
+        [claude_bin, "-p", "--model", CLI_MODEL, "--output-format", "text"],
+        input=prompt, capture_output=True, text=True, encoding="utf-8",
+        timeout=600, env=env,
+    )
+    if proc.returncode != 0:
+        raise RuntimeError(f"claude CLIが異常終了 (code {proc.returncode}): {proc.stderr[:300]}")
+    return proc.stdout.strip()
+
+
+def call_model_api(prompt):
+    """Anthropic API（従量課金）で生成する。"""
+    import anthropic
     client = anthropic.Anthropic()
+    msg = client.messages.create(
+        model=MODEL,
+        max_tokens=4000,
+        messages=[{"role": "user", "content": prompt}],
+    )
+    return "".join(b.text for b in msg.content if b.type == "text").strip()
+
+
+def call_model(prompt):
+    """バックエンドを自動選択して生成。CLI優先（無料）、失敗時はAPIへフォールバック。"""
+    backend = os.environ.get("NEWS_BACKEND") or (
+        "cli" if os.environ.get("CLAUDE_CODE_OAUTH_TOKEN") else "api"
+    )
+    if backend == "cli":
+        print(f"[info] バックエンド: Claude Code CLI（サブスク枠・model={CLI_MODEL}）", file=sys.stderr)
+        try:
+            return call_model_cli(prompt)
+        except Exception as e:
+            if not os.environ.get("ANTHROPIC_API_KEY"):
+                raise
+            print(f"[warn] CLI失敗のためAPIへフォールバック: {e}", file=sys.stderr)
+    print(f"[info] バックエンド: Anthropic API（従量課金・model={MODEL}）", file=sys.stderr)
+    return call_model_api(prompt)
+
+
+def curate(pool, today, recent=None):
+    """Claudeに候補を渡して 5本＋展望のJSONを作らせる。"""
     catalog = "\n".join(
         f"- [{p['source']}] {p['title']} ({p['publishedAt'] or '日付不明'})\n  url: {p['url']}\n  snippet: {p['snippet']}"
         for p in pool
@@ -216,16 +269,18 @@ def curate(pool, today, recent=None):
 候補記事:
 {catalog}
 """
-    msg = client.messages.create(
-        model=MODEL,
-        max_tokens=4000,
-        messages=[{"role": "user", "content": prompt}],
-    )
-    text = "".join(b.text for b in msg.content if b.type == "text").strip()
+    text = call_model(prompt)
     # ```json フェンスが付いた場合に備えて剥がす
     if text.startswith("```"):
         text = text.split("\n", 1)[1].rsplit("```", 1)[0]
-    data = json.loads(text)
+    try:
+        data = json.loads(text)
+    except json.JSONDecodeError:
+        # 前後に文章が付いた場合に備え、最初の{〜最後の}を切り出して再試行
+        s, e = text.find("{"), text.rfind("}")
+        if s == -1 or e == -1:
+            raise
+        data = json.loads(text[s:e + 1])
     if not data.get("items"):
         raise SystemExit("[error] モデルが記事を返さなかった")
     return data

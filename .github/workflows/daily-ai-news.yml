@@ -16,6 +16,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -28,10 +29,17 @@ jobs:
       - name: Install deps
         run: pip install anthropic
 
+      # サブスク枠（追加費用ゼロ）で生成するためのCLI。メルマガ図解バッチと同方式。
+      - name: Install Claude Code CLI
+        run: npm install -g @anthropic-ai/claude-code
+
       - name: Generate news
         env:
+          # CLAUDE_CODE_OAUTH_TOKEN があればサブスク枠（無料）、無ければAPIキー（従量課金）で動く
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           NEWS_MODEL: claude-sonnet-4-6
+          NEWS_CLI_MODEL: sonnet
         run: python scripts/fetch_daily_news.py
 
       - name: Commit & push if changed
