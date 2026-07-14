@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-14T08:02:01+09:00",
+  "updatedAt": "2026-07-15T08:02:52+09:00",
   "days": [
+    {
+      "date": "2026-07-15",
+      "items": [
+        {
+          "title": "OpenAI初のハードウェア、画面なしで動く「AIスピーカー」と判明——Apple提訴の直後に浮上",
+          "summary": "Bloombergの報道によると、OpenAIが開発中の初のハードウェア製品は画面を持たず、カメラやセンサーで周囲を「理解」しながら物理的に動くAIスピーカー型デバイスだという。ChatGPTと音声で対話する新しい端末コンセプトで、年内発表の可能性も報じられた。この情報が浮上したのは、Appleが元従業員によるハードウェア機密窃取を巡りOpenAIを提訴した直後というタイミングで、両社の緊張関係にも注目が集まる。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+          "source": "The Verge",
+          "publishedAt": "2026-07-15"
+        },
+        {
+          "title": "Apple、刷新版SiriをiOS 27パブリックベータで全ユーザーに開放",
+          "summary": "Appleは火曜日にiOS 27のパブリックベータを公開し、開発者でなくても秋の正式リリース前にAI搭載の新Siriを試せるようにした。Wiredは新Siriを単なる音声アシスタントではなく、iPhone体験全体の「バックボーン」になりつつあると評価している。ZDNETは1カ月の先行利用を基に、旧Siriから大幅に進化した点を複数報告した。iOS/iPadOS双方でベータが提供され、対応機種にも注目が集まっている。",
+          "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-15"
+        },
+        {
+          "title": "ニューヨーク州、データセンター新設を1年間凍結——全米初のモラトリアム",
+          "summary": "ニューヨーク州が50メガワット超のデータセンター新設を1年間停止する措置に踏み切り、全米で初めてAI関連インフラの建設を一時凍結する州となった。環境負荷や電気料金への影響を懸念する声を受け、州は停止期間中にルール整備を進める方針。Ars Technicaは、この措置が今後広がりうる「反AIインフラ運動」のひな型になり得ると指摘しており、電力・環境問題がAI投資拡大の新たな制約要因として浮上している。",
+          "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-07-15"
+        },
+        {
+          "title": "DeepMind CEO、FINRA型の独立AI標準機関設立を提唱——業界の自主規制に限界",
+          "summary": "Google DeepMindのデミス・ハサビスCEOは、最先端AIモデルを検証し公開前のベストプラクティスを策定する、金融業界のFINRAをモデルとした独立標準機関の設立を提案した。The Registerによれば、これは業界の自主規制だけでは不十分だとの危機感を反映したもので、米国が主導して国際的な基準作りを急ぐべきだと訴えている。フロンティアモデルの急速な進化に対し、政府規制と業界自主規制の間を埋める新たな枠組みとして注目される。",
+          "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-15"
+        },
+        {
+          "title": "Meta、AIで休職・持病のある従業員を狙い撃ちしてレイオフか——元従業員26人が提訴",
+          "summary": "Meta元従業員26人が、同社が「コンステレーション」と呼ばれる業績データ分析AIツールを使い、休職中や障害・持病を抱える従業員を不当に選別してレイオフしたとして提訴した。Reuters発の報道をArs TechnicaやThe Vergeも報じており、Meta側は主張を否定している。AIによる人事判断が差別的な結果を招いた疑いがある事例として、企業のAI活用における法的リスクを浮き彫りにしている。",
+          "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-07-15"
+        }
+      ],
+      "outlook": "OpenAIの初ハードウェア構想やApple新Siriの一般公開は、AIが会話型UIから物理デバイス・OS基盤へと浸透する流れを示す一方、ニューヨーク州のデータセンター凍結やMetaの人事AI訴訟、DeepMindの標準機関提唱は、インフラ・雇用・ガバナンス面でAI拡大への反動と制度整備の必要性が同時に強まっていることを物語る。今後は各州・各国の規制対応と、企業のAI運用に対する法的責任の所在がより重要な論点になりそうだ。"
+    },
     {
       "date": "2026-07-14",
       "items": [
