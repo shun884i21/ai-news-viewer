@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-15T08:02:52+09:00",
+  "updatedAt": "2026-07-16T08:03:52+09:00",
   "days": [
+    {
+      "date": "2026-07-16",
+      "items": [
+        {
+          "title": "Thinking Machines Labが初のオープンモデル「Inkling」を公開——975億パラメータで動画・音声理解に対応",
+          "summary": "OpenAI元CTOミラ・ムラティ氏率いるThinking Machines Labが、設立から1年半を経て初の一般公開モデル「Inkling」をオープンウェイトで公開した。975億パラメータ規模のマルチモーダルモデルで、動画・音声の理解に対応し、低コストと検閲耐性を重視した設計が特徴という。企業が自社インフラやプライベートクラウドで自由にカスタマイズ・運用できる選択肢として、AnthropicやOpenAIの独占的なクローズドモデルに対抗する狙いがある。",
+          "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-16"
+        },
+        {
+          "title": "Apple Intelligence、アリババのQwen AIと組み中国当局の承認獲得——iPhoneのAI機能が中国市場へ",
+          "summary": "Appleが「Apple Intelligence」の中国投入について現地当局の承認を得たと複数の報道が伝えた。中国はAI規制により海外製生成AIサービスの提供を厳しく制限しており、Appleはアリババの「Qwen」AIと提携することでこの壁をクリアした形だ。iPhoneのAI機能が中国で使えないことは同市場でのシェア低下の一因とされてきており、今回の承認はAppleの巻き返し戦略における重要な一歩となる。中国当局へのサービス登録も確認されている。",
+          "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-16"
+        },
+        {
+          "title": "xAI、GrokでCSAM生成した男性を提訴——AIチャットボットの安全策回避が焦点に",
+          "summary": "イーロン・マスク率いるxAIが、AIチャットボット「Grok」を悪用し児童性的虐待素材(CSAM)を生成したとして、サウスカロライナ州の男性を提訴した。訴状では、被告が意図的に安全対策を回避し、非合意の画像を加工してCSAMを作成したと主張している。生成AIの悪用事例に対しプラットフォーム側が自ら法的措置に踏み切る珍しいケースとして注目され、AI企業の安全ガードレールの実効性が改めて問われる形となった。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+          "source": "The Verge",
+          "publishedAt": "2026-07-16"
+        },
+        {
+          "title": "OpenAI、Apple提訴の渦中で230ドルの光るキーボードを発売——Codex向け専用ハードウェア",
+          "summary": "OpenAIが、Appleとのハードウェア企業秘密窃取を巡る訴訟が続く最中、コーディングエージェントアプリ「Codex」と連携する230ドルの光るキーボード「Codex Micro」を発売した。複数のエージェントスレッドの稼働状況を一目で把握できるLEDインジケーターを搭載しているのが特徴という。OpenAI初の自社ブランドハードウェアであり、AIスピーカー開発の噂と合わせ、同社のハードウェア戦略が本格化しつつあることを示す動きだ。",
+          "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-16"
+        },
+        {
+          "title": "AI音楽生成Suno、ハッキングでYouTube等からの無断学習データ収集が発覚",
+          "summary": "AI音楽生成サービスSunoが、従業員の認証情報を悪用したハッキングによりソースコードが流出し、YouTube MusicやDeezer、Geniusなどから数百万曲・歌詞を無断でスクレイピングし学習データに使っていた実態が明らかになった。Sunoはこれまで学習データの内訳を公表してこなかったが、今回の流出で手法が初めて具体的に裏付けられた形だ。音楽業界とのライセンス交渉や著作権訴訟が続く中、AI企業のデータ収集手法への不信をさらに強める材料となりそうだ。",
+          "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-16"
+        }
+      ],
+      "outlook": "オープンモデル競争にThinking Machinesが本格参入したことで、モデル調達の選択肢多様化が加速しそうだ。Appleの中国AI承認は米中双方のAI規制と地政学の中で企業がどう折り合いをつけるかの試金石となる。一方でxAIの提訴やSunoのデータ収集問題は、生成AIの安全性・データ倫理を巡る法的リスクが今後さらに顕在化することを示唆しており、OpenAIのハードウェア展開を含め各社の事業多角化と規制対応のバランスが引き続き焦点となる。"
+    },
     {
       "date": "2026-07-15",
       "items": [
