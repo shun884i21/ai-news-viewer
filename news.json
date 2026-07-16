@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-16T08:03:52+09:00",
+  "updatedAt": "2026-07-17T08:04:27+09:00",
   "days": [
+    {
+      "date": "2026-07-17",
+      "items": [
+        {
+          "title": "中国Moonshot AI、2.8兆パラメータ「Kimi K3」を公開——史上最大のオープンソースモデル",
+          "summary": "アリババ出資の中国スタートアップMoonshot AIが、パラメータ数2.8兆の大規模言語モデル「Kimi K3」を公開した。オープンソースモデルとして史上最大規模とされ、ベンチマークでは米国トップクラスの非公開モデルと肩を並べる性能を示したという。中国発の巨大モデルが性能面で米勢に急接近したことで、オープンモデル競争と米中AI覇権争いに新たな緊張が生じている。低コストで高性能なモデルの選択肢が広がる一方、安全性・ガバナンス面の検証も課題となる。",
+          "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+          "source": "VentureBeat",
+          "publishedAt": "2026-07-17"
+        },
+        {
+          "title": "EU、GoogleにAndroidの検索・AI機能をライバル企業へ開放するよう正式命令",
+          "summary": "欧州連合はGoogleに対し、Androidの検索データやAI機能をライバル企業にも利用可能にするよう義務付ける決定を正式に下した。デジタル市場法（DMA）に基づく措置で、Googleは「ユーザーのプライバシーとセキュリティを危険にさらす」と反発しているという。Appleに対するSiri規制の動きと並び、EUがスマートフォンOSレベルでAI競争の公平性を強く求める姿勢を鮮明にした形だ。今後Android上でのAIアシスタント競争が激化し、Google一強体制に変化が生じる可能性がある。",
+          "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-07-17"
+        },
+        {
+          "title": "Googleの次期Gemini、社内目標未達で発売延期——AI開発競争の重圧露呈",
+          "summary": "Bloombergの報道によると、Googleの次期Geminiモデルの投入が、性能面で社内の目標水準に届かなかったことを理由に延期されたという。TSMCの好決算でAIインフラ投資への期待が高まる一方、開発現場では性能向上の壁に直面している実態が浮き彫りになった形だ。OpenAIやAnthropicとの最先端モデル競争が激しさを増す中、Googleにとっては痛手となりかねない。期待先行だったAI関連株にも影響が及ぶとの見方が市場では出ている。",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSlZfZWZLYTc0S3BpZ0hmcWNfSnNXQnJObDJWMFRLM2Nyb2hEX3FSVFZoTU1CTEp2WGVjREVoSGN1NmM3Wlo2RkZ5V3o0TUNocS1lcDktTlBLQ3ZHUS1DclV4eGgzUzgta29RY3NNY2hRdWdkVWVhdWVvOGJoWlM3eDhoc1ViQTgxQkRHc1FwTWg3OHlpQ0pYWG8yWFZ1NEltdUdieFdhcFJKNXNHVk1VZGRKY3dHcFN0?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-07-17"
+        },
+        {
+          "title": "OpenAI、モデルの弱点を突く「スーパーハッカーAI」GPT-Redを構築",
+          "summary": "OpenAIは自社モデルの安全性を高めるため、サイバー攻撃の模擬相手となる大規模言語モデル「GPT-Red」を開発したことを明らかにした。先週公開された最新の主力モデルGPT-5.6は、このGPT-Redを相手に訓練を重ねたことで、サイバー攻撃への防御力が過去最高水準に達したという。AIにAIを攻撃させて弱点を洗い出す手法は、急速に高度化する敵対的AI攻撃への対抗策として今後の業界標準になる可能性がある。安全性研究における「AI対AI」の構図が本格化してきたことを示す事例だ。",
+          "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-07-16"
+        },
+        {
+          "title": "29カ国、AI国際協力機関の設立に合意——多国間ガバナンスが本格始動",
+          "summary": "29カ国がAIに関する国際協力を推進する新たな機関の設立に合意する協定に署名した。詳細な権限や運営体制は今後詰められる見通しだが、各国がAIの標準化やリスク管理を巡り足並みを揃える動きとして注目される。業界内からも独立系のAI標準機関の必要性を訴える声が強まっていた中での多国間合意で、規制の枠組み強化を求める機運の高まりを裏付ける。米中対立が続く中、多国間協調体制がどこまで実効性を持つかが今後の焦点となる。",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTGF5ME1YRmJSTE42TWVWMDUyc1NkMlA2QVQxVlN6dkZuenF4RFcxSFlhUXk3eVZnUWZ3SzdZTDEzbTNVZzJ0NUhadERqUHQ1WmtvSl9aXzE1Qlh3UFdvR3ZXUmJDXzhycGJ0cUdtdXFVUFpzaTNWX3VBemlqUXh3UF95R2k5RTJKbjZFZ09MS3h0TUlnZ3FRMlN2T3lIc19qNGxLcmY1eTJwQVMyb2ZfNk03YjdST2hKRkg1TFFn?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-07-17"
+        }
+      ],
+      "outlook": "モデル性能競争は中国Moonshot AIのKimi K3登場で一段と激化する一方、Googleは社内基準未達によるGemini延期という足踏みを見せており、開発競争の重圧が表面化している。規制面ではEUのAndroid開放命令と29カ国によるAI協力機関設立が同時進行し、国際的なガバナンス構築が加速する見通しだ。安全性研究でも「AI対AI」の敵対的学習が主流化しつつあり、モデル開発・国際規制・安全性研究の三方面で今後の動向が注目される。"
+    },
     {
       "date": "2026-07-16",
       "items": [
