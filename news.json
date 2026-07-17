@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-17T08:04:27+09:00",
+  "updatedAt": "2026-07-18T07:56:37+09:00",
   "days": [
+    {
+      "date": "2026-07-18",
+      "items": [
+        {
+          "title": "Appleがエヌビディアを抜き時価総額世界一に——AI投資シフトが明暗分ける",
+          "summary": "AI関連銘柄で評価の揺り戻しが進む中、AppleがNvidiaを抜いて時価総額世界一の企業に返り咲いた。背景には半導体株がAI相場の過熱修正で急落する一方、Appleは刷新版Siriや自社ハードウェア戦略への期待から株価が堅調だったことがある。市場では「AIインフラ集中投資」から「AI応用・エコシステム」への評価シフトが指摘されている。AIブームの主役交代を象徴する出来事として注目を集めている。",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0dxV3BmWDRMVmZLTHI0bWpNR2hCVTVfdWloZGRCdnZxTUZNNnBQMGs1bm9oVGpiZVVtclBiNkIxQjF5NlFJY2JjalR4cTIyVEg1TVAycGZpakdXQUxZWEtZWEdMemFhVXFDX2RPX21HV05QMnpVU0REaFpOYjlUVVROV09RdFFURmdVS1FUeFRRcUtoZHdTd3ZKRjNjWVk?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-07-18"
+        },
+        {
+          "title": "中国Moonshotの新モデルが引き金——AI半導体株が弱気相場入り、個人投資家に打撃",
+          "summary": "中国Moonshot AIの新モデルの性能が市場予想を上回ったことが引き金となり、米中のAI半導体株が急落し弱気相場入りした。これまで105%上昇していたAI関連株の急激な巻き戻しが起き、レバレッジ型ファンドに集中投資していた個人投資家が大きな打撃を受けている。中国製オープンモデルの実力が米国のAI優位性への懸念を強め、投資家心理を揺さぶった形だ。半導体サプライチェーン全体への波及が警戒されている。",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaXJLOUktNlE1Tml0WDBNdDlZUEg1NUxZTFRuQnBmMUpJRk1rejh3Xzd0S3VkMVBhX0N2ZmczTGRUMnRXMnZRcFdHLVItNmtYTzJCSjh6NHdzMEtsVHdYbXZUNlBRTjlPblVXVXR0YWVSQy1xMUlaZWRoWjlZS25HelpqRUgxQmNKNnR3TUJRU09QSXk5SGFkblRDNng1S2huVjROVnlxdnlFc3ZtRkdDUw?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-07-17"
+        },
+        {
+          "title": "Databricksが評価額1880億ドルに到達——AI企業として急成長続く",
+          "summary": "データ分析基盤大手Databricksの企業価値が1880億ドルに達し、AI関連企業として存在感を高めている。同社はAI企業へと自己変革を進め、コーディング用途におけるオープンウェイトAIモデルのコスト優位性に関する独自調査も発表した。生成AIブームの「二番手」的存在として資金調達を重ね続けており、大型テック企業に匹敵する評価額を得たことは業界の関心を集めている。エンタープライズAI基盤市場での競争激化を象徴する動きだ。",
+          "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-18"
+        },
+        {
+          "title": "サンフランシスコ市、Apple・GoogleにAI「ヌード化」アプリの削除を要求",
+          "summary": "サンフランシスコ市法務当局は、女性や少女を標的にした「顔交換」型のAIヌード化アプリ13本について、Apple・Google両社に削除を求める警告状を送付した。これらのアプリは同意のない性的画像生成に悪用されており、収益を上げているプラットフォーム側の責任が問われている。AI生成画像による性的搾取への規制圧力が地方自治体レベルでも強まっていることを示す動きだ。両社の対応次第では他の自治体にも波及する可能性がある。",
+          "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+          "source": "Wired",
+          "publishedAt": "2026-07-17"
+        },
+        {
+          "title": "Capital One、AIエージェント型脆弱性検出ツール「VulnHunter」をオープンソース公開",
+          "summary": "米金融大手Capital Oneは、ソースコードの脆弱性を自動検出するエージェント型AIツール「VulnHunter」をオープンソースで公開した。攻撃者がどのように脆弱性に到達しうるかを可視化し、本番環境へのデプロイ前に修正案まで提示する点が特徴。社内開発のセキュリティ向けAIツールを外部公開する動きは珍しく、金融業界がAIによる自動脆弱性診断へ本格的にシフトしていることを示す。エンタープライズにおける安全なAI活用事例として注目される。",
+          "url": "https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do",
+          "source": "VentureBeat",
+          "publishedAt": "2026-07-18"
+        }
+      ],
+      "outlook": "AI関連株の急落と評価シフトは、インフラ投資偏重から実際の収益化・応用力を重視する局面への転換点となりそうだ。中国製オープンモデルの台頭は米国のAI優位性への懸念を強め、地政学的・市場的緊張が続く見通し。一方でAIヌード化アプリへの規制圧力やセキュリティツールの整備など、AI活用の負の側面への対応も本格化しており、企業・規制当局双方の動きが今後さらに加速すると見られる。"
+    },
     {
       "date": "2026-07-17",
       "items": [
