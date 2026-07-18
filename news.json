@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-18T07:56:37+09:00",
+  "updatedAt": "2026-07-19T07:57:42+09:00",
   "days": [
+    {
+      "date": "2026-07-19",
+      "items": [
+        {
+          "title": "米政府、AIモデルを審査する「FINRA型」監督機関の設立を検討",
+          "summary": "米政府が、証券業界の自主規制機関FINRAをモデルにした独立のAIモデル審査機関の設立を検討していると報じられた。主要AIモデルの安全性や性能を第三者が事前に検証する枠組みを目指す動きで、業界の自主規制だけでは限界があるとの指摘が背景にある。実現すればOpenAIやGoogle、Anthropicなど大手開発企業に対する初の統一的な連邦審査制度となる可能性がある。AI規制を巡る米国内の議論が具体的な制度設計の段階に入ったことを示す。",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN3BUb2lQbXdsMEZjLXcyY3ZlYkpmQm5JV3BKLWRvQ0NGRXVRaVlPeDBTNzRHRllLalp2aFVzUHVXSTFVUlVYOUVFWnZqUlJjTVQyN01EMmZjR1FLR1NrdVRVSjhFcE5PN2Rwcjd3S19qNHBmVWtrcVVIMHlwekFabTVWZXBpNkRyWlhnMVpoLUlZbF9qS0oyZU1EVEhrc1lRdzkycnIyQThlQnFkMFVnbFpBbw?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-07-18"
+        },
+        {
+          "title": "企業の54%がAIエージェントのセキュリティ事故を経験——認証情報共有が主因に",
+          "summary": "VentureBeatが107社の企業を調査した結果、54%が既にAIエージェント関連のセキュリティ事故または重大なニアミスを経験していたことが判明した。多くの企業がエージェントに実際のシステムやデータへのアクセス権を与える一方、権限管理の整備が追いついていない。専用IDを各エージェントに割り当てている企業は約3分の1にとどまり、大半は認証情報を共有したまま運用している。エージェント活用の急拡大にセキュリティ体制が後手に回っている実態が浮き彫りになった。",
+          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+          "source": "VentureBeat",
+          "publishedAt": "2026-07-17"
+        },
+        {
+          "title": "ヒト型ロボットへの不安から現代自動車の工場労働者がストライキ",
+          "summary": "現代自動車の工場で、ヒト型ロボット「アトラス」の導入計画への不安を理由に労働者がストライキを起こした。同社は2028年から米国工場を皮切りに最大2万5000体のアトラス・ロボットを配備する計画を掲げており、雇用喪失への懸念が労使対立に発展した。製造業でのAI・ロボット導入をめぐる摩擦が具体的な労働争議として表面化した事例で、自動車業界としては最大規模級の人型ロボット導入計画だけに、他メーカーの労使関係にも波及する可能性がある。",
+          "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-07-17"
+        },
+        {
+          "title": "「コンテキスト爆撃」がAIハッキングエージェントを無力化——プロンプトインジェクションが対抗策に",
+          "summary": "セキュリティ研究者らが、悪意あるAIエージェントによる攻撃を止める「コンテキスト爆撃」という手法を発見した。プロンプトインジェクションを逆手に取り、攻撃者側のAIエージェントに大量の無関係な情報を読み込ませることで、実害を及ぼす前に処理を停止・混乱させる仕組みだ。AIを使った自動サイバー攻撃が増える中、防御側もAI自身の弱点を突く新たな対抗手段を模索している実態を示す。攻守双方でAIを使う「AI対AI」のセキュリティ攻防が本格化していることを裏付ける事例といえる。",
+          "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+          "source": "Wired",
+          "publishedAt": "2026-07-18"
+        },
+        {
+          "title": "Patreon、AI学習用スクレイピングへの対応を「お願い」から「ブロック」に転換",
+          "summary": "クリエイター向けプラットフォームのPatreonが、AI企業による無断学習データ収集への対策を強化し、Cloudflareと連携してAIボットを積極的に遮断する方針に転じた。従来はrobots.txtでのスクレイピング拒否表明にとどまっていたが、実効性のある遮断技術に踏み込んだ形だ。クリエイターのコンテンツが同意なくAIモデルの学習に使われる問題への対応が、業界内で「お願い」から「実力行使」へと移行しつつあることを示す。他のコンテンツプラットフォームにも同様の防御策が広がる可能性がある。",
+          "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-17"
+        }
+      ],
+      "outlook": "AI規制は自主規制論から具体的な公的審査機関の検討へと段階が進み、同時に企業現場ではエージェント運用のセキュリティ管理体制の遅れが数字で裏付けられるなど「実装フェーズの課題」が顕在化している。ロボット導入による雇用不安や、コンテンツ保護のための技術的対抗策の広がりも含め、AIの社会実装が進むほど摩擦点も具体化していく展開が続きそうだ。"
+    },
     {
       "date": "2026-07-18",
       "items": [
