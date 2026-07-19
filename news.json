@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-19T07:57:42+09:00",
+  "updatedAt": "2026-07-20T08:00:22+09:00",
   "days": [
+    {
+      "date": "2026-07-20",
+      "items": [
+        {
+          "title": "中国Moonshot AI、6カ月以内のIPOを計画——「Kimi K3」の成功追い風に",
+          "summary": "中国のAIスタートアップMoonshot AIが、今後6カ月以内に新規株式公開(IPO)を目指していることがBloombergの報道で判明した。史上最大級のオープンソースモデル「Kimi K3」投入で技術力を世界に示したことが評価を押し上げ、上場準備を後押ししている。中国AI企業による大型上場は資金調達競争の面でも米中AI覇権争いの新たな焦点となる。具体的な上場先や規模は今後詰められる見通し。",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObkIwb3FxcDJpbndYYkJTMWlSbUI3VmVWMTNrXy1QRmQ1TmdJeElDMTRUYmlJWG14R3lqWks3S01WSUxCLVJXakd3QVJiRVAtLUVPUmZVelNGNVQ4OHZOYlFQd1lzV2o0YzN6MWp6V2FDdEdpTG1pbjJ5bHQweXJfOWI5dkhOYk50MHI4ZWgzX0VCMVJxYmRSMmhydFluRlFxY0hsLVJRVk1CUVRZX05tV28zTQ?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-07-20"
+        },
+        {
+          "title": "アリババのQwen、次期フラッグシップAIモデルのプレビューを公開",
+          "summary": "アリババ傘下のQwenチームが、次世代フラッグシップAIモデルのプレビュー版を公開したとBloombergが報じた。Moonshotの「Kimi K3」に続き、中国企業による大型オープンモデル競争がさらに激化していることを示す動きだ。米国勢に対抗する中国製AIの技術力向上を印象づけるものとして市場の関心を集めている。詳細な性能指標や正式リリース時期は今後明らかになる見通し。",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdWxzei1DVGFMSTdOMzhQdWVTXzg1SHdqNWlsaU81Tmphb1UxOUlvbVJFZXpBdTRlTXhQRTQzdWRlT1ZRWHNRTmV2alYyTlVVenljdEg4c1VZekJUUUhNZ0ZwQl9nMVZMVlgzWF9uWUJpdXpxaHNmRVJlZ19QdlJmTF80OFFPYnJ3enRENm5ka21oVVB2U3hDUjhqMVhYeUFwdHJJNw?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-07-19"
+        },
+        {
+          "title": "データセンター新設反対の抗議、全米42州で142件に——AI電力需要への社会的反発拡大",
+          "summary": "AI向けデータセンターの新設に反対する住民らが、全米42州で計142件の抗議活動を行ったとReutersが報じた。急増する電力需要や水資源への影響、地域の生活環境悪化への懸念が背景にあり、草の根の反対運動が全国規模に広がっている実態が浮かび上がった。ニューヨーク州の新設凍結など規制強化の流れとも連動し、AIインフラ拡大への社会的反発が政治問題として顕在化しつつある。",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYk5QUVhhdHdNUVZKT0xJVURINmc1UzZORTZpdGtnaGwxemxTSWZNUTR6MkE3SHY5RjYwSUlQSWFUSlV3RHJGSXJLcjBUWXRlNzBuREwzblp5aEtIdVFRZjJlZmt2dUF6QzNxY2hackV2NDlQbnVGbFBrRnlXOUdycTh1ck5RdUd6WndGOExPN2h5dkVuVUFEVnYzeHdxT1ViWElDZjRpNzFncVFmMEltNg?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-07-18"
+        },
+        {
+          "title": "AI利用で「知らない」と認めにくくなる——研究が指摘する自信過剰の落とし穴",
+          "summary": "AIチャットボットを利用する人ほど、自分が何かを知らないと認めにくくなる傾向があるとの研究結果をThe Registerが報じた。研究者によれば、AI利用者は正答率が下がる一方で自信度はむしろ高まるという逆説的な現象が確認されたという。AIが人間の判断力や知的謙虚さに与える心理的影響への懸念を示す新たな知見として、教育やビジネス現場での利用の在り方に一石を投じている。",
+          "url": "https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567",
+          "source": "The Register",
+          "publishedAt": "2026-07-19"
+        },
+        {
+          "title": "米政府、保険の「事前承認」判断にAI活用を試験導入——迅速化と患者アクセス制限の板挟み",
+          "summary": "米政府が医療保険の「事前承認(prior authorization)」判断にAIを活用する試験プログラムを進めていることをArs Technicaが報じた。事務処理の迅速化や医療機関の負担軽減が期待される一方、AIによる給付可否判断が患者の治療アクセスを不当に制限しかねないとの懸念も根強い。医療分野でのAI活用が効率化と権利保護のはざまにあることを象徴する事例として注目される。",
+          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-07-18"
+        }
+      ],
+      "outlook": "中国勢はMoonshotのIPO計画とQwenの新モデル投入で技術・資金の両面から攻勢を強めており、米中AI覇権争いは資本市場にも波及しつつある。一方で米国内ではデータセンター拡張への草の根の反発が全国化し、AIの心理的影響や医療分野での運用リスクを指摘する研究・報道も増えており、技術競争の裏でインフラ・倫理・社会受容性を巡る摩擦が同時進行で深まる展開が予想される。"
+    },
     {
       "date": "2026-07-19",
       "items": [
