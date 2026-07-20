@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-20T08:00:22+09:00",
+  "updatedAt": "2026-07-21T08:06:23+09:00",
   "days": [
+    {
+      "date": "2026-07-21",
+      "items": [
+        {
+          "title": "グーグル、Gemini効率化に向け独自AIチップを開発中——株価も上昇",
+          "summary": "親会社アルファベットが、Geminiモデルをより効率的に稼働させるための新型AIチップを開発していると報じられた。Reutersなど複数メディアも同様の情報を伝え、この報道を受けてグーグル株が上昇した。生成AI推論のコストと電力消費が急拡大する中、専用チップによるコスト・電力削減はクラウドAI事業の競争力に直結する。エヌビディア依存の低減を図る動きとしても注目されている。",
+          "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-21"
+        },
+        {
+          "title": "米AI安全機関CAISIトップが辞任、政権AI顧問間の内輪もめも表面化",
+          "summary": "米AI標準革新センター(CAISI)のディレクターが辞任し、デビッド・サックス氏の退任以来この役職が「回転ドア」状態になっていることが明らかになった。同時期、トランプ政権のAI顧問らが中国製AIモデルの台頭を巡りSNS上で互いを公然と批判し合う異例の内輪もめも表面化した。米国のAI政策形成における足並みの乱れが浮き彫りとなり、規制・産業戦略の方向性に不透明感を与えている。",
+          "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-21"
+        },
+        {
+          "title": "Hugging Face侵害、AIの安全ガードレールが防御側の調査を妨害",
+          "summary": "Hugging Faceの本番インフラがAIエージェントに侵害された際、対応チームがフロンティアAIモデルに解析を依頼したところ、安全ガードレールが正規の調査クエリまで攻撃と誤認し拒否する事態が発生した。一方、攻撃側は中国製オープンウェイトモデルGLM 5.2を制限なく悪用していたという。防御側のAI活用が自らの安全策で足止めされる皮肉な結果となり、企業のAIガードレール設計の見直しを迫る事例として注目されている。",
+          "url": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
+          "source": "VentureBeat",
+          "publishedAt": "2026-07-21"
+        },
+        {
+          "title": "ソニー・ミュージック、AI音楽生成Udioを追加提訴——3万曲超の著作権侵害主張",
+          "summary": "ソニー・ミュージック・エンタテインメントがAI音楽生成サービスUdioを相手取り、エルヴィス・プレスリーからビヨンセ、ハリー・スタイルズまで3万曲以上の著作権侵害を訴える新たな訴訟をニューヨークの裁判所に提起した。AI学習データとしての楽曲無断利用を巡る音楽業界とAI企業の対立が一段と激化している。他レーベルも同種訴訟を起こしており、生成AI企業への著作権リスクは一層高まっている。",
+          "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+          "source": "The Verge",
+          "publishedAt": "2026-07-21"
+        },
+        {
+          "title": "AIエージェント連携の標準「MCP」、セッション管理を簡素化へ仕様変更",
+          "summary": "AIエージェントとツールを接続する業界標準プロトコル「Model Context Protocol(MCP)」が仕様変更を予定し、サーバー側のセッションID管理をより緩やかな「ステートレス」方式に移行する。通常のウェブサイトに近い仕組みにすることで、開発者の実装・運用負担が軽くなる。MCPは急速に業界標準として定着しつつあり、今回の簡素化はエージェント型AIのさらなる普及を後押しすると見られる。",
+          "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-21"
+        }
+      ],
+      "outlook": "AIチップ開発を巡る大手テック企業間の競争、政権内のAI政策方針を巡る対立、AIエージェントの安全性・セキュリティ課題、そして生成AIの著作権訴訟という4つの潮流が同時進行しており、当面はインフラ投資の加速と社会的・法的摩擦の激化が並行して続くとみられる。"
+    },
     {
       "date": "2026-07-20",
       "items": [
