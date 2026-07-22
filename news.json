@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-22T08:04:13+09:00",
+  "updatedAt": "2026-07-23T08:12:10+09:00",
   "days": [
+    {
+      "date": "2026-07-23",
+      "items": [
+        {
+          "title": "AMD、アンソロピックにAIサーバーを大型供給——最大50億ドル出資も",
+          "summary": "AMDはアンソロピックに数百億ドル規模のAIサーバーを供給する契約を結び、さらに同社に最大50億ドルを出資する方向で合意した。エヌビディア一強とされてきたAI向け半導体市場でAMDが存在感を高める動きで、アンソロピックにとっても計算資源の調達先多様化につながる。Claudeモデルの需要拡大に伴うインフラ確保競争が、チップメーカーと大手AI企業の資本提携という形で加速している点が注目される。",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjQ4V2RqTUl4bWRtck5LZy1ST1VZNVBzcmswTUVyc3ZGcFNJeXlrRHpkUUIybkZSLUhoQXJtYUFKOHkzam15amh0dW5POHg2alBDMTRPRDQyWUUwUXBaX1czSWQtSGpXYlFvcGFRQ1p0WFZ3bndQYzlqdmZQSnN6NUhfbTdVYWZZNnBxYXZUYktkcVZu?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-07-23"
+        },
+        {
+          "title": "グーグル、AIクラウド好調で記録的増益——設備投資予想を再び上方修正",
+          "summary": "アルファベットが四半期決算を発表し、企業によるAI・AIインフラサービス導入が追い風となってクラウド部門が絶好調、記録的な増益を記録した。これを受けて同社はAI関連の設備投資計画を再び上方修正した。巨額のAI投資に懐疑的な見方もある中、クラウド収益の伸びがその正当性を裏付けた形となる。マイクロソフトやアマゾンなど競合とのAIインフラ投資競争は一段と激化する見通しだ。",
+          "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-23"
+        },
+        {
+          "title": "Poolside、10倍規模のライバルを凌ぐオープンウェイトのコーディングAI「Laguna S 2.1」公開",
+          "summary": "米サンフランシスコのAIラボPoolsideが、政府・国防機関向けにコーディングモデルを提供してきた実績を基に、最新モデル「Laguna S 2.1」を公開した。オープンウェイトで公開されており、規模で勝る大手ライバルモデルを性能面で上回ると主張している。巨大化競争ではなく「徹底した透明性」を武器にする戦略で、資金力の乏しい中堅AIラボが生き残る道を示した形だ。エンタープライズ向けコーディングAI市場での競争激化を象徴する動きといえる。",
+          "url": "https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size",
+          "source": "VentureBeat",
+          "publishedAt": "2026-07-22"
+        },
+        {
+          "title": "米陸軍、AIトークンを使い果たす——利用制限のメール通達",
+          "summary": "米陸軍の兵士らに対し、AIツールのトークン利用量が急速に枯渇しているとして利用を制限するよう求める通達メールが送られたことが明らかになった。「無制限」とされていたAI利用契約でも実際には供給上限があることを露呈した形で、政府機関でのAI活用が想定以上のペースで拡大している実態を示す。軍という大規模組織でのAIエージェント常用が、コストと供給の両面で新たな課題を突きつけている。",
+          "url": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-07-22"
+        },
+        {
+          "title": "OpenAI、企業向けAIエージェント運用基盤「Presence」を発表——コンサル型の高額課金へ",
+          "summary": "OpenAIは、企業が顧客対応や社内業務向けにリアルタイム音声エージェントやチャットボットを構築・運用できる新プラットフォーム「Presence」を発表した。エージェントが質問対応や社内システムへのアクセス、承認済みアクションの実行、人間へのエスカレーションまでを担う設計となっている。課金体系はコンサルティングさながらの「現場常駐型」の高額設定とされ、AIモデル自体の差別化が難しくなる中で導入支援に収益源を求める姿勢がうかがえる。エンタープライズAI導入の実装フェーズが競争の焦点になりつつある。",
+          "url": "https://www.theregister.com/ai-and-ml/2026/07/22/openai-tries-the-consulting-path-with-presence-charging-enterprises-boots-on-the-ground-prices-to-deploy-agents/5275867",
+          "source": "The Register",
+          "publishedAt": "2026-07-22"
+        }
+      ],
+      "outlook": "巨大テック各社は四半期決算を通じてAI投資の正当化を迫られており、クラウド収益の伸びがその成否を左右する構図が鮮明になった。半導体調達の多様化（AMD）やオープンウェイトモデルの台頭（Poolside）は、エヌビディア・大手クローズドモデル一強からの脱却を示唆する。一方で政府機関のAI利用急増や、モデル差別化の限界からコンサル型課金へ移るOpenAIの動きは、AI活用の焦点が「開発」から「運用・実装」へ移りつつあることを示している。"
+    },
     {
       "date": "2026-07-22",
       "items": [
