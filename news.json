@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-24T08:04:15+09:00",
+  "updatedAt": "2026-07-25T08:09:28+09:00",
   "days": [
+    {
+      "date": "2026-07-25",
+      "items": [
+        {
+          "title": "アンソロピック、低コスト新モデル「Claude Opus 5」公開——性能競争から効率重視へ",
+          "summary": "アンソロピックは新モデル「Claude Opus 5」を発表した。同社最上位モデルFable 5に匹敵する性能をおよそ半分のコストで実現するとしており、コーディングやエージェント運用、企業向けワークフロー向けに設計されている。今回の刷新は生の性能競争から日常利用の経済性へとAI開発の軸が移っていることを示す動きで、専門家は「能力の飛躍というより、トークン効率化が主眼」と分析している。プロンプトキャッシュ対応のツール変更なども盛り込まれ、企業の運用コスト圧縮につながると期待される。",
+          "url": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows",
+          "source": "VentureBeat",
+          "publishedAt": "2026-07-25"
+        },
+        {
+          "title": "エヌビディア・マイクロソフトら、米政府にオープンウェイトAI規制の見送りを要請",
+          "summary": "エヌビディアやマイクロソフト、ミストラルなど主要IT企業が連名で書簡を出し、中国製AIへの対応を検討する米政策当局に対し、オープンウェイトモデルへの広範な規制導入に反対する姿勢を示した。背景には中国Moonshot AIの「Kimi K3」がモデル蒸留疑惑とともに話題となり、米政府内で対中AI規制の議論が過熱していることがある。業界側は規制強化がイノベーションや米企業の競争力を損なうと主張しており、政策の行方が今後のAI開発の自由度を左右する焦点となっている。",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0tzQWRTUldfRzViemRTbXpHNFlLU1l2QzNkRmE0OFZxTkh4WkRtZThGSGRQaWNHMGhzZ01oVE5jeGUyYkNkMDJTTDV3Q1Ayb3l4cjFDOU1QcmVPeFNFLXItcFVESVJtZ1U5ZE1NUkc4Mkw1RTBDR3JDZGJkNXdraEFTZ213RHhIOG5vOTNLTk9fenJPNnFDM2RFY01uUHBGVklDckhsOXJ6UG1wNC1BWDhPYjk0LVU?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-07-25"
+        },
+        {
+          "title": "コーディングAI「Devin」のCognition、対話型AI「Poke」を買収——AIの\"個性\"が競争軸に",
+          "summary": "コーディングエージェント「Devin」を手がけるCognitionが、親しみやすい対話スタイルで知られるAIアシスタント「Poke」を買収した。Pokeの会話体験や対話モデルをDevinに統合する狙いで、AIアシスタントの性能だけでなく「どう対話するか」というパーソナリティ面が競争優位の重要な要素になりつつあることを象徴する動きだ。コーディング支援ツール市場が激化する中、使いやすさや親近感を差別化要因とする戦略が広がりつつある。",
+          "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-25"
+        },
+        {
+          "title": "リード・ホフマン氏らの新AIラボ「Prentis」、1億ドル調達に向け協議",
+          "summary": "LinkedIn共同創業者リード・ホフマン氏とジンガ創業者マーク・ピンカス氏が共同設立した新興AIラボ「Prentis」が、1億ドル規模の資金調達に向けて協議していることが分かった。同社は、コーディングよりも定型的なパソコン作業の自動化がAIの次の主要用途になると見込んでおり、業務自動化エージェント分野への参入を進めている。著名起業家による新興AIラボの相次ぐ立ち上げは、投資マネーが依然として基盤モデル以外の応用分野にも流れ込んでいることを示している。",
+          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-25"
+        },
+        {
+          "title": "「マグニフィセント・セブン」時価総額7970億ドル減——AI懐疑派がハイテク株売り",
+          "summary": "米ハイテク大手7社「マグニフィセント・セブン」の時価総額が、AI投資への懐疑的な見方の広がりを受けて約7970億ドル失われた。巨額の設備投資が続く一方で収益化ペースへの不安が投資家心理を冷やしており、各社の決算発表を控えて相場の緊張が高まっている。AIブームを牽引してきたハイテク株の急落は、市場がAI投資の持続可能性を厳しく問い直し始めた兆候とみられる。",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd3FDZWU4M0lzN0pmSTdmaFN1VnRWVkl4YUZTT1lvc2NsM2puNWFtRFliaGNiVk43a2RKSGs0OWg4Nkh2UG1jQTlvMkJCMjBvZ0h0NkwxSjUwVjZfUm9CaXlBSGMzdTEzNVRQMUhnZ05WejBtTzVLZjhNWUdJUDctdTNOVUc5bC1sM0I2NUI2QVBHckY3aE5tZHBUM2lLS0F5ZWJvbWhiZzBjUWJZQkxaVnE2RXE?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-07-24"
+        }
+      ],
+      "outlook": "コスト効率重視のモデル刷新競争、米中AI規制を巡る業界と政府の綱引き、そしてAI関連銘柄への懐疑的な見方が同時進行しており、次週の主要テック企業決算発表がAI投資の持続可能性を占う試金石になりそうだ。オープンウェイトモデルの扱いを巡る規制論議も政策発表次第で業界構図を大きく左右する可能性がある。"
+    },
     {
       "date": "2026-07-24",
       "items": [
