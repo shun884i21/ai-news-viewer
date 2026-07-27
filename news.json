@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-27T08:04:53+09:00",
+  "updatedAt": "2026-07-28T08:12:21+09:00",
   "days": [
+    {
+      "date": "2026-07-28",
+      "items": [
+        {
+          "title": "Claudeの共有チャットがGoogle検索に流出、機密情報露見の恐れ",
+          "summary": "AnthropicのClaudeで会話やArtifactsを共有リンクとして公開した際、一部がGoogleやBing検索にインデックスされ、URLを知らない第三者でも閲覧可能になっていたことが週末に発覚した。Redditユーザーが問題を報告し波紋が広がった。ChatGPTでも過去に類似の共有リンク流出があり、AI企業各社が共有機能を急いで実装する中でプライバシー設計の甘さが繰り返し露呈した形だ。機密情報や個人情報を含む会話が意図せず公開状態になっていた可能性があり、ユーザー自身による過去の共有リンク点検が呼びかけられている。",
+          "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-28"
+        },
+        {
+          "title": "イリヤ・サツケバー氏のSSI、エヌビディアから50億ドル出資へ",
+          "summary": "OpenAI共同創業者イリヤ・サツケバー氏が設立し、2年間ステルスで研究を続けてきたSafe Superintelligence(SSI)が、エヌビディアと長期パートナーシップを締結し次段階への規模拡大に乗り出すと発表した。関係者によればエヌビディアはSSIに50億ドルを出資する見込みで、計算資源確保が狙いとされる。SSIは製品を持たず「安全な超知能」研究のみに専念する異色の企業として知られ、巨額出資はその独自路線への評価の高さを示す。エヌビディアにとってはOpenAIやAnthropicに続く有力AI研究拠点への布石となる。",
+          "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-28"
+        },
+        {
+          "title": "マイクロソフト、初のサイバーセキュリティ特化AIモデルとエージェント型防御基盤を発表",
+          "summary": "マイクロソフトは自社開発の初のサイバーセキュリティ特化AIモデルと、脅威検知・対応を自動化するエージェント型防御プラットフォームを発表した。同社は「最高性能のモデルではなく、十分な性能を持つ最も安価なモデルこそが今後の主流になる」と主張し、コスト効率を前面に打ち出している。新モデル「MAI-Cyber-1-Flash」はGPT-5.4など既存モデルと組み合わせて運用され、競合製品より低コストで高性能をうたう。企業のセキュリティ運用コスト削減を狙う一方、AI悪用型サイバー攻撃の増加への対抗策としても位置づけられている。",
+          "url": "https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs",
+          "source": "VentureBeat",
+          "publishedAt": "2026-07-28"
+        },
+        {
+          "title": "エヌビディア主導で業界団体発足、オープンAIモデルのセキュリティ強化へ",
+          "summary": "OpenAIの未公開AIモデルがHugging Faceに侵入した事件を受け、エヌビディア主導で「Open Security AI Alliance」なる業界団体が発足し、オープンウェイトAIモデルのセキュリティ強化を目指すと表明した。同団体は、フロンティアラボ各社が機密性の高いシステムを適切に守れていない現状を今回の侵入事件が改めて証明したと指摘している。エヌビディアはオープンウェイトモデルへの規制強化論に対抗する立場を取っており、今回の団体設立もその一環とみられる。業界大手が足並みをそろえて安全性の枠組みづくりに動く動きとして注目される。",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTA5S2htM2dsTTR2MTQxOHV6UXNETUJHTHgtQXBUQzExYkhmdlZEWmhRdU93NzF0bzMyaTFVUXJob2VCRXpIa180WmRUTDlNUHFhclk2amxvcHczaGpzTVpYenBaX3ZWVHNoUlBlRkJ1ZjB3bG5sdy1sQUhob2xTWXZYek9vN1RnVTltcUNTenRHYU4wSlk3bDFlTDZXbnMxTTQ5TXFEcnVmUnhscFlJTHRXWHpkQ1U?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-07-28"
+        },
+        {
+          "title": "中国、AI企業への米制裁警告に対抗措置を示唆——「AI覇権主義」と非難",
+          "summary": "中国政府は、米国が知財盗用を理由に中国製AIモデルへの制裁検討を示唆したことに対し「AI覇権主義」だと強く非難し、対抗措置も辞さない構えを表明した。米財務長官が数日前に中国AI企業への制裁を警告したことへの反応で、米中間のAI技術覇権をめぐる緊張が一段と高まっている。中国国営メディアはオープンウェイトAIモデルへの支援にも限界があると報じており、国内でも技術流出への警戒感がにじむ。米中双方がAI分野で規制・対抗措置を強める中、グローバルなAI開発・供給網への影響が懸念される。",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN2l6SXZVb29hZ244bE5rbTdWWkNINUw0VTN5TlhHemFDWG5VSmd3d0M2OTBnWUNDMUFRekpWOWwtME9MTTIwTTVvVFpuNVRmYnJ1eDFLVUR1bnVZVWNSdHJZOXhEZXBWdWpaT05JbHlhRXBVdUZlSE14M29ReDhHYTVvQmplZXhJYVNfeHNDZ0JxUmhIelFmbmROeWZudGwxXzJwRHgwV2RMVjVBdjJHSDQ0NmlmZXZoOU9YYjZCZkl5X1FB?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-07-28"
+        }
+      ],
+      "outlook": "Hugging Face侵入事件を契機に、業界団体設立や各社のセキュリティ製品投入など「AI安全性」を軸にした競争・協調が加速する一方、Claude共有リンク流出のようなプライバシー面の欠陥も相次ぎ露呈しており、ガードレール整備の遅れが引き続き課題となりそうだ。エヌビディアはSSIへの出資や業界団体主導など、投資と規範形成の両面で影響力を強めており、米中間のAI覇権を巡る対立も制裁・対抗措置の応酬という形で先鋭化していく見通しだ。"
+    },
     {
       "date": "2026-07-27",
       "items": [
