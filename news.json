@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-30T08:05:35+09:00",
+  "updatedAt": "2026-07-31T08:13:51+09:00",
   "days": [
+    {
+      "date": "2026-07-31",
+      "items": [
+        {
+          "title": "米連邦判事、アンソロピック「サプライチェーンリスク」認定に証拠不十分と指摘",
+          "summary": "米連邦判事は、トランプ政権がアンソロピックのAI技術を「サプライチェーンリスク」に指定した根拠について、十分な証拠を示せていないと判断した。この認定は同社製品の米政府調達や利用を事実上制限するもので、政権のAI規制強化路線の一環だった。判事の指摘により、政権による禁止措置の正当性に疑問符が付いた形となる。AI企業への政府規制の是非を巡る訴訟の行方は、今後の政策形成にも影響しそうだ。",
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-07-30"
+        },
+        {
+          "title": "グーグルDeepMind、全身制御可能なロボット向けAIモデル「Gemini Robotics 2」発表",
+          "summary": "グーグルDeepMindは、ヒューマノイドロボットの全身を制御できる新モデル「Gemini Robotics 2」を発表した。従来モデルは上半身の制御が中心だったが、新版は足先から指先まで含む全身の動作に対応する。同社は安全性の向上も強調しており、AIが物理世界で自律的に働く「フィジカルAGI」への一歩と位置付けられる。実世界での展開にはリスクも伴うため、安全対策の実効性が今後の焦点となる。",
+          "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+          "source": "The Verge",
+          "publishedAt": "2026-07-31"
+        },
+        {
+          "title": "OpenAI、小型モデルの価格を最大80%引き下げ——AI価格競争が激化",
+          "summary": "OpenAIはGPT-5.6シリーズのうち最小・最速モデル「Luna」の価格を80%、中位モデル「Terra」を20%引き下げると発表した。モデル性能を競う段階が一段落し、コスト重視の価格競争へ軸足が移りつつあることを示す動きだ。企業がAI活用コストを厳しく精査する中、OpenAIは低価格化で利用拡大を狙う。Reutersも、企業のAI支出見直し圧力が価格戦略に影響していると報じている。",
+          "url": "https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost",
+          "source": "VentureBeat",
+          "publishedAt": "2026-07-31"
+        },
+        {
+          "title": "LLMには「根本的欠陥」——攻撃に対し完全な安全確保は不可能と研究者ら",
+          "summary": "国際機械学習会議(ICML)で発表された論文で、研究者チームは大規模言語モデル（LLM）の仕組みそのものに起因する根本的欠陥により、攻撃に対し完全に安全なモデルを作ることは不可能だと主張した。この主張が正しければ、AIの安全性確保を巡る業界の取り組み全体に大きな影響を与えかねない。複数ターン型攻撃で安全対策が破られるとの調査結果も出ており、脆弱性への懸念が改めて浮き彫りになった。モデル設計自体の見直しを迫られるかが注目される。",
+          "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-07-30"
+        },
+        {
+          "title": "EU、AI「ギガファクトリー」7カ所整備へ100億ユーロ規模計画——米中に対抗",
+          "summary": "欧州連合(EU)は、AI向け大規模データセンター「AIギガファクトリー」を7カ所整備する計画を打ち出し、総額100億ユーロ規模の投資を見込んでいる。米国・中国が巨額投資でAIインフラ競争を主導する中、欧州は独自の計算基盤確保で対抗する狙いだ。域内のAI主権確保や産業競争力強化が背景にある。今後、資金調達や立地選定など具体化の過程が注目される。",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQemF1ckRFYmVucFp2NXhuNzA4cjNXdnNTdzcxWTBvdTJGU1NfTUdLbTFubnZEWFdjVFpGZWNBYi1CSGNTN3JPUEdzemU5TmFqQkYtU0dTb2JfS2NWa2ZvV0JfRW1pQzBubTBoS3ZEZ2VOaW9xX2dsT1c2NmZTOHpRSUU0X3REN01hb0MtRkFHYkkxbFZ5SHpsNlNmUG02UlN2Q1Y5RG5Zd2NWMWhBV0lwRWM2TlJ5Z0ZkdkE?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-07-30"
+        }
+      ],
+      "outlook": "モデル性能競争が一巡し価格・効率での攻防に軸足が移る一方、ロボティクスなど物理世界へのAI応用拡大、AIの根本的な安全性への疑義、各国・地域による規制やインフラ投資の主導権争いが同時進行している。今後は米欧の規制対応の行方と、LLMの安全性研究がどこまで実務に反映されるかが焦点となりそうだ。"
+    },
     {
       "date": "2026-07-30",
       "items": [
