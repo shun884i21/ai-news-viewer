@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-03T08:02:04+09:00",
+  "updatedAt": "2026-08-04T08:11:30+09:00",
   "days": [
+    {
+      "date": "2026-08-04",
+      "items": [
+        {
+          "title": "欧州でAI表示・透明性の新規則が施行",
+          "summary": "EUのAI法に基づく新たな透明性義務が8月2日付で発効した。企業はチャットボットとの対話や、AIが生成・編集したディープフェイクについて利用者に明示することが義務付けられる。対象は欧州域内で提供される主要チャットボットや画像・動画生成サービス全般に及ぶ。欧州委員会は偽情報対策の一環と説明しており、AI企業は表示システムの実装対応を迫られる。違反時の執行体制や運用実態は今後注視される見通しだ。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge",
+          "publishedAt": "2026-08-04"
+        },
+        {
+          "title": "アリババが最大規模の新型AI「Qwen」公開、DeepSeekも超低コスト新モデル",
+          "summary": "アリババが同社史上最大となる新型AIモデル「Qwen」を発表し、中国AI開発競争が一段と加速している。同時にDeepSeekも新モデルを公開し、調査会社によれば運用コストは主要モデルの中で群を抜いて安いという。米国の対中規制下でも、中国勢が性能とコストの両面で存在感を強めている構図が鮮明になった。両社の動きは、価格競争が激化するグローバルAI市場における中国企業の攻勢を象徴している。",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-03"
+        },
+        {
+          "title": "米企業のAI技術、ウクライナの自爆型ドローンに自律追尾能力を付与",
+          "summary": "米国のAI企業が、ウクライナ軍が使う安価な自爆型ドローン5万機に自律的な標的追尾能力を持たせる契約を結んだ。契約規模は約1億ドルとされ、将来的にはドローン群が連携して攻撃する「スワーム攻撃」への応用も視野に入れているという。低コストな民生技術とAIを組み合わせることで、戦場における非対称的な優位性を生み出す狙いがある。軍事分野へのAI実装が急速に進む実例として注目される。",
+          "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-08-04"
+        },
+        {
+          "title": "Googleの開発キットで「エージェント同士の攻撃」が初めて確認",
+          "summary": "Googleが提供するAIエージェント開発キットを悪用し、あるAIエージェントが別のエージェントを乗っ取る「エージェント間攻撃」が初めて確認された。悪意あるプルリクエストにプロンプトインジェクションを仕込むことで、片方のエージェントがもう一方を制御できてしまう手口だという。複数のAIエージェントが連携して働く「マルチエージェント」構成が広がる中、新たな攻撃面として注目される。開発者やセキュリティ研究者は対策の必要性を指摘している。",
+          "url": "https://www.theregister.com/security/2026/08/03/google-dev-kit-spurs-first-ever-agent-on-agent-violence/5282496",
+          "source": "The Register",
+          "publishedAt": "2026-08-04"
+        },
+        {
+          "title": "アマゾン、時価総額3兆ドル突破——AI・クラウド事業が牽引",
+          "summary": "アマゾンの時価総額がAIとクラウド事業の成長を追い風に3兆ドルを突破し、大手テック企業として「時価総額3兆ドルクラブ」の一角入りを果たした。AI関連需要の拡大がクラウド部門AWSの成長を押し上げていることが背景にある。巨大テック企業の株価がAI投資への期待で大きく変動する中、アマゾンの好調な業績はAI関連銘柄への信頼を下支えする材料となっている。一方で市場にはAI投資バブルへの懸念も根強く残る。",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT2h5X3dkMzhkV3ZxZ3UtZ2ZlMEh4bVVzeUF6RDlYS3R6SEFrSXlRRlJ6SDBCVFZITUV1eUYwX21VcFlIQkhrV05NM3Rudnp4LVNxNEN5WnlFM0FrSDZFNC1nX2dISGx5Z0xqQndiWHRqdkxDaHJ3ek5hcjNnZERtWTRnYThyd3MwRkVHdmg3djFLeFdFMFBLeW91NXVaVjUxQUpwSDhkUUpBa2hHNGxlcHVEbUc2NUlrUjdIYWhwcWFsZw?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-04"
+        }
+      ],
+      "outlook": "EUの表示義務発効を皮切りに各国でAI規制の実効性が問われる局面に入る一方、アリババ・DeepSeekなど中国勢のモデル攻勢は価格・性能両面での競争をさらに激化させそうだ。軍事分野やマルチエージェント環境へのAI実装が進むほど、自律型システムの安全性・セキュリティ管理が急務となる。アマゾンの時価総額3兆ドル到達はAI投資への期待の高さを示す一方、投資過熱への懸念も同時に強まっており、業績とインフラ投資のバランスが今後の焦点となる。"
+    },
     {
       "date": "2026-08-03",
       "items": [
