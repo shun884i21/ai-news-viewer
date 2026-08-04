@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-04T08:11:30+09:00",
+  "updatedAt": "2026-08-05T08:10:09+09:00",
   "days": [
+    {
+      "date": "2026-08-05",
+      "items": [
+        {
+          "title": "オープンウェイトAI、性能はフロンティア級も安全対策に遅れ",
+          "summary": "SaferAIの新報告書によると、中国Z.aiが公開したオープンウェイトモデル「GLM-5.2」は性能面で最先端のクローズドモデルに匹敵する水準に達した。一方で安全対策や不正利用防止の仕組みは大きく立ち遅れているという。オープンモデルの性能向上は開発者やスタートアップの選択肢を広げる利点がある反面、悪用や規制の枠外での拡散リスクを高める。研究者らは、統治や監視の枠組みが技術の進歩に追いついていない現状に警鐘を鳴らしている。",
+          "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-05"
+        },
+        {
+          "title": "アンソロピック、AIクラウド新興Voltaと1兆円規模の契約",
+          "summary": "アンソロピックが、AI向け計算力を提供する新興企業Voltaと約100億ドル規模の契約を結んだと報じられた。同社は近年、計算資源確保のため複数のクラウド企業と提携を重ねており、今回の契約はその一環とみられる。NvidiaやDellもVoltaに出資し、その評価額は24億ドルに達したとされる。AIモデルの学習・推論に必要な計算力をめぐる争奪戦が激化する中、資金力のある新興インフラ企業への投資が相次いでいることを示す事例だ。",
+          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-05"
+        },
+        {
+          "title": "Nvidia主導のAIセキュリティ連合、発足1週間で早くも成果",
+          "summary": "Nvidiaが主導し先週発足した業界団体「Open Secure AI Alliance」が、参加企業120社超に拡大し、早くもAIエージェント同士の攻撃を防ぐための具体的な提案を打ち出した。自律型AIエージェントの普及に伴い、エージェントを標的にした攻撃や乗っ取りのリスクが業界の懸念となっている。大手ハードウェア企業が主導する形で、業界横断の防御基準づくりが急ピッチで進んでいることを示す動き。標準化が実際の製品にどう反映されるかが今後の焦点となる。",
+          "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-05"
+        },
+        {
+          "title": "テキサス州、データセンターの新規電力接続を一時停止",
+          "summary": "「AIの拠点」を自認してきたテキサス州が、電力網への新規データセンター接続を一時停止すると発表した。AI関連の電力需要が想定を超えて急増し、既存の送電網が逼迫していることが背景にある。知事は需要急増の実態を把握するため監査の実施も指示した。低い規制と豊富な電力供給を売りに大型データセンターを誘致してきた同州でさえ、AIブームによる電力インフラへの負荷が限界に近づいていることを浮き彫りにした。",
+          "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-05"
+        },
+        {
+          "title": "トランプ政権、オープンウェイトAIモデルの安全性審査を見送りへ",
+          "summary": "ロイターの報道によると、トランプ政権の顧問らはAI企業に対し、オープンウェイト（重み公開型）モデルについて政府として安全性テストを実施しない方針を伝えた。米政権は近年、AI開発の速度を優先し規制を最小限に抑える姿勢を強めており、今回の方針もその流れに沿う。性能が急速に高まる一方で安全対策の遅れが指摘されるオープンモデルをめぐり、監督不在への懸念が強まる可能性がある。規制強化を進める欧州との対応の違いも改めて浮き彫りになった。",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1dFYnlpdVZxSzIyWnptbDAxbjlwMzNtdEFtVFRkYXQ5OWpxbTBBaU44LUg5Tl9oX2ZnT2R2REQ0S2JWdjVid1NkWmM5aUJyOTZFZE9lQnNRWHhhS1NIVXBsTW9CRGZoRHlQTVZTOXhzVndCYkxZUEFUcElGdG9leU1ISlpLaWJER3dZUC13NmQ2SjNGMVpPcXc4NzdrbWlhekFiV19aYWZKaGJCblhvNnVFbWo0UVJUSWQ4eWVCSHZtRXFqU01zOQ?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-05"
+        }
+      ],
+      "outlook": "オープンウェイトモデルの性能向上と安全ガバナンスの遅れという構図が、米政権の「安全性審査見送り」方針によってさらに際立ち、規制強化に動く欧州との溝は広がりそうだ。一方でAIインフラ投資は資金調達（Volta）と物理制約（テキサスの電力逼迫）の両面で転換点を迎えており、計算力確保競争が新たな局面に入る可能性がある。業界主導のセキュリティ連合の実効性も、今後の具体策の実装状況次第で試されることになる。"
+    },
     {
       "date": "2026-08-04",
       "items": [
