@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-05T08:10:09+09:00",
+  "updatedAt": "2026-08-06T08:08:25+09:00",
   "days": [
+    {
+      "date": "2026-08-06",
+      "items": [
+        {
+          "title": "Googleのジェフ・ディーン氏ら大物AI研究者、退社し新会社「Discovery Loop」設立",
+          "summary": "Googleのシニアフェローで著名なAI研究者ジェフ・ディーン氏が、複数の幹部とともに退社し新会社「Discovery Loop」を設立したことが判明した。創薬やチップ設計など幅広い分野でAIを使った科学的発見の加速を目指すという。Google内で長年AI研究を牽引してきた大物の離脱は、フロンティア研究者の争奪戦が激化する業界の縮図といえる。DeepMindの体制刷新発表と同時期であり、Googleの人材流出への懸念も広がっている。",
+          "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-05"
+        },
+        {
+          "title": "Google、DeepMindトップ人事を刷新——ハサビス氏は会長職へ",
+          "summary": "Google CEOのサンダー・ピチャイ氏は、DeepMindを率いてきたデミス・ハサビス氏を同部門の会長役に、Alphabet全体のチーフサイエンティストに任命する人事刷新を発表した。ハサビス氏は引き続き創薬AI子会社Isomorphic Labsの指揮を執るとしている。トップ研究者ジェフ・ディーン氏らの相次ぐ離脱と同時期の発表であり、Googleの研究開発体制の再編が急速に進んでいることを印象付けた。",
+          "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+          "source": "The Verge",
+          "publishedAt": "2026-08-06"
+        },
+        {
+          "title": "Meta、大規模コードベース対応のAIコーディングエージェント「Muse Code」発表",
+          "summary": "Metaは大規模コードベースに対応するAIコーディングエージェント「Muse Code」のベータ版と、コーディング特化モデル「Muse Spark 1.2」を発表した。ターミナルで動作し非同期でバックグラウンド実行できる持続的エージェントが特徴で、AnthropicのClaude CodeやOpenAIのCodexに真正面から挑む格好となる。AIコーディング市場の競争は一段と激化しており、大手各社が開発者の争奪戦を繰り広げている。",
+          "url": "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents",
+          "source": "VentureBeat",
+          "publishedAt": "2026-08-06"
+        },
+        {
+          "title": "Anthropic、自社AIチップ設計チームの採用を開始",
+          "summary": "Anthropicは自社設計のAIチップを開発する専門チームの採用を開始したことを明らかにした。モデルとハードウェアを一体で最適化する「コデザイン」により、Claudeの推論速度と効率を高める狙いがある。Nvidiaなどへの依存を減らしつつ独自の半導体戦略を進める動きは、GoogleやOpenAIなど競合他社の自前チップ開発路線に追随する形だ。巨額の計算資源需要が続く中、AI大手による半導体内製化の動きが一段と広がっている。",
+          "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-05"
+        },
+        {
+          "title": "JPモルガンCEOダイモン氏、業界横断のAIリスク対策を主導",
+          "summary": "JPモルガンのジェイミー・ダイモンCEOが主導し、AIの暴走やセキュリティリスクに対応するための業界横断的な新たな取り組みが立ち上がったことがReutersの取材で判明した。金融大手が自らAIリスク対策に乗り出す背景には、AIエージェントによる意図しないハッキング事案が相次いで発覚している事情がある。金融業界全体でAI活用が進む一方、規制当局に先んじて民間主導でリスク管理の枠組みを整える動きとして注目される。",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX1NwcnBhX3JkLWQ4NWJtbE9kUUctUWZnR1RhQ3FXQnZGX25fck5vZFo0YW5aV080SlVDdU0tYnFpeTViVV9QTEZXTFhlc2gtdENsczA2ejdjYUlPLVdVYTZ5cUk3R29WUEM3c0VMbGNlbndfMHcyWmowS0lCeTVkZEVVWF9ERGNFQ2tfQzVJenpfY2tjbGRzS1FySXNNU3FBcWk3RmxuamFtRW44?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-06"
+        }
+      ],
+      "outlook": "Google内ではDeepMind体制刷新と有力研究者の流出が同時進行し、AI人材獲得競争の激しさが浮き彫りになった。Metaのコーディングエージェント参入やAnthropicの自社チップ戦略は、モデルとインフラ両面で競争が次段階に入ったことを示している。金融業界も独自にAIリスク対策へ動き出しており、AIガバナンスは政府だけでなく民間主導でも進展していきそうだ。"
+    },
     {
       "date": "2026-08-05",
       "items": [
