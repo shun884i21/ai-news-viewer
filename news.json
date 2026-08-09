@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-09T07:37:26+09:00",
+  "updatedAt": "2026-08-10T07:39:10+09:00",
   "days": [
+    {
+      "date": "2026-08-10",
+      "items": [
+        {
+          "title": "アンソロピック、「Claude Code」のオート実行モードをデフォルトで有効化",
+          "summary": "アンソロピックは、AIコーディングツール「Claude Code」の自動実行（オートモード）を新たに標準で有効にすると発表した。これによりコード生成・実行時の人間による承認ステップが一段と減ることになる。エージェント型コーディングツールの自律性強化は開発効率向上につながる一方、意図しない操作やセキュリティ面での懸念も指摘される。AI各社が自律性を競う中、監督体制の在り方が改めて問われそうだ。",
+          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-10"
+        },
+        {
+          "title": "中国、28兆ドル規模の自国資本市場でAI覇権争いに対抗",
+          "summary": "ブルームバーグによると、中国は総額28兆ドル規模の自国資本市場を動員し、AI分野で米国に対抗する戦略を強めている。国内投資家や政府系資金をAI関連企業やインフラへ集中投入し、米国主導の巨額資金力に対抗する狙いだ。米中のAI覇権争いは技術開発競争にとどまらず、資金調達規模でも激化している。株式市場や産業政策を通じた国家的な資源投入が今後の競争力を左右するとみられる。",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdFdvZ2tPSDZZdVpMbUxQLXlSOGZTeHd3QlA1LXR5Y1M4d1ZlWnpIVkNRdjd2MTFmZmVGemFvYlJLUzVKeDBPUFdLUE9ENGY4RkhwaDBYY3U1V25DNHpTQUZFbVlUVXhUSnZ1TUJJbmlvNmhxZ3JOS1EyQlE5Yk9WSUhtUkd1U2ZqTzRBalVfOUlIa01ZRFZ3TVdJd09CVWRVckpaY2RxMlp5YjV6WTBMSXFZTjhLWFBLVWN5ekJ3?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-08-10"
+        },
+        {
+          "title": "主要AI企業、エージェント間の互換標準「Agent Plugins 1.0」策定へ",
+          "summary": "The Registerによると、主要AI企業各社が「Agent Plugins 1.0」と呼ばれる新標準の策定に動いている。異なるAIエージェント基盤間でツールやスキルを共通形式でやり取りできる、いわば「一度書けばどこでも動く」コンテナ仕様で、エージェント技術の乱立・断片化を防ぐ狙いがある。エージェントエコシステムが急拡大する中、相互運用性の確保は開発者の大きな関心事となっている。標準化が進めば企業間連携やエージェント活用の裾野拡大につながる可能性がある。",
+          "url": "https://www.theregister.com/devops/2026/08/07/ai-titans-to-tidy-agent-frontier-with-plugin-prescription/5285017",
+          "source": "The Register",
+          "publishedAt": "2026-08-08"
+        },
+        {
+          "title": "AIチャットボット、危機的状況の利用者対応で失敗続く——安全性データ開示求める声",
+          "summary": "Ars Technicaは、AIチャットボットが精神的危機にある利用者への対応で失敗を重ねている実態を報じた。臨床医や研究者は、AI企業各社に安全性に関するデータの開示を求めており、対話型AIが脆弱な立場のユーザーに与える影響の検証が不十分だと指摘している。生成AIの利用がメンタルヘルス領域にも広がる一方、リスク管理体制の整備が追いついていない現状が浮き彫りになった。企業側の透明性確保が今後の課題となる。",
+          "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-08-07"
+        },
+        {
+          "title": "アリババ、次期オープンソースAIモデルで大口利用者への課金検討",
+          "summary": "ロイターの報道によると、アリババは次期オープンソースAIモデルについて、大口利用の企業向けに新たな利用料を課す計画を検討している。これまで無償公開を軸にしてきたオープンウェイト戦略から一部路線転換となり、収益化を模索する動きとみられる。低コスト・高性能モデルの提供で存在感を高めてきた中国勢だが、開発・運用コストの増大が背景にある可能性がある。オープンソースAIの経済モデルにも影響を与えそうだ。",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbE5xeXpfUzZwaHRia2xzb1A2V3VQU0xPVmpLWG1rckR6dzJYUW51Y1NjdzdtQjUzWlFRdGVJcXE5Y29NZGlKMHdxZDU3dkpHY3BTREx3U0xjVXJ6S1QtSXgwb2xEeHpveEVuVmJIYTRkMDNTNE1lTlM4Wng3V2JMcTNYWExvWnpCZW4xWEdqQ2ktdThBWnJXX0haRW1TRjUwOExfVHBGQ1dHQTNibWNmTjRNQzVMb0ozTGRnMkx6dE9VbXNVR25BYmplc2ZoQQ?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-07"
+        }
+      ],
+      "outlook": "コーディングエージェントの自律性拡大や相互運用標準の整備が進む一方、脆弱なユーザーへの対応や安全性データの透明性確保が引き続き課題となる。米中間では資金力・資本市場を軸にしたAI覇権争いが一段と激しくなり、中国勢はオープンソース戦略の収益化にも着手し始めている。技術・資金・安全性の三方向で競争と規律強化の綱引きが続きそうだ。"
+    },
     {
       "date": "2026-08-09",
       "items": [
