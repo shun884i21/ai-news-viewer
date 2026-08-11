@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-11T07:47:01+09:00",
+  "updatedAt": "2026-08-12T07:52:06+09:00",
   "days": [
+    {
+      "date": "2026-08-12",
+      "items": [
+        {
+          "title": "Google「Gemini」利用者数が10億人突破、自社史上最速の成長に",
+          "summary": "GoogleのAIアシスタント「Gemini」アプリの月間利用者数が10億人を突破し、Google史上最速で成長した製品となった。CEOのスンダー・ピチャイ氏がX上で発表し、利用者の63%が音声機能で直接対話し、画像生成は1日1億5000万枚超に達するという。ChatGPTもほぼ同時期に10億人規模へ到達しており、主要チャットボットが軒並み巨大なユーザー基盤を築いたことになる。モデル刷新のペースが鈍化する中、この勢いを維持できるかが今後の焦点となる。",
+          "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-12"
+        },
+        {
+          "title": "OpenAI、長年のCOOブラッド・ライトキャップ氏が退社",
+          "summary": "OpenAIで8年間勤め、COOや特別プロジェクト責任者を務めたブラッド・ライトキャップ氏が退社し「新しいことを始める」と表明した。社内メモで、今後は別の立場から同社のミッションを支えたいと説明し、後にXにも投稿した。OpenAIでは近年幹部の退社が相次いでおり、急拡大する組織のガバナンスや経営体制への関心が高まっている。具体的な新事業の内容はまだ明らかにされていない。",
+          "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-12"
+        },
+        {
+          "title": "アンソロピックの未発表モデル、リーマン予想の研究で進展",
+          "summary": "アンソロピックの未発表AIモデルが、150年以上未解決の数学最大の難問の一つ「リーマン予想」の研究で、予想を上回る進展を見せたことが明らかになった。予想自体の証明には至っていないが、最先端の数学研究にAIが実質的に貢献し得ることを示す事例として注目される。AIモデルの数学的推論能力の高度化を象徴する出来事であり、科学研究へのAI活用の可能性を改めて印象づけた。正式発表や外部による検証が今後待たれる。",
+          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-12"
+        },
+        {
+          "title": "xAI共同創業者の新会社「River AI」、設立2カ月で11億ドル調達",
+          "summary": "xAIの共同創業者イゴール・バブシュキン氏が設立した「River AI」が、設立からわずか2カ月でゼネラル・カタリスト主導により11億ドルの資金を調達した。個人向けAIエージェントの開発を掲げるスタートアップで、創業直後の巨額調達は同分野への投資家の高い期待を反映している。xAI出身の人材が手がける新興企業として今後の製品展開が注目される一方、事業の詳細はまだ多くが明らかになっていない。",
+          "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-12"
+        },
+        {
+          "title": "Nvidia、1兆パラメータ級の新オープンモデル「Nemotron 4」を開発中",
+          "summary": "Nvidiaがオープンウェイトの新モデル「Nemotron 4」を開発しており、パラメータ数は1兆規模に達すると報じられた。The Informationの報道によれば、台頭する中国発のオープンモデルに対抗する狙いがあるとみられる。NvidiaはこれまでもNemotronシリーズでオープンモデル開発に注力しており、GPU販売に加えモデル層でも存在感を強めようとしている。性能の詳細や公開時期はまだ明らかにされていない。",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeGVjNVRkSGR4T3Q4dTFIdW5HTURnMFhhTFV5X0MybkFJd25KUDc4Qkw4OF9LZ2FDRHFRUHIxUWlxVFgwTE9QX1VSaVVjZ0hPYktVam9JWFNEeDBjODFDZDgxbFdOQVpIbzRhOFZkWm9vb3Ryemk5NzVON2FiYi1va1gtNS1tRC1UMkhIS0x0eTd4S1ppRldfQk56cnBDUXZpanNLczFaZnFoRlpuZUdXcTB5X1FQdw?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-12"
+        }
+      ],
+      "outlook": "GeminiとChatGPTが揃って10億ユーザーに到達し、生成AIの利用が社会インフラ化しつつある一方、OpenAIでは幹部退社が続き組織の安定性が注目材料となる。研究面ではアンソロピックのモデルが数学の難問に挑む成果を出すなどAIの能力向上が続き、資金面でも新興エージェント企業への大型投資が相次ぐ。Nvidiaが巨大オープンモデルの開発に乗り出すなど、インフラ企業とモデル開発企業の境界も曖昧になりつつあり、競争軸は利用者基盤・人材・オープンモデル性能の複数方向に広がりそうだ。"
+    },
     {
       "date": "2026-08-11",
       "items": [
