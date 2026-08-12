@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-12T07:52:06+09:00",
+  "updatedAt": "2026-08-13T07:50:40+09:00",
   "days": [
+    {
+      "date": "2026-08-13",
+      "items": [
+        {
+          "title": "台湾の原子力安全規制機関、「近自律型」AIエージェント群の攻撃を受ける",
+          "summary": "台湾の原子力安全規制機関が、人間の介入をほとんど受けずに連携動作する「近自律型」AIエージェント群による攻撃を受けたと報じられた。従来型のハッカーではなく自律的に判断・連携するエージェント群が重要インフラを標的にした事例として、セキュリティ専門家の間で強い警戒感が広がっている。原子力関連という機微なシステムが狙われたことで、自律型AIエージェントの兵器化が現実の脅威になりつつある実態が浮き彫りになった。各国政府に重要インフラ防衛体制の見直しを迫る可能性がある。",
+          "url": "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055",
+          "source": "The Register",
+          "publishedAt": "2026-08-13"
+        },
+        {
+          "title": "ホワイトハウス、AI政策の枠組み拡大へ——オープンモデルも対象に検討",
+          "summary": "ホワイトハウスがAI政策の枠組みを近く拡大する方向で検討していることが、関係者の話でワイアード誌に伝えられた。これまで規制の外に置かれがちだったオープンソースのAIモデルを新たな枠組みに組み込む案が浮上しているという。トランプ政権はAI規制に慎重な姿勢を取り続けてきたが、業界の急成長やエージェント暴走などのセキュリティ懸念の高まりを受け、方針転換を迫られつつある。具体的な内容は流動的だが、オープンモデル開発企業への影響が注目される。",
+          "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+          "source": "Wired",
+          "publishedAt": "2026-08-13"
+        },
+        {
+          "title": "Amazon、Twitch配信者のコンテンツを既定でAI学習利用へ——オプトアウト制に批判",
+          "summary": "Amazonが、傘下の配信プラットフォームTwitchのユーザー生成コンテンツを、生成AIモデルの学習に既定で利用する方針を発表した。配信映像やVOD、クリップ、チャット履歴などを学習に使われたくないストリーマーは、個別にオプトアウトする必要がある。Twitchの製品責任者マイク・ミントン氏はライブ配信で「オプトイン制にしたら誰も同意しないだろう」と発言し、批判を招いている。クリエイターの同意なきデータ利用を巡る議論が改めて表面化した形だ。",
+          "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-13"
+        },
+        {
+          "title": "xAI改めSpaceXAI、新モデル「Grok 4.6」発表——Kimi K3上回りGPT-5.6 Solに匹敵",
+          "summary": "イーロン・マスク氏率いるSpaceXAI(旧xAI)が新モデル「Grok 4.6」を発表した。長時間稼働するエージェントタスクやコーディング、知識労働への対応を強化しつつ、運用コストを抑える価格戦略を打ち出している。第三者評価機関Artificial Analysisのベンチマークでスコア61を記録し、中国Kimi K3を上回り、GPT-5.6 Solに匹敵する世界3位相当の性能と評価された。フロンティアモデル競争が激化する中、性能と価格の両面で存在感を示す狙いがある。",
+          "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
+          "source": "VentureBeat",
+          "publishedAt": "2026-08-13"
+        },
+        {
+          "title": "AIコーディングのCognition、評価額400億ドルでの新規調達を協議",
+          "summary": "AIコーディング支援スタートアップCognitionが、評価額400億ドルでの新たな資金調達に向け投資家と協議していると報じられた。同社はわずか数カ月前に評価額260億ドルで10億ドルを調達したばかりで、短期間での大幅な評価額上昇となる。同時期にAIコーディング競合のLovableも評価額130億ドル超で400万ドル規模の追加調達を発表しており、コーディングエージェント分野への投資熱がなお高いことを裏付けている。",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1YzbC1pbmE3QnN1WU95NGFWQlNrR1BlZnNfaDZvLXRKbXQ1NGJEYnlJckgyai01NFB5YkVuTWxXbGdrbW5SX1NxWUh3ek5kQ1BpM2lVV1RNME5NSUFtTzF3aVBESGhTYW5wVG9VZkdqRUt2MG1sNWhKV0x1NUE2Q0hKb2kzTkRLT19YNU9KU1JPMmthYUc3dWQwWE9malo2cG9kS2tlanBaM2N6R2hSaThR?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-08-12"
+        }
+      ],
+      "outlook": "自律型AIエージェントによる重要インフラへの攻撃と、それを追いかけるホワイトハウスの規制枠組み見直しは、ガバナンス整備が技術進化に追いついていない現状を示している。一方でGrok 4.6のような新モデル投入やCognition・Lovableの巨額調達は、開発・投資競争が依然として加速していることを物語り、規制と実装のギャップが今後さらに焦点になりそうだ。データ利用を巡るクリエイターとの摩擦も、AI企業のガバナンス課題として長期化する可能性がある。"
+    },
     {
       "date": "2026-08-12",
       "items": [
