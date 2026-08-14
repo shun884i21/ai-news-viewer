@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-14T07:52:18+09:00",
+  "updatedAt": "2026-08-15T07:31:05+09:00",
   "days": [
+    {
+      "date": "2026-08-15",
+      "items": [
+        {
+          "title": "SpaceX、AIコーディング企業「Cursor」を600億ドルで買収完了",
+          "summary": "イーロン・マスク率いるSpaceXが、AIコーディング支援ツールで知られるCursorの買収を600億ドルで完了させた。xAI改称の同社によるAI事業拡大の一環で、Cognitionなど競合スタートアップの評価額急騰が続く中、開発者向けAIツール市場での存在感強化を狙う動き。マスク傘下企業群がAIコーディング分野に本格参入することで、Claude CodeやGitHub Copilotとの競争構図に新たな変化が生じる可能性がある。",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV3NyUGdVQzdaclJuV1locDRId2R4LW9BQWd1VWs3bmtHSmo1XzRHamdnd1lJV2ZlOFpEVFBjeTVPSVNTZ3lLelhpZ1VHdmI0SHR3YWdBeVlkdlc4ZkhFNnY3VGk2U0t3aGN4RllYS0QtOHRUa2dESU5rbFZuQXdib28xQWlHVDhrMERpRzZRa29RZzZCWDlybG95eEJPUk5WN1JV?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-08-14"
+        },
+        {
+          "title": "Google、Gemini生成物の可視AI透かしを解除可能に",
+          "summary": "Googleは画像・動画・音楽生成AIツール「Gemini」と「Flow」で、生成物に付く「きらめき」マークの可視透かしをユーザーが任意でオフにできる新設定を導入した。ただし検出用の不可視ベンチマーク（電子指紋）は解除の影響を受けず残り続ける。AI生成コンテンツの透明性確保と利用者の利便性のバランスが改めて議論となりそうで、悪用や誤情報対策への影響が注目される。",
+          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "source": "The Verge",
+          "publishedAt": "2026-08-15"
+        },
+        {
+          "title": "DeepSeek、Claude Code対抗のオープンソース「Harness」とV4-Proを発表",
+          "summary": "中国DeepSeekは、AIエージェント向け開発ツール「DeepSeek Harness v0.1」をオープンソースで公開し、Anthropicの「Claude Code」に対抗する姿勢を鮮明にした。同時にエージェント処理に特化した新フラグシップモデル「DeepSeek-V4-Pro」もAPI経由で提供開始、価格は従来より引き上げられた。モデル層に留まらず開発者ツール層にも進出することで、米中間のAIエージェント開発競争が一段と激化する。",
+          "url": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
+          "source": "VentureBeat",
+          "publishedAt": "2026-08-14"
+        },
+        {
+          "title": "米政府、同盟国に対中AI競争で「陣営選択」迫る方針",
+          "summary": "ロイターの独占報道によると、米政府は同盟国・パートナー国に対し、AI技術スタックにおいて米国陣営か中国陣営かの選択を迫る新方針を伝える見通し。半導体輸出規制やインフラ調達の枠組みに波及する可能性があり、AI覇権を巡る地政学的分断がより明確な形をとりつつある。各国政府や企業のAI導入戦略にも影響を及ぼしそうだ。",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-15"
+        },
+        {
+          "title": "ロシアのミサイル、Nvidia製AIチップを標的照準に使用と判明",
+          "summary": "ウクライナを標的とするロシアのミサイルシステムに、Nvidia製AIチップが標的照準用途で使われていたことが明らかになった。ウクライナ政府は、輸出規制の抜け穴を経由して外国製半導体が兵器に転用されている実態を問題視し、より厳格な統制を各国に求めている。商用AI半導体の軍事転用リスクが改めて浮き彫りになり、輸出管理政策の見直し議論が加速しそうだ。",
+          "url": "https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976",
+          "source": "The Register",
+          "publishedAt": "2026-08-15"
+        }
+      ],
+      "outlook": "AIコーディング分野ではSpaceXによるCursor買収やDeepSeekのHarness投入により、Anthropic・OpenAI陣営と中国勢・マスク系列の開発者ツール競争がさらに激化しそうだ。一方で米国が同盟国にAI陣営選択を迫る動きや、AI半導体の軍事転用問題は、技術覇権を巡る地政学的分断を一段と深める可能性がある。生成AIの透明性を巡る制度設計（透かし解除など）も、今後の規制論議の焦点になりそうだ。"
+    },
     {
       "date": "2026-08-14",
       "items": [
