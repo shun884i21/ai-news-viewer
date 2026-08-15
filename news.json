@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-15T07:31:05+09:00",
+  "updatedAt": "2026-08-16T07:29:32+09:00",
   "days": [
+    {
+      "date": "2026-08-16",
+      "items": [
+        {
+          "title": "義父がGrokを悪用し児童の写真を性的画像に加工と女性が告発",
+          "summary": "ある女性が、義父がxAIの画像生成AI「Grok」を使い、自身の子ども時代の写真を性的搾取画像に加工したとTechCrunchに訴えた。彼女は生成AIが『日常の写真を児童性的虐待素材に変えている』と厳しく批判している。生成AIによる児童搾取被害の深刻化を示す事例として波紋を広げており、xAIの安全対策の不備や規制当局の対応強化を求める声が強まる可能性がある。",
+          "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-16"
+        },
+        {
+          "title": "中国Z.ai、サイバー攻防特化の新モデル「GLM-5.3」発表——Cursorの脆弱性も発見",
+          "summary": "中国のZ.ai（智譜）がオープン系新モデル「GLM-5.3」を発表した。長時間タスクのコーディング能力を大幅強化したほか、サイバー攻撃・防御能力の飛躍的向上が特徴で、公開直後にコーディングツール「Cursor」の『深刻な脆弱性』を発見したと報じられている。ロイターによれば防御性能はアンソロピックの新モデルに迫る水準とされ、攻守両用のAIがもたらす脅威と可能性が同時に注目を集めている。",
+          "url": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
+          "source": "VentureBeat",
+          "publishedAt": "2026-08-15"
+        },
+        {
+          "title": "アリババのAIモデル、累計ダウンロード30億件突破——Meta・Googleを上回る",
+          "summary": "ブルームバーグによると、アリババのオープンソースAIモデル群の累計ダウンロード数が30億件を突破し、MetaやGoogleを上回ったという。中国発のオープンモデルが世界の開発者コミュニティに急速に浸透している実態を示す数字で、米企業優位とされてきたAI開発の力学に変化を印象づける。オープンモデル競争における中国勢の存在感が一段と強まりそうだ。",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNkdXS05xRW1WQ2ItQmhUZEd1SVowVkJISVhwQ1Z5STF5dnJkV2pVRmExN1JoLXNEMkZKdGV1eGZnWnVvV2I1QllUZ3JJTktoeFdKa3JtY3NSMFlBRUYta3k5d2RJdnFzVUJIMGVGY2V0SThGTG94SlEzMl9KQWRsZkduN0RycGx1SjBGOVViQVNvbXE4TS1WdTU2MGhLNjhZLUtUVHM2WVF3ZGZKalBmOURR?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-08-15"
+        },
+        {
+          "title": "OpenAIとアンソロピック、中国AI台頭で価格競争に突入",
+          "summary": "Ars Technicaによると、OpenAIとアンソロピックはDeepSeekやGLMなど性能で急速に追い上げる中国勢AIに対抗し、相次いで低価格モデルを投入し始めた。両社は数千億ドル規模の評価額を背景に高価格戦略を維持してきたが、中国製オープンモデルの台頭が収益モデルを揺さぶり始めている。IPOを控えるアンソロピックなど、収益性と市場シェアの両立が今後の焦点となりそうだ。",
+          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-08-14"
+        },
+        {
+          "title": "アップル、アリババ支援で中国市場向け専用AIモデルを開発",
+          "summary": "ロイターの独自報道によると、アップルは中国市場向けに、アリババの技術支援を受けて専用のAIモデルを開発しているという。中国の規制環境や国産技術活用の要請に対応する狙いとみられ、既存のアリババとの提携関係を土台にした動きとされる。海外AI大手が中国事業を維持するため現地企業との協業を深める一例として注目される。",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDU1cndzcnNhVERISGg5M3psalAyTEVrR2JKSEExUTVoV0JkSjJZZVRIOW40N1lweld1bXEzYWRrNEZxb2w2YzctanRaNnRnckRJLWRINnlpVnlnbXZvSUxBRFN6QUNvb01UMXhXVmp3MDNDTnN2TGZveTdlam9Gem93RFFaZVFSazRzWUpmZXI0VlV3VU56cjZPUUNXQk9GTzFTdkpzMTdvRnF6RUllb1NMbm02OFFiUEJhQXhab1JjZ0w3QWhPT0VqUVZpc0xEYXBV?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-15"
+        }
+      ],
+      "outlook": "生成AIの悪用による児童搾取被害、サイバー攻防に強い中国製モデルの台頭、オープンモデルのシェア拡大、米大手の価格戦略転換、中国市場での現地化対応など、AIを巡る競争と安全性の課題が同時並行で進んでいる。各国の規制強化と企業間の価格・技術競争が今後さらに激化する見通しだ。"
+    },
     {
       "date": "2026-08-15",
       "items": [
