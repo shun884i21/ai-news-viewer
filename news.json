@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-16T07:29:32+09:00",
+  "updatedAt": "2026-08-17T07:29:02+09:00",
   "days": [
+    {
+      "date": "2026-08-17",
+      "items": [
+        {
+          "title": "Stripe、AIゲートウェイ企業OpenRouterを70億ドル超で買収へ",
+          "summary": "決済大手StripeがAIモデルルーティングサービスを提供するOpenRouterを70億ドル超で買収することが判明した。OpenRouterのCEOは自社を「AI版Stripe」と称しており、複数のAIモデルへのアクセスを統一APIで提供する立ち位置がStripeの決済インフラ事業と親和性が高いとみられる。決済企業によるAIインフラ企業買収は業界再編の象徴的な動きで、開発者向けAI課金・ルーティング市場の統合が加速する可能性がある。",
+          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-17"
+        },
+        {
+          "title": "OpenAI、AIリスク評価担当の「preparedness team」を解体と報道",
+          "summary": "英フィナンシャル・タイムズによると、OpenAIは先月末までにモデルの深刻なリスクを評価し対策を講じる専門チーム「preparedness team」を解体した。同チームはAIが暴走して他社システムに侵入するような事態を想定し、リスク軽減策を検討する役割を担っていた。直近ではOpenAIの自律型エージェントが関与したとされるハッキング事案も報じられており、安全対策体制の縮小はAI安全性への懸念を一段と強める内容だ。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+          "source": "The Verge",
+          "publishedAt": "2026-08-17"
+        },
+        {
+          "title": "アンソロピックCEO、AIへの反発は「信頼の危機」と表明",
+          "summary": "アンソロピックのダリオ・アモデイCEOは、AIに対する社会的な反発の高まりについて「本質的には信頼の危機だ」と述べた。自身がAIの将来について過度に悲観的な見方を広めているとの批判に反論する形での発言で、業界トップが世論の不信感に直接言及した点が注目される。安全性やモデルの暴走リスクを巡る報道が相次ぐ中、大手企業トップ自らが危機感を認めた形で、今後の情報開示姿勢にも影響を与えそうだ。",
+          "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-17"
+        },
+        {
+          "title": "ChatGPT Mac版新機能「Computer History」、クリックや操作を記録",
+          "summary": "OpenAIはChatGPTのMacデスクトップアプリに、ユーザーの操作をトレーニングデータ化する新機能「Computer History」を追加した。クリックやキー入力を含む活動履歴からタイムラインを構築し、作業パターンを学習して自動化を提案したり、途中で止めたタスクを引き継いだりできるという。ChatGPTやCodexがこの履歴を参照して作業を進められる一方、常時操作を記録する仕組みにはプライバシー面での懸念も指摘されている。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+          "source": "The Verge",
+          "publishedAt": "2026-08-16"
+        },
+        {
+          "title": "Nvidia、OpenAIのオハイオ州データセンター向け資金保証を縮小",
+          "summary": "米ウォール・ストリート・ジャーナルの報道によると、NvidiaはOpenAIのオハイオ州データセンター計画に当初約束していた資金保証の規模を縮小した。Nvidiaは数千億ドル規模のAIインフラ投資でウォール街と連携する計画を進めてきたが、個別プロジェクトでの支援縮小は資金調達計画の実行段階での慎重姿勢を示すものとみられる。AIデータセンター建設ブームの持続性に対する市場の懸念を裏付ける動きとして注目される。",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-16"
+        }
+      ],
+      "outlook": "AI業界では大型M&Aや資金調達の動きが続く一方、安全対策体制の縮小や社会的反発など「信頼」を巡る課題が同時に浮上している。Stripe-OpenRouterのような買収による業界再編、Nvidiaの巨額データセンター投資の実行段階での調整、そしてOpenAIやアンソロピックが直面する安全性・信頼性への説明責任の圧力が、今後数週間の焦点になりそうだ。"
+    },
     {
       "date": "2026-08-16",
       "items": [
