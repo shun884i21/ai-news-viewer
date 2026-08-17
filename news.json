@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-17T07:29:02+09:00",
+  "updatedAt": "2026-08-18T07:31:44+09:00",
   "days": [
+    {
+      "date": "2026-08-18",
+      "items": [
+        {
+          "title": "Nvidia、OpenAIのデータセンター計画に最大1050億ドル規模の資金保証——ソフトバンク系開発会社に15億ドル出資",
+          "summary": "Nvidiaが、OpenAIのデータセンター計画を手がけるソフトバンク系開発会社に最大15億ドルを出資すると発表した。この計画の第一段階に対しては最大1050億ドル規模の資金保証を行う枠組みも判明した。Nvidia製チップの採用を事実上確約させる投資で、AI向け電力・インフラ需要の急拡大を背景にチップメーカーが顧客の設備投資に直接関与する動きが強まっている。前日報じられた資金保証縮小の報道とは異なる新たな出資スキームで、OpenAIのインフラ調達戦略の複雑さを示す。",
+          "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-17"
+        },
+        {
+          "title": "Amazon、希少な古書をAI学習データ確保のため裁断・廃棄——隠しAirTagが発覚のきっかけに",
+          "summary": "Amazonが書籍のデジタル化を進める過程で、希少な古書を裁断・廃棄していたことが、隠し設置されたAirTagの追跡により発覚した。同社チームのロゴがティラノサウルスが本を貪り食う図案だったことも波紋を呼んでいる。希少本はウェブ上に出回っていない未学習テキストとしてLLM訓練用に極めて価値が高く、データ枯渇に直面するAI業界の需要の高さを映す。文化的資産の破壊とAI開発競争が衝突する事例として批判が広がっている。",
+          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-17"
+        },
+        {
+          "title": "AIチップのGroq、評価額35億ドルで350億円調達——「ネオクラウド」事業へ転換加速",
+          "summary": "AIチップ企業Groqが、評価額35億ドルで3億5000万ドルを調達したと発表した。同社は自社開発チップの販売から、Nvidia製GPUを用いたデータセンターを貸し出す「ネオクラウド」事業へと軸足を移しており、今回の資金はデータセンター拠点の拡張などに充てられる。AI半導体スタートアップが計算資源のクラウド提供者へと転換する潮流を象徴する動きで、Nvidiaとの提携関係も背景にあるとみられる。",
+          "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-17"
+        },
+        {
+          "title": "AIがSnowflakeのコード脆弱性を発見、別のAIエージェントが実際に悪用——バグバウンティで判明",
+          "summary": "米Snowflakeのコードにあった脆弱性を、あるAIがバグバウンティ調査中に発見し、別のAIエージェントがそれを実際に悪用してみせる事例が報告された。プログラムの一環として行われ実害はなかったが、AIが自律的に脆弱性を発見し、別のAIが攻撃に転用できることを実証した点で注目される。AIエージェントの能力向上に伴い、脆弱性発見から攻撃までが人手を介さず連鎖しうるリスクが改めて浮き彫りになった。",
+          "url": "https://www.theregister.com/security/2026/08/17/an-ai-broke-snowflakes-code-then-another-ai-agent-exploited-it/5288666",
+          "source": "The Register",
+          "publishedAt": "2026-08-17"
+        },
+        {
+          "title": "中国ByteDance、ハリウッド業界団体とAI著作権協定を締結",
+          "summary": "中国ByteDanceが、映画・テレビ業界団体とAI著作権に関する協定を締結したとロイターが報じた。生成AIによる映像・音声コンテンツの無断学習・生成を巡りハリウッドと中国テック企業の間で摩擦が続く中、具体的なルール整備に向けた動きとなる。詳細は明らかになっていないが、AI企業とコンテンツ業界の権利関係を巡る国際的な合意形成が進む兆しとして注目される。",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdU1ONEFWUlFsY1BRU3JteFBXbXd6YUx5NzBpMlRfZVdKT0xESnZ2cUxXckpiaDJ6S1BVek8zRWhlVmxkcEM3TEdpZVRSZmlSbUljWHRYUkhodnloNGd1bHpTeUU4dkhYLVVJTWZWQ2ZKSVIwN3ExXzhYNVdDcTJUeVdMNmRVeW1ER1N5dlNzbjllZFdPZ3VuUjdpUkJKR3RFNHZlY3J2ZlREY3RUVzM3T3Z6TQ?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-17"
+        }
+      ],
+      "outlook": "AIインフラへの投資は数百億〜千億ドル規模へと膨張を続け、チップメーカー自身が顧客のデータセンター建設に資金を投じる構図が常態化しつつある。一方でAI学習データを巡る倫理問題、AIエージェント同士が脆弱性を発見・悪用する新たなセキュリティリスク、コンテンツ業界との著作権ルール整備など、成長の裏側で摩擦も同時多発的に表面化している。"
+    },
     {
       "date": "2026-08-17",
       "items": [
