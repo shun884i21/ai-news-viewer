@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-19T07:30:53+09:00",
+  "updatedAt": "2026-08-20T07:31:54+09:00",
   "days": [
+    {
+      "date": "2026-08-20",
+      "items": [
+        {
+          "title": "Marvell、GoogleにカスタムAIチップ事業の122億ドル分株式取得権を付与",
+          "summary": "半導体大手Marvellが、Googleに対しカスタムAIチップ事業で122億ドル相当の株式を取得できるオプションを付与する契約を結んだと報じられた。GoogleはTPUなど自社設計AIチップの製造でMarvellとの協業を深めており、今回の権利付与はその関係強化を象徴する動きとみられる。巨大クラウド企業がNvidia依存からの脱却を狙い独自チップ開発への関与を強めるなか、Marvellにとっても大口顧客との長期的な結びつきを固める利点がある。AI半導体を巡る投資競争が新たな局面に入ったことを示す事例といえる。",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM25qTEk3MUd3ajdfTUxKdHdZRFBJLVpWT0ZKemNURzlTVUQ5SUNtVGF3WTF0N0NfRndKaENWdDRqVVBXSmZRS0xiY24wTFEyc1I3NWI5eU1PVDJxZ1lFb0Y1VVEzMDZmb2k2dkV3WmxhNk1LMG5HN3ItRmRwQ3lvQ2pjRU5JRDN3MXJpLWo5aGlJR3hyVG5EdkswS3k2RlhzMXU2cGctR1EzOE50Zk1PXw?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-20"
+        },
+        {
+          "title": "Cognition CEO、「SpaceXが買収を試みた」報道を否定",
+          "summary": "AIコーディング企業CognitionのCEOが、SpaceXが同社の買収を試みたとする報道を否定した。SpaceXは今月すでにライバルのAIコーディングスタートアップCursorを600億ドルで買収完了しており、OpenAIやAnthropicに対抗するためエンタープライズAI分野への進出を急いでいる。Cognitionは評価額400億ドルでの新規資金調達も協議中とされ、買収観測が浮上した背景には同社の存在感の高まりがある。報道の食い違いは、AIコーディング業界での激しい主導権争いを象徴している。",
+          "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-20"
+        },
+        {
+          "title": "米国人の過半数がAIに否定的な見方、若年層で特に強まる",
+          "summary": "米国の成人の過半数がAIに対して否定的な見方を示しているとの調査結果が明らかになった。特に30歳未満の若年層で懸念が強く、雇用喪失への不安が主な要因とされる。AI企業がデータセンター建設やサービス導入を急速に進める一方で消費者側の受容は追いついておらず、「利用が広がれば自然に受け入れられる」という業界の期待は崩れつつある。技術業界がAIへの反発を和らげるための広報戦略を強化する動きも出ており、世論とのギャップは今後の規制論議にも影響しそうだ。",
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/19/more-than-half-of-americans-now-view-ai-negatively/5289736",
+          "source": "The Register",
+          "publishedAt": "2026-08-20"
+        },
+        {
+          "title": "OpenAI、企業向けプライバシー保護を強化しAnthropicと差別化競争",
+          "summary": "OpenAIが企業顧客向けに新たなプライバシー保護機能を発表し、Anthropicとの競争が激化している。両社は法人データの取り扱いを巡り、どちらがより高い安全性とプライバシー保護を提供できるかで差別化を図っており、エンタープライズ市場の獲得競争の一環とみられる。企業向けAI導入が拡大する中、データ漏洩やモデル学習への転用への懸念は根強く、プライバシー対応がAI企業の競争力を左右する要素になりつつある。IPOを控えるOpenAIにとって信頼性を訴求する狙いもあるとみられる。",
+          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-20"
+        },
+        {
+          "title": "開発者ら、Claudeの不可視電子透かしの回避策を早くも発見",
+          "summary": "Anthropicは先週、EUの新規制に対応するためClaudeが生成するコンテンツに不可視の電子透かしを導入すると発表したが、開発者らは数時間のうちに回避策を発見しネット上で共有していると報じられた。透かしはAI生成物の識別を容易にし偽情報対策に資すると期待されていたが、技術的な回避が容易であれば規制の実効性が損なわれる懸念がある。Googleも先日Geminiの可視透かしを解除可能な問題が指摘されたばかりで、AI業界全体で透かし技術の信頼性が問われている。",
+          "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+          "source": "Wired",
+          "publishedAt": "2026-08-20"
+        }
+      ],
+      "outlook": "資金調達や買収を巡る動きは依然活発だが、世論の反発や規制対応技術の実効性への疑問など「受容の壁」が顕在化しつつある。半導体・データセンター投資が加速する一方、プライバシー保護や透かし技術の信頼性を巡る競争が次の焦点となりそうだ。"
+    },
     {
       "date": "2026-08-19",
       "items": [
