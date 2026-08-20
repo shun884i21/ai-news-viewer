@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-20T07:31:54+09:00",
+  "updatedAt": "2026-08-21T07:35:44+09:00",
   "days": [
+    {
+      "date": "2026-08-21",
+      "items": [
+        {
+          "title": "Greg Brockman氏、OpenAI社内で存在感増大——IPO準備の中で影響力拡大",
+          "summary": "OpenAIは今年、Elon Musk氏との陪審裁判、Appleからの営業秘密訴訟、未公開モデルによる他社ハッキング疑惑など波乱が続いた。こうした混乱の中、共同創業者グレッグ・ブロックマン氏の社内での役割と影響力が拡大しつつあると報じられた。IPO準備を進める同社にとって経営体制の安定化は急務であり、ブロックマン氏の台頭は組織運営や上場戦略にも波及するとみられる。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+          "source": "The Verge",
+          "publishedAt": "2026-08-21"
+        },
+        {
+          "title": "AnthropicとOpenAI、マサチューセッツ州の厳格AI規制案を巡り対立",
+          "summary": "米マサチューセッツ州が検討する厳格なAI安全規制案を巡り、AnthropicとOpenAIの立場の相違が表面化した。両社はAI安全性重視の姿勢を共有してきたが、規制の具体的内容や範囲では意見が分かれている。連邦レベルの包括的AI規制が停滞する中、州ごとの規制強化の動きが加速しており、業界大手同士の足並みの乱れは今後の政策論争に影響を与える可能性がある。",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlFBRWZSMEJKd2JBSGJVeWtqZXNLTTM5WlR5T2hiLTFha2l6WGhaamRZdnJ3bkI1SUV6enN0NVh4R3dwSDVzaU82ckE1SUlFOTl2X3NhbXdtaVlaMFNieXYxTE5Zc3VUSTB1WkpNNDc5SFg1NFFGUFFLY2NCVy1KYlJ3MGpjVVhoMHdxekhlaWdrZ3gxbU94aEZ6UkVJczVhX1N0ZWVPMWV4ZFpoa1RQZWI2MjU?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-08-20"
+        },
+        {
+          "title": "Nvidia、年内に中国向けAIチップ投入との報道を否定",
+          "summary": "Nvidiaは、年内に中国市場向けの新型AIチップを投入するとの報道内容を否定した。米中間の輸出規制を巡る緊張が続く中、同社の対中国AIチップ戦略は常に注目の的となっている。今回の否定は、米政府の対中規制方針や同社の収益見通しに関する憶測を打ち消す狙いとみられ、これまでも規制動向に応じて製品戦略を調整してきた経緯があり、今後の対応が引き続き注視される。",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-21"
+        },
+        {
+          "title": "ChatGPT登場以降のウェブページ、3分の1にAI関与の兆候——調査",
+          "summary": "ChatGPTの登場以降に公開されたウェブページのうち、約3分の1がAIによる執筆または編集の兆候を示しているとの調査結果が明らかになった。ChatGPTをはじめとするAIモデルがウェブ上の新規コンテンツの生成・編集に広範に関与している実態が浮き彫りになった。検索エンジンやAIの学習データの質、情報の信頼性への懸念が一段と高まる可能性があり、AI生成コンテンツの識別・開示を巡る議論が今後加速しそうだ。",
+          "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-21"
+        },
+        {
+          "title": "xAIのGrok、暗号化した悪意ある指示でユーザーデータ流出——新手の脆弱性",
+          "summary": "xAIのチャットボットGrokに、暗号化した悪意ある指示を与えることでユーザーデータを外部に流出させられる脆弱性が確認された。「暗号的コンテキスト注入」と呼ばれる手法で、LLMの安全ガードレールを回避する新たな攻撃手法の一つとされる。プロンプトインジェクション対策の限界を改めて示す事例であり、AIチャットボットのセキュリティ強化が急務であることを浮き彫りにした。同様の手法が他モデルにも通用するかが今後の焦点となる。",
+          "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-08-20"
+        }
+      ],
+      "outlook": "OpenAIの上場準備を巡る経営体制の変化、州レベルでのAI規制強化、米中間のAIチップ攻防、そしてAI生成コンテンツの拡大とセキュリティ脆弱性という4つの軸が並行して進行しており、企業ガバナンス・政策・技術リスクの各面でAI業界への監視の目が一段と強まっていくとみられる。"
+    },
     {
       "date": "2026-08-20",
       "items": [
