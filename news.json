@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-21T07:35:44+09:00",
+  "updatedAt": "2026-08-22T07:32:33+09:00",
   "days": [
+    {
+      "date": "2026-08-22",
+      "items": [
+        {
+          "title": "Nvidia研究、AIエージェントの性能を左右するのは「モデルより実行環境」",
+          "summary": "Nvidiaの新しい研究により、AIエージェントの性能を決めるのはモデル自体の能力よりも「ハーネス(実行環境)」の設計であることが示された。ファインチューニングを施せば、性能が劣るモデルでも脱線せず高いタスク遂行力を発揮できるという。関連研究では、小型モデルと大型モデルの間でタスクを引き継ぐ際に発生する高コストな再計算処理を、単純な線形代数で代替できることも判明した。エージェント基盤の設計競争が過熱するなか、モデル性能一辺倒からアーキテクチャ重視への転換を示す結果として注目される。",
+          "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-22"
+        },
+        {
+          "title": "Slack、AIコーディングエージェントをチャットに統合する「Slack Code」発表",
+          "summary": "Salesforce傘下のSlackが、AnthropicのClaude Code、CognitionのDevin、GitHub Copilot、Vercelのエージェントなどをグループチャットに埋め込む新製品「Slack Code」を発表した。従来ターミナルで完結していたAIコーディング作業を、チーム全員が見えるチャット上で進められるようにする狙いだ。エンジニア以外のメンバーもエージェントの進捗確認や介入がしやすくなり、開発の可視化と共同作業を促進する。企業向けAIコーディングエージェント争奪戦が激化する中、コミュニケーションツール大手が開発ワークフローの中心に食い込もうとする動きとして注目される。",
+          "url": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
+          "source": "VentureBeat",
+          "publishedAt": "2026-08-21"
+        },
+        {
+          "title": "DeepSeek、AnthropicのOpus 4.8に対抗する新テストモデルを発表",
+          "summary": "中国のAI企業DeepSeekが、AnthropicのフラッグシップモデルOpus 4.8に匹敵する性能を狙った新たなテストモデルを公開した。詳細なベンチマーク結果はまだ限定的だが、米中のAIモデル開発競争がさらに激化していることを示す動きだ。DeepSeekは低コストで高性能なモデルを相次いで投入し、欧米大手ラボの価格戦略にも影響を与えてきた経緯がある。今回の発表は、最上位モデル同士の性能競争でも中国勢が急速に追い上げていることを裏付けるものだ。",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR3dGaDI3T2lNQ3pHUExzeUpvYkN1a1ZLaXpQY0xSeXBBOFZFalR1RHI0VGg1R2ZuODRmaDZkc01PS0dENHNDSmQ5SXlnY3ZIWV95MFl5OGh4bi1NcEw1WWJQVzlxbWEwbC1JQldZY0NlaHpjTGUwajJzdGVXc3dvdjl5d1N3Mkl2Z09qM0VLRG4zd0ZHN21fc0piZTZPMGY1WFhHeUI3b28zYm1P?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-08-21"
+        },
+        {
+          "title": "アンソロピック、高度AIのデータ保持ポリシー変更へ",
+          "summary": "Anthropicが、高度なAIモデルに関するデータ保持ポリシーを変更する方針であることが明らかになった。具体的な変更内容は今後公表される見通しだが、企業顧客のプライバシー要求の高まりを受けた対応とみられる。ライバルのOpenAIも企業向けプライバシー保護の強化に動いており、両社はデータ管理面での差別化競争を繰り広げている。データ保持や監査可能性は企業がAI導入を判断する上で重要な基準になりつつあり、今回の方針転換は競争環境にも影響を与えそうだ。",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0dDcm5LNjRqTjcxaTdsWG8wTjBncjVoei1vT2dpOU5TQ05ieWNZOVhqYkQxZGpXclN2ekpMX084bl9udzJTRnhrd2dQNlBEem04bDBSZzhVR1plRF93VS15WDJGZElDSDhJbEVwcTZxRkJtNWxUc3YwZFhmX0JseFZfTXhkM0p5VWJrb3o0RXFCX3h5WkFEME1EQXE0VGdvcjhPYUxSZnhFblVzYjh6bGsyVmQ?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-08-21"
+        },
+        {
+          "title": "AI各社の学習データ確保による書籍破棄、擁護団体がFTCに苦情申し立て",
+          "summary": "AI学習データの確保を目的に企業が大量の書籍を廃棄・裁断している問題を巡り、複数の擁護団体が米連邦取引委員会(FTC)に正式に苦情を申し立てた。Amazonが希少な古書をAI学習用データ確保のため裁断・廃棄していた問題が先に報じられ物議を醸していたが、今回はその余波として規制当局への訴えに発展した形だ。団体側は文化的資産の破壊と、AI企業による学習データ調達プロセスの不透明さを問題視している。AI開発とコンテンツ保護のバランスを巡る議論が、規制当局の審査対象へと広がりつつある。",
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/21/ai-companies-are-burning-books-advocates-complain-to-ftc/5291299",
+          "source": "The Register",
+          "publishedAt": "2026-08-22"
+        }
+      ],
+      "outlook": "AIエージェントの実行基盤(ハーネス)を巡る技術競争、企業向けAIコーディングツールの争奪戦、そして中国勢によるトップモデルへの追い上げが同時進行している。今後は性能面だけでなく、データ保持や学習データ調達の透明性といった信頼・規制面の対応も業界の焦点になりそうだ。"
+    },
     {
       "date": "2026-08-21",
       "items": [
