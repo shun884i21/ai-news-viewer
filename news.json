@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-22T07:32:33+09:00",
+  "updatedAt": "2026-08-23T07:29:40+09:00",
   "days": [
+    {
+      "date": "2026-08-23",
+      "items": [
+        {
+          "title": "Anthropic、Google出身のチップ専門家を招聘——独自ハードウェア戦略を加速",
+          "summary": "Anthropicが自社製AIチップ開発に向け、Googleでカスタムシリコン開発を率いた人物を新たに迎え入れたと報じられた。これまで学習・推論の多くを外部ベンダーのチップに依存してきたが、独自ハードウェアへの投資を本格化させる狙いとみられる。OpenAIやGoogleも独自チップ開発を進めており、計算資源の内製化は主要AI企業共通の競争軸になりつつある。半導体供給や電力確保の逼迫が続く中、自社設計チップは長期的なコスト削減と性能最適化の切り札として期待されている。",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTEtlVWN3QmU2bFF2QzRyZDBJTUliblExZnM3d1JqcjBLN1V3TDI3MXFnaFdfV1Z5Yl9xRDJ4SkViQVhabEpVQVB4a2tuQ2xDV1doS0ZwWDBBVTJpcXJoS1c2Sk1WQ3p2aDNKYklaYjJpbTZPSENmSzBTQTVodndSWDBWUkJPWml6djBXNWJIazI5dkUtNENLQXZmM0puMzlidExXZnp4aG43WXcwZGZIc3NOR1A0Zw?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-08-22"
+        },
+        {
+          "title": "Nvidia、AI関連製品を15%超値上げへ——顧客に通知",
+          "summary": "NvidiaがAI関連製品について15%を超える値上げを顧客に通知したとBloombergが報じた。対象製品や具体的な理由の詳細は明らかになっていないが、AIチップ需要の急増や部材コストの上昇が背景にあるとみられる。同時期にAmazonもメモリ・ストレージ価格高騰を理由に自社ハードウェア製品を最大60%値上げしており、AI関連部材の逼迫が業界全体に波及している可能性がある。GPU価格の上昇はデータセンター投資コストを押し上げ、AIバブル懸念にもつながりかねない動きだ。",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-23"
+        },
+        {
+          "title": "英新興Inherent、研究再現AIエージェント「Faraday」発表——Anthropic・OpenAIを上回ると主張",
+          "summary": "DeepMind出身者が設立した英国のAIラボInherentが、科学論文の再現作業を担うAIエージェント「Faraday」を発表した。同社によれば、既存研究の再現性検証タスクにおいてAnthropicやOpenAIのモデルを上回る性能を示したという。研究再現は科学的発見の信頼性を支える地味だが重要な作業であり、これを自動化できれば創薬や基礎科学の検証速度を大きく高める可能性がある。大手ラボに対抗する新興プレイヤーの台頭は、フロンティアAI開発の裾野拡大を示す一例だ。",
+          "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-23"
+        },
+        {
+          "title": "OpenAI、カリフォルニア州AI安全法案の強化を要求——一転して支持表明",
+          "summary": "OpenAIは、以前反対していたカリフォルニア州のAI安全法案「SB53」について、内容をさらに強化すべきだとの立場を新たに表明した。同社の規制スタンス転換は業界内外で注目を集めている。AnthropicとOpenAIは既にマサチューセッツ州の規制案を巡って対立する立場を取っており、州レベルでのAI規制ルール形成において各社が異なる戦略を打ち出す構図が鮮明になっている。連邦レベルの統一ルールが未整備の中、州法対応は今後もAI企業にとって重要な政治課題であり続ける見通しだ。",
+          "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-23"
+        },
+        {
+          "title": "Nvidia研究、線形計算でAIモデル間の高コストな引き継ぎを代替可能に",
+          "summary": "Nvidiaの研究チームが、エージェント型AIが小規模モデルから大規模モデルへタスクを引き継ぐ際に発生する高コストな再計算を、単純な線形数学処理で代替できる可能性を示す研究成果を発表した。従来はモデル間でタスクを受け渡すたびに会話履歴全体を再計算する必要があり、これが長時間・複数ステップのエージェントワークフローにおける計算コストとレイテンシーの大きなボトルネックとなっていた。実用化されればエンタープライズ向けAIエージェント運用のコストを大幅に削減できる可能性があり、AI導入コストに悩む企業には朗報となりそうだ。",
+          "url": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs",
+          "source": "VentureBeat",
+          "publishedAt": "2026-08-22"
+        }
+      ],
+      "outlook": "ハードウェア内製化(Anthropic)、部材コスト上昇による値上げ圧力(Nvidia)、州レベル規制対応の複雑化(OpenAI)、そして研究再現や計算効率化を巡る技術進展(Inherent、Nvidia研究)が同時並行で進んでいる。今後はAI企業のコスト構造と規制対応力が、競争力を左右する重要な焦点になりそうだ。"
+    },
     {
       "date": "2026-08-22",
       "items": [
