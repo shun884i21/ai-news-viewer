@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-23T07:29:40+09:00",
+  "updatedAt": "2026-08-24T07:29:43+09:00",
   "days": [
+    {
+      "date": "2026-08-24",
+      "items": [
+        {
+          "title": "謎のステルスAIモデル「Ox Alpha」正体を巡り憶測相次ぐ",
+          "summary": "出所不明の新AIモデル「Ox Alpha」がネット上で無料公開され、開発者コミュニティで話題を呼んでいる。TechCrunchやBloombergによれば、その高い性能から開発元を巡る憶測が飛び交い、大手ラボの新型テストモデルではないかとの見方も出ている。無料アクセスという異例の提供形態が急速な普及を後押ししており、正体が判明すれば競争構図に影響を与える可能性がある。",
+          "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-23"
+        },
+        {
+          "title": "アリババ、AI投資拡大へ香港市場で100億ドル増資",
+          "summary": "中国アリババグループが、AI関連投資の資金確保のため香港市場で最大100億ドル相当の株式売り出しを発表した。Reutersによれば、データセンター整備やAIモデル開発への投資加速が狙いとみられる。米中双方でAIインフラ投資が急拡大する中、中国企業による大型資金調達は珍しく、競争激化を象徴する動きといえる。同社株価への影響も市場で注目されている。",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-23"
+        },
+        {
+          "title": "OpenAI、開発者向け「GPT-5.6 Sol」価格を2割超引き下げ",
+          "summary": "OpenAIは最新の最先端モデル「GPT-5.6 Sol」の開発者向けAPI価格を20%以上引き下げたとReutersが報じた。AnthropicやGoogle、中国勢との価格競争が激化する中、コスト効率を武器に開発者を囲い込む狙いとみられる。企業がAIエージェント活用を広げる中、API単価の低下は導入コスト低減に直結し、利用拡大を後押しする可能性がある。",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBSYzdnbW5mTHlUTzVRb3JaenRKVncwMjliZ3RZSy1xb3hNaEZxelZ0Z0FYMzRYOEF3MnNpajNwLUtFbkdpbzNIUmNFTWlOMVRINmxaTGJibjNWN05xMERzaU5lUXcwTHBDZC1GRm0xMG9PbjYxRzNyOXFrMFZKM0FMeXcyM1ZwT05tUkNUbjc4YXBySm5XMG1EY0JtZlFkdTBVZmhXbm83YWtXMTVrcVBKbnlKRFNjcnc?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-22"
+        },
+        {
+          "title": "主要AIラボ、「暴走モデル」封じ込め策を公表せず——調査",
+          "summary": "新たな調査で、OpenAIやAnthropicなど主要AIラボの多くが、モデルが制御不能に陥った場合の具体的な封じ込め計画を公表していないことが判明した。AIシステムが予測不能で潜在的に危険な挙動を示す事例が増える中、対応準備の不備が懸念材料として浮上している。TechCrunchは、透明性の欠如が規制当局や社会の不安をさらに高めかねないと指摘している。",
+          "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-23"
+        },
+        {
+          "title": "Nvidia、データセンター開発企業Cloverleafに出資",
+          "summary": "Nvidiaがデータセンター開発企業Cloverleaf Infrastructureに出資したとReutersが報じた。The Registerは、AI向け新型チップの普及にはデータセンター拡張と電力確保が不可欠であり、Nvidiaが潤沢な資金を投じて供給網のボトルネック解消を図っていると分析している。AIバブルへの懸念が指摘される中、業界全体を下支えする動きとして注目される。",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYnVtUUVfYWJoSUhsRXpLZGNEdHM0eFBmU0hVZzZiVzlDdUZXWkV2X3k1bGppdnp5Zy1fcy1HYnBGc0pPXzZoRmpsZmtPTDRqSFd5anNGR1hnMDlOYjk2U1BZeU42UTh4RUxiaE1XSWRyZW9RTjUtWjYzVXM5N0ZYU0VXdXRSNmNmZnRpREUzdDE4U3l4VDBIa3JPdklOUjdvbFp3dGRZdlZnQjBwSEE?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-21"
+        }
+      ],
+      "outlook": "資金調達やデータセンター投資の拡大が続く一方、暴走モデルへの備えの不足など安全面の課題も浮き彫りになっており、急成長するAI業界が信頼をどう確保していくかが今後の焦点となりそうだ。価格競争の激化と正体不明の新モデル登場は、競争環境の一層の流動化を示唆している。"
+    },
     {
       "date": "2026-08-23",
       "items": [
