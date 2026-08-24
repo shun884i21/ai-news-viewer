@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-24T07:29:43+09:00",
+  "updatedAt": "2026-08-25T07:34:14+09:00",
   "days": [
+    {
+      "date": "2026-08-25",
+      "items": [
+        {
+          "title": "「AIが新卒・若手雇用を直撃」スタンフォード大調査で判明",
+          "summary": "スタンフォード大学の調査で、AIの影響を強く受ける職種における若年層の雇用が、AIの影響を受けにくい職種と比べて19%も減少していることが判明した。生成AIの普及がホワイトカラーの新卒採用や若手のキャリア入口を狭めている実態を裏付けるデータとして注目される。AIの経済的影響を巡る議論に具体的な根拠を加えるものであり、企業や政策担当者に若年層向けの雇用対策を促す可能性がある。",
+          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-08-25"
+        },
+        {
+          "title": "台湾、Nvidia幹部を起訴——AIサーバー中国密輸疑惑",
+          "summary": "台湾当局は、AIサーバーを不正に中国へ輸出したとされる疑惑を巡り、Nvidiaの幹部級社員を起訴したと発表した。EMS大手Supermicroが関与したとされる密輸スキームに関連しており、米国主導の対中半導体輸出規制の実効性が改めて問われる事案となる。Nvidiaはこれまでも中国向け先端AIチップ供給を巡り規制対応に苦慮しており、今回の起訴は同社のコンプライアンス体制や取引先管理にも影響を及ぼす可能性がある。",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-24"
+        },
+        {
+          "title": "ブロードコム、AI向け巨額債務保証でクレジットリスク急上昇",
+          "summary": "ブロードコムがAIインフラ関連の巨額債務融資に保証を提供していることを受け、同社のクレジットリスク(CDSスプレッド)が急上昇していることが明らかになった。AI企業やデータセンター向けの大型融資が半導体大手のバランスシートにまで波及し始めている構図を示すもので、AIブーム全体の資金調達構造に対する市場の懸念が強まっていることを裏付ける。他の主要プレイヤーも同様の保証スキームに関与しており、AI関連の「隠れ債務リスク」が業界横断で意識され始めている。",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc0hWNk5nRXVKaThHODNaR1hKOWdrSkZ0X0JBd3YtdDYzVkV5NUxVMnZSQ2FxN2dOZDRrTkZ0aUw5WmtlZy1wSm5zcTBMNXJ3blRQWGM1RExHazBTV2dBWmEtUUJmOGRxZjNfMnZqcE9vNGhDYnNPWExQN09pVHdvRDFkYVFNcG1aRS1vRXJ5NlVhcUpNV19PSl9icmpVc3g4MV9QWUhGY0MtazF1X3NsUkt1cw?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-08-25"
+        },
+        {
+          "title": "ロボティクスAI新興General Intuition、評価額60億ドルで資金調達へ",
+          "summary": "空間・時間認識に基づき汎用AIエージェントを訓練する基盤モデルを開発するGeneral Intuitionが、Valor Ventures、Point72 Ventures、Seven Seven Sixなど新規投資家からプレマネー評価額60億ドルでの資金調達交渉を進めていると報じられた。ロボティクス分野へのAI応用を加速させる動きで、生成AIブームが物理世界での動作理解・制御分野にも急速に波及していることを示す事例となる。大型評価額はロボティクスAIへの投資家の期待の高さを反映している。",
+          "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-25"
+        },
+        {
+          "title": "英国とウクライナ、AI防衛協力協定に署名",
+          "summary": "英国とウクライナは、戦場技術に関連するAI分野での防衛協力協定に署名した。ロシアとの戦争が続く中、ウクライナは前線でのドローン運用や情報分析にAIを活用してきており、今回の協定は両国間の技術協力をさらに制度化するものとなる。軍事分野でのAI活用を巡る国際的な協力枠組みが拡大している一例であり、AI技術の防衛・安全保障分野への浸透が加速していることを示している。",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMk1vd2pFVnJwQWNUbVJRS1A0WDRCXzBuVVBMN0hlTFJtNDhSZDVnSkdaMmZTSXRhSWlOTjNvYTBSVU9KM1NSdE9OWTFIVXJKWEdEU0ZfaTBMbGV6WHlkWkdEWGdMNEE3WVFoNnRQdVZNamRlc3cxakRMbkxXd3JSYnFYMXlDVUJXZC1nOW9ONTVseXlCRGNxUExhOUhCb2E3aVpPWmRjYmpoUnFmNG5WMGRJV0lGelBQRjk3emF2MTdaSmF3eTE3UXZ3QQ?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-25"
+        }
+      ],
+      "outlook": "AI関連の資金調達や巨額債務保証の拡大が続く一方、若年層雇用への打撃や輸出規制違反の摘発といった副作用も顕在化しており、技術・経済・安全保障の各面でAIを巡る緊張が強まっている。今後は雇用対策や半導体輸出管理の実効性、AI関連債務のリスク管理、防衛分野でのAI活用を巡る国際協調の行方が一段と注目されるとみられる。"
+    },
     {
       "date": "2026-08-24",
       "items": [
