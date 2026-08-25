@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-25T07:34:14+09:00",
+  "updatedAt": "2026-08-26T07:34:25+09:00",
   "days": [
+    {
+      "date": "2026-08-26",
+      "items": [
+        {
+          "title": "Anthropic、ClaudeとCoworkの間で記憶を共有する新機能を導入",
+          "summary": "Anthropicは、Claudeのチャットとエージェント型アプリ「Cowork」の間で会話の記憶を共有する新機能を発表した。ユーザーはプロジェクトの背景や好みを毎回説明し直す必要がなくなり利便性が向上する。The Registerによれば記憶をサービス間で分離するオプションはなく、対象外はClaude Codeのみとされる。ZDNETは利便性とプライバシーのどちらを優先すべきかという議論を呼ぶと指摘しており、記憶機能の設計は競合との差別化点にもなりつつある。",
+          "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-25"
+        },
+        {
+          "title": "OpenAI独自チップ「Jalapeño」、推論性能でNvidiaを上回るとの試験結果",
+          "summary": "OpenAIが開発中の推論特化型自社チップ「Jalapeño」が、SemiAnalysisのInferenceXベンチマークで既存の最先端GPUを上回るユーザー当たりトークン数と電力あたりスループットを記録したと報じられた。The Registerによれば128チップ構成で1.7エクサFLOPS、27TBのHBMを備え、現行Blackwellや次世代Rubinに対しても優位に立つ可能性があるという。Bloombergも、OpenAIが自社チップの性能がNvidia製を上回ると主張していると伝えた。巨大な推論需要を抱えるOpenAIが、Nvidia依存からの脱却を本格化させる動きとして注目される。",
+          "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-25"
+        },
+        {
+          "title": "Apple、ローカルAI推論に特化した新型Mac StudioとMac miniを発表",
+          "summary": "Appleは新型Mac StudioとMac miniを発表し、最新のM5 Ultraチップは前世代M3 Ultra比で最大4倍のAI性能を実現、最大512GBの統合メモリを搭載する。Ars Technicaは、複数のMacを連結してローカルAI開発に使う既存ユーザーの使い方を踏まえた設計だと指摘する。クラウド依存を避けローカルでAIモデルを動かしたい開発者や企業のニーズを取り込む狙いがある。Reutersも、AIブームを追い風にした投入戦略と報じており、パーソナルコンピュータ市場でのAI性能競争が激化している。",
+          "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-08-25"
+        },
+        {
+          "title": "AnthropicやGoogleと連携するAIセキュリティ新興、1.4億ドル調達",
+          "summary": "Bloombergによれば、AnthropicやGoogleと協業するAIセキュリティ企業が1億4000万ドルの資金調達を実施した。生成AIの企業導入が加速する中、モデルやエージェントの脆弱性を検知・防御する専門スタートアップへの投資熱が高まっている。大手AIラボ自身がセキュリティ専業企業と提携する動きは、モデル単体の安全対策だけでは不十分との認識の広がりを示す。新たな攻撃手法の報告が相次ぐ中、防御市場の拡大が続く見通しだ。",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3ZQWHh3TzAxM0Y4QWRYUjlwWUp4aHEzcXRDbEQ5dXo4V2RoX1Vud3E0SzFQeVM2V1o0SHJyeUx3bmVNeDNrTWg3N244cG1wSno4OUIzWXR4NFZOZzVHMWVLMHVIa3hVRVFqN2FkNXFyV3VWb0dDenhiZGZNblRUWHJtNy1sN1p3czc0U3lHTVFqMEVEZURENTFGbGFrdEVUTHNhY1NlckJQUFNZTzJnR3lhWTVfX1Vrbkl5X3hR?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-08-25"
+        },
+        {
+          "title": "プロンプトインジェクション、OWASP脅威1位も実被害の可視化は困難と指摘",
+          "summary": "VentureBeatは、プロンプトインジェクションがOWASPの「LLMアプリケーション脅威トップ10」で3年連続1位にランクされる一方、6639件の実インシデント記録の中では12位にとどまっているとの調査結果を報じた。CVE件数の少なさから脅威を過小評価するCISOは「スコアボードの読み違い」だと専門家は警告する。攻撃自体が従来のスキャンでは検知しにくい性質を持つことが、認識と実態のギャップを生んでいるという。AIエージェントの企業導入が進む中、この脅威モデルのズレはセキュリティ投資の優先順位づけに影響しうる。",
+          "url": "https://venturebeat.com/security/prompt-injection-ranks-no-1-with-owasp-and-no-12-in-the-incident-record-the-attack-itself-is-invisible-to-a-scan",
+          "source": "VentureBeat",
+          "publishedAt": "2026-08-26"
+        }
+      ],
+      "outlook": "AI企業間の競争軸は、モデル性能そのものから記憶・推論チップ・ローカル実行環境といった周辺インフラやUXへ広がりつつある。同時にプロンプトインジェクションなどエージェント特有のセキュリティリスクへの対応も急務となっており、専業セキュリティ企業への投資や大手ラボとの連携が今後さらに進むとみられる。Nvidia依存からの脱却を図る自社チップ開発競争も、次の焦点として注視が必要だ。"
+    },
     {
       "date": "2026-08-25",
       "items": [
