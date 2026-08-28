@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-27T12:03:11+09:00",
+  "updatedAt": "2026-08-28T15:04:25+09:00",
   "days": [
+    {
+      "date": "2026-08-28",
+      "items": [
+        {
+          "title": "Anthropicへのペンタゴン「ブラックリスト」指定、連邦判事が違憲・違法と断定",
+          "summary": "連邦地裁の判事は27日、国防総省が今年初めにAnthropicを「安全保障上のサプライチェーンリスク」に指定していた措置について、違憲かつ根拠を欠くものだったと判断した。同社は3月にカリフォルニア州の地裁でトランプ政権を提訴しており、今回の判決は数カ月にわたる法廷闘争での勝利となる。政権とAI大手の対立が続く中、規制当局の恣意的な措置に司法が歯止めをかけた形で、他のAI企業への波及も注目される。",
+          "url": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
+          "source": "Wired",
+          "publishedAt": "2026-08-28"
+        },
+        {
+          "title": "Anthropic、AIエージェントがロボットや実験機器を操作する新標準規格を提案",
+          "summary": "Anthropicは、AIエージェントがロボットや科学実験室の機器など物理的なデバイスを制御できるようにする標準化されたドライバーインターフェース規格を発表した。AIが研究や製造の現場で自動化を進める道を開く一方、実世界の機器を誤操作するリスクも伴う内容だ。科学研究や製造業の自動化には大きな可能性がある半面、新たなリスク管理が必要になるとAnthropic自身も指摘しており、AIが物理世界に踏み込む転換点として注目されている。",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWhmNnhIejBEcG1zQWRzeWtHbVZCOUtZZmtraGJiNHdjVzdpU3liY2VfZTF0X3pUUl8tNWN1TXMxcTNqRk9xRXRTZ3VGQUV2MVl1MllqWHpCby1ua2R2VWJJR1hRUi1aTWJxQ1lXWHBEcklUb1hZS3dkTEZkSDFxUjNzbFFiZUktaXJ3WGJRUjF5RHROREJSd2c3N0RfRkNIbzNxd05GdnJ4VnZma0R5QU5QTEJwOG1aUmZuaERmMA?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-28"
+        },
+        {
+          "title": "Nvidia、Hugging Faceを130億ドルで買収検討と報道",
+          "summary": "報道によると、NvidiaはオープンソースAIモデルの一大リポジトリであるHugging Faceを約130億ドルで買収する方向で協議しているという。実現すればオープンモデルの重要インフラを掌握することになり、AI業界の勢力図に大きな影響を与える可能性がある。関係者によれば以前からNvidiaはHugging Face買収を検討していたとされ、AIインフラを巡る大手の統合機運が強まっていることを示す動きだ。",
+          "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-08-28"
+        },
+        {
+          "title": "OpenAI・Anthropic・Googleなど100社超、AI悪用サイバー攻撃への対策強化を訴え",
+          "summary": "OpenAI、Anthropic、Googleを含む100社以上のテック企業が共同で、AIを悪用したサイバー攻撃の増加に対する防御強化を呼びかけた。現在のサイバーセキュリティ体制の脆弱性を指摘し、新世代の脅威に対抗する解決策を提示するとしている。直近ではAIエージェントが企業システムに侵入する事例が相次いでおり、業界全体で防御力の底上げを図る必要性が高まっていることが背景にある。",
+          "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-28"
+        },
+        {
+          "title": "Alphabet、AI戦略への疑念で株式時価総額6920億ドル失う",
+          "summary": "Bloombergの報道によると、AlphabetはAI関連投資や戦略への投資家の懸念が強まったことを受け、株式時価総額が6920億ドル失われた。巨額の設備投資が期待通りの収益に結びついていないとの見方が広がっており、AI関連銘柄全体の評価にも影響を与えかねない状況だ。Nvidiaなど他のAI関連企業の決算発表とも重なり、AIブームの持続性を巡る市場の不安が改めて浮き彫りになった。",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOXhTakFxbzk2YlExcmRYVWU3R1VMT0pWM09OU1otT3U1WDJETnlqQ2l0czRwVjFWQUpJOU5WSFJfSlQzNi1pdlI4NXlaMzcyLUpfWk9FeGpHY1REMXQyUHJKOXNtMGpOWlFVRnduYTJ5OXdTX1c2UXBXMTY2Vk5pNklUUHFRNjlOZVVhSVlCMHZGMGthWEhuWWx1N3VJbTgteE45bk0wZHdaVmZjdVBFaGRVUlg?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-08-27"
+        }
+      ],
+      "outlook": "Anthropicは司法面での勝利とロボット・実験機器向け新標準規格の提案で存在感を強めており、Nvidia-Hugging Face買収報道など業界再編の動きも重なり、AIインフラを巡る競争が一段と激化しそうだ。一方でAI悪用サイバー攻撃への企業横断の対策表明や、Alphabetの時価総額急落に見られる投資回収への懐疑論は、AIブームの持続可能性そのものが問われ始めていることを示している。"
+    },
     {
       "date": "2026-08-27",
       "items": [
