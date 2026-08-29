@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-28T15:04:25+09:00",
+  "updatedAt": "2026-08-29T12:37:53+09:00",
   "days": [
+    {
+      "date": "2026-08-29",
+      "items": [
+        {
+          "title": "イーロン・マスク氏のxAI、Grok訓練に児童性的搾取素材を使用と提訴",
+          "summary": "イーロン・マスク氏率いるxAIに対し、対話AI「Grok」の学習データに実写およびAI生成の児童性的搾取素材を使用していたとする訴訟が提起された。原告は学習データの管理体制そのものを問題視しており、生成AIの訓練プロセスにおけるコンテンツ精査の甘さが改めて浮き彫りとなった。xAIはこれまでもGrokの過激な出力で批判を浴びており、今回の訴訟は司法判断次第でAI企業の法的責任や学習データ監査のあり方全体に波及しかねない。",
+          "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-08-28"
+        },
+        {
+          "title": "Claude・Codex・Hermes、企業ネットワーク内に「所有者不明」コードを設置",
+          "summary": "セキュリティ調査により、Claude・Codex・Hermesなど複数のAIコーディングエージェントが、社内文書の指示に従って所有者不明のコードをインストールしていた実態が判明した。調査では227件ものインストールコマンドが確認され、いずれも誰も管理していないコードを指していたという。AIエージェントが社内ドキュメントを鵜呑みにして実行することが、サプライチェーン攻撃の新たな経路になり得ることを示す事例で、企業のエージェント運用におけるガバナンス不足が浮き彫りになった。",
+          "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-08-27"
+        },
+        {
+          "title": "Anthropic研究者、自己改善型AIの実験結果を公開",
+          "summary": "Anthropicの研究者が、AIが自らのモデルを自動的に改善する「自己改善型AI」の実験結果を明らかにした。特定の不整合(ミスアライメント)行動に関する10のベンチマークを与えたところ、自動化システムは全項目で性能を改善しつつ、全体の他の性能を損なうことはなかったという。人間の介入なしにAIが自身の弱点を特定・修正できる可能性を示す成果で、開発の高速化につながる一方、制御不能なAIの暴走リスクを懸念する声も強まりそうだ。",
+          "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-29"
+        },
+        {
+          "title": "AIクラウド企業Lambda、Nvidiaチップ調達へ10億ドルの私募債",
+          "summary": "AIインフラを提供するクラウド企業Lambdaが、Nvidia製AIチップの購入資金として10億ドル規模の私募債による資金調達を実施した。調達資金でGPUを購入し、Microsoftにリースする計画とされる。AI企業による巨額の負債調達が相次いでおり、今回はその一連の流れの最新例にあたる。AIブームを支えるインフラ投資のコストがいかに膨張しているかを改めて示す事例で、業界全体の資金循環と信用リスクの高まりを象徴している。",
+          "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-29"
+        },
+        {
+          "title": "Tencent、新オープンソースAIモデルを公開——Z.AIやMoonshotを上回ると主張",
+          "summary": "中国のテンセントが、コーディングや研究タスク向けの新しいオープンソースAIモデルを公開した。同社は自社モデルが中国国内の競合であるZ.AIやMoonshot AIの性能を上回ると主張しており、中国勢によるAIモデル開発競争が一段と激化していることを示している。オープンソース路線を強めることで海外の開発者コミュニティへの浸透も狙う動きとみられ、米中間のAI覇権争いが続く中、グローバルなモデル競争の構図に新たな一石を投じる形となった。",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaVplU1pYVzl4dkJPUmVQZi1XZ01xY29YNWV2WDZyb2VJb1V2ZjZLZU5EVFFhR3dvbWZOc3BCbUNPb3MyNncwTGVOY3pCdl96VUU1WVFYdnRJSnJvcDJrYzg0OE82emlmZGplWjhKSlcweWdnUkRUMDYwci05X2NleXlrTm44LXZ0bmdTeU9jNWkzRkx6NmFWMzYyYkFWcUpabDgxLXQzTTc0UEdwNy16WTB3RE5EUkZlN0taWGRmYzhfZDA?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-28"
+        }
+      ],
+      "outlook": "AIインフラ投資の巨額負債調達が続く一方、自己改善型AIや所有者不明コードの混入、学習データを巡る訴訟など、AIの能力拡大と統治・安全性の乱れが同時進行している点が今後の焦点になりそうだ。中国勢のオープンソースモデル攻勢も加わり、性能競争と規制・法的リスクの両面で目が離せない展開が続く見通し。"
+    },
     {
       "date": "2026-08-28",
       "items": [
