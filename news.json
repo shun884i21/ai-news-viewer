@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-29T12:37:53+09:00",
+  "updatedAt": "2026-08-30T09:02:52+09:00",
   "days": [
+    {
+      "date": "2026-08-30",
+      "items": [
+        {
+          "title": "ソニー・ミュージックとワーナー・チャペル、アンソロピックを著作権侵害で提訴",
+          "summary": "ソニー・ミュージックとワーナー・チャペルが、AI企業アンソロピックをカリフォルニア州北部地区連邦地裁に提訴した。数万点に及ぶ楽曲の無断学習利用を主張し、1曲あたり最大15万ドル、著作権管理情報の除去についても1件最大2万5000ドルの損害賠償を求める。訴状は「大胆な知的財産窃取キャンペーン」と表現し、違法な海賊行為への関与も指摘している。音楽業界とAI企業の著作権訴訟がさらに激化する形となった。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+          "source": "The Verge",
+          "publishedAt": "2026-08-30"
+        },
+        {
+          "title": "AI業界、トランプ政権の半導体課税計画に猛反発",
+          "summary": "トランプ政権がAI向け半導体やデータセンターへの新たな課税を計画していることが明らかになり、AI業界から強い反発が起きている。業界関係者は「AI競争に勝つための最も愚かなやり方」と酷評し、コストが半導体調達やデータセンター建設に転嫁されれば米国のAI投資競争力を損なうと懸念を示す。制度の詳細はまだ不透明だが、産業界と政権の摩擦が新たな火種となっている。",
+          "url": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-08-28"
+        },
+        {
+          "title": "オープンウエイトAI企業、シリコンバレーで最ホットな買収対象に",
+          "summary": "モデルを無償公開する「オープンウエイト」型AI企業が、シリコンバレーで最も注目される買収対象になりつつあると報じられた。無料でモデルを配布する事業に巨額の資金が流入しており、大手テック企業がオープンモデル開発チームや技術者の獲得を競っている。背景には、クローズドモデル一辺倒だった競争構造が変化し、オープンモデルがエコシステム形成や人材獲得の入り口として重視され始めたことがある。M&A加速はAI業界の勢力図を一段と流動化させそうだ。",
+          "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-29"
+        },
+        {
+          "title": "Meta、80億パラメータモデルにClaude Opus 4.5並みのエージェント性能を実現",
+          "summary": "Metaの研究チームが、比較的小規模な80億パラメータのAIモデルでも、実行基盤（ハーネス）を工夫することでClaude Opus 4.5に匹敵するエージェント性能を発揮できる手法を発表した。数時間かかる企業データ移行のような複雑なタスクでは、モデル単体の内部コンテキストだけでなく周囲のランタイム層の設計が成果を左右するという。フロンティアモデル並みの価格を払わずに高性能エージェントを実現できる可能性を示し、コスト重視の企業導入に弾みをつけそうだ。",
+          "url": "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag",
+          "source": "VentureBeat",
+          "publishedAt": "2026-08-29"
+        },
+        {
+          "title": "ロシア語圏のサイバー犯罪者、AIコーディングツール「Cursor」で7社に侵入",
+          "summary": "ロシア語圏のサイバー犯罪集団が、イーロン・マスク氏のスペースXが所有するAIコーディングツール「Cursor」を悪用し、少なくとも7社への不正侵入に成功していたことがロイターの独自取材で判明した。AIコーディングアシスタントが攻撃者側の効率化ツールとして実戦投入された事例として注目される。生成AIツールが防御だけでなく攻撃の高度化にも使われている実態を改めて浮き彫りにした。",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-27"
+        }
+      ],
+      "outlook": "音楽業界とAIラボの著作権訴訟、政権とAI業界の課税を巡る摩擦、オープンモデル企業を狙ったM&A競争、そして低コストで高性能を狙う研究開発とAIツールの悪用リスクが同時進行している。今後は訴訟の帰趨や課税制度の具体化、買収案件の実現、AIコーディングツールを悪用した攻撃の広がりに注目が集まりそうだ。"
+    },
     {
       "date": "2026-08-29",
       "items": [
