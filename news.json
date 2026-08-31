@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-30T09:02:52+09:00",
+  "updatedAt": "2026-08-31T09:22:25+09:00",
   "days": [
+    {
+      "date": "2026-08-31",
+      "items": [
+        {
+          "title": "OpenAI、マスク氏傘下Cursorへのモデル提供打ち切りへ 対立激化",
+          "summary": "OpenAIが、イーロン・マスク氏傘下のSpaceXが所有するコーディングツール「Cursor」へのAIモデル提供を打ち切ると報じられた。両社の対立は近年深まっており、今回の措置はその象徴的な一手となる。Cursorは開発者に人気のAI搭載コードエディタで、主要モデルの供給停止は多くの利用者に影響を及ぼしかねない。背景にはAI業界の主導権争いとマスク氏・OpenAI経営陣の長年の確執があり、Cursor側の代替対応が今後の焦点となる。",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-08-29"
+        },
+        {
+          "title": "Apple新CEOターナス氏、最優先課題はAI戦略立て直し",
+          "summary": "Appleの次期最高経営責任者に就くターナス氏にとって、就任後の最優先課題はAI戦略の立て直しだと報じられた。Appleは生成AI分野で競合に後れを取っているとの指摘が続いており、Siri刷新や自社AIモデル開発の加速が急務とされる。経営トップ交代のタイミングでAIを最重要課題に据えることは、同社の危機感の表れといえる。今後の製品戦略や人材獲得競争にも影響を与えそうだ。",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWVkYWE5Mm1rejhYdjlON0UzUlMwaHg1T0hmYkJReWZoN3NtSmZlYkpvTjVJRmMzd1FoRE5ZS3RSWllxRVpfdVkxNUlzdE9zcEg3UlVxaGZBNDU4bHp1emluc2kyeHRBczJScnY2Y045NWRRT21EVjcwY3dpVnFlSEZMUzR2SGNEV3FIcDllMHZCNUJLTTEtV2hkZ1M4MFJ4NWh6bnRHS3hnNC1aaEc1SXNvWFVCZHJvYll3?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-08-31"
+        },
+        {
+          "title": "Debian、貢献者によるAI利用のコード開発を正式容認",
+          "summary": "LinuxディストリビューションのDebianプロジェクトが、開発者が生成AIツールを使ってコードを書くことを正式に容認する投票結果をまとめた。AI利用の開示は任意とする一方、貢献物の品質基準は従来通り厳格に維持する方針だ。オープンソースコミュニティでAI利用への賛否が割れる中、主要ディストリビューションが公式に方向性を示した意義は大きい。他のOSSプロジェクトの対応にも波及する可能性がある。",
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/30/debian-votes-to-let-contributors-code-with-ai/5293421",
+          "source": "The Register",
+          "publishedAt": "2026-08-31"
+        },
+        {
+          "title": "Meta、データセンター運用にロボット導入を試験",
+          "summary": "Metaがデータセンター内でロボットにケーブル交換やサーバー再起動といった技術者業務を担わせる実験を進めていることが明らかになった。人手不足やコスト削減が背景とみられ、AIインフラ拡大に伴う運用自動化が加速している。一方で一部従業員の間では、自身の雇用が脅かされるとの懸念も広がっている。AI需要の急拡大で、データセンター運用そのものが自動化の新たな対象になりつつあることを示す事例だ。",
+          "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-08-30"
+        },
+        {
+          "title": "Nvidiaの優位性、GPU単体からシステム全体設計へシフト",
+          "summary": "Nvidiaのデータセンター向けAIシステムが、GPU単体の処理能力向上ではなく、ネットワーク内のトラフィック制御を高度化することで効率を高める新世代へ進化していると報じられた。GPUの性能競争が一巡する中、システム全体の設計や相互接続技術が差別化要因として重要性を増している。これはNvidiaの競争優位が単なるチップ性能を超えて広がっていることを示す。AIインフラ市場における同社の主導的地位を裏付ける動きといえる。",
+          "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-29"
+        }
+      ],
+      "outlook": "OpenAIとマスク氏の対立激化やAppleの経営体制刷新は、AI業界の競争構図と主要企業のガバナンスに引き続き波紋を広げそうだ。データセンター運用のロボット化やシステム設計面での差別化競争は、AIインフラ投資が「チップ単体」から「運用全体の効率化」へと重心を移していることを示しており、今後も労働市場やコスト構造への影響が注視される。オープンソース分野でのAI利用容認の流れも、他プロジェクトへの波及が見込まれる。"
+    },
     {
       "date": "2026-08-30",
       "items": [
