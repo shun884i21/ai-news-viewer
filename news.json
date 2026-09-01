@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-31T09:22:25+09:00",
+  "updatedAt": "2026-09-01T10:11:38+09:00",
   "days": [
+    {
+      "date": "2026-09-01",
+      "items": [
+        {
+          "title": "Apple、OpenAIへの企業秘密流出訴訟でOpenAI側の証拠隠滅を主張",
+          "summary": "Appleは元従業員が社内データを盗みOpenAIに持ち込んだとする訴訟で、その従業員が捜査対象になったと知った後に証拠を破棄したとする「衝撃的な証拠」を提示した。Bloombergによれば、Apple側はさらにOpenAI自体も証拠隠滅を行っていると主張している。人材引き抜きと機密情報流出を巡るハイテク大手同士の対立が法廷闘争に発展し、AI人材獲得競争の過熱ぶりを象徴する事件として注目される。",
+          "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-31"
+        },
+        {
+          "title": "Nvidia、台湾MediaTekに35億ドル出資 自社製AIチップ開発の大手取り込みへ",
+          "summary": "NvidiaはMediaTekに35億ドルを投資すると発表した。GoogleやAmazonなど大手クラウド事業者が独自AIチップの開発を進める中、NvidiaがAI基盤インフラで不可欠な存在であり続けるための布石とみられる。半導体設計大手を自陣に取り込むことで、カスタムチップ需要が広がる中でも供給網とエコシステムでの主導権を維持する狙いがある。AIインフラ投資競争が激化する中、Nvidiaの戦略転換を示す動きだ。",
+          "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-08-31"
+        },
+        {
+          "title": "Anthropic、Nvidia出資先Lambdaと350億ドルのクラウド契約締結",
+          "summary": "Anthropicは、Nvidiaが出資するクラウド事業者Lambdaと350億ドル規模の計算資源契約を結んだとBloombergが報じた。Claudeのモデル開発・推論を支える計算基盤を大幅に拡充する狙いで、AI大手による計算資源の囲い込みが一段と加速している実態を示す。巨額のインフラ投資はAI企業の資金調達競争とデータセンター建設ブームをさらに押し上げる可能性がある。",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeTlFc2NRUEtocndRTGpPRnNGT1djeW1FbnZjUm9vSTVjclRudzktQlNvY1huVVNUVVpkX1A0SXh1ZkZyVDZpeVZfVEdQdGtPc0VqRVZ1ZUNzcG5oWmtVVktCRzdPZGFZUkd6Mm5rdEhINUZQZjFrQzZCaUdtV2ZTLXRqdWNTMVpCOWUyU3BWNDZoeHJZOXd0cXdhRE5BaG1uV3lyUTBKWkNIaXp6NHdRaUVCd3I?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-09-01"
+        },
+        {
+          "title": "中国、Anthropicを非難 米中AI対話の条件を提示",
+          "summary": "中国政府がAnthropicを名指しで批判し、重要な米中AI対話の実施条件を提示したとBloombergが報じた。AnthropicはAI安全性やロシア・中国関連の規制姿勢を巡り各国政府と摩擦を抱えており、今回の中国の反応はその一環とみられる。米中間のAI覇権競争が外交レベルの緊張に発展しつつあることを示す動きで、今後の対話の行方次第では両国のAI政策協調に影響が及ぶ可能性がある。",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVi1ZbjlzZlUyb2ZVRVNPcHIxWHU2VGtOOURZeExiMXlCLUI1WXBadWI1X293LUdKQnk4a0pQd2d1eW1pTUpkMWNpSlhHemdfVGRPRFFabVQ1NGJMX1BSMnhaaGw2N1BIbUExcUVJMGZzclU3R3c5WDhRX1V2VDlzb1M1aDFnZERMYlpGNDRpTW1vOGdNTEd4TFp6MUVZdHk3M1NRd0p0TXB0RmtFak1rbjV5T24?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-08-31"
+        },
+        {
+          "title": "ChatGPTとReddit、EU最厳格のオンライン安全規則の対象に",
+          "summary": "ChatGPTとRedditがEUで最も厳しいオンライン安全規制の適用対象になったとArs Technicaが報じた。急成長するAIチャットボットやSNSプラットフォームには、コンテンツモデレーションやリスク評価など重い規制対応が新たに課される。事業拡大に伴い規制上の負担が急増している実態を示す事例で、EUがAIサービスへの監督を強化する姿勢を鮮明にした形だ。",
+          "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-08-31"
+        }
+      ],
+      "outlook": "AI大手同士の人材・知財を巡る法廷闘争、計算資源獲得のための巨額クラウド契約、そして米中・EUによる規制圧力という3つの潮流が同時進行している。今後は各国規制当局の対応と地政学的緊張がAI企業のビジネス展開にどう影響するかが焦点になりそうだ。"
+    },
     {
       "date": "2026-08-31",
       "items": [
