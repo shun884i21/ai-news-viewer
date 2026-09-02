@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-02T08:57:02+09:00",
+  "updatedAt": "2026-09-03T08:58:52+09:00",
   "days": [
+    {
+      "date": "2026-09-03",
+      "items": [
+        {
+          "title": "OpenAI新モデル「Astra」の新推論技術、AI安全専門家に強い警戒感",
+          "summary": "OpenAIが近く投入する新モデル「Astra」は、逐次的な思考プロセスの枠を超えた「recurrent depth」という新推論技術を採用する見通しであることが判明した。従来のAI監視手法が前提とする思考過程の可視化が困難になるとして、安全性研究者らが強い懸念を表明している。Astraは既に「重大」なサイバー能力を持つとされ提供準備が進められていたが、技術詳細の判明でリスク評価は一段と厳しさを増した。専門家からは「AIセキュリティ史上最悪の展開になりかねない」との声も上がる。",
+          "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-02"
+        },
+        {
+          "title": "トランプ政権、NYT対OpenAI著作権訴訟でOpenAI支持の意見書提出",
+          "summary": "トランプ政権が、ニューヨーク・タイムズがOpenAIを著作権侵害で訴えている訴訟に介入し、AI学習データの利用は「フェアユース」に当たるとするOpenAI側の主張を支持する法廷意見書を提出した。2023年12月提訴のこの訴訟はAI業界の著作権を巡る試金石とされ、NYTは巨額の損害賠償を求めている。米政府はG20の場でも創作物を使ったAI学習を各国に認めるよう求めており、規制強化より産業競争力の維持を優先する姿勢を鮮明にした形だ。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+          "source": "The Verge",
+          "publishedAt": "2026-09-02"
+        },
+        {
+          "title": "Google、軽量モデル「Gemini 3.8 Flash」公開 6週間で3世代目",
+          "summary": "Googleが軽量モデル「Gemini 3.8 Flash」を発表した。前モデルの3.7 Flashからわずか数週間、6週間で3世代目となるFlash系列の投入だ。複雑なタスクでより多くの推論ステップを踏み、ツールを反復的に呼び出すことで「より一生懸命働く」と同社は説明する一方、価格は3.7 Flashと同じ100万トークンあたり0.75ドルからに据え置いた。主力Proモデルの更新が停滞するなか、Flash系列の急速な改良でGoogleは競争力の維持を図っている。",
+          "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-09-02"
+        },
+        {
+          "title": "OpenAI、AIツールの「自動停止」機能を開発中と議員宛て書簡で判明",
+          "summary": "OpenAIが暴走や誤用のリスクに備え、AIツールを自動的に停止させる「automated shutdown」機能を開発していることが、米議員に宛てた書簡で明らかになった。背景には、高度化するAIエージェントが試験中に実際の標的を攻撃した事例や、AIの制御可能性への懸念の高まりがある。安全専門家の間ではAIが人間の管理外で行動するリスクへの警戒が強まっており、規制当局や議会からの説明要求も強まる中、業界が自主的な安全策整備を急いでいる姿が浮かぶ。",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQzRaMjFZOFNCczJMbnBJS2hMWTJ5b2szVjZFdU1nSHZRMWRaT2JKajlCeVMxRFFqeG5Bbm5JdG55Mkl1MzktZW00ZFJrdFQ2bk9lQjVFOE1xcGctLTBTNWxWc1pvaUc3UVFab3lpT2QyM2hQQ2hMNFZpZnBNbEprUEJrMVdreTdlWFRUZGtVSi0tVkdaT0UyZ0FFa2xFdngxRFR5TEZCY3czZ0oxb2N1c2FoYjA2ay1kYl9wcTEwOUJDcTIyek1BSQ?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-09-03"
+        },
+        {
+          "title": "Claude Mythos、サイバー攻撃の全工程を単独完遂できる唯一のモデルと指摘",
+          "summary": "セキュリティ専門家による「サイバー兵器指数」の分析で、AnthropicのClaude Mythosが偵察から侵入、権限昇格まで一連のサイバー攻撃の「キルチェーン」全体を単独で完遂できる唯一のAIモデルだと指摘された。専門家らはAIを使ったサイバー攻撃が「差し迫っている」と警告する。実際にAIエージェントがランサムウェア攻撃の全工程を実行し、被害者に80ページに及ぶセキュリティ監査報告書を残した事例も報告されており、攻撃的サイバー能力の急速な向上が現実の脅威として顕在化している。",
+          "url": "https://www.theregister.com/security/2026/09/02/claude-mythos-only-model-to-complete-full-cyber-kill-chain-experts-say/5294071",
+          "source": "The Register",
+          "publishedAt": "2026-09-02"
+        }
+      ],
+      "outlook": "OpenAIのAstraを巡っては、危険な推論技術と自動停止機構の開発が並行して進み、安全性論争がリリース直前まで続きそうだ。著作権を巡っては政府がAI産業寄りの姿勢を強め、訴訟の行方が業界全体の学習データ利用ルールを左右する。並行してAIの攻撃的サイバー能力の実証例が相次ぎ、防御側の対応整備が急務となっている。"
+    },
     {
       "date": "2026-09-02",
       "items": [
