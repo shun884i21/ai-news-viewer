@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-03T08:58:52+09:00",
+  "updatedAt": "2026-09-04T08:54:27+09:00",
   "days": [
+    {
+      "date": "2026-09-04",
+      "items": [
+        {
+          "title": "Nvidia、AIハブ「Hugging Face」を129億ドルで買収と正式発表",
+          "summary": "NvidiaはAIモデル共有プラットフォームHugging Faceを約129億ドルで買収すると正式に発表した。300万超のモデルと1800万人超の開発者を抱える同社をチップ大手が取り込むことで、オープンソースAIの中核基盤への影響力を一段と強める。Hugging Face CEOは「星が揃った」と述べ、利用者1億人達成を目指すと表明した。一方でThe Registerなど専門メディアからは、Nvidiaの市場支配力をさらに強め競争を損なう恐れがあるとして、規制当局の監視を求める声も上がっている。",
+          "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-03"
+        },
+        {
+          "title": "OpenAI、次世代モデル「GPT-6 Astra」を正式リリース",
+          "summary": "OpenAIはコンピュータ・ブラウザ操作やコーディング、サイバーセキュリティで飛躍的性能を持つとする新モデル「GPT-6 Astra」を正式に公開した。同社はこれを「AGI時代への突入」を示す世代的飛躍と位置づけ、専門業務や科学分野でも高い能力を発揮するとしている。ただし「重大」なサイバー攻撃能力への懸念を踏まえ、まずは信頼できる限定パートナー向けの「Trusted Access Program」を通じて段階的に提供する慎重な展開方針を取り、サイバー面のガードレールも併せて強化された。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+          "source": "The Verge",
+          "publishedAt": "2026-09-04"
+        },
+        {
+          "title": "ChatGPT・Claude・Grokが同時ダウン、大手AIサービスで異例の障害",
+          "summary": "OpenAIのChatGPT、AnthropicのClaude、xAIのGrokがほぼ同時に利用障害に見舞われる異例の事態が発生した。複数の主要AIサービスが重なって停止するのは珍しく、各社は原因を明らかにしていない。Geminiにも影響が及んだとの報道もあり、社会がAIインフラへの依存を強める中でその脆弱性が改めて浮き彫りになった。障害の背景に共通のクラウド基盤やネットワーク要因があるのか、原因究明が注目されている。",
+          "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-09-04"
+        },
+        {
+          "title": "Meta、新AIモデルの利用データ提供でユーザーに大幅割引",
+          "summary": "Metaはコーディングなどエージェント運用向けの新モデル「Muse Spark」について、利用時のプロンプトや出力を今後のモデル開発に「提供」することに同意したユーザーに対し、平均約95%の大幅割引を提供すると明らかにした。実質的にユーザーデータと引き換えに料金を下げる仕組みで、AI企業が学習データ確保のために利用者データへの依存を強めている実態を示す事例といえる。プライバシーとコストを天秤にかける新たな料金モデルとして注目される。",
+          "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-04"
+        },
+        {
+          "title": "「ガードレール除去」専門のAbliteration.ai、防御目的掲げビジネス化",
+          "summary": "Abliteration.AIは、安全制限(ガードレール)を取り除いた強力なAIモデルへのアクセスを容易にするビジネスを展開している。同社は、攻撃者側が既に無制限モデルを使っている以上、防御側にも同等のツールを与える方が結果的にサイバーセキュリティ向上につながると主張する。一方で悪用リスクを懸念する声も予想され、AI安全性を巡る議論に一石を投じている。ガードレール解除市場の存在自体が、既存モデルの安全設計の限界を浮き彫りにしている。",
+          "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-04"
+        }
+      ],
+      "outlook": "Nvidiaによるオープンソースハブ買収が業界集中への懸念を呼び、GPT-6 Astraは能力向上と安全性論争を同時に抱えたまま段階展開が進む見通しだ。主要AIサービスの同時障害はインフラの信頼性への疑問を投げかけ、データ提供と引き換えの割引やガードレール解除ビジネスの登場は、AI企業の収益モデルと安全設計の両面で新たな摩擦を生みそうだ。"
+    },
     {
       "date": "2026-09-03",
       "items": [
