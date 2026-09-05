@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-05T08:53:37+09:00",
+  "updatedAt": "2026-09-06T08:44:11+09:00",
   "days": [
+    {
+      "date": "2026-09-06",
+      "items": [
+        {
+          "title": "シアトル・タイムズなど地方紙2社、著作権侵害でOpenAIとMicrosoftを提訴",
+          "summary": "米地方紙シアトル・タイムズとニューズデイが、記事を無断でAI学習に利用されたとしてOpenAIとMicrosoftを著作権侵害で提訴した。ニューヨーク・タイムズなど大手メディアに続く動きで、地方紙勢による提訴の広がりを示す。両紙は自社の調査報道がChatGPTなどの回答生成に使われ正当な対価を得られていないと主張している。生成AIの学習データを巡る著作権訴訟は米国内で急増しており、司法判断の行方が業界のライセンス慣行に大きな影響を与える可能性がある。",
+          "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-06"
+        },
+        {
+          "title": "米ハイカー、Google Geminiの助言通りに準備し遭難・救助される",
+          "summary": "米国の保安官事務所によると、登山グループがGoogle Geminiに計画を相談したところ、実際に必要な量よりはるかに少ない食料と水しか持参しないよう助言され、山中で遭難し救助された。AIチャットボットが現実世界の安全に関わる助言を行う際の信頼性の低さを示す事例として注目されている。生成AIが誤った情報を自信満々に提示する「幻覚」問題が日常の意思決定にまで影響している実態を浮き彫りにした。専門家は野外活動などリスクの高い判断でAIに単独で頼ることへの警鐘を鳴らしている。",
+          "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-06"
+        },
+        {
+          "title": "マスク氏のxAI、ミネソタ州のAI「ヌード化」禁止法差し止め請求で敗訴",
+          "summary": "イーロン・マスク氏率いるxAIは、他人の写真を無断で性的画像に加工する「ヌード化」AIサービスを禁じるミネソタ州法の差し止めを求めていたが、裁判所はこれを退けた。同州法は生成AIによる非同意の性的画像生成を対象とし、xAIは表現の自由の侵害だと主張していた。この判断は州レベルでのAI悪用規制が司法で支持され得ることを示す先例となる。連邦レベルの規制が停滞する中、各州が独自にAI悪用への法整備を進める動きが加速する可能性がある。",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS1VRQXhtR19VS2tKbVEzTnB6YjFUNl8zV3NFSURDZDRTcmZRS2tHa0RPOHdlMklXMWVSckNXdm5HWjdYNWhSTlFNeUlkdWFxWHo2SFdXU19ieWlQaUlEUjNrUjJkV1JSajZaNGxxUkVkM19qR2NOMkZvcWMwRHpIVTJybUlQZFB2ZmpvRy1CeURQcmp0ZFctU3RzMnItM29yajY5blZoT1ZjY0cwWFg1aVFoSGtpZw?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-09-05"
+        },
+        {
+          "title": "トランプ政権のAI安全審査、非公開基準の開示を訴訟で追及される",
+          "summary": "米連邦政府が最先端AIモデルを審査する際に用いる非公開の安全基準について、情報開示を求める訴訟でトランプ政権が開示を強いられる可能性が浮上した。原告側は、秘密裏の審査プロセスが企業への便宜供与や不正の温床になっていると主張している。政権はこれまでAI規制への不介入姿勢を対外的に強調してきたが、水面下では独自基準で審査を行っていた実態が問題視されている。開示が実現すれば政府とAI企業の関係の透明性を巡る議論に大きな影響を与える見通しだ。",
+          "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-09-03"
+        },
+        {
+          "title": "中国ByteDance、AI投資拡大へ296億ドルの融資を確保",
+          "summary": "TikTok運営の中国ByteDanceが、AIインフラ拡大に向け296億ドル規模の融資を確保したと関係者が明らかにした。米中のAI覇権競争が激化する中、中国企業は資金調達を加速させデータセンターや計算資源への投資を積み増している。中国勢がAI関連投資を急拡大させる流れの中、ByテDanceも巨額調達でこれに追随する形となった。資金規模の大きさは、中国AI業界の成長速度と米国依存脱却への意欲の強さを裏付けている。",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2N0QUdBQ0tEUF9iNnRSLVRlNnZ5MmFOUXhNeG5taU5mVDhFa3lVU3NMTlFiT0lDcXpkaTF0NVplVEZld2RtUjAwV282aWYta3Y2blNQMm04WTlEdkpNMmdLeTNHMmoyMm84RjZXWVZpNDNWTExaUUpmZXlOTllpMU9TdmQ2V3BPOW1lTlpUbXRObkFaNzhsUy1RWjBOVUVvOEM1TjlNdVdKQ2ppYXBj?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-09-05"
+        }
+      ],
+      "outlook": "AI学習データを巡る著作権訴訟は地方紙にも拡大し、州レベルではAI悪用規制の司法判断が積み重なりつつある。一方で政府のAI審査プロセスの透明性や、実生活での誤情報リスクへの懸念も強まっている。中国勢の巨額資金調達も続いており、規制・法廷闘争と米中の投資競争が並行して激化する展開が予想される。"
+    },
     {
       "date": "2026-09-05",
       "items": [
