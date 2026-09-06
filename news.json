@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-06T08:44:11+09:00",
+  "updatedAt": "2026-09-07T08:43:19+09:00",
   "days": [
+    {
+      "date": "2026-09-07",
+      "items": [
+        {
+          "title": "TCS子会社、AIデータセンターに最大74億ドル投資",
+          "summary": "インドのIT大手タタ・コンサルタンシー・サービシズ（TCS）傘下企業が、新設するAIデータセンターキャンパスに最大74億ドルを投資すると発表した。生成AI需要の急拡大でデータセンター建設競争が世界的に激化する中、インド企業として過去最大級の投資規模となる。米国や中東企業が主導してきたAIインフラ市場に、アジア勢が本格参入する動きとして注目される。巨額投資はAI計算基盤への資本集中が一段と加速している実態を示すもので、電力確保や用地選定など今後の実行段階が焦点となる。",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUtHcGEzeDRCRGZiVEZVT0M4cUM4SktyLWxnY3ZsY3ZHVEFoelhtU1IzUlo5Qm9DRzAweWQxQmZCU01kQXVBMkFsb0JqWkNKS2w2ZFpRSnAxMnFKU2NNeFpfMmpOYVd3ejJZeWZNbW8tWC11RlRGSXEyY29KTUpnbkc4UTV1emlla0VLWm5vRGRLY0Vka3I0QlpJZkZjLVI0YXZBdnp4ZVRHQQ?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-09-05"
+        },
+        {
+          "title": "アンソロピック著作権和解、配分巡り著者vs出版社の対立表面化",
+          "summary": "アンソロピックの著作権侵害訴訟を巡る和解金の分配方法について、著者たちが出版社やエージェントの取り分が過大だと反発していることが明らかになった。和解は生成AIの学習データ利用を巡る訴訟の一環で、支払いの公平性がAI業界と出版業界双方の関心事となっている。著者側は自らの著作物が直接AIの学習に使われたにもかかわらず、仲介者が利益の多くを得る構造に異議を唱えている。分配ルールの行方は、今後続く他のAI著作権訴訟の和解交渉にも影響を与える可能性がある。",
+          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-07"
+        },
+        {
+          "title": "アンソロピック、AIが代理購入する「エージェント型コマース」基盤を整備",
+          "summary": "アンソロピックがユーザーに代わってAIエージェントが買い物を行う「エージェント型コマース」の基盤づくりを進めていることが報じられた。技術的な土台は整いつつあるが、消費者や加盟店にAIへの決済委任を信頼してもらうことが次の大きな課題とされる。OpenAIなど競合各社も同様の購買エージェント機能を模索しており、AIチャット企業がEC分野へ進出する競争が激化している。誤発注や不正利用への懸念が普及の障壁になるとみられ、信頼性確保の仕組みづくりが焦点となる。",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/04/anthropic-lays-groundwork-for-bots-that-shop-for-you/5294621",
+          "source": "The Register",
+          "publishedAt": "2026-09-05"
+        },
+        {
+          "title": "Wayve、Uberと組みロンドンで有料自動運転配車を開始",
+          "summary": "英自動運転スタートアップWayveがUberと提携し、ロンドン市街で有料の自動運転配車サービスを開始した。現在は15台のフォード・マスタングにセーフティドライバーを乗せて運行しているが、後継となる日産リーフベースの車両では将来的にドライバーなしでの運行を目指すという。Waymoがまだロンドンでサービス展開できていない中での先行投入となり、欧州の自動運転競争で一歩リードした形だ。英国での本格的な商用自動運転サービスの先例として、規制当局や他社の動向にも影響を与えそうだ。",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/04/wayve-and-uber-steal-a-march-on-waymo-with-paid-self-driving-london-rides/5294451",
+          "source": "The Register",
+          "publishedAt": "2026-09-04"
+        },
+        {
+          "title": "トランプ政権のAIデータセンター推進、中間選挙で共和党の火種に",
+          "summary": "トランプ政権が推し進めるAIデータセンターの大規模建設が、11月の中間選挙を控えた共和党にとって政治的リスクになりつつあると報じられた。電力需要の急増や地域住民の反発など、データセンター建設が招く負担が有権者の不満につながっているとみられる。AI産業育成を最優先課題としてきた政権の姿勢が、地元選挙区の利害と衝突する構図が浮き彫りになった。今後の選挙戦でAIインフラ政策がどう争点化するか、業界にとっても不確実性材料となる。",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbW1pUUx6a3A1dDZjd1R6R2tFVVhzb2I3dHoxbU9HR0xXQjJEU1VVNXFxODk4bVhjaE9GSFFsWVRPUzR5MFJJcUNMZUtDRkRlN2taWGhycTVnVGhoU1pTRnB4VU1VcVdrdmQ5dlNYTkxnZDg0MWYyZXZ0cHlOU2lrZl9qbHB4WndxVnlISTNHMElXcF9uaDNDT3p1ckFJdTRzTUhxTmNfa0FnUVFtaEdodlpiQQ?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-09-05"
+        }
+      ],
+      "outlook": "AIインフラへの巨額投資は国・企業を問わず拡大が続く一方、著作権和解金の分配や自動運転の商用化、データセンターがもたらす社会的コストといった摩擦点が同時に顕在化しつつある。エージェント型コマースや自動運転サービスの実用化が進むほど、信頼性や規制、地域社会との利害調整を巡る議論が一段と活発化しそうだ。"
+    },
     {
       "date": "2026-09-06",
       "items": [
