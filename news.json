@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-08T09:09:10+09:00",
+  "updatedAt": "2026-09-09T08:59:44+09:00",
   "days": [
+    {
+      "date": "2026-09-09",
+      "items": [
+        {
+          "title": "Meta、パーソナルAIエージェント「Muse」始動 データ信頼が試練に",
+          "summary": "Metaが個人向けAIエージェント「Muse」を発表した。メールやカレンダー、決済、健康情報など幅広いアクセス権限を求め、車の売却や航空券予約まで代行できるという。低迷するAI事業のてこ入れを狙う数十億ドル規模の戦略転換の柱で、OpenClawやInstinctと競合する。過去のプライバシー問題を抱えるMetaに個人データを託せるか、消費者の信頼が最大の焦点となっている。",
+          "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-09"
+        },
+        {
+          "title": "OpenAIの数学的大発見「ナビエ・ストークス方程式」解決に学界から疑義",
+          "summary": "OpenAIは流体の流れを記述し約90年間未解決だったナビエ・ストークス方程式の存在と滑らかさ問題を解決したと発表した。この問題には100万ドルの懸賞金がかけられていたミレニアム懸賞問題の一つ。しかしNYUの数学者が「OpenAIは汚い手を使った」と批判するなど、成果の公正さを巡り学界から異論が噴出している。AI企業と学術界の摩擦を象徴する事例として注目される。",
+          "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+          "source": "Wired",
+          "publishedAt": "2026-09-09"
+        },
+        {
+          "title": "仏Mistral、サムスン主導で3000億円超調達 評価額2.4兆円規模に",
+          "summary": "フランスのAI企業Mistralが、サムスンやScaleup Europe、PSG Equity主導のシリーズDで約30億ユーロ（評価額約210億ユーロ）を調達したと発表した。欧州発の「主権AI」需要の高まりを背景に、大型資金調達が相次いでいる。米国製AIへの依存を避けたい各国・企業の需要が追い風となっており、欧州製AIの存在感拡大につながる可能性がある。",
+          "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-08"
+        },
+        {
+          "title": "クアルコム、AIチップでアマゾンと提携 株式取得権も付与",
+          "summary": "クアルコムがAIチップ事業でアマゾンを新規顧客として獲得したと発表した。複数世代にわたるチップ・ネットワーキング分野での協業で、アマゾンにはクアルコム株約40億ドル分を取得できる権利が付与される。NvidiaやBroadcomが主導するAI半導体市場で、クアルコムが存在感拡大を図る動きとして注目されている。",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZl80VFZ2VnoyVGhIdk1HaHpWdzVuTFZRNWdhdXBaU0JxMy1HY3d0aXV4bHZUNFIxSS1TMWVpVVM0UDZqWFlTY2VuZEFzaW40UzZmZGJ4d1d6emVGOHZ1em1ycUJSOUIxM05DN3NzNlJObXpmYTJaZ2JMOGp1bGNib20yZUZibDJTMjNvSnNvWVRseE5QT3o5OTVMV3NVUHFr?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-09-09"
+        },
+        {
+          "title": "Claudeの利用トークン、ハッカーがユーザーから窃取 アンソロピックが警告",
+          "summary": "アンソロピックのClaudeユーザーの間で、本人が使っていないのにアカウントのトークンが消費される被害が発覚した。ハッカーが認証情報などを不正利用し、他人のサブスクリプション枠を勝手に消費していたとみられる。アンソロピックはユーザー向けに注意喚起を行った。生成AIサービスの普及に伴い、アカウント乗っ取りや不正利用のリスクが新たな脅威として浮上している。",
+          "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-09"
+        }
+      ],
+      "outlook": "MetaのMuseは消費者データへの深いアクセスを求める設計だけに、プライバシー面での反発や規制当局の関心が今後の焦点になりそうだ。OpenAIの数学的成果を巡る学界との対立は、AI企業の成果発表の検証プロセスに一石を投じる可能性がある。Mistralの大型調達やクアルコム・アマゾン提携は、米国以外のAI主権確保や半導体市場の多極化がさらに進む兆しであり、資金・インフラ両面での競争激化が続く見通しだ。"
+    },
     {
       "date": "2026-09-08",
       "items": [
