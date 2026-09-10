@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-09T08:59:44+09:00",
+  "updatedAt": "2026-09-10T09:00:57+09:00",
   "days": [
+    {
+      "date": "2026-09-10",
+      "items": [
+        {
+          "title": "OpenAI財団、AI「懐疑派」ポール・クリスティアーノ氏を理事に迎える",
+          "summary": "AIアラインメント研究で知られるポール・クリスティアーノ氏が、OpenAIの非営利部門「OpenAI財団」の理事に就任した。同氏はAIの長期的リスクに警鐘を鳴らす立場で知られ、これまでOpenAIに批判的な発言もしてきた人物。安全性軽視との批判が続く同社が、外部の懐疑的な声を統治機構に取り込む姿勢を示した形で、AI安全ガバナンス強化策として注目される。",
+          "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-10"
+        },
+        {
+          "title": "Apple、iPhone・Apple Watchに「常時リスニング」AI機能を発表",
+          "summary": "Appleは秋の新製品発表会で、初の折りたたみ式iPhone Duoに加え、Siriの新機能「Audio Intelligence」や周囲の会話を要約するApple Watchの常時リスニング機能を披露した。録音データ自体は保存しないと説明するが、常に「聞かれている」ことを前提とする社会規範の変化への懸念も指摘されている。AI生成画像の真贋を判定する新機能も導入し、プライバシー配慮とAI活用の両立を前面に打ち出した。",
+          "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+          "source": "The Verge",
+          "publishedAt": "2026-09-10"
+        },
+        {
+          "title": "アンソロピック研究者が辞任、「自己改善型AIが人類を滅ぼしかねない」と警告",
+          "summary": "アンソロピックの研究者ジェイコブ・コクソン氏が、AI開発の急加速に強い懸念を表明して同社を退職した。同氏はAI企業を「人類の命を賭けたギャンブル」と批判し、安全対策が追いつかないまま自己改善型AIが実現すれば人類存亡の危機につながりかねないと訴える。社内でアラインメント研究に携わってきた立場からの内部告発的な辞任表明で、AI大手内部でも危機感が高まっている実態を浮き彫りにした。",
+          "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+          "source": "Wired",
+          "publishedAt": "2026-09-10"
+        },
+        {
+          "title": "米、中国AI6社が最先端モデルを「露骨に模倣」と非難 利用者切替も要請",
+          "summary": "米政府当局が、中国の主要AI企業6社について米国の最先端モデルを積極的に模倣していると批判する報告書をまとめた。米側はAI企業に対し、中国系利用者を特定した上で性能の劣るモデルへひそかに誘導するよう促しているとされ、技術流出防止と情報管理の両面で神経をとがらせている。米中AI覇権争いが規制・情報統制の領域にも広がっていることを示す事例で、今後の米中AI安全対話の行方にも影響しそうだ。",
+          "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-09-10"
+        },
+        {
+          "title": "Google、フィンランドに150億ドル投資 原子力電力も調達しAI基盤拡張",
+          "summary": "Googleはフィンランドで150億ドル規模のAIインフラ投資を行うと発表し、データセンター向け電力として原子力発電を調達する計画も明らかにした。生成AI需要の急増に伴う電力不足への対応として、再生可能エネルギーに加え原子力に踏み込む動きは大手テック企業の間で広がりつつある。欧州での計算基盤拡充は、米国外におけるGoogleのAI覇権争いでの存在感強化にもつながる。",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-09-10"
+        }
+      ],
+      "outlook": "AI安全性を巡る内部告発や理事人事の動きが続く一方、Appleの常時リスニング機能拡大や巨大インフラ投資により、AIの社会実装と電力・データ需要の拡大が同時進行している。米中間の技術覇権競争も情報統制の局面に移りつつあり、今後は各国規制当局の対応や9月中旬に予定される米中AI安全対話の進展が焦点となりそうだ。"
+    },
     {
       "date": "2026-09-09",
       "items": [
