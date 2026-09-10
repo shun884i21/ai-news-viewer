@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-10T09:00:57+09:00",
+  "updatedAt": "2026-09-11T08:57:34+09:00",
   "days": [
+    {
+      "date": "2026-09-11",
+      "items": [
+        {
+          "title": "Anthropic、アリババ・月之暗面・DeepSeekによる「蒸留」攻撃を報告",
+          "summary": "アンソロピックは9月10日、中国拠点のAI企業アリババ、月之暗面(Moonshot AI)、DeepSeekがClaudeモデルから知識を抽出する「蒸留」攻撃を継続的に行っているとする報告書を公表した。競争激化に伴いこうした攻撃は近年エスカレートしているという。知的財産保護がAI開発競争の裏側で新たな火種となっており、米中間の技術覇権争いが流出防止の観点からも激しさを増している実態を示す事例だ。",
+          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-11"
+        },
+        {
+          "title": "OpenAI、「GPT-6 Astra」需要急増でProプラン新規登録を一時停止",
+          "summary": "OpenAIは、新モデル「GPT-6 Astra」への需要急増を受け、ChatGPT Proプランの新規登録を一時停止すると発表した。同社によればProプランはシステムに最も大きな負荷をかけているといい、インフラ増強が完了するまで受付を止めるとしている。先日リリースされたAstraへの反響の大きさを示す一方、急拡大するAI需要に対する計算資源逼迫という構造的課題も浮き彫りになった。",
+          "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-11"
+        },
+        {
+          "title": "マイクロソフト、AI需要に対応しデータセンター投資で計算能力を3倍に",
+          "summary": "マイクロソフトは、AI需要の急増に対応するため大規模なデータセンター投資を進め、計算能力を現状の3倍に引き上げる計画を明らかにした。クラウド各社が軒並みAIインフラ投資を拡大する中、同社も設備投資競争での先行を狙う。巨額投資は電力調達や環境負荷といった課題とも直結しており、AIブームを支えるインフラ整備の規模がさらに拡大している実態を示す。今後の資本支出や収益への影響が焦点となる。",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXJMZWdoQWFkTHJITkVsNjYwWkFGZWk4OVlpdS1tTDNyMnNQd0Zicmx0UktIZDFxS0xwOFBlSkxOakxPZ2RjRy13UzduVWdhcUN3WVNXWWpjVEJXRFNpOFlVLUFHMEtxV0I3cWMwZWY1REVYTkhFNGZJZDJmTzRDSU9hQ3hmbGtNNzc3dFlPSzRwVjFlYnh3RDFLbW9UNUxMYWMwb2RTbldvZ3dWZHladi1TYkpnY0hZN1lN?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-09-11"
+        },
+        {
+          "title": "米議員団、アンソロピック研究者の安全警告受け新たなAI規制を要求",
+          "summary": "ロイターによると、米議会議員らはアンソロピックの研究者が発した「自己改善型AIが人類を滅ぼしかねない」との警告を受け、新たなAI規制の導入を求める動きを強めている。研究者の辞任が政界にも波紋を広げた形で、これまで業界の自主規制に委ねられてきたAI安全性の議論が立法レベルに移りつつあることを示す。規制強化派と技術革新優先派の対立が今後さらに先鋭化する可能性がある。",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWp5NmlTNEIxeThhRTdwR0VjTy1RYkFpUjh4LS05Y3l1UVhHa0tUOWhGM0s4emNhc20wR213OEZYY0JNTlhFY1lqRDRPMHlWdFF0Nm01UWt4YUpkR2ZvYnRVVXRNS19BSkt0dVdGc0hpZDFMWDQwLVU4elp1WGdlano1VFdQOTEyazN2UzJ1STBhcFBUd1JjQS1mSzdJdmhSYjVVOTI1TVdDb1ZnVXJwbQ?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-09-11"
+        },
+        {
+          "title": "OpenAI、AI開発「一斉減速」の独占禁止法上の可否を検討",
+          "summary": "Wiredの報道によれば、OpenAIをはじめAI業界大手は、安全性確保のため業界全体で開発ペースを協調して減速させることが独占禁止法(反トラスト法)違反に当たらないか検討しているという。急速なAI開発競争への懸念が高まる中、企業同士が協調して速度を落とす行為自体が法的リスクを伴うという逆説的な状況が浮き彫りになった。安全性重視派と競争法制度の間の緊張関係が新たな論点として浮上している。",
+          "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+          "source": "Wired",
+          "publishedAt": "2026-09-11"
+        }
+      ],
+      "outlook": "AIインフラへの巨額投資と安全性・規制を巡る懸念が同時進行しており、企業間の技術流出防止策や議会での規制論議が今後さらに具体化していきそうだ。需要急増によるインフラ逼迫と、開発速度を巡る法的・倫理的議論の両面から目が離せない。"
+    },
     {
       "date": "2026-09-10",
       "items": [
