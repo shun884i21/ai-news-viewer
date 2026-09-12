@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-11T08:57:34+09:00",
+  "updatedAt": "2026-09-12T09:04:13+09:00",
   "days": [
+    {
+      "date": "2026-09-12",
+      "items": [
+        {
+          "title": "アンソロピック、Claudeの兵器開発・スパイ活動への悪用実態を報告",
+          "summary": "アンソロピックは脅威分析レポートを公表し、Claudeがイエメンの武装勢力によるミサイル開発支援、ロシア系ハッカー集団の攻撃準備、中国系アクターによるスパイ活動やバイオ兵器研究の安全策回避などに悪用されていた実態を明らかにした。中国のMoonshot AIがユーザーの依頼を密かにClaude経由で処理していた疑いも判明。自律型AIが人の監視なしに攻撃を続ける「無謀さ」も指摘され、AI悪用リスクへの警戒が一段と高まっている。同社は該当アカウントの停止などの対応を進めている。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+          "source": "The Verge",
+          "publishedAt": "2026-09-12"
+        },
+        {
+          "title": "米上院、AI企業にリスク軽減を義務付ける新法を検討",
+          "summary": "米上院の超党派交渉担当者らが、AI企業に既知の重大リスクへの対策を義務付ける新たな法案の検討を進めていることが明らかになった。研究者による安全性への警告やAI悪用事例の相次ぐ発覚を受け、自主規制に頼ってきた業界に法的拘束力のある義務を課す動きが本格化している。具体的な対象リスクや執行方法は交渉中で、業界からの反発も予想される。規制強化派と技術革新の停滞を懸念する声がせめぎ合う中、法案の行方が注目される。",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTVJFRjl0M2NxU3YtVmplOGp5YkNqcllYY0R0Y2xPV0ZaTU5fNElVVXl1WDI4NjRRRGtSNXlwanRTUjRFY2ZCTUdLcE52QTZyTnN4WDdKNGE1bWM0SDBBdmdpSUw4YXZ1WDNnZ1hGTzl1RVhodnhBZzFEVHJ1VlJUd3Q1Z3gwTUVIMGR3X1g4Q0ZkUUFLdTc2dnAzZzZzaEREYjg5SGltUTJrelRKdjJwQ2RZbUJzY0NjMjI0SFUyUTF3X18wZ2ZjSw?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-09-12"
+        },
+        {
+          "title": "メタ、AI・顔認識の学習データ巡り集団訴訟を提起される",
+          "summary": "メタが、FacebookやInstagramユーザーの写真を無断で収集し、AI画像生成モデルや未発表の顔認識機能「NameTag」の学習に利用したとして集団訴訟を起こされた。原告側は、ユーザーの同意なく個人の顔写真データを大規模に利用しプライバシーを侵害したと主張している。AI企業の学習データ収集を巡る訴訟が相次ぐ中、大手SNSによる顔認識技術開発への警戒も強まっている。訴訟の結果次第では、AI企業のデータ収集慣行全般に影響が及ぶ可能性がある。",
+          "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+          "source": "Wired",
+          "publishedAt": "2026-09-12"
+        },
+        {
+          "title": "中国Moonshot AI、2026年に年間20億ドルの売上目指す",
+          "summary": "Kimiシリーズを手がける中国のAIスタートアップ、Moonshot AIが2026年に年換算20億ドルの売上を目指す方針を示した。看板モデル「Kimi K3」はOpenRouter経由で1日最大3000億トークンが生成されるなど利用が拡大してきたが、直近では利用がやや減速する兆しも見られる。中国発のAIモデルが海外でも急速にシェアを広げる中、同社は収益化の実績づくりを急いでいる。米中のAI開発競争が激化する中、中国勢の商業面での存在感の高まりを示す動きだ。",
+          "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-12"
+        },
+        {
+          "title": "カナダAI企業コヒア、最大30億ドルの資金調達を交渉中",
+          "summary": "カナダ発のAI企業コヒアが、最大30億ドル規模の新規資金調達に向けて交渉を進めていると報じられた。OpenAIやAnthropicなど大手に対抗するエンタープライズ向けAI企業への投資熱が続いており、同社もこれに乗じて事業拡大を図る狙いとみられる。具体的な出資者や評価額は明らかになっていないが、実現すれば企業価値が大きく押し上げられる見通しだ。生成AI市場での競争環境が一段と激化しそうだ。",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUpHQV8zVUtYVHJLZzBjc1JhOXREOUpyVWJiam82MHZfU2VxRUtJMjc4X2tlS0hzQ1VwMzl5MjIwR3N6RFlFTGQzOHNyem05NU9aUC1NYkdSX2tSUG5SeXRIQ0lpV0lSa1E2NGxqR2w2ZHg3SUdNajI3TFdRMTR4SnBGWkEzd1FhblpOaTZjOHpvNFhCQWNzVGVJTUo3NG9Oc3c3WlhPeUFsY2N5OE1GZVJn?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-09-12"
+        }
+      ],
+      "outlook": "AIの安全性を巡る議論は、規制当局による具体的な法整備の動きと、企業による実際の悪用事例や資金調達競争という商業的側面の両輪で進んでいる。今後は米議会での法案化の進展、中国勢の収益化状況、AI企業を狙う訴訟の帰趨が焦点となりそうだ。"
+    },
     {
       "date": "2026-09-11",
       "items": [
