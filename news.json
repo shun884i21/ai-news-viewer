@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-13T08:54:50+09:00",
+  "updatedAt": "2026-09-14T09:02:27+09:00",
   "days": [
+    {
+      "date": "2026-09-14",
+      "items": [
+        {
+          "title": "トランプ大統領、AI「終末論」を一蹴 中国との覇権競争優先",
+          "summary": "アンソロピックCEOダリオ・アモデイ氏らが唱えるAI開発「減速」論に対し、トランプ大統領とジョンソン下院議長は「業界の過剰反応」と一蹴した。トランプ氏は「一部の否定的勢力が懸念を誇張している」と述べ、中国への技術的優位を守る観点から減速には否定的な姿勢を示した。オルトマン氏やマスク氏らがアモデイ氏に賛同する一方、政権側との温度差が鮮明になった。AI規制を巡る政治対立が、安全性重視派と競争力重視派の間で先鋭化している。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+          "source": "The Verge",
+          "publishedAt": "2026-09-14"
+        },
+        {
+          "title": "オバマ氏、民主党にAI安全策の「明確な計画」を要求",
+          "summary": "オバマ前大統領は、民主党がAIを「中心的な政策課題」の一つに据え、経済的影響や安全性への懸念に対応する「明確な計画」を持つべきだと訴えた。AI開発企業のトップが相次いで存亡リスクへの警鐘を鳴らす一方、トランプ政権はこうした懸念を軽視する姿勢を見せており、野党側の政策対応の遅れが指摘されている。中間選挙を控え、AI規制が党派対立の新たな争点として浮上しつつある状況を踏まえた発言だ。",
+          "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-13"
+        },
+        {
+          "title": "習近平氏、BRICS首脳会議で独自のAI構想を提示 米国と覇権競う",
+          "summary": "中国の習近平国家主席は、BRICS首脳会議で自国のAI発展構想を打ち出し、米国とのAI覇権争いを鮮明にした。新興国・途上国を巻き込んだ協力枠組みを通じ、米主導の技術秩序に対抗する狙いがあるとみられる。米国が対中規制やモデル模倣批判を強める中、中国側は新興市場での影響力拡大でこれに応じる構図だ。AI覇権を巡る米中対立は、外交・経済圏の再編にも波及しつつある。",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONzFlZ3g5LW11ZWxLdFhPTGJKODllbjVGZ2gtZnpFT3dtbHljbHdEWHUzaktPdzBMNkQ5Y1Y2SW1wNVVJdzY0cTFrYWhSV0trMDVZcXNCTkhURUNxbGNWVm5ETG1qT1lVM1ZWNjdWR1JNNnJySy1XM3dsOFlrVWxTUnlBTnpVMFBpeENLYXkzUk1pZnpEckl2RnlDdVhWZGJaTVdhTjVzMVppRXZabTA0aTFEcG8?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-09-13"
+        },
+        {
+          "title": "エヌビディアのGroq買収、司法省がアンチトラスト審査を検討",
+          "summary": "エヌビディアによるAIチップ新興企業Groqの「アクハイア(人材獲得型買収)」に対し、米司法省が独占禁止法上の懸念から審査対象に加えたと報じられた。ただ専門家は、仮に規制当局が約200億ドル規模とされる取引を事後的に覆そうとしても、Groqに代わる推論チップの選択肢は既に複数存在しており、実効性は乏しいと指摘する。AIチップ市場でのエヌビディアの支配的地位を巡る規制当局の警戒感が強まっている。",
+          "url": "https://www.theregister.com/systems/2026/09/12/nvidias-groq-acquihire-is-on-the-dojs-radar-but-its-already-too-late/5295986",
+          "source": "The Register",
+          "publishedAt": "2026-09-12"
+        },
+        {
+          "title": "AI利用の弁護士、存在しない証言を引用し懲戒処分に",
+          "summary": "米ニューメキシコ州の刑事弁護人が、ChatGPTで作成した準備書面に実在しない証人の架空の証言を引用したとして懲戒処分を受けた。弁護士は「AIが事実を捏造しうるとは知らなかった」と釈明したが、生成AIの「幻覚」問題が司法実務に及ぼすリスクが改めて浮き彫りになった。AIツールの法曹実務への浸透が進む中、事実確認を怠った専門家の責任が焦点となっている。同様の事例は米国内で相次いでおり、裁判所や弁護士会の対応強化が求められている。",
+          "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-09-12"
+        }
+      ],
+      "outlook": "AI開発「減速」論を巡り政治指導者の間で温度差が広がる一方、米中はAI覇権を巡る主導権争いを加速させている。規制・独禁法面での監視強化と、生成AIの実務利用に伴う具体的な誤用事例の顕在化が並行して進み、今後は抽象的な「安全性議論」から「実務・法制度対応」へと焦点が移っていく可能性がある。"
+    },
     {
       "date": "2026-09-13",
       "items": [
