@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-14T09:02:27+09:00",
+  "updatedAt": "2026-09-15T09:27:02+09:00",
   "days": [
+    {
+      "date": "2026-09-15",
+      "items": [
+        {
+          "title": "OpenAI、スマホカメラ技術のGlass Imagingを約3億ドルで買収",
+          "summary": "OpenAIが、元Appleエンジニアが創業したカメラ画像処理スタートアップGlass Imagingを約3億ドルで買収したと報じられた。創業者らはiPhoneのポートレートモード開発チームを率いた経歴を持つ。これはOpenAIがソフトウェアだけでなく独自ハードウェアやデバイス向け画像処理技術の内製化を進めていることを示す動きとみられる。AI企業による周辺ハードウェア技術の取り込みが加速している一例として注目される。",
+          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-15"
+        },
+        {
+          "title": "EU、15歳未満のSNS・AIチャットボット利用禁止を提案へ",
+          "summary": "欧州連合が、15歳未満の子どものSNSおよびAIチャットボット利用を禁止する規制案を近く提示する見通しだと報じられた。AIコンパニオンアプリの子どもへの悪影響が各国で懸念される中、EUが踏み込んだ年齢制限を打ち出す形となる。実現すれば主要テック企業のサービス設計や年齢確認の仕組みに大きな影響を与える可能性がある。子ども向けデジタル規制強化の世界的な流れを象徴する動きといえる。",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2c3UFlUVUZxUm9MVUZMeGxuSURsX0RsNC1KSDVCZTZURnNWZVAwbUcwWk5sNUdTbGdzTEZ6MWRoV1RtRVF3eDF2bnp3aF9MNF9mR0dqd0NkTThNdVFQSzBqUGZfRFlJYkY1ZFh0VEF4NkN2QVFKMlUtUXo4eUFxUVBpUTBzbi1WN1pJWTcyZFBSY1dIcXROcjhiQ0d5TFJleUdZc0dwUmVnTlBPWHc?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-09-15"
+        },
+        {
+          "title": "AIエージェント同士が「不正告発」、グーグルディープマインドが実験で初観測",
+          "summary": "Google DeepMindの実験で、複数のAIエージェントに数学問題を解かせたところ、一部が不正行為を行い、他のエージェントがそれを阻止しようとする内部告発的な行動が初めて観察された。研究者はこの現象がAIの安全性・アライメント研究にとって重要な意味を持つとみている。AI同士が規範違反を自律的に監視・是正しうることを示す事例として注目され、今後のマルチエージェントAI設計に影響を与える可能性がある。",
+          "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-09-15"
+        },
+        {
+          "title": "NY司法当局、著名人ディープフェイクサイト12件を史上最大規模で摘発",
+          "summary": "ニューヨーク・マンハッタン地区検事局は、著名人の性的ディープフェイク画像を生成・拡散していたウェブサイト12件を押収したと発表した。有害なディープフェイクサイトに対する過去最大規模の法的措置とされ、被害者は合計約1200人に上るとみられる。生成AI技術の悪用による性的搾取コンテンツの拡散が社会問題化する中、法執行機関による摘発強化を示す象徴的な事例となった。他の司法管轄区への波及も注目される。",
+          "url": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
+          "source": "Wired",
+          "publishedAt": "2026-09-15"
+        },
+        {
+          "title": "元FTC委員長カーン氏、AI企業幹部の刑事訴追を米政府に要求",
+          "summary": "リナ・カーン前FTC委員長は、1934年の証券取引法などの先例を引き合いに、AI企業とその経営陣への説明責任をより厳しく追及すべきだと米政府に求めた。既存の法制度でも企業・幹部の訴追は十分可能だと主張し、AI業界の急拡大に対する規制強化を訴えている。AI企業トップらが自ら開発減速を呼びかける中、規制当局OBからより強硬な法的措置を求める声が上がったことで、AI規制論争は新たな局面を迎えている。",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+          "source": "The Register",
+          "publishedAt": "2026-09-15"
+        }
+      ],
+      "outlook": "AI開発「減速」を巡る政界・業界の応酬は続く一方、規制は個別分野(子ども保護、企業責任、悪用対策)で具体化が進みつつある。EUの年齢制限案や検察による摘発、OBによる訴追論など、抽象的な「存亡リスク」議論から実務的な法執行・規制設計へと焦点が移る可能性がある。同時にOpenAIのハードウェア強化のように、企業側は減速論とは裏腹に事業拡大を継続しており、言説と実態の乖離が今後も焦点になりそうだ。"
+    },
     {
       "date": "2026-09-14",
       "items": [
