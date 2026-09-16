@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-15T09:27:02+09:00",
+  "updatedAt": "2026-09-16T09:06:14+09:00",
   "days": [
+    {
+      "date": "2026-09-16",
+      "items": [
+        {
+          "title": "OpenAI・アンソロピック・グーグル、AI安全性で数週間にわたり協議していたと判明",
+          "summary": "OpenAIは、アンソロピックやグーグルディープマインドと数週間にわたりAI安全性について協議していたことを認めた。アンソロピックCEOが開発減速を提言する一方、トランプ政権は中国との覇権競争を優先し安全論議に距離を置く姿勢を示す。競合3社の異例の連携が、規制論議の行方や業界の自主規制の実効性に影響しうる注目の動きとなっている。",
+          "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-15"
+        },
+        {
+          "title": "エヌビディアCEOフアン氏「AI業界に新規制は不要」と主張",
+          "summary": "エヌビディアのジェンスン・フアンCEOは、AI業界には新たな法規制は必要ないと発言した。アンソロピックCEOらが開発減速や安全規制強化を訴える中、業界最大手の半導体企業トップが逆の立場を鮮明にした形で、規制論議における産業界内の意見の割れを浮き立たせている。米政権の慎重姿勢とも一致し、今後の政策論争の火種となりそうだ。",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSy1EZDJFX3BiWVdvWkZkOWVhcUl0TTduVWJoR3BveE9yUlZyeXhsU2lzdXk5bDFYT2NpYWpGZnVKUEZmSklraXRzY0l1UnJEN1l1ZDdjeDNZaG11WDFfaW1ldjBLSEhMLWhaX2JtZEUwclRPTzJFbDM4ckJ6RFdtNS1QUUZqa183ZGZzMzNldlpMWXB4bWdOa1lxX0thUDhBdWZGSHdNSllZcnNV?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-09-16"
+        },
+        {
+          "title": "メタ、AI機能を組み込んだ新サブスクリプション「Meta One」を世界展開",
+          "summary": "メタはパーソナルAIエージェント「Muse」に続き、Facebook・Instagram・WhatsAppの各サービスとAI利用枠を組み合わせたサブスクリプションプラン群「Meta One」を全世界で開始した。従来は無料が基本だったSNS体験にAI機能を軸とした有料化路線を打ち出すもので、収益化戦略の転換点として注目される。一部プランは今年前半から試験提供されていた。",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNkRwZGxpaHF6LXd4endocm1NWHpFTE5EYmVYaFE0OHdaWXdkQVFwRmFzX3d1cmdpanR0Zm8zRU9LN0F2Q1pYZXlVYmFmNGQ1dm5RdC0wLXZtaVc2YzFQOUoyVTZ1eEktSENnajVNNnlZZHNXcUJSOUptOHloWW1yem1ZNkxHODhPWWZIbjF4WFVQc1VjbmkxLXZ1YmRTenM?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-09-16"
+        },
+        {
+          "title": "米データセンターの天然ガス消費、2035年までに独・日合計を超える見通し",
+          "summary": "AI需要の急拡大により、米国のデータセンターが2035年までに独と日本を合わせた量を上回る天然ガスを消費する可能性があるとの分析が示された。電力網の拡張が追いつかず火力発電への依存が強まっていることが背景で、AIブームが環境負荷やエネルギー安全保障に与える影響への懸念が一段と高まっている。",
+          "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-16"
+        },
+        {
+          "title": "最先端AIモデル、性能面で4カ月の先行に5倍のコスト差 Mozilla報告",
+          "summary": "Mozilla財団の調査によると、有料の最先端AIモデルは無料の中国製オープンモデルに対し性能面で約4カ月分の先行を保つ一方、コストは約5倍に上るという。オープンモデルが急速に性能差を縮めている実態を示すデータで、企業がAI導入時にコストと性能のどちらを優先すべきか判断する材料として注目されている。",
+          "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-09-15"
+        }
+      ],
+      "outlook": "AI安全性を巡る大手3社の協議やフアン氏の規制不要論など、業界内でも安全規制への姿勢が割れており、米政権の消極姿勢と相まって当面は自主規制中心の展開が続きそうだ。一方でデータセンターのエネルギー消費急増や中国製オープンモデルの追い上げは、コストと持続可能性の両面から業界戦略の見直しを迫る要因となりうる。"
+    },
     {
       "date": "2026-09-15",
       "items": [
