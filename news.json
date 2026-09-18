@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-17T09:16:55+09:00",
+  "updatedAt": "2026-09-18T09:03:10+09:00",
   "days": [
+    {
+      "date": "2026-09-18",
+      "items": [
+        {
+          "title": "英チャールズ国王、AI首脳会議で「存亡の危機」を警告 エヌビディアCEOは安全性テスト徹底を提唱",
+          "summary": "英チャールズ国王は9月18日、技術系首脳らとの会合でAIがもたらす「存亡に関わる危険」について強い警告を発した。同じ会合でエヌビディアのフアンCEOも、AIモデルへの安全性テスト実施の必要性を訴えた。国王が公の場でAIリスクに言及するのは異例で、政治指導者に加え王室までも安全性論争に加わったことを示す。米中対立や規制論議が続く中、欧州でも懸念が政治・社会の最上層に広がっている実態が浮き彫りになった。",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFdPV3JrbjNYMUd3RXlUY3NwOU5RMTVheVM2eHRUQ2VFWnBVU2w2SnFqR05iaHBiZzE5MHlyc1ZhX1NSeWxHMmNLMEx4YkxBQjVZY1A4MllpU19lM0c5RHhnV3JTRkQzWGlDME1Cam9WdlVzTTVNclhxZm90akpuUHFkeW9INXdGbmdiUTBTNHBnZEVSNmxtRDNLUWNPQTh4N05qVmh4c01JUWM?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-09-18"
+        },
+        {
+          "title": "米政府サイトが利用したAI検索ツール、FBIが「アンソロピック模倣の中国製」と指摘",
+          "summary": "米政府機関のウェブサイトで使われていたAI検索ツールが、実はアンソロピックの技術を模倣した中国製だった疑いをFBIが指摘したとロイターが報じた。政府調達プロセスに出所不明のAI技術が紛れ込んでいた可能性があり、国家安全保障上の懸念が浮上している。中国企業によるAIモデルの模倣・蒸留が既に問題視される中、今回は米政府自身の調達管理の甘さが露呈した形だ。AIサプライチェーンの検証強化を求める声が強まりそうだ。",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSTBHb0F3bjFOTVY4RDExZ1Q4SUVqOEppWEdrc0t0TUhUc0NZNG0yZl9Da2daU1RyRnZPYlMzSDRRM0UzTlgwSHpTTDBKR201eVJocll5WHhKdDZNekVTTnBiQmhLaGZaaXZXQTBPRncxNjVUQjNIWU50RWRNd19wNmR4VGdNMzJEeGpoMXRNSG9Bd1JYc0ZYemZkUXZGUXBLRVBLYnozN1FmZ1dlcTYwdHU0aEtxd2RJOC1jb1M5empFdmNSWEV5bzAwTQ?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-09-18"
+        },
+        {
+          "title": "NATO支援のスタートアップ、小型AIモデルで自律的に偵察・攻撃するドローンを開発",
+          "summary": "NATOが支援するスタートアップ「Scaleout」が、軍事基地やドローンに分散型AI学習を組み込み、戦場の標的を自律的に識別・攻撃できるシステムを開発したとArs Technicaが報じた。大規模モデルではなく小型AIをエッジ上で動かすことで、通信環境が制限される戦場でも高速な意思決定を可能にする狙いがある。自律型兵器の倫理や国際法上の議論が続く中、実戦配備が現実味を帯びてきたことを示す具体例であり、AIの軍事利用が着実に進んでいることを象徴する。",
+          "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-09-18"
+        },
+        {
+          "title": "データセンター企業Crusoe、AI向け小型モジュール式「AI工場」建設へ39億ドル調達",
+          "summary": "データセンター大手Crusoeが、大規模データセンターと小型モジュール式の「AIファクトリー」建設のため39億ドルの資金調達を実施したとTechCrunchが報じた。今回の調達で同社の企業価値は309億ドルに達した。AIインフラ投資が過熱し電力供給の制約が課題となる中、大型施設一辺倒ではなく分散型・小規模モジュール式の新アプローチが注目を集めている。データセンター向け資金調達競争が一段と激化する見通しだ。",
+          "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-17"
+        },
+        {
+          "title": "グーグルのAI電子透かし「SynthID」、モデルを悪用攻撃に脆弱にすると判明",
+          "summary": "セキュリティ企業Lasso Securityの調査で、グーグル開発のAI生成物向け電子透かし技術「SynthID」を導入したモデルが、通常は拒否するはずの有害な指示に従ってしまう事例があることが判明したとThe Registerが報じた。透かし技術がモデルのツール処理や拒否判断の挙動そのものを変化させ、敵対的プロンプトへの耐性を弱める可能性があるという。AI出力の真正性確保のための対策が逆に安全性を損なうという新たなジレンマを浮き彫りにした発見で、今後は透かし技術と安全設計の両立が課題となる。",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/17/ai-model-watermarking-changes-agent-behavior/5296998",
+          "source": "The Register",
+          "publishedAt": "2026-09-17"
+        }
+      ],
+      "outlook": "AI安全性をめぐる議論は米政界や企業だけでなく、英王室や国際機関、軍事分野にまで広がりを見せている。今後は各国政府によるAI調達・サプライチェーン検証の強化、自律型兵器の国際ルール作り、そして急拡大するデータセンター投資と電力制約への対応が焦点になりそうだ。安全対策として導入された技術自体が新たな脆弱性を生む事例も出ており、規制と技術開発の綱引きはさらに複雑化する見通しだ。"
+    },
     {
       "date": "2026-09-17",
       "items": [
