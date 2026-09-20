@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-19T09:06:01+09:00",
+  "updatedAt": "2026-09-20T09:01:31+09:00",
   "days": [
+    {
+      "date": "2026-09-20",
+      "items": [
+        {
+          "title": "トランプ氏、「AI」の呼称変更と「AIフォース」創設を表明 新アドバイザーも任命へ",
+          "summary": "トランプ大統領は、AI(人工知能)という呼称自体を変更すべきだと提案し、新設の「AIフォース」創設と、AI政策を統括する新アドバイザーの任命を表明した。詳細は明らかにしていないが、ブルームバーグは「AIツァー(AI担当高官)」を新設する動きと報じている。AIの安全性を巡る懸念や社会的反発については、根拠を示さないまま「民主党によるでっち上げ」と一蹴した。AI規制論議が業界内外で高まる中、政権として開発推進の姿勢を鮮明にする動きとみられる。",
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-20"
+        },
+        {
+          "title": "バージニア州知事、データセンター開発を抑制する大統領令 AIタスクフォースも設置",
+          "summary": "米バージニア州のスパンバーガー知事は、AIタスクフォースの設置と、データセンター開発を抑制するための大統領令を発令した。同州は世界最大級のデータセンター集積地であり、電力・水資源の消費や地域社会への影響を巡り住民の反発が強まっていた。大統領令は州行政機関による秘密保持契約の締結を禁止し、許認可手続きの厳格化や環境保護の強化を求める内容となっている。AIインフラ拡大に対し州レベルで規制を強める動きが広がりつつある一例といえる。",
+          "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+          "source": "The Verge",
+          "publishedAt": "2026-09-19"
+        },
+        {
+          "title": "OpenAI・MS内部文書で判明 AI事業の「破滅のループ」を認識しつつ推進",
+          "summary": "ニューヨーク・タイムズがOpenAIとマイクロソフトを訴えている訴訟で開示された内部文書により、両社が自社のAI事業がニュース業界に「破滅のループ(doom loop)」をもたらすと認識しながら開発を進めていた実態が明らかになった。マイクロソフト幹部は自社のデータ収集を「人類史上最大の労働窃盗」と表現していたことも判明した。ウェブ経済やジャーナリズムへの悪影響を事前に把握しつつ進めていた点が今後の争点となる見込みで、AI企業と報道機関の著作権を巡る訴訟の行方にも影響しうる。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+          "source": "The Verge",
+          "publishedAt": "2026-09-19"
+        },
+        {
+          "title": "FAA、航空管制の混雑緩和へAIツールに8.75億ドル投資",
+          "summary": "米連邦航空局(FAA)は、航空管制の混雑緩和に向けたAIツール導入に8億7500万ドルを投じる計画を明らかにした。まずワシントンDC周辺の空域で運用を開始し、その後全米展開を目指す方針。近年相次ぐ管制官不足や空域混雑を背景に、AIによる交通管理支援への期待が高まっている。政府機関による大規模なAI投資の一例だが、安全性の確保やシステム障害時の責任の所在など課題も残る。",
+          "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-09-19"
+        },
+        {
+          "title": "アンソロピック、IPO控え新AIモデル投入を検討 ロイター報道",
+          "summary": "ロイターの独占報道によると、アンソロピックはIPO(新規株式公開)を見据え、新たな主力AIモデルの投入を検討していることが関係者への取材で判明した。同社は先週、AI開発の速度を落とすべきだとする段階的な提言を発表したばかりで、安全性論争の渦中での新モデル投入のタイミングが注目されている。具体的な性能やリリース時期は明らかにされていない。IPO準備を進める中でのモデル戦略は、投資家や競合他社の関心を集めている。",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-09-19"
+        }
+      ],
+      "outlook": "AI安全性を巡る政治的対立(トランプ政権の推進姿勢 vs 規制強化を求める声)、データセンター拡大への地域反発、AI企業と報道機関の訴訟、政府機関へのAI導入拡大、AI企業の資金調達・上場戦略という複数の軸で動きが同時進行しており、今後数週間で規制の具体化や新モデル発表などさらなる展開が予想される。"
+    },
     {
       "date": "2026-09-19",
       "items": [
