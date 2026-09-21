@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-20T09:01:31+09:00",
+  "updatedAt": "2026-09-21T09:04:15+09:00",
   "days": [
+    {
+      "date": "2026-09-21",
+      "items": [
+        {
+          "title": "AI関連リスクの集中に大手投資ファンドが警戒感",
+          "summary": "大手ヘッジファンドや機関投資家の間で、AI関連投資の集中リスクへの懸念が急速に高まっているとブルームバーグが報じた。データセンター向け巨額投資や高騰したAI関連株の評価、企業収益への依存度が積み上がる中、バブル崩壊時に市場全体へ波及することを警戒する声が広がっている。金融安定性の観点からAIブームのリスクが看過できない規模になっていることを示す動きだ。",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRXczNmN1MGZ3X3NMU2toblJ1dUJ3bzRwVU9nNmRMMjdTbzRUdHRQMlNQNnhkV0ttSHF3OVlVbHZuNEdRdlgyS1hqamJkS3Q0NEJscXJsR3JsMmJqdzRmdk9pTGJLQmZvNjhvU29nMXd2VGs3RzJhd0gwMk1TWFBEVGUwVE5hNlppTi1Hd0pmejNKUm1PTGZTalU1UUNCNEtheDZRVVJhUmYxVzNZNGxJNF9QWU44QQ?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-09-21"
+        },
+        {
+          "title": "ディズニー、初代CTOにAI分野出身の幹部を起用",
+          "summary": "ディズニーが新設した最高技術責任者(CTO)ポストに、AI分野出身の幹部を初めて起用したとブルームバーグが報じた。老舗エンターテインメント大手が経営陣にAI専門家を迎え入れる動きは、コンテンツ制作や配信、パーソナライズ体験へのAI活用を本格化させる狙いの表れとみられる。伝統メディア企業でAI組み込みが経営レベルで加速していることを象徴する人事だ。",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDBJMEI1TVo4YmV6ay1MYndVQmJtS2w1ZnJpeUthOGZaQUlHNEt1TnpOZUZRZ1c2dnZKSDhkblB2Q2ZYbXpUZUJxUk5MTktRVzBxNVdCQ3diSnFpaExvVEJsbmVoMy1jSUkteW4wTnduSjNaTWRjczZweDk3MDhreTQ2eDJENlMyTTkzcDNIeGFrenZsSUFia28wTWVHZjRCYWxLOGdMQndXUFAwc0NWRWZ6UDJMZw?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-09-19"
+        },
+        {
+          "title": "米中、ニューヨークでAI・貿易・重要鉱物を巡る協議開始",
+          "summary": "米財務長官ベッセント氏と中国の何立峰副首相がニューヨークで会談し、AI・貿易・重要鉱物を巡る協議を開始したとロイターが報じた。米中間ではAI覇権を巡る競争が激化する一方、半導体や鉱物資源の供給網を巡る緊張も続いており、経済分野の対話継続は今後の輸出管理や技術規制の行方を左右する重要な局面となる。",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDhlbkM4N1NRMjZYdkFnclBwZUlLTWFvelg4dUpkZzVkTnZ5TVJ6Yjl5NUlfQjMtTVdMOEc3ZUdzaHpLNjZrcUk0Y3JMNXdfVmh3VnZjdkN5cTJoZXJGNDJ6ZkoteGhiU3huNnVTa0p4VXpZcU9LVTRMLTVJREYyQ3VBTEtlYWVxLTgwNzdnSkFkcjZpaFZZZXBpclVpazhrbkJFdG1zTEVsaGZPLXV6d3NSdk03amxqRHNMTDdnUFQ?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-09-20"
+        },
+        {
+          "title": "米コンピューター科学専攻の新卒就職難、AIが影響か",
+          "summary": "米国勢調査局のエコノミストによると、コンピューターサイエンス専攻の新卒者の就職状況が景気後退期並みに悪化しているとレジスターが報じた。AIによる初級プログラマー業務の代替が進み、これまで安泰とされてきた技術系学位の就職優位性が揺らいでいることを示すデータで、AI普及が若年層の労働市場に及ぼす影響の深刻さを浮き彫りにした。",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/18/compsci-grads-facing-recession-like-job-prospects-thanks-to-ai/5297537",
+          "source": "The Register",
+          "publishedAt": "2026-09-19"
+        },
+        {
+          "title": "a16z出資のVals AI、AIベンチマークの「標準」目指す",
+          "summary": "著名VCアンドリーセン・ホロウィッツが出資するVals AIが、乱立するAIベンチマークの中で中立的な「標準」となることを目指していると報じられた。AIモデルの性能を巡る主張が誇張や恣意的な評価に左右されがちな現状に対し、第三者による信頼できる評価基盤を提供することで、企業や開発者がモデル選定で判断を誤らないよう支える狙いがある。",
+          "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-19"
+        }
+      ],
+      "outlook": "AI投資の過熱に対する市場側の警戒感と、雇用・評価基盤といった実務面での歪みが同時に表面化しており、規制論議だけでなく金融・労働市場への波及も注視点になる。米中間のAI・貿易対話の行方や、企業のAIガバナンス人事の広がりも今後の焦点となりそうだ。"
+    },
     {
       "date": "2026-09-20",
       "items": [
