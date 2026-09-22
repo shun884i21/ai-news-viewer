@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-21T09:04:15+09:00",
+  "updatedAt": "2026-09-22T09:42:09+09:00",
   "days": [
+    {
+      "date": "2026-09-22",
+      "items": [
+        {
+          "title": "MetaのAIエージェント「Muse」急成長も、米Amazonがアクセスを遮断",
+          "summary": "Meta発のAIエージェントアプリ「Muse」は米国・カナダでのダウンロード数や日次利用者数がChatGPT初期のモバイル展開を上回ったとAppfiguresが推計した。一方Amazonは資格情報や透明性への懸念を理由にMuseによる自社サイトへのアクセスを遮断。独自の基盤モデルと収益性の高い顧客接点を持つAmazonが防衛姿勢を強めた形で、AIエージェント同士のプラットフォーム主導権争いが表面化した。",
+          "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-22"
+        },
+        {
+          "title": "Meta「Muse」に深刻なゼロデイ脆弱性、強力な権限が裏目に",
+          "summary": "Ars Technicaによると、決済情報やブラウジングなど広範な権限を持つMetaのAIエージェント「Muse」に深刻なゼロデイ脆弱性が見つかった。単純なClickFix攻撃だけでエージェントを完全に乗っ取れるという。自律的に買い物や個人情報を扱うエージェント型AIアプリが急増する中、権限の大きさがそのままセキュリティリスクに直結する構図が改めて浮き彫りになった。",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-09-22"
+        },
+        {
+          "title": "カリフォルニア州、AIデータセンターの電力・水利用を規制する7法案に署名",
+          "summary": "ニューサム州知事は、AIデータセンターの電力コストを一般家庭の電気料金に転嫁させないための7法案に署名した。カリフォルニア州公益事業委員会にデータセンター向けの新たな料金区分導入を義務付ける内容で、AI関連投資が急拡大する中、住民負担の抑制を狙う州レベルでは踏み込んだ規制となる。今後他州への波及も注目される。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+          "source": "The Verge",
+          "publishedAt": "2026-09-22"
+        },
+        {
+          "title": "AMD、時価総額1兆ドル突破 AI半導体需要で株価急騰",
+          "summary": "AMDの時価総額がAI向け半導体需要を追い風に1兆ドルの大台を突破し、エヌビディアなどに続くトリリオンダラー企業の一角に加わった。半導体株全般が上昇するなか、AI投資への期待は根強く、市場関係者の間で懸念されるバブルリスクとは裏腹に強気相場が続いている実態を示す動きとなった。",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJSWFBacFZ6Y2xjRGFmeFBLLS02aTN5LWV1RWpLbWNtSXpQS3dGRF9OZUVYendmWTNxQnJqdHh6dEpIRWcxTnlFY0JXeVM2YXF3cTgwTmFxRjlYWm1oWFN5bFJFM3p2Y2twQ0xvTVFZb2NMQmNtdF9lX3dNNG1nR3l3dXg0OU1XX19pckx1cnBNNXlfeDJfTnVkSVhJbEpyTXY4dVdWalBQVkdSWDhn?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-09-22"
+        },
+        {
+          "title": "OpenAI、数学諮問委員会を設置 AIが100超の未解決問題を解決",
+          "summary": "OpenAIは自社AIによる数学研究の進展を受け、外部有識者による数学諮問委員会を新設した。同社のAIはすでに100件を超える未解決問題を解決したとされる。ただし委員会にはOpenAIの研究方針を減速・変更させる権限は与えられておらず、AIが純粋数学の最前線に急速に進出する一方、その監督のあり方には課題が残る。",
+          "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-22"
+        }
+      ],
+      "outlook": "AIエージェントの実用化競争は加速する一方、プラットフォーム間の主導権争いやセキュリティの脆弱性が新たなリスクとして表面化しており、今後は各社の対応や規制当局の反応が焦点となる。データセンターの電力・水資源負担を巡る規制は他州にも波及する可能性があり、半導体株の急騰が続く市場の過熱感とのバランスも注視される。AIによる研究貢献の拡大は、成果と統制のあり方を巡る議論をさらに活発化させそうだ。"
+    },
     {
       "date": "2026-09-21",
       "items": [
