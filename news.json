@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-22T09:42:09+09:00",
+  "updatedAt": "2026-09-23T09:14:46+09:00",
   "days": [
+    {
+      "date": "2026-09-23",
+      "items": [
+        {
+          "title": "アンソロピック、新モデル「Claude Opus 5.5」公開 価格4割引き下げ",
+          "summary": "アンソロピックが新フラッグシップモデル「Claude Opus 5.5」を発表した。同社は「これまでで最も高性能なモデル」と位置付け、上位モデルFable 5.1に匹敵する性能を持ちながら価格は従来より約4割安く抑えた。IPOを控えるタイミングでの投入となり、利用制限の緩和も図る。OpenAIもほぼ同時に新モデルを投入しており、フロンティアAI企業間で価格・性能を競う動きが強まっている。",
+          "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-23"
+        },
+        {
+          "title": "OpenAI、新モデル「GPT-6 Sol」「Luna」を発表 低コスト化と精度向上両立",
+          "summary": "OpenAIが新モデル「GPT-6 Sol」と「Luna」を発表した。上位モデルAstraと同系統の技術を基にしつつ、利用コストを抑え誤りを減らした点を強調している。アンソロピックのOpus 5.5発表とほぼ同時期の投入となり、主要AI企業が低価格・高性能モデルを競う構図が鮮明になった。エンタープライズ向け需要の取り込みを狙う戦略とみられる。",
+          "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-23"
+        },
+        {
+          "title": "マイクロソフト、AI悪用の不正アクセス基盤「EvilTokens」を摘発 1.2万件侵害",
+          "summary": "マイクロソフトは、AIを活用してアカウント乗っ取りを自動化する犯罪基盤「EvilTokens」の運用を妨害したと発表した。同基盤は世界1万超の組織で1.2万件以上のメールアカウントを侵害するのに使われたとされる。英当局は関連容疑者2人を逮捕し、マイクロソフトはフィッシングキット販売サイト50件を差し押さえた。AIがサイバー犯罪の効率化・自動化に悪用される実例として注目される。",
+          "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-09-23"
+        },
+        {
+          "title": "米軍、イラン学校空爆を受けAI標的選定プロセスを修正",
+          "summary": "米軍が、イランでの学校空爆を巡る反省を踏まえ、AIを用いた殺傷標的の選定・致死的作戦のプロセスを修正したことが明らかになった。変更の詳細は公表されていないが、AIが関与する軍事判断への歯止め強化が狙いとみられる。AIの軍事利用を巡っては誤情報が作戦に影響しかけた事例も報告されており、信頼性への懸念が高まる中での対応となる。米軍がAI依存のリスク管理を迫られている実態を示す事例だ。",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMW9CeTF3ZXBmblJYQ2RXaGZvRTA2SVJIR1p3ZEtBYnpDUnQtcldWQS16dXJ2eEctM3BzTDZNQlZLMTRBQnpSUnd6WlBlQU4xRDVMVUozLWUtNVlMRVd4dk9lY0RLdWhyeXppeGMyZkNfS2tLNzhnNEp4QkIwOGpYS2M4cWpwS2JpNTdXcDVSMFF5bmlQZlRSNllRNVRtMEU2d1NYQkJjcTVPNlY5OE9CSmV1eTVCaDZJOUxyYWk2OA?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-09-22"
+        },
+        {
+          "title": "トランプ氏、AIリスク管理の国際協定に反対姿勢",
+          "summary": "トランプ米大統領は、AIのリスクを多国間の枠組みで管理しようとする国際協定への参加を拒否する意向を示した。国連総会の場で各国が協調的なAI規制強化を求める声が上がる中、米国は拘束力ある国際的取り決めより国内主導のアプローチを優先する姿勢を鮮明にした。米司法省がAI企業を必要に応じて規制しうるとも発言しており、国際協調と米国の単独路線との溝が改めて浮き彫りになった。",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOclg1Q2Z3UlZMbnZZRVF0Rl96N2ZHMW1PNWRLd3JkXy1uenpTSXVhNFNxSDhMcWpaMllZZ18xLW00T0hiTVJnVU1jQ2haSE5nUTc2enVLZUtGSFFGd3gtTXNMMUdVM1FGejJKMks5SHhEcjZGaW1oWVA5Z3lOQXlkb1pKV1p0WW5NbXhBLVZhWjg3RWFvbmNqcHZQa0tZVkNtcjl4bTI2Q09XRkdWUFJrVWFyZU8?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-09-23"
+        }
+      ],
+      "outlook": "アンソロピックとOpenAIがほぼ同時に低価格・高性能モデルを投入したことで、フロンティアAIの「価格競争フェーズ」が本格化しそうだ。一方でAIを悪用したサイバー犯罪基盤の摘発や軍事現場でのAI標的選定プロセス見直しは、AIの実運用リスクが顕在化しつつあることを示す。国際的なAIガバナンス協定を米国が拒む構図が続けば、規制の枠組みは国・地域ごとに分断される可能性があり、今後の議論の行方が注目される。"
+    },
     {
       "date": "2026-09-22",
       "items": [
