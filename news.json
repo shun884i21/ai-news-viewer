@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-24T09:22:24+09:00",
+  "updatedAt": "2026-09-25T09:24:56+09:00",
   "days": [
+    {
+      "date": "2026-09-25",
+      "items": [
+        {
+          "title": "アンソロピック、Akamaiと120億ドル規模のAI計算インフラ契約",
+          "summary": "アンソロピックはCDN大手Akamaiと総額120億ドル規模のAIコンピューティング調達契約を結んだとブルームバーグが報じた。IPOを見据え、Claudeシリーズの学習・推論基盤を大幅に拡張する狙いとみられる。OpenAIやMicrosoftなど競合が巨額インフラ投資を続ける中、アンソロピックも独自の計算資源確保を急いでいる。AI業界で激化する「計算力争奪戦」の広がりを改めて示す動きだ。",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbEpHV0VXek9XWS1oa2ViR2ZBZ2d0ZERxdXdBaU1yRlB1aFQySTAxQUtmeV9CTk9qMm01eldSTWJ2MDVqQVFjdTNuS3RQUWZpRi1ycGNLTEs4a1FZMUsyVmt6dmtyZmc4cm14NkV2QkoxRjdITUFmbGJVbkF0c2hJajBZUzRFUWFTNE53bEg0MndlSEl0cmdHRXhkOUN4UXA4RXp1dVdRZkYySTBFRmRkMUl5TQ?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-09-25"
+        },
+        {
+          "title": "オラクル、Stargateデータセンターで不可抗力通知 AI投資の遅延リスク表面化",
+          "summary": "オラクルはOpenAI向け「Stargate」計画の一環であるニューメキシコ州データセンターについて、不可抗力(フォースマジュール)通知を送付した。2028年の稼働目標に間に合わない可能性があり、支払いを先送りできる措置とみられる。同時期にオラクルとBlue Owl Capitalの別プロジェクトでも遅延が判明し、AI関連融資市場に波紋が広がっているとロイターが報じた。急拡大するAIデータセンター投資の資金調達構造に不安の影を落としている。",
+          "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-25"
+        },
+        {
+          "title": "グーグル、軌道上AIデータセンターの試験機を10月1日打ち上げへ",
+          "summary": "グーグルは「Project Suncatcher」の一環として、宇宙空間でAI向けTPUを稼働させる実証実験機を10月1日に打ち上げると発表した。搭載するTPUはわずか4基で、稼働時間も1回あたり15分程度にとどまるごく小規模な試験となる。太陽光発電を活用した軌道上AI計算基盤という野心的な構想の第一歩で、地上データセンターが直面する電力・冷却問題への新たな選択肢を模索する動きだ。実用化には多くの技術的課題が残るが、AIインフラの将来像として注目される。",
+          "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-09-25"
+        },
+        {
+          "title": "SalesforceのAIエージェント「Agentforce」にゼロクリックの重大脆弱性",
+          "summary": "セキュリティ研究者は、SalesforceのAIエージェント機能「Agentforce」に「SalesBleed」と呼ばれる一連の脆弱性を発見したと報告した。ユーザーの操作を一切介さずにCRMデータを窃取したり、匿名でのフィッシング攻撃に悪用したりできる状態だったという。企業向けAIエージェントの急速な普及に伴い、権限設計の甘さが新たな攻撃対象になっている実態を浮き彫りにした。エンタープライズ向けAIエージェントのセキュリティ確保が急務であることを改めて示す事例となった。",
+          "url": "https://www.theregister.com/security/2026/09/24/salesforce-agentforce-vulns-allowed-0-click-crm-data-theft-anonymous-phishing/5298958",
+          "source": "The Register",
+          "publishedAt": "2026-09-25"
+        },
+        {
+          "title": "Okta主導の新連合、AIエージェント向け「キルスイッチ」の標準化目指す",
+          "summary": "Oktaが主導する新たな業界連合「Blueprint Alliance」が発足し、暴走・不正利用されたAIエージェントを緊急停止できる仕組みづくりに乗り出した。OAuthを活用し、異常な挙動を検知した際に企業がエージェントへのアクセスを即座に遮断できる標準化を目指すという。AIエージェントの権限乱用や乗っ取り被害が相次ぐ中、企業システムを守るための実装可能な枠組みを提示した点が特徴だ。政府による規制論議とは別に、業界側からの自主的な安全対策として注目される。",
+          "url": "https://www.zdnet.com/innovation/okta-blueprint-alliance-ai-agents-oauth-kill-switch/",
+          "source": "ZDNET",
+          "publishedAt": "2026-09-25"
+        }
+      ],
+      "outlook": "AIインフラ投資は拡大を続ける一方、オラクルの不可抗力通知やBlue Owl案件の遅延に見られるように資金調達面のきしみが顕在化し始めている。グーグルの軌道上データセンター実験のように、電力・冷却制約を回避する新たなアプローチも模索が進むだろう。同時にAgentforceの脆弱性やOktaの業界連合発足が示すように、AIエージェントの権限管理・安全停止の仕組みづくりが企業セキュリティの焦点になっていきそうだ。"
+    },
     {
       "date": "2026-09-24",
       "items": [
