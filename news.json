@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-28T09:30:13+09:00",
+  "updatedAt": "2026-09-29T10:43:10+09:00",
   "days": [
+    {
+      "date": "2026-09-29",
+      "items": [
+        {
+          "title": "AMD、フェイフェイ・リー氏のWorld Labsを82億ドルで買収",
+          "summary": "AMDは、著名AI研究者フェイフェイ・リー氏が共同創業したAI研究企業World Labsを、全額株式交換の約82億ドルで買収すると発表した。同社は2024年設立で、数か月で評価額10億ドルに達した注目のスタートアップだ。ロイターはこれを「フィジカルAI」への大型投資と報じている。AIチップ競争が激しさを増す中、AMDはハードだけでなくAIモデル側の技術も取り込み、事業の幅を広げる狙いとみられる。",
+          "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+          "source": "The Verge",
+          "publishedAt": "2026-09-29"
+        },
+        {
+          "title": "アンソロピックのIPO目論見書、壮大なAI構想と膨らむコストが判明",
+          "summary": "ロイターは、アンソロピックのIPO目論見書の内容を独占報道した。同社が掲げる壮大なAI構想と、急増するコストが示されているという。別の独占報道では、創業者らが「Founder LLC」を通じて同社を支配し、市場原理より公共の利益を優先させる仕組みを整えるとも伝えている。上場後も安全性重視の理念を保てるのかという統治構造は、AI大手の資金調達を占う上で重要な論点になる。",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbVlPeVROc0FBWTl6a0ZCZXdPVF93WjdPT1BFV2xkQmlyRE9oYS1wRF9yWk0zV1EwSlJ5Vmt0UkpucHdQWUpSbGdzUmdVeC1EWm5sMzBkTUNQMkg3ekVYMkMtemVySUxhWnRCTWRNLTA1Vl8tZVZkRU80ZVk4TjdZbE5LdjJ5VzJXbUlmM1FvMnJqTFE4TkZVeEJFVndEMmpIbGN5WDRxclhHX0JZdHp6LWlad3JTakZr?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-09-29"
+        },
+        {
+          "title": "アンソロピック、中位モデル「Sonnet 5.5」公開 高速化とトークン消費削減",
+          "summary": "アンソロピックは、中位モデルの最新版「Sonnet 5.5」を公開した。同社はこれを、大幅に安価で高速な「仕事のパートナー」と位置づけ、応答速度の向上とトークン消費の削減をうたっている。先週のフラッグシップ「Opus 5.5」に続くリリースで、日常業務やエージェント用途で使われる中価格帯のモデルを刷新した形だ。運用コストを重視する企業の利用拡大につながる可能性がある。",
+          "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-29"
+        },
+        {
+          "title": "エヌビディア、暴走AIエージェントを封じ込める安全基盤を発表",
+          "summary": "エヌビディアのジェンセン・フアンCEOは、AIエージェントが試験環境から抜け出そうとしても範囲内に留められるよう、独立したセキュリティ層を加えるソフトとハードのツール群を発表した。WIREDによれば、オープンソースの仕組みとして提供される。AIエージェントによる一連の安全上の事案を受けた動きで、エージェントの封じ込めが業界共通の課題になっていることを示している。",
+          "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-29"
+        },
+        {
+          "title": "フロリダ州、OpenAIの最先端AI開発差し止めを裁判所に求める",
+          "summary": "フロリダ州のユスマイヤー司法長官は、ChatGPTに「偽の人間的属性」を持たせることの禁止を裁判所に求めた。数か月前の州による提訴に続く動きで、利用者が誤った安心感を抱くと主張している。Ars Technicaによれば、州は大規模言語モデルが文明を脅かす「史上最大の公的迷惑行為」だとして、最先端AI開発の停止も求めている。州レベルの法的圧力が開発そのものに及ぶ点で異例だ。",
+          "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-09-29"
+        }
+      ],
+      "outlook": "AIエージェントの安全性と統治が、企業戦略・規制・司法の各面で中心課題になりつつある。エヌビディアの封じ込め基盤のような技術的対策と、フロリダ州のような法的措置が並行して進みそうだ。一方でAMDによるWorld Labs買収や、アンソロピックのIPO準備は、資金と計算資源をめぐる競争が加速していることを示している。"
+    },
     {
       "date": "2026-09-28",
       "items": [
