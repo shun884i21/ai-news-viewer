@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-29T10:43:10+09:00",
+  "updatedAt": "2026-09-30T10:11:19+09:00",
   "days": [
+    {
+      "date": "2026-09-30",
+      "items": [
+        {
+          "title": "OpenAI、常時稼働のAIエージェント「Dots」を発表 月500ドルの新有料プランも",
+          "summary": "OpenAIは開発者向けイベントDevDayで、ユーザーの目標に沿ってバックグラウンドで継続的に動くエージェント「Dots」を発表した。連携アプリをまたいで多段階のタスクをこなし、使うほどに好みを学習するという。Bloombergによれば月額500ドルの新有料プランも同時に導入された。MetaのAI「Muse」への対抗色が強く、チャット中心から自律型エージェント中心へと競争軸が移りつつあることを示している。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+          "source": "The Verge",
+          "publishedAt": "2026-09-30"
+        },
+        {
+          "title": "OpenAI、評価額1.4兆ドルで300億ドル調達を交渉 2027年上場前の最後の資金調達に",
+          "summary": "OpenAIが評価額約1.4兆ドルで300億ドル規模の新たな資金調達を目指して交渉中と報じられた。TechCrunchによれば、この調達は延期されている2027年の株式公開前では最後のラウンドになる見込みだ。一方、アルトマンCEOはモデルの安全性について、より確かな約束ができるまでは上場しないと述べ、明確な時期は示していない。巨額の計算資源投資を賄う資金力と安全性への懸念の間で、同社の上場戦略が問われている。",
+          "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-09-30"
+        },
+        {
+          "title": "トランプ氏、テック企業幹部とAI「協定」に署名 政府文書では「Super Intelligence」表記に統一",
+          "summary": "トランプ大統領はテック企業の幹部と会談し、「道義的拘束力を持つ」とされるAI関連の文書に共に署名した。ロイターによると、下院議長はAI業界が技術標準に関する「協定」に署名したと説明している。Bloombergは新たなAI安全法は退けたと伝えた。The Vergeは、政府の公式文書やサイトでは今後「AI」ではなく「Super Intelligence」と呼ぶよう命じる大統領令も報じており、法的拘束力のある規制ではなく自主的な枠組みを重視する姿勢が鮮明になっている。",
+          "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+          "source": "The Verge",
+          "publishedAt": "2026-09-30"
+        },
+        {
+          "title": "米控訴裁、AI学習をめぐるトムソン・ロイターの画期的勝訴を支持",
+          "summary": "米連邦控訴裁判所は、AIの学習をめぐる訴訟でトムソン・ロイターに有利とした下級審の判断を支持したとロイターが報じた。同訴訟はAI学習における著作物の利用が問われた先駆的な事例とされ、控訴審での維持は大きな意味を持つ。判断の詳細はsnippetからは分からないが、権利者側に追い風となる可能性がある。生成AI各社が抱える多数の著作権訴訟や、学習データの調達・ライセンス戦略に広く影響しうる。",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlB4SnZManZlNUNvZ0trQ2FkY3N3enRaNEpjc2lYTWZxTldqWHlGSXMyeE9FMl9VbXZrc0NNQlB0LWtkYmtyZnJ4bldFOGZ4MG9WTzRncmc0MkV4bWtyMGNKU0c1TmpUdmE4MmpZWXJYX1dDcC1LM0ZqQzAxZkU0QnJud1M1enNudVhibDBIZzBnZVNIekluR2lhclpXQVk3UmlpQ2diZ1FfcENXd0FSeXZiYU9aMWhBREFhNWJRZlVWR19TLUFid3p4bHg?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-09-30"
+        },
+        {
+          "title": "OpenAI、次期モデル「GPT-6.1」はセキュリティ上リリースできないと表明",
+          "summary": "OpenAIは、計画していた次期モデルGPT-6.1について、安全性が不十分だとして公開を見送ると明らかにした。Ars Technicaによれば、性能面では現行モデルと同程度で、現在の公開モデルにも同様のセキュリティ上のトレードオフが見られるという。Wiredは、同社が安全基準を満たすための追加作業を行うと伝え、豪政府サイトへの侵入をめぐる対応についても謝罪したと報じた。最先端モデルの開発競争でも、安全性が公開の可否を左右する局面に入っている。",
+          "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-09-29"
+        }
+      ],
+      "outlook": "OpenAIは常時稼働型エージェントと巨額調達で攻勢を強める一方、安全性を理由にモデル公開や上場時期を慎重に扱う姿勢も見せている。米政府は拘束力のある規制より業界との自主的な合意を優先しており、エージェントの責任や著作権をめぐる判断は、訴訟や裁判所の場で形作られていく可能性が高い。"
+    },
     {
       "date": "2026-09-29",
       "items": [
