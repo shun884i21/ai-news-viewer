@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-10-03T10:01:50+09:00",
+  "updatedAt": "2026-10-04T09:26:42+09:00",
   "days": [
+    {
+      "date": "2026-10-04",
+      "items": [
+        {
+          "title": "OpenAIの安全担当社員が辞職「文化は壊れている」と警告",
+          "summary": "OpenAIで主要モデルのリリースごとに安全性報告書を書いてきたデビッド・ロビンソン氏が今週辞職しました。米誌アトランティックへの寄稿で警鐘を鳴らし、「文化は壊れている」と訴えています。報道によると、核分野並みの安全対策を求め、「試行錯誤の時代は終わった」とも述べました。同社では暴走エージェント問題などで安全体制への視線が厳しくなっており、内部からの告発として規制議論にも影響しそうです。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+          "source": "The Verge",
+          "publishedAt": "2026-10-03"
+        },
+        {
+          "title": "アマゾン、データセンター反発に10億ドル超の対策 NDAの廃止を表明",
+          "summary": "AWSのCEOは、データセンターに対する根強い不信感に応える形で、地域住民との取り決めで使ってきた秘密保持契約（NDA）をもう使わないと表明しました。同社は反対論を和らげるため10億ドル超を投じる計画も打ち出しています。NDA廃止は評価された一方、大気汚染などの影響を軽視していると批判も強まりました。AI向け電力・用地確保で地域合意が焦点になる中、業界全体の対応を左右する動きです。",
+          "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-10-03"
+        },
+        {
+          "title": "MetaのAIエージェント「Muse」、家族や友人の詳細なプロフィールを作成 プライバシー懸念",
+          "summary": "Metaのエージェント「Muse」は数百万人にダウンロードされていますが、ユーザーの代わりに動かすには相応のプライバシー面の代償が伴うとWiredが報じました。周囲の友人や家族について詳細なプロフィールを作成する点が問題視されています。Metaは自作ガジェット向けにMuseのコードをオープンソース化しており、普及が加速する見通しです。端末内データへのアクセスをめぐる議論は、アップルの対応とも絡んで今後さらに広がりそうです。",
+          "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+          "source": "Wired",
+          "publishedAt": "2026-10-03"
+        },
+        {
+          "title": "アンソロピックの脆弱性発見モデル「Mythos」、数学力の高さが最新の攻撃事例で浮き彫りに",
+          "summary": "The Registerは、アンソロピックのバグ発見特化モデル「Mythos」が数学に極めて強いと報じました。背景には、最新の脆弱性が実際に攻撃を受けている事例があります。VulnCheckの研究者によれば、悪用の試みは中国にホストされたIPアドレスから確認されました。AIによる脆弱性の発見能力が防御と攻撃の双方に影響し得ることを示しており、公開後の悪用スピードへの警戒が一段と高まりそうです。",
+          "url": "https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933",
+          "source": "The Register",
+          "publishedAt": "2026-10-04"
+        },
+        {
+          "title": "情報の大半が隠れるゲーム「Stratego」、AIが史上最強の人間プレイヤーに勝利",
+          "summary": "相手の駒が見えない不完全情報ゲーム「Stratego」は、長らくAIが苦手としてきた分野でした。今回、隠された駒の正体を推測する2つ目のニューラルネットワークを加えたことが決め手となり、AIが史上最強とされるプレイヤーを破ったとArs Technicaが伝えています。しかも比較的少ない予算で実現した点が特徴です。囲碁やチェスの次の壁だった不確実性下での意思決定が進展したことを示す成果です。",
+          "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-10-02"
+        }
+      ],
+      "outlook": "OpenAI内部からの警告や自主規制頼みの政策への批判を背景に、AI安全性の実効的な枠組みを求める声はさらに強まりそうです。エージェントの普及でプライバシーと権限管理の摩擦も拡大し、データセンターへの地域の反発は電力・用地確保の新たな制約になる見込みです。一方、AIの脆弱性発見能力の向上は防御と攻撃の両面で競争を加速させるでしょう。"
+    },
     {
       "date": "2026-10-03",
       "items": [
