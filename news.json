@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-06T11:09:25+09:00",
+  "updatedAt": "2026-10-07T10:22:03+09:00",
   "days": [
+    {
+      "date": "2026-10-07",
+      "items": [
+        {
+          "title": "OpenAI、未公開の最先端モデルによる数学の未解決問題の解法を722本の論文で公開",
+          "summary": "OpenAIは未公開のフロンティアモデルが生成した、長年の数学の未解決問題に対する解法を722本の原稿（372の結果群）としてまとめて公開した。これまでの一連の「数学的ブレークスルー」の延長線上にある成果だ。一方でWIREDによれば、一部の数学者からはAI企業の振る舞いに対し強い反発も出ており、検証方法や功績の扱いをめぐる議論が続いている。AIが科学研究の最前線に踏み込む一方、査読や評価の体制が追いつかない課題も浮き彫りになった。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+          "source": "The Verge",
+          "publishedAt": "2026-10-07"
+        },
+        {
+          "title": "ミストラル、新型オープンウェイトモデル「Le Chonk」を発表 中国勢を上回ると主張",
+          "summary": "仏ミストラルは1兆パラメータ規模の新しいオープンウェイトモデル「Le Chonk」を発表した。同社は中国以外ではオープンウェイト最高性能だとし、一部の中国勢を上回ると主張している。Hugging Faceでは今月後半に公開予定という。ZDNETは、企業が自ら管理できるセキュリティ用途にも適すると伝えている。米中が先行するフロンティア競争で、欧州勢が「まだ戦える」ことを示す狙いがある。",
+          "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+          "source": "Wired",
+          "publishedAt": "2026-10-06"
+        },
+        {
+          "title": "アンソロピック、最高性能モデルへのアクセスをより多くのセキュリティチームに拡大",
+          "summary": "アンソロピックは、同社の最も強力なAIモデルを利用できる対象をサイバーセキュリティ企業やセキュリティチームへ広げた。AIを使った攻撃や脆弱性悪用が増える中、防御側に高性能モデルを先に提供して対抗力を高める狙いとみられる。最先端モデルを防御者向けに限定提供する動きは業界で広がっており、攻防のバランスをどう保つかが焦点になる。",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRkxQM2QzdFNaWVZ2cDdhMGNGb24za0lLSjNZOTlLTkMwMTNPNDBnSjMyaHRXZ0QwVkRLV2RwNUdob2ZpNHhfX19TVkNxQW1XOFEybjdJWTZFbGZPU1hLR1pEcFpyNmZLV19IUVJqUm9LOWxZNnNhRjVSc1pFQU1YR2lXZEw4X19FT3pXM0dVUmdZdW5QNWtKU3YxS0RkLUI4UnJPZXJkeERJdlNSakNLUE9GX2d2Zm8?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-10-07"
+        },
+        {
+          "title": "DeepSeek、テンセント支援で120億ドル以上の資金調達へ ムーンショットは評価額500億ドルで27年上場視野",
+          "summary": "ブルームバーグによると、中国のDeepSeekはテンセントが支援する形で少なくとも120億ドルを調達する見通しだ。別の報道では、同じく中国のムーンショットが企業価値500億ドルに達し、2027年初頭の上場を検討しているという。米国のLambdaやOpenAIなども上場前の大型調達を進めており、米中双方でAI企業への巨額資金流入が続いている。中国勢が資金面でも欧米勢との差を詰める動きとして注目される。",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQXVsa1AtZXBYRFRpZG9IQ1JKcW5qVjZiLVNsUDhRc2hJRWJVYlZ1cXR3TGdKS2NOb3hkZ3dFM1lCdjFEWW05YjJPMl85cGwxWFZhbWdWSnNMVGJTem1RY2c5azlLbS1kRnhqdE5tY1NBWVZwM1BDUHV4RWxvcmVzdkdNVEY3VXlqQVF4N0diNU9WUjVJT3VGOU9lNVFEY0VhZlIyMG1yaE96Ui1xOFlwYlJLS28?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-10-06"
+        },
+        {
+          "title": "エヌビディア支援のLambda、IPO前に最大40億ドルを調達 評価額145億ドル",
+          "summary": "エヌビディアが支援するAIコンピューティング企業Lambdaが、調達前評価額145億ドルで最大40億ドルを調達する。出資はCoatueとBlackstoneが主導し、2027年に予定するIPOに先立つ資金調達となる。AI向け計算資源の需要が膨らむ中、GPUクラウド事業者に機関投資家の資金が集まっている。データセンター投資の過熱感が指摘される一方、インフラ層への投資意欲は依然強いことを示す。",
+          "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-07"
+        }
+      ],
+      "outlook": "AI各社は数学や防御用途で能力を誇示する一方、評価や検証の枠組みが追いついておらず、研究コミュニティとの摩擦が増しそうだ。資金面では米中双方で上場前の大型調達が続き、2027年にIPOラッシュが起きる可能性がある。欧州勢のオープンウェイト戦略も、規制対応と合わせて注目される。",
+      "note": "候補のうち既出と重複しないものから選定した結果、5本に1本足りず4本のみとなりました。Wikimedia関連やOpenAIの透かし、トランプ氏の「Super Intelligence」表記などは既出のため除外しています。"
+    },
     {
       "date": "2026-10-06",
       "items": [
