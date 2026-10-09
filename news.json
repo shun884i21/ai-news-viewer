@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-10-08T10:42:52+09:00",
+  "updatedAt": "2026-10-09T10:55:35+09:00",
   "days": [
+    {
+      "date": "2026-10-09",
+      "items": [
+        {
+          "title": "OpenAIの年換算売上、従来の報道より200億ドル少ないとFT報道",
+          "summary": "フィナンシャル・タイムズの報道として、OpenAIの年換算売上高がこれまで示唆されていた約700億ドルより200億ドル少ないと伝えられた。AI業界の成長期待を牽引してきた同社の収益力に疑問符が付く内容で、IPOを視野に入れる各社の評価額にも影響し得る。折しもAI関連の債券市場の再評価や、データセンター関連IPOの不調が続く局面での報道であり、投資家のAIバブル懸念を刺激する可能性がある。売上の定義や算出方法の違いも焦点になるとみられ、同社側の説明が注目される。",
+          "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-09"
+        },
+        {
+          "title": "エヌビディア支援のFirmus、50億ドル規模の豪IPOを撤回 需要不振でAI評価に警戒",
+          "summary": "エヌビディアが支援するデータセンター事業者Firmusが、投資家の需要が低調だったことを受け、約50億ドル規模のオーストラリアでの新規株式公開を取りやめた。Bloombergは、AI関連の資金調達に対する警告になると伝え、パイプラインにある他のデータセンター系IPOにも影を落とすと指摘している。AIインフラ投資が過熱するなか、市場が評価額に慎重になり始めたことを示す事例で、今後の資金調達環境を占う材料になる。",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY21BNU1iQlJDajVWejFGYjVrM2J0cllKVmc5WEVZX2tMQnROZGFJRkRDekhCaFY0MzRnYXhYOGNaVi11cFlndVo5b1RIYUpaS25JbV92dVkwVEZpXzVaTWdtR3piN0d6SUI2OW9qaEI4eHVCV1VBQkFBWXhyemttZDlhMlFVa3hQdDhpWVZkLW95cmxNaEFzZGxWb2dzU3VPSzNlNTc4OEF5YXV1LVoxOHZuUzFsMTZfaDJuckx4UQ?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-10-09"
+        },
+        {
+          "title": "グーグル、あらゆる業務を担う「ユニバーサル」Gemini エージェントを企業向けに投入",
+          "summary": "グーグルはGeminiを、計画立案からタスク実行までを自律的にこなすAIエージェントへと進化させ、まず企業向けに提供を始めた。サブエージェントへの作業委任や複数のAIモデルの使い分けが可能で、エージェント自身が電子メールアドレスを持つなど職場での固有のIDも与えられる。Google Cloudは「単一の汎用エージェント」で業務を担わせる構想を打ち出しており、企業向けAIエージェント市場での競争が一段と激しくなる。",
+          "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-09"
+        },
+        {
+          "title": "解雇されたOpenAIの安全研究者ら、不正行為の指摘に反論 公開書簡で萎縮効果を警告",
+          "summary": "OpenAIを解雇された安全研究者3人が、機密情報の不正な取り扱いがあったとする会社側の主張に反論する公開書簡を出した。書簡では、今回の解雇が社内のAI安全文化に萎縮効果をもたらすと警告している。同社は先に報復を否定しており、双方の主張は食い違っている。AIの安全性をめぐる内部告発や異論の扱いが問われる事案で、規制当局や世論の関心にも影響しそうだ。",
+          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-09"
+        },
+        {
+          "title": "アンソロピック、オープンソース向けに無料のセキュリティ診断「OSS Scanner」を開始",
+          "summary": "アンソロピックは、オープンソースプロジェクトの脆弱性を見つける新サービス「OSS Scanner」を発表した。参加を申し込んだプロジェクトには、同社の最も強力なモデルによる定期的で徹底したセキュリティスキャンが無料で提供される。AI生成の粗悪な報告の急増でバグ報奨金の運用が揺らぐなか、AIを防御側の支援に活用する動きとして注目される。維持者の負担軽減につながるかが焦点だ。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+          "source": "The Verge",
+          "publishedAt": "2026-10-09"
+        }
+      ],
+      "outlook": "OpenAIの売上をめぐる報道やFirmusのIPO撤回は、AI投資への市場の目が厳しさを増していることを示しており、今後の大型IPOや資金調達の行方が試される。一方、グーグルの企業向けエージェントやアンソロピックの無料スキャンなど、実用面の競争は加速しており、収益性と技術進展のギャップが今後の焦点となる。"
+    },
     {
       "date": "2026-10-08",
       "items": [
