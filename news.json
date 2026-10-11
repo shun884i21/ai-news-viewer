@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-10T10:37:28+09:00",
+  "updatedAt": "2026-10-11T09:46:40+09:00",
   "days": [
+    {
+      "date": "2026-10-11",
+      "items": [
+        {
+          "title": "ナデラ氏「AIモデルには緊急ブレーキが必要」 すべてのモデルは侵害されている前提で考えるべきと主張",
+          "summary": "マイクロソフトのサティア・ナデラCEOがX上の長文投稿で、高度なAIモデルのリスクへの向き合い方を示し、AIの「信頼アーキテクチャ」を見直す時期だと訴えた。AIを「入れ子状のブラックボックス」として助言や行動をそのまま受け入れる世界はもはや許容できないとし、すべてのAIモデルは侵害されている前提で設計すべきだと述べた。AIエージェントの暴走事例が相次ぐ中、主要プラットフォーム企業のトップが緊急停止の仕組みに言及した点は重く、業界の安全設計や規制議論に影響を与える可能性がある。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+          "source": "The Verge",
+          "publishedAt": "2026-10-11"
+        },
+        {
+          "title": "エヌビディア、Reflection AIへの追加出資または買収を協議 FT報道",
+          "summary": "FTの報道として、エヌビディアがオープンウェイトAI開発のReflection AIへの追加投資、あるいは買収を協議していると伝えられた。Bloombergも、追加出資とコンピューティング提供の契約を話し合っていると報じている。Reflectionは今月初めにオープンウェイトモデル「Beam」を公開したばかりで、中国勢に対抗する米国発のオープンモデルの担い手として注目されている。エヌビディアが支援先を深く囲い込めば、チップ供給と開発企業の結びつきがさらに強まり、AI業界の資本構造にも影響しそうだ。",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXpmTnVsdlhWdUt0a0hnSUg1YUVoRWNhT2JSQ24yeHFvRWVPdG5SNzNsWkNLVS0zbng0UWZrMS1zaGtXRmNzRThMamRUNXJPUGRwX09vN2J0dXFSUW9ZSThFeGZ6bTg5bnFqVVktSk91RzBNMkN0MGFOX2FSSEFZMzZ4TXhMb1dsc1hpLUwtY1pmeERoMnE0M2llTEI0X1V2cGxRc1UtMnpYUmc?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-10-11"
+        },
+        {
+          "title": "マイクロソフト、中国製オープンウェイトのQwen派生モデルでJevに対抗 次版は自社技術へ",
+          "summary": "The Registerによると、マイクロソフトは新モデル「Microsoft-Decision-1」の初版を、中国のAI研究所アリババ系のQwen3.5-9Bをベースに構築した。同社は次のバージョンでは自社開発の技術を採用すると説明している。非テキスト型モデルJevが短期間で高い評価額を得るなか、小型モデルで対抗する狙いとみられる。米大手が中国発のオープンウェイトに依拠する構図は、技術の自前主義や安全保障面での議論を呼びそうだ。",
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/10/microsoft-leans-on-open-weight-model-from-chinese-ai-lab-to-challenge-jev/5302473",
+          "source": "The Register",
+          "publishedAt": "2026-10-10"
+        },
+        {
+          "title": "トランプ政権のAI責任追及の動き 暴走したモデルの責任は誰が負うのか",
+          "summary": "Bloombergは、トランプ政権が進めるAIの責任(ライアビリティ)をめぐる動きが、暴走したモデルによる被害の責任を誰が負うかという「責任の押し付け合い」を招いていると報じた。モデル開発企業、サービス提供者、利用企業のどこに責任が及ぶのかが争点になる。AIエージェントが現実世界で想定外の行動を取る事例が相次いでおり、法的責任の線引きは保険、契約、導入判断に直結する。規制の枠組みが固まる前に、各社が責任範囲を巡り主張を強める可能性がある。",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWlEwdWh3UlBnVFNxWEtNemNtUzI4eXppbzRTV1E5eTFkVmMyYXAxcVdXd2ZXLUtIcHhpWkRNUlFuQUd5TjE0T21MY2E4UG9xOG0wbDBDemFoMXRpQVRrYWJjU0hVN0N0eTFCd0Rnc21CbTF2NURqWllxZzF6RmZXZkExX1JxZVk5cGczRG16dktMRE5sTk1vTDQ1YVdDTWI5TnR5Mm93UndTWDBZZDM1aTlHdWdoZw?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-10-10"
+        },
+        {
+          "title": "AWSのAgentCore、認証情報を求めるプロンプトで防御が破られる 脆弱性が判明",
+          "summary": "The Registerによると、AWSのAIエージェント基盤「AgentCore」のセキュリティが、認証情報を求めるプロンプトによって破られる問題が見つかった。トークンがメタデータで送信される点、仮想マシンの分離が弱い点、権限が広範すぎる点が重なり、攻撃が容易になっていると指摘されている。企業がエージェントを本番業務に導入する動きが加速する中、基盤側の隔離設計や最小権限の欠如は重大なリスクとなる。クラウド各社のエージェント基盤にも同様の点検が求められそうだ。",
+          "url": "https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436",
+          "source": "The Register",
+          "publishedAt": "2026-10-10"
+        }
+      ],
+      "outlook": "AIエージェントの暴走や侵害を受け、ナデラ氏の「緊急ブレーキ」発言に象徴されるように、安全設計と責任の所在が業界の中心議題になりつつある。一方で、エヌビディアによる支援先の囲い込みやオープンウェイト競争など、資本とモデル開発の再編も続く見通しだ。今後は法的責任の線引きとエージェント基盤のセキュリティ強化が焦点になる。",
+      "note": "Bloombergの記事は見出しのみのため、要約の一部は一般的な背景に基づく。Registerのマイクロソフト記事のQwenの開発元に関する記述は、snippetに明記がないため一般知識による補足を含む。"
+    },
     {
       "date": "2026-10-10",
       "items": [
