@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-11T09:46:40+09:00",
+  "updatedAt": "2026-10-12T10:08:17+09:00",
   "days": [
+    {
+      "date": "2026-10-12",
+      "items": [
+        {
+          "title": "アマゾン、AIスタートアップDecartを約70億ドルで買収協議 WSJ報道",
+          "summary": "WSJの報道によると、アマゾンはAIスタートアップのDecartを約70億ドルで買収する交渉に入っている。ReutersやBloombergも同内容を伝えた。詳細な事業内容や条件はsnippetでは明らかではないが、巨額の買収額はAI人材と技術の獲得競争が大手クラウド各社の間で激しさを増していることを示す。成立すればアマゾンのAI戦略を補強する大型案件となり、今後の正式発表や規制当局の対応が注目される。",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSTR0SUxydGYzRDJmaGtaWkRTYkkybS1GWlRkZFFnMjVXRFlZX0hHMUtVdFdIN0ZyQk0wMk1LNFhaUml3Y3FlRUV6SWFxVk9UUFg3MTUzelJtZU8tdjVpREpVS0owdkt2aVJhMUVObjg1TlRTREtZQzBINHJTTFloWDNBQTFCVl9yOE9HNXhBazJWMElncnlIZWNPdG5IY25ObFg0SGswNks5MkF0ODM4bEVRWkhjS3ZqcXVuWlVnamU0dw?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-10-12"
+        },
+        {
+          "title": "ウクライナのドローン、「ロシアのグーグル」ヤンデックスのAIデータセンターを攻撃",
+          "summary": "Ars Technicaによると、ウクライナのドローン攻撃により、ロシアの検索大手Yandexのデータセンターが機能停止に追い込まれた。被害を受けた施設の一つには、同社のAIモデルの学習に使われるスーパーコンピューターがあるという。AI計算基盤が戦時の軍事標的になり得ることを示す事例で、データセンターの物理的安全保障が新たな論点となる。ロシアのAI開発への影響や、他国のインフラ防護への波及も注視される。",
+          "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-10-10"
+        },
+        {
+          "title": "AIシステムはインフラへの悪夢のような攻撃を実行可能 備えはできていないと専門家",
+          "summary": "The Registerは、AIシステムが重要インフラに対する深刻なサイバー攻撃を実行できる能力をすでに持ち、社会の備えが追いついていないと報じた。AIエージェントがロボットアームを動かしたり、制御システム（OT）機器のオペレーター画面に偽の情報を表示させたりできる点が指摘されている。AIの自律性が高まるほど、電力や工場など物理世界を支える設備のリスクが現実味を増す。運用技術の防御やAIエージェントの権限管理の見直しが急務となりそうだ。",
+          "url": "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450",
+          "source": "The Register",
+          "publishedAt": "2026-10-11"
+        },
+        {
+          "title": "シリコンバレー、トランプ氏のAI「再命名」に同調 「スーパーインテリジェンス」への呼称変更",
+          "summary": "The Vergeによると、トランプ大統領がAIを「スーパーインテリジェンス」と言い換える方針を示したことを受け、一般にはAIという呼称が使われ続ける一方、シリコンバレーの有力者の一部が同調し始めている。当初は定着を疑問視する見方もあったが、業界の主要人物が追随する動きが出ている。呼称の変更は単なる言葉遊びにとどまらず、政府と業界の距離感や政策の枠組みづくりにも影響し得る。今後どこまで広がるかが注目される。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+          "source": "The Verge",
+          "publishedAt": "2026-10-12"
+        },
+        {
+          "title": "スタック・オーバーフロー調査 開発者はAIに依存するも判断力には懐疑的",
+          "summary": "The Registerが伝えたStack Overflowの調査で、開発者はAIツールを日常的に使う一方、その判断力を全面的には信頼していないことが分かった。回答者の79%が出典の明示を重視しており、Q&Aアーカイブをモデル開発企業へライセンス提供する同社にとって追い風となる結果だという。AI活用が定着するなかでも、品質の検証や情報の出所への要求が根強いことを示す。AIコーディング支援の普及段階で、信頼性と透明性が競争軸になりつつある。",
+          "url": "https://www.theregister.com/software/2026/10/10/stack-overflow-survey-finds-devs-hooked-on-ai-but-not-totally-sold-on-its-judgment/5301662",
+          "source": "The Register",
+          "publishedAt": "2026-10-10"
+        }
+      ],
+      "outlook": "AI企業の大型買収や資金調達が続く一方、物理インフラへの攻撃リスクやデータセンターの安全保障など、AIを支える基盤そのものの脆弱性が注目されている。政策面では呼称をめぐる政治的な動きも出ており、業界と政府の関係が今後の規制の方向を左右しそうだ。開発現場では利用拡大と信頼性への要求が並行して進むとみられる。",
+      "note": "有力な候補が限られ、既出ニュースとの重複を避けた結果、4本のみの選定となった（5本に満たない）。Decart買収協議の詳細は見出し・snippetの範囲に限っている。"
+    },
     {
       "date": "2026-10-11",
       "items": [
