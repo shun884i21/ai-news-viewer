@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-12T10:08:17+09:00",
+  "updatedAt": "2026-10-13T11:56:52+09:00",
   "days": [
+    {
+      "date": "2026-10-13",
+      "items": [
+        {
+          "title": "メタ、初のフロンティアモデル「Muse Wonder」を発表 OpenAI・アンソロピックに対抗",
+          "summary": "メタは、スーパーインテリジェンス・ラボ発の新モデル「Muse Wonder」と上位版「Muse Wonder Full」を発表した。軽量・低遅延を狙った先行の「Muse Spark」より大型で、ベンチマークやコーディングなど複雑なタスクで高い性能を示すとされる。エージェントが暴走しないための新機能も盛り込まれたと報じられている。AI競争で出遅れていたメタが最先端モデルの水準に戻ったと主張する形で、OpenAIやアンソロピックとの競争が一段と激しくなりそうだ。",
+          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-13"
+        },
+        {
+          "title": "アンソロピック、新safeguardsでAI蒸留攻撃を大幅に減少と発表",
+          "summary": "アンソロピックは、自社モデルの出力を大量に収集して他社が模倣モデルを作る「蒸留攻撃」について、新たな防御策で大幅に減らせたと発表した。蒸留は高額な開発投資をした企業の成果を低コストで複製できるため、フロンティア企業にとって知的財産保護と安全保障の両面で課題となっている。中国勢の追い上げが指摘される中、モデルへのアクセス制御や不正利用検知の重要性が高まっている。詳細な手法や効果の数値は、今後の公開情報を確認する必要がある。",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlZuUXZob1BWeEV1WEZOdWIwRW9ucW92UFVueWd3clAxbHNSUHh1VXFuX1dTalVxLWgyX3Y5ZmZhYzIxc1BNRGN4Y3JUOXBIQjhZUUlDMlNyZ2Q1WW4zOThMbF85R1NGZ0RrWnRLVWMyNjdFWmswb2hrMmNlQWttOUZVOGFjUnRaUzduMDVKMnI1ODlUaWJuTkZ1M3U5N3haQWIzMzNyNzNNUUt1eW5ZVk5EV1pPczA?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-10-13"
+        },
+        {
+          "title": "NYT・エコノミストなど出版社、AIによる無許諾利用を抑える連合に参加",
+          "summary": "ニューヨーク・タイムズやエコノミストなどの出版社が、AIによるコンテンツの無償利用を抑えることを目指す連合に参加したとロイターが報じた。生成AIの学習や回答生成に報道コンテンツが対価なく使われることへの反発は強く、訴訟やライセンス交渉が各地で続いている。業界が団結して交渉力を高める動きとなり、AI企業とメディアの収益配分のあり方に影響する可能性がある。",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmRmTUZIcS1ONUNFNXdMc1diXzFXWVROYS1neVN1WllUWXhlVnhENGNmeU0yZ3hCR1U0NXRkUkNjb3BIdzRMWVlTZ1JmQ2x2U3ZKajZNMTBCMDZOalVraDB2UVJROTlVa2E4R0JtcDlaM0w0aWNUMElzTDhmZEpHUUd0cXBLcHpvMFZTZ1FFUVlZTDZNOFhySTZTUVpxeUVwaVVLUEhyQ2xPcWlMWjdCQy12cUN6b0pyUThoSw?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-10-13"
+        },
+        {
+          "title": "マイクロソフト、自社AIチップを大規模展開へ コスト削減を狙う",
+          "summary": "ロイターによると、マイクロソフトは自社開発のAIチップを大規模に展開する計画だ。目的はコスト削減とされ、AIの推論・学習に使うインフラ費用が膨らむ中、エヌビディア製GPUへの依存を下げる狙いがあるとみられる。大手クラウド各社が独自チップを強化する流れが続いており、半導体の供給構造やAI提供コストにも影響を与えうる。具体的な規模や時期はsnippetでは明らかでない。",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHVSM1ltUmRIUHVldm04ZU5JX2hLc0lhYjZVaDMzMDlkVkxXNUM3OTFFVU1kdlM1R3BneGN5cXp3Ui1Yc211TFF0VUU3ZlpRWjhBRy0yOGJjdlZxR3FmdmFHdFNMRDM3Rnh3WjJMd0d1MHNINEdvdWpBVEc5TTJNMjk1Xy1JNEY2b1g5RkYzWXYtakQ0SmNnMHdoUlRnbjFMSWVBUm9QaVBXbkFNUVgwSDVLdURleTBwMHc?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-10-13"
+        },
+        {
+          "title": "エピック・ゲームズ、「AIファースト」開発へ転換か ディズニー協業作品は延期",
+          "summary": "エピック・ゲームズがゲーム開発を「AIファースト」へ転換していると報じられた。ディズニーとの協業によるマーベル／スター・ウォーズ系シューティングは延期され、手書きコードやAIを使わないアートを排する方針だとされる。ブルームバーグは開発者にAI活用の拡大を求めていると伝えている。大手スタジオが制作工程の中核にAIを据える動きは、現場の雇用やクリエイティブの質をめぐる議論を一層強めそうだ。",
+          "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-10-13"
+        }
+      ],
+      "outlook": "メタのフロンティア復帰でモデル競争はさらに加熱し、各社は蒸留対策など知的財産の防御にも注力するとみられる。一方、自社チップによるコスト削減や出版社の対価要求、ゲーム業界のAI全面導入など、AIをめぐる経済・権利・雇用の論点が並行して先鋭化していきそうだ。",
+      "note": "メタ関連は複数媒体が報じていたため1本に集約した。Reuters記事の一部はsnippetが見出しのみのため、詳細は一般化した表現に留めている。"
+    },
     {
       "date": "2026-10-12",
       "items": [
