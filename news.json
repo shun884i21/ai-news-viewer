@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-10-13T11:56:52+09:00",
+  "updatedAt": "2026-10-14T10:02:47+09:00",
   "days": [
+    {
+      "date": "2026-10-14",
+      "items": [
+        {
+          "title": "グーグル、新フラッグシップ「Gemini 4 Argon」を投入 有料ユーザーと開発者向けに順次展開",
+          "summary": "グーグルは新たな主力AIモデル「Gemini 4 Argon」を発表し、Geminiアプリと開発ツールAntigravityで有料ユーザー向けに提供を開始した。開発者向けAPIは11月まで50％割引の料金で利用できる。企業・開発者向けの提供も同時に始まり、OpenAIやアンソロピック、メタが相次ぎ新モデルを出す中で競争力を示す狙いがある。当初は有料ユーザー限定のため、無料ユーザーへの展開時期や実際の性能評価が今後の焦点となる。",
+          "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-10-14"
+        },
+        {
+          "title": "OpenAI社員を逮捕、オフィスに盗聴器を設置した疑い チャットボットで準備か",
+          "summary": "OpenAIは、社内で「高度な録音装置」が見つかったとして、サウジ国籍の35歳のエンジニアが逮捕されたと明らかにした。当局は通話や会話を傍受する装置の使用などの容疑で訴追したとされる。Wiredによると、容疑者はチャットボットに相談しながら準備を進め、装置は幹部が使う会議室で発見されたという。AI企業の内部情報の価値が高まるなか、社内からの情報流出リスクとセキュリティ管理のあり方が改めて問われる。",
+          "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+          "source": "Wired",
+          "publishedAt": "2026-10-14"
+        },
+        {
+          "title": "OpenAIとアンソロピック、英議会で「我々を規制せよ」 科学者は国際監督機関を要請",
+          "summary": "OpenAIとアンソロピックの幹部は英国の議員らに対し、AI企業への規制を求めた。議会の公聴会には内部告発者やセキュリティ分野の責任者も参加し、近隣では英国の情報機関トップがAIが新たな生物兵器の開発に悪用されうると警告した。同じ日には、科学者らが高度なAIを監督する国際機関の設置を求めたとロイターが報じている。業界自身が規制を求める流れが強まるなか、規制の中身や実効性をめぐる議論が各国で本格化しそうだ。",
+          "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+          "source": "Wired",
+          "publishedAt": "2026-10-14"
+        },
+        {
+          "title": "安価な中国製・オープンソースLLMが数兆ドル規模のAIインフラ「リセット」を招く恐れ",
+          "summary": "投資銀行ジェフリーズの分析によると、安価な中国製やオープンソースの大規模言語モデルが、数兆ドル規模のAIインフラ投資の見直しを引き起こす可能性がある。同行はトークン価格が急落し続ける中で、LLMが本当に収益化できるのかを疑問視している。同時期にブルームバーグやロイターは、メモリー半導体株の下落などAI関連株に亀裂が入っていると伝えており、過熱した設備投資への警戒感が市場で広がっている。",
+          "url": "https://www.theregister.com/paas-and-iaas/2026/10/13/cheap-chinese-and-open-source-llms-could-trigger-trillion-dollar-ai-infrastructure-reset/5302774",
+          "source": "The Register",
+          "publishedAt": "2026-10-14"
+        },
+        {
+          "title": "アップル裁判でOpenAIに採用記録の開示命令 元アップル社員の面接資料も対象",
+          "summary": "米連邦地裁の判事は、アップルが起こした営業秘密をめぐる訴訟で、OpenAIに採用関連の記録を提出するよう命じた。アップルは元アップル社員に関するOpenAIの面接資料のほか、主要人物の非公開メッセージや証言にもアクセスできるようになる。AI企業間の人材獲得競争が激しさを増すなか、人材の引き抜きと企業秘密の線引きが法廷で試される形となる。今後の証拠開示の内容が、訴訟の行方と業界の採用慣行に影響する可能性がある。",
+          "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-14"
+        }
+      ],
+      "outlook": "新モデル投入が続く一方で、AI投資の採算性やインフラ過剰投資への懸念が市場で表面化し始めている。規制面でも、業界自身が規制を求める動きと国際的な監督機関構想が重なり、各国の議論が加速しそうだ。人材・情報をめぐる訴訟や社内セキュリティの問題も、AI企業の競争の重要な論点になっていく。"
+    },
     {
       "date": "2026-10-13",
       "items": [
