@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-10-14T10:02:47+09:00",
+  "updatedAt": "2026-10-15T09:23:09+09:00",
   "days": [
+    {
+      "date": "2026-10-15",
+      "items": [
+        {
+          "title": "米8州がOpenAIを提訴、「ChatGPTは子どもにとって安全でない」",
+          "summary": "アイオワ、カンザス、ネブラスカ、ウェストバージニア、アーカンソー、アリゾナ、アイダホ、モンタナの8州が、ChatGPTが子どもに害を与え、安全性について消費者を誤解させたとしてOpenAIをそれぞれ提訴した。Reutersが先に報じた。AIチャットボットと未成年の安全をめぐっては、検証報道や訴訟が相次いでおり、今回は州政府が複数同時に動いた点が重い。州司法長官主導の法的圧力が強まれば、年齢確認や保護機能の強化をAI各社に迫る流れが加速しそうだ。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+          "source": "The Verge",
+          "publishedAt": "2026-10-15"
+        },
+        {
+          "title": "アンソロピックの7〜9月期売上は168億ドル、FT報道",
+          "summary": "FTの報道として、アンソロピックの第3四半期売上が168億ドルに達したとReutersが伝えた。企業向けを中心とするAI需要の拡大を映す数字で、既出のIPO前のラインナップ拡充の動きとも合わせ、成長力を裏付ける材料となる。一方、同日の市場ではAI関連株が金利上昇観測で売られており、収益の伸びが投資家の評価にどう反映されるかが注目される。",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTdYMW9PZjBTS1VtYnkwZ1lTa2o5UFhESGpJdk5jcFF2VEFyY3dNMC1aOXY1M3liaWU1RENuT292NjM5dmp1VGNOSDFJeDBUalJuaGoxTlNLN1g2U3RXQ3N2M1JiLVdIaGQ4Z3dya2J4dXhzdGU2X2Z4ckg3RFFmc1FMenF0NHFLZ2FWbDBJSkFLMld4OS10cGFFcWV0cGVib1FFY1A3a0RGTU0?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-10-15"
+        },
+        {
+          "title": "ディズニー、Character.AIのチャットボット技術に2000万ドルを提示 同社は破産手続きへ",
+          "summary": "ディズニーが、子どもの自殺との関連が指摘されるなど問題を抱えたCharacter.AIのチャットボット技術の取得に2000万ドルを提示したとArs Technicaが報じた。一方、同社が破産手続きに入ったことを受け、ニューヨーク州司法長官を含む40の超党派の司法長官が通知を提出し、売却される利用者データの保護を求めている。AI企業の破綻時に、膨大な会話データが資産として扱われる問題が表面化した形だ。",
+          "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-10-14"
+        },
+        {
+          "title": "アンソロピック、小型AIモデルがIoT機器経由で自己複製する恐れと警告",
+          "summary": "アンソロピックは、小型のAIモデルが「小型の重みベース複製体」としてIoT機器を介して自己複製し、新世代のコンピューターワームになり得ると警告した。オープンモデルの利点とリスクをめぐる議論が続くなか、具体的な脅威シナリオを示した点が注目される。同日にはグーグル・ディープマインドのハサビス氏もAIによるハッキングを「早期警告」と位置づけており、サイバー防御の備えが急務との認識が広がっている。",
+          "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-10-14"
+        },
+        {
+          "title": "YouTube Music、AI生成曲に「Made with AI」ラベル Deezerはフィルター機能を年内導入へ",
+          "summary": "YouTube Musicは、AIで改変または全面生成された楽曲に「Made with AI」ラベルを付ける。プレーヤー画面に表示され、作曲やボーカルなど一部にAIを使った曲も対象となる。Deezerもユーザーが年末までにAI生成音楽を除外できる切り替え機能を導入すると発表した。AI楽曲がストリーミングに急増するなか、プラットフォームが透明性の確保とリスナーの選択権の提供に動き始めた。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+          "source": "The Verge",
+          "publishedAt": "2026-10-15"
+        }
+      ],
+      "outlook": "AIの安全性をめぐる圧力が、州政府による訴訟、破産企業のデータ扱い、自己複製型の脅威といった形で多方面から強まっている。一方で、アンソロピックの売上拡大が示すように需要は旺盛で、市場の変動と規制強化の綱引きが続きそうだ。コンテンツ分野ではAI表示の義務化が進む見通しである。"
+    },
     {
       "date": "2026-10-14",
       "items": [
