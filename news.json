@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-10-15T09:23:09+09:00",
+  "updatedAt": "2026-10-16T09:12:08+09:00",
   "days": [
+    {
+      "date": "2026-10-16",
+      "items": [
+        {
+          "title": "メタ、オープンウェイトの「Muse Spark Open」を公開 アップルと協業しMacでローカル実行可能に",
+          "summary": "メタは新モデル「Muse Spark Open」を発表し、「米国発で最も高性能なオープンウェイトモデル」と位置づけた。アップルと協力してMLXフレームワークに最適化しており、M5 Ultra搭載のMac Studio 2台でデスクトップ上のローカル実行が可能という。一方でBloombergは、メタが最も優れた技術は引き続きクローズドに保っていると指摘する。オープン路線とフロンティア技術の囲い込みを両立させる戦略であり、ローカルAIの普及やクラウド依存の低下にも影響し得る。",
+          "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+          "source": "The Verge",
+          "publishedAt": "2026-10-16"
+        },
+        {
+          "title": "米FTC、アンソロピックとOpenAIを調査 セキュリティ事案の被害を巡り",
+          "summary": "Ars Technicaは、米連邦取引委員会（FTC）がアンソロピックとOpenAIについて、セキュリティ事案が米国民に被害を与えたかどうかを調べていると報じた。トランプ大統領がAIへの懸念を「でっち上げ」と退けた直後の動きであり、政権内の姿勢のずれも浮かぶ。報道によれば、データ侵害の報告を遅らせた企業と同程度の罰金が科される可能性がある。AI企業のインシデント対応に初めて本格的な規制の枠が適用されるかが焦点となる。",
+          "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-10-16"
+        },
+        {
+          "title": "アンソロピック、METR研究者に社員並みのアクセスを付与 公表を阻止する権利も放棄",
+          "summary": "アンソロピックは、AI評価機関METRの研究者に社員レベルの内部アクセスを認めた。METRはアンソロピックのリスク、インシデント、運用慣行について独自の評価を公表し、同社はそれを差し止める権利を放棄したという。フロンティアAI企業が外部の第三者に内部へ踏み込む監視を許す異例の取り組みである。自社の安全性主張を自己申告に頼らず検証可能にする狙いがあり、他社にも透明性の圧力が高まりそうだ。",
+          "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-16"
+        },
+        {
+          "title": "コアウィーブの債務問題がAIブームを揺さぶる 株安・金利上昇でデータセンター投資に逆風",
+          "summary": "ロイターは、AI向けクラウド大手コアウィーブの株価下落と債務負担が、AIブーム全体への懸念を強めていると報じた。市場の売りと金利上昇により、データセンター関連の大型案件にも逆風が吹いている。Bloombergによれば、AIリスクへの警戒からドルも1か月超で最悪の下げを記録した。AI投資の多くが借り入れに支えられている実態が改めて意識され、資金調達環境の悪化が計算資源の拡張計画に響く可能性がある。",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckxhLTlLMHVuWl93dlRGWngzUjBqY0wxaU85Q2lPNGxaMzg0ZjJhT0ZGd210N1N5SDVpV1lLNl9GOXlNazFrN193TFNFREg1dU5OTkpadm9LVHRxU0ZzQWVWbFV1MnNHY2RGZHVsajI5UWRlWDE5NmtGaDctV0o5ME85dkV3RU5LSEFWdTlNUW5RWXZ5S1BXelNMZkI5ZEZfR05kd1UwNnBZQlQ0MHkyQVN3?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-10-16"
+        },
+        {
+          "title": "アマゾンのBee、AIウェアラブル2機種を発売 月額12ドルのサブスクも",
+          "summary": "アマゾン傘下のBeeは、買収後初の新デバイスとして、改良型ウェアラブルと、スマートフォンに貼り付けるクレジットカード大の録音機を発売した。会話の要約やToDoリスト作成ができ、Alexaやアマゾンのショッピングとも連携し、価格は75ドルからとなる。Bloombergによると月額12ドルのサブスクリプションも用意される。同社のデバイス責任者は、アプリに代わり環境に溶け込むAIデバイスが先回りして動く未来像を語っており、常時聴取型AI端末の本格展開に向けた一手といえる。",
+          "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-15"
+        }
+      ],
+      "outlook": "オープンウェイト競争は米国勢を中心に加速する一方、メタのように最先端技術を囲い込む動きも続きそうだ。規制面ではFTCの調査や外部評価の受け入れなど、AI企業の説明責任を問う流れが強まる。他方でコアウィーブの債務懸念が示すように、資金調達環境の悪化が投資ペースを左右する局面に入りつつあり、今後の市場動向が注目される。"
+    },
     {
       "date": "2026-10-15",
       "items": [
