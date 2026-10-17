@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-17T09:15:31+09:00",
+  "updatedAt": "2026-10-18T08:54:45+09:00",
   "days": [
+    {
+      "date": "2026-10-18",
+      "items": [
+        {
+          "title": "メタ、商用規約から「WebコンテンツをスクレイピングしてAI学習に使える」と読める文言を削除",
+          "summary": "メタは、商用規約に追加した文言が「ニュースサイトなどのコンテンツをAI学習のために収集できる」と受け取られ批判を浴びたことを受け、該当部分を規約ページから削除した。削除されたのは、特定ドメインやWebページのコンテンツをメタが利用できるとする趣旨の記述である。同社の広報担当者は、今回の改定はWebをクロールする方法の変更を意味しないと説明している。事業者向けデータのAI学習利用を巡る懸念が先に広がっていただけに、AI学習用データの収集に対する出版社や企業の警戒感が強いことを示す動きだ。AI企業の利用規約の書き方そのものが、今後も監視の対象になりそうだ。",
+          "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+          "source": "The Verge",
+          "publishedAt": "2026-10-18"
+        },
+        {
+          "title": "ディープシーク、「より高速で軽量」とする更新版AIモデルを公開",
+          "summary": "Bloombergによると、中国のAI企業ディープシークは、従来より高速で軽量になったと説明する更新版のAIモデルを公開した。詳細な性能数値はsnippetからは確認できない。同社は低コストで高性能なモデルで市場に衝撃を与えてきた経緯があり、今回も効率面の改善が焦点となる。AI関連株が不安定な局面で、安価なモデルの進化は計算資源への投資の採算性を巡る議論にも影響し得る。米中のAI競争や、オープン系モデルの普及という流れの中でも注目される動きだ。",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0JqQlRDd3JxZG9sWmUyLU03cFkwSDJLbkhOc0tpa2NUS24zby1jU0JQX242dEdFYWtRSXNNbUJOM2hwdDFJX3VKc1E4UFN1VVVsYi1ncl9qNkg4ZnhhcERDMkc1ZkhXUlRxUy1BdW9JTC1wYmV5YVlTZmYtUWlLRnNJQ2ZUWEw3UHNXMkdNMUdVLXJGR2M1YXRYcFFacFNmSWJCLVNxNkZ4bTZ4UXVpOXNR?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-10-17"
+        },
+        {
+          "title": "オープンウェイトモデルがVercelゲートウェイのトークンの71.5%を処理、支出も約4分の1に",
+          "summary": "The Registerは、Vercelが運営するAIゲートウェイ（OpenRouterに似た統合API）のデータで、オープンウェイトモデルがトークン処理量の71.5%を占め、推定支出でも4分の1近くに達したと報じた。TechCrunchによれば、同ゲートウェイではJevが同社史上最速で採用が広がったモデルになったという。開発者が性能だけでなくコスト面からもオープンモデルを選ぶ傾向が、実際の利用データで裏付けられた形だ。クローズドモデルを提供する大手各社にとっては、価格設定や差別化の戦略を見直す圧力になり得る。",
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/17/open-weight-models-win-hearts-minds-and-wallets/5303704",
+          "source": "The Register",
+          "publishedAt": "2026-10-17"
+        },
+        {
+          "title": "AIエージェントを締め出すWebサイトが増加 「代理操作」の前提が揺らぐ",
+          "summary": "The Vergeは、OpenAI、メタ、グーグルなどが、予約、受信箱の整理、買い物といった作業をユーザーに代わってWeb上で行う自律エージェントを打ち出す一方、Webサイト側がそうしたエージェントのアクセスを拒否する動きが広がっていると報じた。エージェントがWebを自由に巡回できることは、多くの構想の前提となっている。サイト運営者が広告収入やデータ保護、不正対策の観点からアクセスを制限すれば、エージェントの実用性は大きく左右される。今後はAI企業とサイト運営者の間で、アクセス権や課金の新たな取り決めが問われそうだ。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "source": "The Verge",
+          "publishedAt": "2026-10-17"
+        },
+        {
+          "title": "AI株急落に原油110ドルが重なり米市場に不安拡大 エヌビディアCEO「すべては過ぎ去る」",
+          "summary": "Bloombergは、AI関連株の急落と1バレル110ドルの原油高が重なり、ウォール街で不安が広がっていると報じた。別の記事では、エヌビディアのジェンスン・ファンCEOが市場の混乱について「すべては過ぎ去る」と述べたとされる。中国株もグローバルなAI関連取引のつまずきで下げが目立った。ロイターは、AIブームによる資金需要を背景に、中央銀行関係者が利上げの可能性に目を向けていると伝えている。AI投資の過熱感と金利・エネルギー高が同時に意識され、市場の評価が変わる局面にある。",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVHNoVXVmaThlSEx4SkpxSzR2TEdOLVl0ZnlTWjhQT0FwRWxQOGJKSllUMEl1YzliOVVMTEtRM1FfclQwdWdnMDhremNOTmZJZjhMRVF5R3U0Z2NzQTZUOU5jV3Y1a1BtMXl2ZzhIX1ZvZ1Z5QURkdnJ5djVwTXpROC1xZGQwUkRXQmJhTGNXNURRWElIS0NpSEtlWkdwU2xNcWFocVF0QmFVXy01dUE?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-10-17"
+        }
+      ],
+      "outlook": "AIを巡る論点は、モデル性能の競争から、データの取得権、エージェントのWebアクセス、オープンモデルとの価格競争、そして資金調達環境へと広がっている。金利やエネルギー価格の上昇が続けば、AIインフラ投資の採算が一段と厳しく問われる可能性がある。一方でオープンウェイトモデルの普及と効率化は、AI企業の収益モデルに影響を与えるだろう。",
+      "note": "既出ニュースとの重複を避けるため、メタの項目は規約文言の削除という新展開に絞った。ディープシークと市場関連（Bloomberg）の記事はsnippetが見出しのみのため、詳細は一般的な表現にとどめている。"
+    },
     {
       "date": "2026-10-17",
       "items": [
