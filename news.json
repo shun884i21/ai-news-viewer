@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-18T08:54:45+09:00",
+  "updatedAt": "2026-10-19T09:04:23+09:00",
   "days": [
+    {
+      "date": "2026-10-19",
+      "items": [
+        {
+          "title": "アンソロピック、株式の5%を「公益ファンド」に拠出へ",
+          "summary": "アンソロピックは、自社株式の5%を新設する「公益ファンド」に振り向けると発表した。Bloombergも、同社が一部株式を「公共の利益」のための新ファンドに移す計画だと報じている。AI企業が自らの価値の一部を社会還元に充てる仕組みとして注目される。IPOや資金調達が取り沙汰される中、ガバナンスや公益性を打ち出す狙いがあるとみられる。ファンドの運営方法や使途の詳細は、今後の開示が焦点になる。",
+          "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-19"
+        },
+        {
+          "title": "ディズニー、Character.AI従業員の大半を採用へ 他社が上回る提示をする可能性も",
+          "summary": "ディズニーが、破産手続き中のCharacter.AIの従業員の大多数を採用することで合意した。提出書類によると、内定を提示された従業員の「大半」がすでに受諾したという。Bloombergは、ディズニーが同社スタッフに約1億8000万ドル規模の受け皿を用意したと伝えている。ただし今回は「ストーキングホース（最低入札者）」方式のため、他社がより高い条件を提示すれば覆る可能性がある。AI人材の獲得が破産処理の形でも進む事例として注目される。",
+          "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-19"
+        },
+        {
+          "title": "アンソロピック、独自のAI安全法案を議員に水面下で打診 Politico報道",
+          "summary": "ロイターはPoliticoの報道として、アンソロピックが自社の考えるAI安全法案を議員らに非公開で提案していると伝えた。AI企業が規制を受ける側にとどまらず、法案の設計そのものに関与しようとする動きといえる。同社は最近、規制を求める姿勢を議会などで示しており、その延長線上の動きとみられる。一方で、業界の主要プレーヤーが規制内容を主導することへの懸念や、競合各社の反応も今後の論点になりそうだ。",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGgzckNkaE5BdjZxdVMta2hsdVczMHFrZ2U4aFgzY2VsLVF5VEFpd1FMQVc1V084YTZQU0IyMkdWbXZTbEtpdlhFWHR2SUI1SDdsczFmeERfNHhfOXRpR2NLTVhjRWF4YWNYaDBPWXJDSXpqLUgtSERBY1lHejU3MTl0T2pPMzlKRDlsdmFNM3kwQk1YSFlyMnpDN1FSVG0xM2xqNTZrbnNxQTVkT3drcVJSVm0zNFlYOUstZzlDYldrc1p5OWJR?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-10-17"
+        },
+        {
+          "title": "エヌビディア、「Nemotron 3.5 Super VL」を公開 米国発オープンウェイトの流れが加速",
+          "summary": "エヌビディアが新モデル「Nemotron 3.5 Super VL」を公開した。ZDNETは、Hugging Faceへのハッキングを受けて米国の研究所からオープンウェイトモデルの公開が相次ぐ中での一手と位置づけている。中国発の低価格・オープンなモデルが存在感を高めるなか、米国勢も対抗する構図が鮮明になってきた。開発者にとっては選択肢が広がる一方、セキュリティや配布経路の信頼性も重要な論点になる。",
+          "url": "https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/",
+          "source": "ZDNET",
+          "publishedAt": "2026-10-16"
+        },
+        {
+          "title": "AIクラウド企業Nscale、IPOの評価額を巡り投資家から反発",
+          "summary": "Bloombergによると、AIクラウド事業者のNscaleが計画するIPOの評価額に対し、投資家から反発の声が出ている。CoreWeave関連の債券不安やAI関連株の変動が続く中、AIインフラ企業への投資家の目が厳しくなっていることを示す動きだ。AIデータセンター投資の資金調達環境が引き締まるかどうかを占う材料になる。記事の詳細は有料のため、具体的な評価額などは本文で確認する必要がある。",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOczR6MkNKMHd6X3VfQlgzNFlNTnQ2MDZhRWNBbXd6OE1GZlBaYlJ2RTk1YlNsNjZkVF9uUjNvNjlPd3J4WDVwNFlSYl8xNUp4eHJlMUYyOVRKaklyd0JCemRVbk8xNjdYOGx5U0JrMWU2VVU5Xy01bkF1bjY2SG8zQXJIQUNHS25hUUMxUWE3TmE4ek5Id2M2emZaTWdGYUplc2hLWjNVZDI0VjF3Q3gzbGpwSkg?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-10-19"
+        }
+      ],
+      "outlook": "アンソロピックは公益ファンドの設立や独自法案の提案など、ガバナンスと規制の両面で存在感を強めている。一方、AIインフラ銘柄への市場の視線は厳しくなっており、Nscaleのように資金調達を急ぐ企業には逆風が続きそうだ。米国勢のオープンウェイト公開も続くとみられ、モデルの競争は性能だけでなく、コストや信頼性、資本市場の環境にも左右される局面に入っている。",
+      "note": "新規性の高い候補が限られていたため、Nscale記事は本文がなく見出しのみで、詳細は一般化して記述しています。ディズニー/Character.AIは既出（10/15）の続報で、人員受け入れという新展開に絞っています。"
+    },
     {
       "date": "2026-10-18",
       "items": [
