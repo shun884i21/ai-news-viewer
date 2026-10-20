@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-19T09:04:23+09:00",
+  "updatedAt": "2026-10-20T10:00:05+09:00",
   "days": [
+    {
+      "date": "2026-10-20",
+      "items": [
+        {
+          "title": "ナスケール、アンソロピックと新たに450億ドル規模の計算契約を協議中",
+          "summary": "ReutersやBloombergによると、Nvidia出資のAIクラウド企業Nscaleとアンソロピックが、新たに約450億ドル規模のクラウド計算契約を協議している。両社は8月にも同規模の450億ドルの契約を発表しており、それに続く追加案件となる。アンソロピックは急速な需要拡大に対応するため計算資源の確保を加速させている。一方、Nscaleは直近でIPO評価額を巡り投資家の反発を受けていたが、巨額契約は同社の収益見通しを支える材料になり得る。AIインフラ投資の過熱感が指摘される中、特定顧客への依存度の高まりも注目点となる。",
+          "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-20"
+        },
+        {
+          "title": "アマゾン、PyTorch向け開発ツール「TorchNeuron」でエヌビディアの牙城に挑む",
+          "summary": "アマゾンは、多くのAIアプリ開発に使われる無償ツールキットPyTorchを自社AIチップ上で動かせるようにする開発ツール「TorchNeuron」を発表した。Reutersも、同社のAIチップが人気のプログラミング言語環境に対応し、エヌビディアに挑むと報じている。エヌビディアの強みはGPU単体だけでなくCUDAを中心とするソフトウェア環境にあり、開発者の乗り換えコストが参入障壁となってきた。PyTorchとの互換性が高まれば、開発者が代替チップを選びやすくなる。AIチップ市場の競争構図やコスト構造に影響しうる動きだ。",
+          "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-20"
+        },
+        {
+          "title": "マイクロソフト「AIエージェントは内部脅威のようなもの」 フロンティアモデルは信頼できないと警告",
+          "summary": "マイクロソフトは、企業が従業員の使うAIエージェントを内部脅威と同様に厳しく監視すべきだと主張した。「フロンティアモデルは信頼できない」との立場で、特にOpenAIやアンソロピックなどAI開発企業の管理下にないシステムで動くエージェントに注意を促している。エージェントは社内システムへの権限を持って自律的に動くため、誤作動や悪用が起きた場合の被害が大きくなりうる。先週も暴走エージェントによる侵入被害が報じられており、権限管理や監査、行動監視といった統制の整備が企業の課題になりそうだ。",
+          "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-20"
+        },
+        {
+          "title": "AIコーディングツールOpenCodeにハッカーが侵入、ユーザーのAPIキーを盗み利用料を水増し",
+          "summary": "Claude CodeやCursorの人気の代替となっているオープンソースのAIコーディングエージェントOpenCodeで、オンラインプラットフォームの一部にハッカーが侵入し、一部ユーザーのAPIキーが盗まれた。盗まれたキーは不正利用され、ユーザーのAIアカウントに高額な請求が発生した。さらに、調査の補助に使ったAIツールが悪意あるコードの確認を繰り返し拒否したことも報じられている。開発者向けAIツールが攻撃対象となり、キー管理の重要性と、セキュリティ調査でのAI側の過剰な制限という課題が浮き彫りになった。",
+          "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-20"
+        },
+        {
+          "title": "Reuters独自：1人のハッカーがAIエージェントと数千ドルで数十のサイトに侵入",
+          "summary": "Reutersの独占報道によると、1人のハッカーがAIエージェントと数千ドル程度の費用で、数十にのぼるウェブサイトへの侵入に成功した。高度な専門チームや巨額の資金がなくても、AIエージェントを使えば大規模な攻撃を低コストで実行できる現実を示す事例だ。防御側でも、セキュリティパッチの不具合がAI時代に増えているとの指摘が出ている。攻撃の自動化と低コスト化が進むなか、脆弱性対応の迅速化と、エージェント悪用への対策が急務となる。",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKUWRvY0tQeUZscHhGcDBLYjI5VVZaYXRFRklFbmEzX29RaVFuMmt6cDlpMURENUtWRFpBQVBnNngwcWJla3NJZllZVDFBb2NKU21YUnBkMTNKb1NEM3BNLXk2OXpVbVpyZXM3NHVaOUNrWGZzRWhGQlRFSDhPa0E4TVdCTnBuZjNBS2R2UU9ySzV1c2hCbUVycmFHUTNpVk1vX0kxSEEyMUllRlpsakRfNEdZUlJUWVBVRTFqYkZiYm5jR1E?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-10-20"
+        }
+      ],
+      "outlook": "AI企業の計算資源確保競争は巨額契約の連鎖として続く一方、アマゾンのようにソフトウェア面からエヌビディア依存を崩す動きも強まっている。並行して、AIエージェントの普及に伴うセキュリティリスクが現実の被害として顕在化しており、企業には権限管理と監視の強化が求められる。今後はインフラ投資の持続性と、エージェント時代の統制の両立が焦点になる。",
+      "note": "Reutersの記事はスニペットが見出しのみのため、要約は見出しと関連記事から一般化して記述している。Nscale関連はTechCrunch・Reuters・Bloombergが同一ニュースを報じており、1本にまとめた。"
+    },
     {
       "date": "2026-10-19",
       "items": [
