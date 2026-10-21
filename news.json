@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-20T10:00:05+09:00",
+  "updatedAt": "2026-10-21T09:29:19+09:00",
   "days": [
+    {
+      "date": "2026-10-21",
+      "items": [
+        {
+          "title": "アンソロピック、「50人以上が死亡し得るモデルは差し止め」とするAI安全法案を提案",
+          "summary": "アンソロピックが議員に示したAI安全法案の内容が明らかになった。50人以上の死者を出し得るモデルについては公開を阻止できる仕組みを盛り込む一方、連邦機関が裁判所の許可なくモデルの公開を止めることは禁じるという。TechCrunchは、暴走AIへの備えに見えて実際には規制当局の権限を縛る面があると指摘している。既に水面下の打診が報じられていたが、今回は条文の具体的な中身が焦点となった。規制の主導権を巡る議論に影響しそうだ。",
+          "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-21"
+        },
+        {
+          "title": "スペースX、7〜9月期は純利益44億ドル AI事業が牽引",
+          "summary": "スペースXが発表した7〜9月期決算は売上高146億ドルで前年同期比161%増、純利益は44億ドルとなり、市場予想を上回った。同社はスーパーインテリジェンス（SI）部門とコネクティビティの成長が寄与したと説明している。宇宙部門の営業損益は700万ドルの赤字で、AI事業が収益の柱になっていることが鮮明になった。マスク氏は決算説明会でテスラとの合併を検討する特別委員会が設置されたことも明らかにしており、AI事業を軸にした再編の行方が注目される。",
+          "url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
+          "source": "The Verge",
+          "publishedAt": "2026-10-21"
+        },
+        {
+          "title": "アンソロピックのクラウド提携に軋み 11月のIPO前に計算資源の確保が難航",
+          "summary": "アンソロピックが、自社を競合と見なす傾向を強めるクラウド事業者から十分な計算資源を確保できずにいると報じられた。インフラ支出が膨らむなか、同社は11月にIPOを予定しているとされる。大手クラウドとの協力関係が、モデル開発競争の激化で利害対立を含むものに変わりつつある構図だ。計算力の調達先を巡る交渉は、上場前の同社の成長見通しや資金needsにも影響しかねない。",
+          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-21"
+        },
+        {
+          "title": "グーグルもPyTorch向けツールを公開 エヌビディアGPUからの移行を容易に",
+          "summary": "グーグルが、PyTorchを使うAIアプリ開発者がエヌビディア製GPUから自社基盤へアプリを移行しやすくなる開発者向けツールを公開した。TechCrunchによれば、アマゾンに続く動きで、エヌビディアの強みであるソフトウェア面の囲い込みを崩そうとする大手クラウド各社の動きが広がっている。GPUそのものだけでなく開発環境の互換性が競争の焦点になっていることを示す。移行コストが下がれば、AIインフラの調達先の分散が進む可能性がある。",
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-21"
+        },
+        {
+          "title": "メタの巨大クラスタ「Prometheus」、数万基のGPUが故障に備え待機",
+          "summary": "The Registerは、メタの大規模スーパークラスタ「Prometheus」で、数万基のエヌビディア製GPUが故障時の代替用として待機状態にあると報じた。メタは100万基規模のGPUを、モデルを訓練し終えるまで安定して稼働させることを目指している。大規模学習では部品故障が避けられず、予備を確保して稼働を維持する設計が不可欠になっている。巨額投資の裏側で、可用性の確保がコストと効率を左右する実態が見える。",
+          "url": "https://www.theregister.com/systems/2026/10/20/tens-of-thousands-of-nvidia-gpus-sit-idle-in-metas-prometheus-supercluster-just-waiting-for-a-failure/5304269",
+          "source": "The Register",
+          "publishedAt": "2026-10-21"
+        }
+      ],
+      "outlook": "AI企業の規制対応や計算資源の確保、エヌビディア依存の解消を巡る動きが同時に進んでおり、競争は性能だけでなくインフラとルール作りの領域に広がっている。11月に予定されるアンソロピックのIPOや、スペースXとテスラの合併協議の行方が、AI投資の評価を左右しそうだ。",
+      "note": "各記事の要約はsnippetの範囲で記述しており、詳細な数値や経緯は元記事で確認してください。"
+    },
     {
       "date": "2026-10-20",
       "items": [
