@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-10-22T09:33:10+09:00",
+  "updatedAt": "2026-10-23T09:30:05+09:00",
   "days": [
+    {
+      "date": "2026-10-23",
+      "items": [
+        {
+          "title": "OpenAI、評価額1.25兆ドルで300億ドルの新規調達を協議　IPO前",
+          "summary": "OpenAIがIPOを前に、評価額1兆2500億ドルで約300億ドルを調達する新ラウンドに取り組んでいると報じられた。実現すれば1兆ドル超の評価額は非上場企業として史上最高となる。AI開発に必要な計算資源への投資競争が激化するなか、巨額資金を確保して競争力を維持する狙いがあるとみられる。一方で市場ではAI投資の負担を警戒する声も強まっており、IPO前の評価額や資金調達の行方は、AI業界全体の資金環境を占う指標として注目される。",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-23"
+        },
+        {
+          "title": "コネクトワイズ侵害、中国系ハッカーがAIエージェントで2,250のクラウドテナントに侵入",
+          "summary": "マイクロソフトは、IT管理ソフト大手ConnectWiseへの侵害を足掛かりに、中国系とみられるハッカーが顧客企業を大規模にスパイしていたと発表した。影響を受けたクラウドテナントは約2,250に上り、攻撃ではAIエージェントが実作業を担い、環境によっては3時間足らずで特権アクセスを得たという。サプライチェーン経由の侵入にAIによる自動化が加わることで、攻撃の速度と規模が従来より大幅に高まっていることを示す事例だ。防御側にも検知・対応の迅速化が求められる。",
+          "url": "https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687",
+          "source": "The Register",
+          "publishedAt": "2026-10-22"
+        },
+        {
+          "title": "ヒトに初めてAI設計のウイルスを投与　薬剤耐性菌感染の治療で",
+          "summary": "AIが設計したウイルスが、初めて人間に投与されたとThe Registerが報じた。このウイルスは人を害するものではなく、患者の感染症の原因となっている抗生物質耐性菌を攻撃するために用いられたという。薬剤耐性菌は世界的な医療課題であり、AIによるバクテリオファージ設計は新たな治療手段になり得る。ただし詳細な治療成績は記事の要約からは分からず、安全性や有効性の検証、規制面の整備など、実用化に向けた課題は多いとみられる。",
+          "url": "https://www.theregister.com/science/2026/10/22/human-receives-ai-designed-virus-for-the-first-time/5304874",
+          "source": "The Register",
+          "publishedAt": "2026-10-23"
+        },
+        {
+          "title": "メタのAI関連支出に投資家が警戒　信用リスク指標が過去最高、株価下落",
+          "summary": "ロイターによると、メタの信用リスクを示す指標が、AI支出計画の拡大を受けて過去最高を記録し、同社株も下落した。デフォルト保険料（CDS）が記録的水準に達したことは、巨額のAI設備投資に対する債券市場の警戒感の表れだ。ロイターは、AI構築に伴う高額な負担がメタをはじめとする大手テック株を直撃していると伝えている。AI投資の収益化が見えにくいなか、資金調達コストの上昇が各社の投資計画に影響する可能性がある。",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnFibXQ2bEZfUWFpTEoxYTNPQ3dHTlMwMjZRaFcxZlphTlplUlNFWkgta2xwdVBvU0l5OWNkMEctQmNrM2s1UDRpSW5jNFhpLW9TQUlzYlpmZFZudjhvM0RtcC1hQ24xSmVOMDYwbUIzNDQ3NlAwTEpILTc4akh1czlRcThIUnU3Y2VkbWJJWE9jdXJzbWtzclVfeUh5RzN6UzdaTlZjRWlMQQ?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-10-23"
+        },
+        {
+          "title": "キャンバ、初の自社画像生成モデル「Canva Craft」を全ユーザーに提供",
+          "summary": "デザインツール大手のCanvaが、初の自社開発画像生成モデル「Canva Craft」を公開し、全ユーザーが利用できるようにした。二段階の構成により、画像を生成する前にデザインの計画を立てることで、より高い精度とカスタマイズ性を狙うという。OpenAI、マイクロソフト、グーグルのモデルと直接競合する位置づけで、低コストでの提供も打ち出している。外部モデルへの依存を減らし、デザイン用途に特化したAIで差別化を図る動きとして注目される。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+          "source": "The Verge",
+          "publishedAt": "2026-10-23"
+        }
+      ],
+      "outlook": "AI投資の巨額化に対し、OpenAIの1兆ドル超の資金調達とメタの信用リスク上昇が示すように、市場の期待と警戒が同時に高まっている。IPOを控える各社は、収益化の道筋をより厳しく問われるだろう。一方、AIエージェントを悪用した攻撃は速度と規模を増しており、防御側のAI活用が急務となる。医療やデザインなど個別分野での実用化も着実に進みそうだ。"
+    },
     {
       "date": "2026-10-22",
       "items": [
