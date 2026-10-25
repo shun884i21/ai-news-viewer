@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-24T09:25:34+09:00",
+  "updatedAt": "2026-10-25T09:09:50+09:00",
   "days": [
+    {
+      "date": "2026-10-25",
+      "items": [
+        {
+          "title": "選挙の推薦先、GrokとOpenAIで真逆に　約500選挙区の9割超で意見が割れる",
+          "summary": "新たな調査によると、xAIのGrokは共和党候補を圧倒的に推薦し、OpenAIのGPTは民主党候補を推す傾向があった。対象は約500の選挙区で、2つのモデルは9割超の選挙区で異なる候補を選んだ。AIチャットボットが有権者の情報源として使われる場面が増えており、モデルごとの政治的な偏りが投票行動に影響しかねないとの懸念が強まる。選挙を控え、AIの政治的中立性をどう評価・開示させるかが課題になりそうだ。",
+          "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-25"
+        },
+        {
+          "title": "ムーンショット、新Kimiモデルでハッキング能力を意図的に抑制　AIサイバー攻撃への懸念で",
+          "summary": "中国のAI企業ムーンショットは、新しいKimiモデルでハッキング能力を抑える措置を講じたとロイターが報じた。AIを使ったサイバー攻撃への懸念が世界的に高まる中での判断だ。これまで能力の制限は米国の主要ラボが中心だったが、中国系の有力モデル開発元にも同様の動きが広がったことになる。オープンウェイトを含むモデルの攻撃利用をどう防ぐかが、業界横断の課題として強まっている。",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWlpZNXVZQXBxZ1hCTzA4X0VZYUh0QkhJb281X3VmMUt0VVZRY0N2N1Fja1dyZlB4cGlsTGktdjRaRzEzSDgtR01QS1F4V0ZsN0lsbzdTRjhRbG1MMlhfMkluTkxwTXFhOG1XZVVpRlRJX29ULXBEcUdTQUpoa2NkUmRMZFhDbkF3a0N3SDlqbTg1QnR3aFkwSW9LS181X0hsbXM1bXF2a0ZTWldQdlBMSlJRSzFoOGI2aFRF?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "title": "ペンシルベニア州、AI生成広告への表示を義務づける法律が成立",
+          "summary": "ペンシルベニア州のシャピロ知事は、AIによる欺瞞的広告を規制する法律に署名した。静止画・動画・音声・テキストを問わず、AIで大幅に加工または生成された広告には開示表示が必要になる。生成AIで本物らしい広告を安価に作れるようになり、消費者が見分けにくくなっている問題への対応だ。州レベルでのAI表示義務の動きが広がっており、広告主やプラットフォームは州ごとの規制に合わせた運用を迫られる可能性がある。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+          "source": "The Verge",
+          "publishedAt": "2026-10-25"
+        },
+        {
+          "title": "米大手銀行、第三者のAIエージェントによる顧客口座へのアクセスを遮断　ロイター報道",
+          "summary": "ロイターは、米国の銀行が第三者のAIエージェントによる顧客口座へのアクセスを遮断していると、関係者の話として報じた。ユーザーに代わって支払いや残高確認を行うエージェントの普及を見据えた動きだ。背景にはセキュリティや不正利用、責任の所在への懸念があるとみられる。金融分野でエージェントが使えるかどうかは、エージェント型サービスの成否を左右する。銀行側のルール作りや認証の仕組みが今後の焦点になる。",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcEFxNjAweHdoQ0ZaOWpUTGdVNWRkTXJ2Z08zeG1wOG03ZklKSW9WbTFBbGJWUVZVb211eFN4UFpjTG83aHBtMTViQ21fQmxBd2U0b2JTLXNHcjBReXRpMDl3am82SUVqVU1ndmRxejczTVZaWFlCMVZQSGNwWEQ0NXcyLWt0dlduZ2VUbjNyTUdyRUVndWEzV041cVQ1Mk1uV21vNGZBTUpaQ0tkVk1sOElNZW5NQThVZm9SemdUbXY?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-10-22"
+        },
+        {
+          "title": "OpenAIの最新モデル「GPT 6.1」3種がGoogle CloudとAntigravityに登場へ",
+          "summary": "OpenAIの最新モデル群「GPT 6.1 Astra」「Sol」「Luna」が、数週間以内にGoogle Cloudで利用可能になるとArs Technicaが報じた。Googleのエージェント開発環境Antigravityにも提供される。競合同士のモデルが同じクラウドで提供されることで、企業は単一のクラウド上で複数ベンダーのモデルを選べるようになる。OpenAIにとっては特定のクラウドへの依存を下げて販路を広げる動きでもあり、クラウド各社のモデル提供競争にも影響しそうだ。",
+          "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-10-22"
+        }
+      ],
+      "outlook": "AIの能力を巡る議論は、モデルの偏りや攻撃への悪用をどう抑えるかという安全面と、エージェントを金融などの現実のサービスにどう接続するかという実装面の両方で具体化しつつある。州法による表示義務や銀行のアクセス制限のように、規制と業界の自衛策が先行する流れが続くだろう。一方でモデルのマルチクラウド提供は進み、企業の選択肢は広がる見通しだ。",
+      "note": "既出リストと重複しないよう、直近の新規記事から選定した。Kimi、銀行のAIエージェント遮断の2件は、候補のsnippetが見出しのみだったため、要約は見出しから読み取れる範囲に留めている。"
+    },
     {
       "date": "2026-10-24",
       "items": [
