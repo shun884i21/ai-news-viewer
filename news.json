@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-25T09:09:50+09:00",
+  "updatedAt": "2026-10-26T09:01:44+09:00",
   "days": [
+    {
+      "date": "2026-10-26",
+      "items": [
+        {
+          "title": "アポロのエコノミスト「AIは非テック企業に財務上の見返りをほぼもたらしていない」",
+          "summary": "アポロ・グローバル・マネジメントのスロック氏は、巨額の投資と過熱する期待にもかかわらず、AIはテック業界以外の米企業にほぼ財務上の利益をもたらしていないと指摘した。AI導入の効果が実際の収益や生産性に表れていないとの見方で、設備投資ブームの採算性に疑問を投げかける。投資家の間ではAI関連支出への警戒感が強まっており、ビッグテックの好決算でも市場の不安は払拭しきれていない。AIバブル論争が再燃する中、企業がどこで実益を出せるのかが問われる局面だ。",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-26"
+        },
+        {
+          "title": "データセンター支出、2028年までに2.1兆ドルへ倍増以上　バンク・オブ・アメリカ予測",
+          "summary": "ロイターによると、バンク・オブ・アメリカはデータセンター関連支出が2028年までに2.1兆ドルへと現在の2倍超に膨らむと予測している。AI向け計算資源の需要拡大が背景にあり、半導体、電力、建設など幅広い分野に波及する規模だ。一方でAI投資の回収に対する懸念や、債務を使った資金調達の膨張への警戒も市場で強まっている。巨額投資が続くのか、それとも調整局面に入るのかは、AI産業全体の行方を左右する論点となる。",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSjJIVzNjUS1NU0VqTDNJTm10djYzSVFBVkZuR2xlbmF3MHdyR1hLeWlOclg5Q1dtUGFINVhkc1RXakZ2QXhJdlpVSk5DVEk1XzRuSjhuRVJFMGhyaWFUZThoLUlLZXNTd3RuYUhGM2dGWUxNU0VHeC1CRjROUjVnVmRBWDZhTmFWMVlJUFJZbWZWSS1lNEk2NHdMU2lFcUJSN2ZFWA?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "title": "英政府、AIセキュリティに約8億ドルの資金拠出を発表",
+          "summary": "ロイターによると、英国政府はAIのセキュリティ強化に向けて約8億ドル規模の資金を拠出する計画を示した。AIを悪用したサイバー攻撃やAIが発見する脆弱性への懸念が各国で高まる中、政府主導で防御・研究体制を整える動きとみられる。一方、英国ではデータセンター建設を巡る所管が複数省庁に分かれ、責任の所在が分かりにくいとの指摘も出ている。AI安全保障への公的投資と、インフラ整備の行政課題の両面が浮き彫りになった。",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDJseUNYVnJGcWZWUjlPR0RUSXJHTVItRmh1dkdnNTFiZ2tmTFhUM1p3YnI1T2RGdlpFZ1JWN3BGR2dCajk3Y1pBMlBCYjNFX2dnbjJzZnNJb1BONkNGREFYamNWT1FLRFJXdjdVeEdMUFZnM3FQRXE2VFBIbFdWUVItWEJwd3F4dmFRbHpKTzE4RWpXSGRnTzY4QVdISFJj?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "title": "自律型攻撃エージェントが「ターミネーターモード」で他モデルを乗っ取り　10万ステップを人手の承認なしで実行",
+          "summary": "The Registerによると、人間の承認なしに最大10万ステップの攻撃を実行できるよう設計された自律型の攻撃エージェントが報告された。このエージェントは他のAIモデルを乗っ取り、自らの攻撃に利用する機能を持つという。AIを使った攻撃の自動化・大規模化が研究段階から現実的な脅威へ近づいていることを示す事例だ。AIが発見した脆弱性が新たな障害を引き起こすとの専門家の警告もあり、防御側にも自動化された対策が求められる。",
+          "url": "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215",
+          "source": "The Register",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "title": "Reddit「r/opensource」がAI利用プロジェクトを禁止　英語以外の投稿者も対象に",
+          "summary": "The Vergeによると、Redditのr/opensourceのモデレーターが新しい投稿ルールを公表し、AIを使う・AIが作った・AI向けのプロジェクトの投稿を禁止した。投稿では現在のAIはオープンソースの理念と相容れないと主張している。非英語話者に関する規定も含まれ、議論を呼んでいる。AIコーディングの普及でオープンソース界隈に摩擦が広がる中、コミュニティごとに受け入れ方針が割れていることを示す動きだ。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "source": "The Verge",
+          "publishedAt": "2026-10-25"
+        }
+      ],
+      "outlook": "AI投資の採算性への懐疑と、データセンター支出の拡大予測が同時に語られており、市場は期待と警戒の間で揺れている。並行して、AIを悪用した攻撃の自動化が進み、各国政府はセキュリティ投資を強化する流れだ。開発者コミュニティでもAIの扱いを巡る対立が続き、規制・運用ルールの整備が今後の焦点となる。",
+      "note": "候補にはAIの採算性を扱うApollo関連記事がTechCrunchとBloombergの双方にありますが、1本にまとめました。OpenAIの学習時インターネット遮断、Blockの音声モデルなどは既出のため除外しています。一部のロイター記事はsnippetが見出しのみのため、要約は見出しと一般的な背景に基づいており、詳細な数値や内容は含めていません。"
+    },
     {
       "date": "2026-10-25",
       "items": [
