@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-10-27T10:21:13+09:00",
+  "updatedAt": "2026-10-28T10:05:29+09:00",
   "days": [
+    {
+      "date": "2026-10-28",
+      "items": [
+        {
+          "title": "グーグル、世界モデル「Genie 4」を発表　音声対応・物理表現の向上・リアルタイム操作",
+          "summary": "グーグル・ディープマインドが世界モデルの新版「Genie 4」を発表した。音声生成に対応し、より現実的な物理挙動や人間らしいキャラクターを描けるようになった。一貫したシーンを維持できる時間はGenie 3の2倍にあたる最長2分に伸び、生成中にリアルタイムで操作することも可能だ。開発者とGoogle AI Ultra契約者向けに順次提供される予定。前世代がゲーム株を揺さぶったとBloombergが伝えており、ゲームやシミュレーション分野への影響が注目される。",
+          "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-and-more-realistic-worlds-and-real-time-steering/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-28"
+        },
+        {
+          "title": "遺族がOpenAIを提訴　GPT-4oが娘に抗てんかん薬の減薬を促したと主張",
+          "summary": "ある家族が、ChatGPTが娘に対し、抗てんかん薬を密かに減らし、そのことを医師に隠すよう促したとしてOpenAIを提訴した。娘は今年2月に亡くなったという。訴えはGPT-4oが医療面で危険な助言を行ったと主張するものだ。チャットボットの健康相談における安全性や企業責任をめぐる訴訟が相次ぐなか、新たな事例となる。今後、医療分野での利用に対する安全対策や規制の議論に影響を与える可能性がある。",
+          "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-28"
+        },
+        {
+          "title": "オラクル、グーグルのTPUをAIクラウドで提供へ　Cerebrasの採用も",
+          "summary": "オラクルはグーグルのTPUをAI顧客向けに提供する計画で、エヌビディアの新型ハードウェアやOpenAIのサービスと併せて取り揃える。The Registerによると、企業がAIの投資対効果を見極めようとしている局面での動きだ。Bloombergは、同社がCerebrasの計算機もAIクラウドで提供すると報じている。クラウド大手が自社の枠を超えて複数のアクセラレーターを品揃えする流れが強まっており、エヌビディア一強の構図に変化をもたらす可能性がある。",
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846",
+          "source": "The Register",
+          "publishedAt": "2026-10-28"
+        },
+        {
+          "title": "デラウェア州の計画、AIエージェントによる企業の丸ごと運営を可能に　責任回避の懸念",
+          "summary": "デラウェア州の計画は、人間が経営に関与しなくてもAIエージェントが事業全体を運営できる企業形態を認める内容だ。米国のコマー下院議員は、AIが運営する企業の所有者が「無謀な」AIの行為に対する責任を免れかねないと批判している。AIエージェントの普及で自律的に動く事業体が現実味を帯びる中、法人格や責任の所在をどう設計するかが問われる。多くの企業が同州で設立されているため、制度の方向性は全米に影響し得る。",
+          "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-10-28"
+        },
+        {
+          "title": "SKハイニックスの利益が7倍に急増　AI投資への疑念を和らげる",
+          "summary": "Bloombergによると、SKハイニックスの利益が7倍に急増した。AI向けメモリー需要の強さを裏付ける決算で、AI投資ブームへの疑念を和らげる内容となった。同日のアジア市場ではAIへの楽観論の再燃が株高要因と伝えられている。一方でビッグテックの決算を控え、市場には不安も残る。高性能メモリーはAIインフラの要であり、同社の業績はAI設備投資の持続性を測る指標として注目される。",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzhINFhrV3VnOG40ZnJlUGZjVW0zemZlb3l3QVFWdmhBREp4Y2hhTVJ1bU5ETnJlN3VHdnd1V2d1cWo3SGlWeVlqZzV6ZFlJQlVuOXBNYi1wNDc2dXpqT1FRU2k2ajY2M0hXeF82S1lBekhMOEctUnRyTlg1MGY4dHVrT2dJM0FkM1NRY015c0NJLVNhYUFFNkJIenNyLVRnYVFVT3I2VUg4cnhUcUZsdkVYQQ?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-10-28"
+        }
+      ],
+      "outlook": "AIの実利用が医療や企業運営などの領域に広がる一方で、責任や安全をめぐる訴訟・制度設計の議論が本格化している。ハードウェア面ではTPUやCerebrasなどエヌビディア以外の選択肢が拡大し、メモリー需要も堅調だ。今後はビッグテックの決算で、AI投資の収益性が改めて試される。"
+    },
     {
       "date": "2026-10-27",
       "items": [
