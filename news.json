@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-28T10:05:29+09:00",
+  "updatedAt": "2026-10-29T10:40:33+09:00",
   "days": [
+    {
+      "date": "2026-10-29",
+      "items": [
+        {
+          "title": "グーグル、最新フロンティアモデル「Gemini 4 Carbon」を発表　サイバーセキュリティで大きく前進",
+          "summary": "グーグルは最新のフロンティアモデル「Gemini 4 Carbon」を発表した。コーディング、エージェント業務、サイバーセキュリティで大きな改善があるとしている。Artificial Analysis Intelligence Index（v5.0）で首位だと強調し、Claude Opus 5.5などを上回ったと説明する。一方、Ars Technicaは前世代Argonの「少し改良した版」で一般には使えないと指摘した。攻撃型AIへの懸念が高まる中、防御側の能力を前面に出した点が注目される。",
+          "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+          "source": "The Verge",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "title": "マイクロソフト、OpenAI関連の売上が四半期で100億ドル　クラウド成長でAI支出懸念を和らげる",
+          "summary": "マイクロソフトは9月30日締めの四半期に、収益分配を含むOpenAIとの商業契約から100億ドルの売上を計上したと明らかにした。同社の四半期売上高は923億ドルで前年同期比19%増、10四半期連続で過去最高を更新した。クラウド売上の伸びとキャッシュフローはAI投資の回収への疑念を和らげたとロイターは伝える。一方で、OpenAIへの財務的な依存が依然として大きいことも浮き彫りになった。",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "title": "グーグル、AI検索広告を世界展開　アルファベット決算は売上25%増の1,276億ドル",
+          "summary": "アルファベットの第3四半期決算は売上高が前年比25%増の1,276億ドルとなった。グーグルはこれに合わせ、AI検索広告を世界に拡大すると発表した。TechCrunchは、従来の中核広告の成長が鈍化する中での動きだと伝える。ピチャイCEOは、AI投資が商業クエリを含む検索全体の増加を牽引していると述べた。検索のAI化が収益の柱を維持できるかが引き続き焦点となる。",
+          "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "title": "米司法省、エヌビディアのハギングフェイス買収について照会　ロイター独自報道",
+          "summary": "ロイターは、米司法省（DOJ）がエヌビディアによるハギングフェイスの買収について照会を行っていると、関係者の話として独占的に報じた。ハギングフェイスはオープンソースAIモデルの共有基盤として広く使われている。AIの計算基盤を握るエヌビディアが開発者エコシステムの要衝も抱えることになり、競争への影響が規制当局の関心を集めている可能性がある。調査の範囲や今後の展開は現時点で不明な点が多い。",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQi1pQlpXMFg0djlmZFhkcGFlc3hJWmxKNXIzeFlTOWRxSXd5YWtCX1FRdUdlWWM1NEZxQVpOWktKbVkyWWR1aFRhbFd3SnRRcW5SZTJ0YXRvQTZ6MjlmVmFMVThhSldFTUpseWRtblVrel8tM0VISmVOVmdVend5UTFOTHhKazBXalpIOHVUdkVmcm5YdTI4UWk3MUJObk9GMzRYOEpkeEFXVnhwZXc?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "title": "アンソロピック、企業向けにAI支出の費用対効果を可視化するツールを公開",
+          "summary": "アンソロピックは、Claude Enterpriseの利用企業が自社のAI支出の成果を把握できる新ツールを公開した。ZDNETによると、効率やコストを追跡する3つの機能で構成され、高額な契約に見合う価値があるかを確認しやすくなる。TechCrunchは、IPOを計画する同社がモデルの利用実態に関する情報をより開示する動きだと伝える。AI投資の回収に対する企業の関心が高まる中、導入拡大を後押しする施策となりそうだ。",
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-29"
+        }
+      ],
+      "outlook": "主要各社の決算でAI投資の回収が示される一方、巨額の資金調達や債券発行は膨らみ続けており、市場は期待と警戒の間で揺れている。モデル競争ではサイバーセキュリティ能力が焦点となり、エヌビディアに対する当局の関心など規制面の動きも今後の注目点となる。",
+      "note": "所定の5本のうち、候補の中から未報道の話題を選定した。ただし、スニペットが短い記事（ロイターの司法省報道など）は詳細が限られ、要約は一般化した表現に留めている。"
+    },
     {
       "date": "2026-10-28",
       "items": [
