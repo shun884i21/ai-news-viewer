@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-10-31T10:28:40+09:00",
+  "updatedAt": "2026-11-01T09:53:07+09:00",
   "days": [
+    {
+      "date": "2026-11-01",
+      "items": [
+        {
+          "title": "OpenAI、新たな資金調達の目標額を引き下げ　FTは100億ドル減と報道",
+          "summary": "OpenAIが進めている新たな資金調達ラウンドで、目標額を引き下げたと報じられた。FT報道を引用したロイターやブルームバーグは、ハイテク株の下落を背景に目標が約100億ドル減ったと伝えている。投資家がAI支出に慎重になるなか、最有力のAI企業でさえ期待どおりに資金を集めにくくなっている可能性を示す。巨額の計算資源投資を前提とする同社の戦略や、業界全体の資金調達環境に影響が出るかが注目される。",
+          "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-01"
+        },
+        {
+          "title": "S&Pグローバル、メタの見通しを「ネガティブ」に改定　AI支出とキャッシュフローを懸念",
+          "summary": "S&Pグローバルは、メタ・プラットフォームズの格付け見通しを「ネガティブ」に引き下げた。理由として、AI関連の巨額支出とキャッシュフローへの懸念が挙げられている。メタはAI拡大に向けた資金調達も取り沙汰されており、投資負担の重さが信用面にも波及し始めた形だ。ビッグテックのAI投資が株式市場だけでなく債券・格付けの観点からも厳しく見られ始めたことを示す動きといえる。",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY2JMY29zcEM2TFRURW5TbmY4MTNoWVM1NDhiVG44UTF1YWladnh0aDNSRUhxLXZpclBPZmFySDR3dXE2XzBsQ3NpcE5SRWZiNkF0RVI3NkQyQWhrS1RvdDlwamRJWmxSa2E4ckc0SlBBdFdnOHFZem1UOHVScElQZ2hzUkU0N0Z1ajdMNnNYYzB2djU5dFNnM1FHMUpzczdsbzUxSA?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-10-31"
+        },
+        {
+          "title": "xAIのデータセンター汚染めぐるNAACP訴訟、判事が審理続行を認める",
+          "summary": "スペースX傘下のAI企業xAIのデータセンターをめぐり、NAACPが大気浄化法違反を主張して起こした訴訟について、判事が審理を進めることを認めた。AI向け大規模データセンターの電力供給に伴う大気汚染は地域住民の健康問題として注目されている。今回の判断で、AIインフラ拡大の環境負荷を法的に問う動きが本格化する。今後の審理は、他の事業者の設備運用や立地選定にも影響しうる。",
+          "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-01"
+        },
+        {
+          "title": "AIエージェントが生きたマウスの脳に薬剤を注入　バイオ企業が遺伝子治療の選択から実施まで任せる",
+          "summary": "あるバイオテック新興企業が、AIエージェントに遺伝子治療の選定を任せ、生きたマウスの脳への注入まで成功させたとWIREDが報じた。エージェントが計画だけでなく物理的な実験操作にまで関与した例で、研究室の自動化が新段階に入りつつあることを示唆する。創薬や基礎研究の速度向上が期待される一方、動物実験における監督や安全性、責任の所在といった新たな課題も浮かび上がる。",
+          "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+          "source": "Wired",
+          "publishedAt": "2026-10-31"
+        },
+        {
+          "title": "AIで被害者を「自動ドキシング」する新型情報窃取マルウェア「Volta-Autodoxer」",
+          "summary": "新たに発見された情報窃取マルウェア「Volta-Autodoxer」は、AIツールを使って被害者の情報を大量に収集・整理するとWIREDが伝えた。ログイン情報やクレジットカード番号に加え、Discordのセッションや配達アプリの領収書まで集めるという。AIによる分析で個人の特定や悪用がより効率化されうる点が脅威となる。攻撃側のAI活用が窃取後の処理にも広がっていることを示しており、防御側にも対策の見直しが求められる。",
+          "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+          "source": "Wired",
+          "publishedAt": "2026-10-31"
+        }
+      ],
+      "outlook": "AI支出への懸念は、株価だけでなく資金調達や格付けにも及び始めており、今後の決算や大型ラウンドの条件が試金石となる。一方で、エージェントの実世界での活用と悪用はともに進み、環境規制や安全面の議論も広がるとみられる。"
+    },
     {
       "date": "2026-10-31",
       "items": [
