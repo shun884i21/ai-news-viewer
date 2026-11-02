@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-01T09:53:07+09:00",
+  "updatedAt": "2026-11-02T10:25:00+09:00",
   "days": [
+    {
+      "date": "2026-11-02",
+      "items": [
+        {
+          "title": "ディープシーク、強化版コーディングエージェントを公開　アンソロピックに対抗",
+          "summary": "ブルームバーグによると、中国のディープシークが機能を強化したコーディングエージェントを公開した。狙いはアンソロピックのClaude Code系製品への対抗とされる。コーディング支援は生成AIの中でも収益化が進む主戦場で、中国勢が米国勢の牙城に迫る動きとして注目される。ミストラルなどオープンウェイト勢の追い上げも続いており、開発者向けAIツールの価格・性能競争がさらに激しくなりそうだ。詳細な性能は報道の見出しからは不明で、今後の評価を待つ必要がある。",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGJoZUdrNzFHTjRVcm9OOVZ5a1Z4dVB4ME1aNjlmYmdjX1ZOTXNWTFJTNFFFUkQ2UUxxTGV4UDlOS0RjMnRlWlFUZ04yemVtQU9zU3FZbHlWY1YxMi1YSVBGb3k5cGszYnptNnZVZk1mR1NmS0RvLUhOeS1QUmxZamtoNGgzR21CR2tmY0JUd1c3YXBBMlc0SDhkZm9kOFRtZ3NvQ2RLNVZOYnFaV2x5Vy1ra3ZNUQ?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-11-01"
+        },
+        {
+          "title": "エヌビディア、ネスケールのウェストバージニア州AIデータセンター融資で連帯保証を検討",
+          "summary": "テッククランチによると、エヌビディアは英ネスケールがウェストバージニア州で計画するAIデータセンターの融資について、連帯保証人（コサイナー）になることを検討している。AI支出への投資家の不安が強まる中、チップの販売元が自ら信用補完に動く構図だ。顧客の資金調達を支えて需要を維持する狙いがある一方、供給側が需要を下支えする循環的な資金の流れへの懸念も強まりかねない。AIインフラ投資の資金繰りが市場の焦点になっていることを示す動きだ。",
+          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-31"
+        },
+        {
+          "title": "AI需要でPC部品高騰、インテル株が急落　米政府の持ち分は120億ドル目減り",
+          "summary": "テッククランチによると、インテル株が急落し、同社株を保有する米政府の持ち分価値が約120億ドル減少した。背景には、AI産業がメモリなどの部品を大量に消費していることでPC価格が上昇し、PC販売が打撃を受けている事情がある。AIブームの恩恵が半導体業界全体に均等には及ばず、従来型のPC市場にはコスト上昇という副作用が出ていることを示す。政府出資先の業績悪化は、産業政策の観点からも注目される。",
+          "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-10-31"
+        },
+        {
+          "title": "リナックス・カーネル、AI生成パッチ受け入れで「より健全なモデル」へ　トーバルズ氏が言及",
+          "summary": "ザ・レジスターによると、リナス・トーバルズ氏はリナックス・カーネルが「安定化フェーズ」を抜け、AIによる貢献に対してより健全な運用モデルで進んでいると述べた。AIが作成したパッチは、メンテナによって「しばしば書き直される」ことも明らかにした。オープンソースの基幹プロジェクトがAI生成コードをどう扱うかは、品質や責任の所在をめぐり各地で議論になっている。世界最大級のプロジェクトの現実的な運用方針は、他のOSS開発にも参考になりそうだ。",
+          "url": "https://www.theregister.com/os-platforms/2026/11/01/linus-torvalds-says-linux-kernel-is-out-of-stabilization-phase-and-using-much-healthier-model-for-ai-contributions/5306852",
+          "source": "The Register",
+          "publishedAt": "2026-11-02"
+        },
+        {
+          "title": "ドアダッシュ、外部AIエージェント経由の注文は数百件にとどまると明かす",
+          "summary": "アルステクニカによると、ドアダッシュは外部のAIエージェント経由で入った注文がこれまでのところ数百件にとどまると説明した。AIエージェントが買い物や注文を代行する未来像が盛んに語られる一方、実際の利用はまだごくわずかであることを示す数字だ。eコマースでの新しい使い方としてはまだ初期段階にあり、普及には信頼性や利用者の習慣の変化が必要になるとみられる。AIエージェント関連の期待と現実のギャップを測る材料として興味深い。",
+          "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-10-31"
+        }
+      ],
+      "outlook": "AI投資の資金繰りへの警戒が続く中、エヌビディアのような供給側による信用補完や、部品高騰によるPC市場への副作用など、ブームの歪みが表面化しつつある。一方でディープシークなど中国勢のコーディングエージェント攻勢や、OSSでのAIコード受け入れの実務的な整理は進んでおり、実利用の広がりと期待先行のギャップが当面の焦点となりそうだ。",
+      "note": "ディープシークの記事はBloombergの見出しのみで詳細なsnippetがなく、要約は一般化した表現に留めています。"
+    },
     {
       "date": "2026-11-01",
       "items": [
