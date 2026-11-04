@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-11-03T12:24:46+09:00",
+  "updatedAt": "2026-11-04T11:04:14+09:00",
   "days": [
+    {
+      "date": "2026-11-04",
+      "items": [
+        {
+          "title": "AMD、過去最高の四半期決算　データセンター需要で売上134億ドル、次期は170億ドル予想",
+          "summary": "AMDの2026年第3四半期売上は過去最高の134億ドルに達し、リサ・スーCEOは「当社史上最大かつ最も収益性の高い四半期」と述べた。次四半期の売上見通しも170億ドルと、市場予想を上回る強気の内容だった。データセンター向けAIチップの需要が牽引しており、ロイターは「AI支出への懸念を和らげた」と報じている。直近のナスダック下落でAI投資の持続性に疑念が高まる中、半導体メーカーの実需の強さを示す材料となる。スーパー・マイクロもAIサーバー需要で予想を上回る見通しを示した。",
+          "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+          "source": "The Verge",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "title": "AI推論のFal、評価額160億ドルに倍増　13億ドルを調達",
+          "summary": "AI推論基盤を提供する創業5年のスタートアップFalが、ベッセマー主導で13億ドルを調達し、評価額は従来の約2倍の160億ドルに達した。推論需要の急拡大が背景にあり、モデルの学習だけでなく運用段階の計算基盤に資金が集まる流れを示している。AIバブル懸念が語られる中でも、実際の利用拡大に結びつく推論インフラへの投資意欲は衰えていないことがうかがえる。今後は推論分野での競争や大型調達がさらに増える可能性がある。",
+          "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "title": "グーグル、学校向けにAIツールの無効化を許可　ただし検索も使えなくなる",
+          "summary": "グーグルは学校がGeminiなどのAIツールを無効にできる設定を提供するが、AI機能が検索に組み込まれているため、AIを全面的に制限する学校はグーグル検索自体を利用できなくなる。教育現場ではAIが答えを丸写しさせることへの懸念があり、グーグルは答えをそのまま与えない設計のAIツールも提供するとしている。検索とAIの一体化が利用者の選択肢を狭める形となり、教育現場のAI管理や規制の議論に影響しそうだ。",
+          "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "title": "EU司法裁判所の法務官、グーグルのAIチャットボットが著作権規則に抵触しうると警告",
+          "summary": "ロイターによると、EU司法裁判所の法務官が、グーグルのAIチャットボットが著作権規則に違反する可能性があるとの見解を示し、グーグルにとって打撃となった。法務官意見は最終判決ではないが、裁判所の判断に影響を与えることが多い。生成AIによるコンテンツ利用と著作権者の権利をめぐる欧州での判断の方向性を占う材料であり、AI事業者の学習や出力に関する法的リスクと対応コストに波及する可能性がある。",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3A5SlVKWVF6XzVHRldMWS1qd1FqWV9sVnF6RFJiMTIzd18wZUgtc1VtOXJabjY3LThCR045bFBrVzcyUmxJUDFWajYtX1l4RkVxY0xHTUZlRUFlR2dkcmtqOXI5MzIxMS16VEVBSE1JcExxbkJrVkk1S3NGa2g5WjhVZEJXczA3S0NUOVFudElESjBaMExucVBLQzRCLUJrVU9icU9fSkkyb1FoR2NfT29hT2JSbmhaMW9Z?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "title": "レボリュート、AIコーディング費用を10分の1に　Claudeをやめ自社ホスト型へ移行",
+          "summary": "英フィンテックのレボリュートが、AIコーディング支援でClaudeの利用をやめ、自社ホスト型のモデルに切り替えることで費用を約10分の1に削減したと報じられた。トークンが安くなったことで、エンジニアがデバッグやJiraチケットの処理など時間短縮につながる使い方を積極的に行うようになったという。AIエージェントの利用でトークン消費が膨らむ中、企業がコスト最適化のためにオープン系・自社運用モデルへ移る動きを示す事例であり、モデル提供企業の収益構造にも影響しうる。",
+          "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+          "source": "The Register",
+          "publishedAt": "2026-11-04"
+        }
+      ],
+      "outlook": "AIインフラ需要は半導体や推論基盤の好決算・大型調達で引き続き強い一方、金融面のバブル懸念や規制・著作権リスクも高まっている。企業はコスト効率を重視してモデル選択を見直しており、今後はインフラ投資の持続性、欧州を中心とした法的判断、AI機能の組み込み方をめぐる議論が焦点になりそうだ。"
+    },
     {
       "date": "2026-11-03",
       "items": [
