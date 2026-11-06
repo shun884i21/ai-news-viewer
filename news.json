@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-05T11:08:41+09:00",
+  "updatedAt": "2026-11-06T11:08:50+09:00",
   "days": [
+    {
+      "date": "2026-11-06",
+      "items": [
+        {
+          "title": "OpenAI、サイバー特化モデル「GPT-6 Cyber」を公開　「交戦規則」順守を訴求",
+          "summary": "OpenAIは脆弱性発見に特化した新モデル「GPT-6 Cyber」を公開した。同社は、範囲外のサービスを悪用しなかった割合が99%を超えると主張し、「交戦規則」の範囲内で動作する点を前面に出している。AIラボによる重要インフラ防御への取り組みに厳しい視線が注がれる中での発表で、攻撃にも防御にも使える能力をどう管理するかが問われる。TechCrunchは、これで十分なのかという問いも投げかけている。",
+          "url": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
+          "source": "The Register",
+          "publishedAt": "2026-11-06"
+        },
+        {
+          "title": "AI不安でアジア株が急落　韓国半導体は10%安、日経平均は6万円割れ",
+          "summary": "AI関連株の売りが世界に広がり、韓国の半導体株は取引開始前の時間外で10%下落し、日経平均は節目の6万円を割り込んだ。ロイターは、ナスダックが調整局面入りを確認する見通しだと伝えている。ブルームバーグによると、ヘッジファンドはAI関連債の「大規模な」売り手だったという。AI投資の持続性への懸念が、株式だけでなく債券市場や投資ファンドの運用成績にも及び始めている。ウォール街ではトレーダーへの問い合わせが殺到している。",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2RxUlFvNmxoUFFUd2pmeUk3MTJoSkNvTkxwOS1TUlNFd1hDZkNZZ0huMHIxQXhDeWtpWVdVcmJGcDQwdVcwMFJTaHg2Q040OTBCZm5Ja2doTnpQcTh1OFFSdDNucHFXVzFRR2EyTEJfa3BRWDFUY19lcFNNXzRmR2F2UEw4dlVOUW1xSnFqNmI1Wmtr?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-11-06"
+        },
+        {
+          "title": "AI反発がアンソロピックのIPO時期を脅かす可能性　投資家候補が指摘",
+          "summary": "ロイターの独占報道によると、AIへの反発が強まっていることで、アンソロピックのIPOの時期に影響が出かねないと潜在的な投資家が見ている。中間選挙でのデータセンターへの反対やAI関連株の下落を背景に、市場の空気が変わりつつある。一方、OpenAIのブロックマン社長は、同社が2027年にIPOの準備を整えうると述べ、企業向け市場で巻き返していると強調した。両社の上場計画は、AI投資熱の変化に左右される局面に入っている。",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGVmWktzeU5zbmRiaDdiZ2pxbEJhRk94VGN2V1lxUmpTNTFFNjhLR0puTjROeHE4UENDYjQ3OEFNbHdralNNdVJ2ZThsMldHZFlrcDZ1U21BTS1aeHU1aGNUNWRnTHc2SU5DVUktREt0Q3hzUkNhN1VJNDZYR3JLdjhwZUlaQjZCSl9Oa1dfT0d2dUotaWhDMkgxU1RBdVJOSEMwMzJsd0M3TmIyTGZ2WFZpVQ?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-11-06"
+        },
+        {
+          "title": "OpenAI、データセンター計画で公職者とのNDAをやめる　選挙結果を受け地域への約束を発表",
+          "summary": "OpenAIは、今週の中間選挙で有権者がデータセンター拡張に強い反対を示したことを受け、事業を進める地域に対する新たな約束を発表した。公職者とは秘密保持契約（NDA）を結ばないことなどが含まれる。これまでデータセンター計画は、NDAの下で住民に知らされないまま進むことが多いと批判されてきた。メタも、選挙後の政治的な反発がAI拡張を難しくしかねないと警告しており、業界全体が地域との関係の見直しを迫られている。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+          "source": "The Verge",
+          "publishedAt": "2026-11-06"
+        },
+        {
+          "title": "パープレキシティ、常時稼働の業務用AIエージェント「Teammates」を発表",
+          "summary": "パープレキシティは、OpenAIやアンソロピックに対抗する業務向けAIエージェント「Teammates」を発表した。常時稼働型で、ワークスペース内で複数の役割をこなし、同社の既存ツールにあるプロジェクトやスキル、記憶を引き継げる。AIエージェントを職場に組み込む競争は、大手モデル開発企業に加え検索系の新興企業にも広がっている。一方、アンソロピックはClaudeに家計を分析する読み取り専用の「Personal Finance」機能を追加し、個人向けでも機能拡充が進んでいる。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+          "source": "The Verge",
+          "publishedAt": "2026-11-06"
+        }
+      ],
+      "outlook": "AI関連株の急落とデータセンターへの政治的反発が重なり、資金調達やIPO、インフラ拡張の前提が揺らぎ始めている。各社は地域との透明性向上や安全性の訴求を強める一方、エージェントや業務向け機能での競争は続く見通しだ。投資家心理と規制動向が、来年のAI投資の規模と速度を左右するだろう。",
+      "note": "提示されたsnippetが短い記事（Bloomberg、Reuters）は、同日の関連記事を併せて一般化した表現で記述した。"
+    },
     {
       "date": "2026-11-05",
       "items": [
