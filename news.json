@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-06T11:08:50+09:00",
+  "updatedAt": "2026-11-07T10:44:59+09:00",
   "days": [
+    {
+      "date": "2026-11-07",
+      "items": [
+        {
+          "title": "OpenAI、追加で110億ドルを調達　評価額は1.25兆ドルに",
+          "summary": "OpenAIが進行中の資金調達ラウンドで新たに110億ドルを確保し、評価額が1.25兆ドルに達したとBloombergやReuters、TechCrunchなどが報じた。3月に1,220億ドルを評価額8,520億ドルで調達してから数か月での大幅な上積みで、世界有数の時価総額企業に並ぶ水準となる。ラウンド自体は未完了で、数週間内のクローズが見込まれている。アンソロピックのIPOが近づく中、両社の資金力と評価額をめぐる競争が一段と鮮明になった。AI関連株の変動が続く局面での巨額調達として市場の注目を集めている。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+          "source": "The Verge",
+          "publishedAt": "2026-11-07"
+        },
+        {
+          "title": "マイクロソフト、オラクルとのAIクラウド容量レンタル契約を縮小へ",
+          "summary": "Bloombergによると、マイクロソフトはオラクルからAIクラウド容量を借りる契約を段階的に終了させているという。AI向け計算資源の確保で巨額の提携が相次いできた中、大手同士の契約が見直されるのは異例の動きだ。需要見通しやコスト負担、自社データセンター整備との兼ね合いが背景にある可能性があるが、詳細は報じられた範囲に限られる。AI設備投資の持続性に市場が神経質になる中、インフラ契約の巻き戻しは投資家心理にも影響しうる。オラクルのAI関連事業への波及も注目される。",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXFhaDRlRjBvZktGaFM2eExYdGpJakRNazYxc2Y2UWoyMDJzS1VFb2Z5ZTNkSVhMRHBTbUdtb25kZHJUdkpRVXRQU1hQVGtIbS1maVNoeGhSZ2pHOGF1aDY3R1AwSTU4TmlmSEdEc19RYlowVXAzc0NlSzdVZ2xBZXduc2FzT3ViQ0xDS3RYdklKMzFnVzRtUkZKQnVBWlBDTWtGcGZUU01ZSktQTG5aOE9lbXE?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-11-07"
+        },
+        {
+          "title": "無料の中国製AIモデルのハッキング能力が急伸　OpenAIの非公開サイバーモデルに迫る",
+          "summary": "Wiredによると、模擬ネットワークへの侵入をAIモデルに試みさせた実験で、DeepSeekやGLMといった無料の中国製モデルが、OpenAIの最先端サイバー特化モデルに近い成績を示した。OpenAIのモデルは一般公開されておらず、公開・無償のモデルが近い水準に達したことは、攻撃能力の拡散という観点で重い意味を持つ。防御側は高度なAI攻撃が低コストで広がる前提で備える必要がある。サイバー向けAIの公開範囲をめぐる議論にも影響しそうだ。",
+          "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+          "source": "Wired",
+          "publishedAt": "2026-11-07"
+        },
+        {
+          "title": "クルーソー、苦戦するワイオミング州のデータセンター計画をグーグルに売却",
+          "summary": "AIインフラ企業のクルーソーが、ワイオミング州で進めていたデータセンター計画の用地をグーグルに売却した。TechCrunchはこの案件を「大規模AIデータセンター開発の難しさを示す」ものと位置づけている。計画が難航した事業を巨大テック企業が引き取る形で、資金力のある事業者に集約される流れを映す。中間選挙でデータセンターへの反対が強まるなか、立地や許認可、資金面のハードルが開発各社に重くのしかかっていることがうかがえる。",
+          "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-07"
+        },
+        {
+          "title": "シンキング・マシンズの新モデル、西側オープンウェイトAIで首位に",
+          "summary": "ZDNETによると、シンキング・マシンズの新モデル「Inkling 2 Small」が、西側企業のオープンウェイトモデルで首位に立った。中国勢が優位を占めてきたオープンウェイト分野で、米欧発の競争力あるモデルが登場した意義は大きい。企業や開発者にとっては、自社運用できる選択肢が増え、地政学面の懸念にも対応しやすくなる。ただし、性能の詳細や実運用での評価はこれから検証が必要で、今後のベンチマーク結果が注目される。",
+          "url": "https://www.zdnet.com/innovation/thinking-machines-inkling-2-small-open-weight/",
+          "source": "ZDNET",
+          "publishedAt": "2026-11-07"
+        }
+      ],
+      "outlook": "OpenAIの巨額調達とアンソロピックのIPOが近づく一方、マイクロソフトの契約見直しやクルーソーの用地売却など、インフラ投資には選別の動きが出ている。中間選挙後は規制や立地への逆風も強まりそうだ。また、公開モデルのサイバー能力向上や西側オープンウェイトの台頭は、安全保障と競争環境の議論をさらに加速させるだろう。",
+      "note": "OpenAIの調達は複数媒体が報じているが、ラウンドは未完了で、金額や評価額は報道ベース。マイクロソフトとオラクルの件はBloomberg見出しのみで詳細は不明のため、背景は一般化して記述した。"
+    },
     {
       "date": "2026-11-06",
       "items": [
