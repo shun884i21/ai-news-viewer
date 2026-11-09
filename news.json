@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-08T10:14:01+09:00",
+  "updatedAt": "2026-11-09T10:34:16+09:00",
   "days": [
+    {
+      "date": "2026-11-09",
+      "items": [
+        {
+          "title": "エヌビディア取締役会、ジェンスン・フアンCEOと中国当局関係者とされる人物との関係を調査",
+          "summary": "エヌビディアは取締役会が、ジェンスン・フアンCEOとMegaspeed幹部アリス・フアン氏との関係について調査を開始したと発表した。同氏は中国の国家安全部に勧誘され、同社CEOの監視役を担ったと米情報機関のメモで報じられている。フアン氏は社内向けメモで不倫関係があったことを認めた。世界最大のAIチップ企業のトップを巡る安全保障上の疑惑であり、対中輸出管理や企業統治、投資家の信認に波及する可能性がある。調査の進展次第では経営体制にも影響しうる。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+          "source": "The Verge",
+          "publishedAt": "2026-11-09"
+        },
+        {
+          "title": "アンソロピック、データセンター向け発電設備を34億ドルで確保　FT報道",
+          "summary": "フィナンシャル・タイムズの報道として、アンソロピックがAIデータセンター向けの発電機を34億ドルで確保したとロイターやブルームバーグが伝えた。AI計算資源の拡大では電力の確保が最大の制約の一つになっており、自前で電源を押さえる動きが広がっている。送電網の逼迫や地域の反発が強まる中、自社で電力を調達できるかが事業拡大の速度を左右する。同社の大規模な設備投資姿勢を改めて示す動きといえる。",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUktcGxpNENhQ1llV2F3a3V5RUZya0dDc0ZLeFVTZmFqclBqSVhuYkNiSFpSTkkwVnZ2NkFVVEVjQjZPLTJzMGMyU0dnaFg0X1pPd2pMV0ZCWWtMWlpSdTNvckRlaGxLcWs1SnljenEwcUs0N0doWG0yRDdET2o4YlZMVWl6c2lpYWJ1emstVFI1S3VyUXdIdG1xdmZpS3k3ZW5LVUpibUZ0SWxmZUNLNXN0SDBMZE5nWFJZdDlQSQ?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-11-08"
+        },
+        {
+          "title": "アップルCEO、Siriの高度なエージェント化を急ぐようフェデリギ氏に圧力　ブルームバーグ報道",
+          "summary": "ブルームバーグのマーク・ガーマン氏によると、ジョン・ターナスCEOはソフトウェア責任者のクレイグ・フェデリギ氏に対し、SiriのロードマップをOpenAIのDotsやメタのMuseに対抗できる強力なAIエージェントへ前倒しするよう求めている。フェデリギ氏は短期間でSiri AIの動作版を完成させたが、経営陣はさらに野心的な戦略を望んでいる。AIアシスタント競争でアップルが遅れを取るとの懸念が背景にある。iOS 27ではSiri AIの順番待ちが終了し、ベータ版を試せるようになった。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+          "source": "The Verge",
+          "publishedAt": "2026-11-09"
+        },
+        {
+          "title": "エルヴィスとエミネムの権利者、AI音楽生成のSunoを提訴",
+          "summary": "エルヴィス・プレスリーの楽曲の権利者グループと、エミネムの代表曲を扱う音楽出版社が、AI音楽企業Sunoを相次いで提訴した。両者は、同社のサービスが特定アーティストを模倣した楽曲や歌詞を違法に生成していると主張している。Sunoは既に複数の訴訟を抱えており、今回で新たに2件が加わった。生成AIによる声や作風の模倣が著作権や権利保護の観点でどこまで許されるかが問われ、音楽業界のAI規制や契約の在り方に影響しうる。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+          "source": "The Verge",
+          "publishedAt": "2026-11-09"
+        },
+        {
+          "title": "AI侵入テストツール「Artex」数百台がネット上に無防備で公開　誰でも利用可能に",
+          "summary": "セキュリティ研究者が、侵入テスト用のAIツール「Artex」をホストするサーバー数百台がインターネットに公開され、誰でもアクセスできる状態だったと報告した。攻撃的セキュリティ向けのAIツールは作業を自動化できる一方、管理が不十分だと第三者に悪用される恐れがある。AIによるハッキング能力が急速に向上する中、防御用ツール自体の運用管理が新たなリスクになっていることを示す事例だ。ツール提供者と利用者の双方に、アクセス制御などの基本的な対策が求められる。",
+          "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-07"
+        }
+      ],
+      "outlook": "AI業界は、半導体大手の経営と安全保障を巡る疑惑、電力確保をはじめとするインフラ投資競争、アシスタントのエージェント化競争が同時に進んでいる。エヌビディアの調査結果は対中政策や投資家心理に影響しうる。一方で、著作権訴訟やAIツールのセキュリティ管理など、急速な普及に伴う責任の問題も重みを増していくだろう。",
+      "note": "スパイ疑惑に関する記述は、報道および会社発表で「疑惑・報道」とされている内容に基づく。要約はsnippetの範囲に限っており、詳細な事実関係は各記事で確認が必要。"
+    },
     {
       "date": "2026-11-08",
       "items": [
