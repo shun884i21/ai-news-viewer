@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-09T10:34:16+09:00",
+  "updatedAt": "2026-11-10T13:00:49+09:00",
   "days": [
+    {
+      "date": "2026-11-10",
+      "items": [
+        {
+          "title": "アンソロピック、「Claude Fable 5.2」と「Mythos 5.2」を公開　IPO準備の中で投入",
+          "summary": "アンソロピックは新モデル「Claude Fable 5.2」と「Claude Mythos 5.2」を発表した。同社は、コーディング、推論、視覚の各分野で改善し、5.1より出力も速く、ユーザーへの説明も分かりやすくなったとしている。「手ごわい」技術課題への対応を狙ったモデルとされる。再帰的自己改善（RSI）への懸念が語られる中での公開となった。また、WSJの報道によれば、同社は今週にもIPOの評価額レンジを設定する見通しで、IPOに向けた動きを進めているとされる。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+          "source": "The Verge",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "title": "メタ、エージェント実行向け軽量モデル「Muse Ember」を公開　入力100万トークン10セント",
+          "summary": "メタはAIエージェントの実行に特化した軽量モデル「Muse Ember」を公開した。入力は100万トークンあたり10セントで、HaikuやLunaといったフロンティア級の競合モデルより大幅に安い価格だと位置づけられている。エージェントは1つのタスクで多数のモデル呼び出しを行うため、単価の低さが運用コストに直結する。性能競争に加えて価格競争が本格化していることを示す動きだ。",
+          "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "title": "Claude Codeの設定ファイル経由で、GitHub上に大量のシークレットが露出",
+          "summary": "Ars Technicaによると、Claude Codeの設定ファイルがGitHub上で公開され、パスワードやAPIキーなどの機密情報が多数流出している。原因は、許可確認で「今後は確認しない」を選んだ設定が保存され、それがリポジトリにコミットされてしまう点にあるという。AIコーディングツールの利便性を高める仕組みが、意図せぬ情報漏えいにつながった形だ。開発者は設定ファイルの管理と、公開済みの認証情報の失効・再発行を見直す必要がある。",
+          "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "title": "グーグル、AIチップの用途特化版を発表　クラウド需要の急増でエヌビディアとの競争激化",
+          "summary": "グーグルは、AIチップの新たな派生版を発表した。クラウド需要の急増を背景に、用途ごとに特化させたバリエーションを用意する。ブルームバーグはこれを、エヌビディアとの競争をさらに強める動きと報じている。エヌビディアのCEOをめぐる混乱が続く中、代替となる自社設計チップの存在感が増す可能性がある。AIインフラ市場で、調達先の分散や自社設計への流れが一段と進みそうだ。",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1JDNDVNcnh0MU5wSzdrUVhVY3FpSklfazJZVWEtbGwyUkxydzhTcUVhV2F5aHdHV29OUE9Ea1JkZm93d2xVcU1VMEdEZE1xamt3RlktMVlqLUNGRVlIalpNd3ZRS2Z2LVN3b24yNUcyV1lkQm01MmJ3eHJLZVk3a3ZDSkhHcllvVHVxX1c1d3YtRHV3Q1g5d241UGNpLXJpSXRwTUYzcEdPcUhmN2FqdnBRNVZUYlM1WmJF?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "title": "フアンCEOが不倫を認める　スパイ疑惑は対中AIチップ規制強化の議論に波及",
+          "summary": "エヌビディアのジェンスン・フアンCEOは、中国の疑いのある人物との関係について、妻への「不誠実」があったと認めた。同社は、中国の情報機関がこの関係を通じてCEOを標的にしたかどうかを調べている。ロイターは、この疑惑が中国のAIチップ入手を制限する法整備を後押しする可能性が高いと報じた。TechCrunchは、株価が4%超下落したほか、これまで同社が「通常の関係」と説明してきた点が訴訟リスクになりうるという専門家の見方を伝えている。同社の対中ロビー活動への影響も焦点となる。",
+          "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-11-10"
+        }
+      ],
+      "outlook": "アンソロピックはIPOを控えて新モデルの投入を急いでおり、モデル性能競争と上場準備が並行して進みそうだ。メタの低価格モデルのようなエージェント向けのコスト競争も激しくなる。一方、エヌビディアをめぐる混乱は規制強化や訴訟に発展する可能性があり、グーグルなど他社チップへの分散の動きを加速させるかもしれない。AIツールの普及に伴うセキュリティ事故にも引き続き注意が必要だ。",
+      "note": "エヌビディアの件は既出（取締役会による調査）の続報として、CEOによる不倫の認定と規制・訴訟面の新展開に絞って記載した。"
+    },
     {
       "date": "2026-11-09",
       "items": [
