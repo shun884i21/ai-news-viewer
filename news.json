@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-10T13:00:49+09:00",
+  "updatedAt": "2026-11-11T10:48:07+09:00",
   "days": [
+    {
+      "date": "2026-11-11",
+      "items": [
+        {
+          "title": "アンソロピック、IPOで評価額1.4兆ドルを目指す　創業者7人が各約2.5億ドルを現金化",
+          "summary": "ロイターは、アンソロピックがIPOで約1.4兆ドルの評価額を狙っていると独自に報じた。TechCrunchによると、共同創業者7人は同数の株式を売却し、価格帯の中間値で各自約2.5億ドルを手にする一方、グループとして経営の支配権は維持する見通しだ。AI企業として史上級の上場となり、ウォール街のAI熱を測る試金石になる。AIへの不安や反発が強まる中での上場で、投資家の需要がどこまで続くかが焦点となる。",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "title": "アンソロピック、「Claude Meetings」とオフィス系ツールを投入　マイクロソフトに対抗",
+          "summary": "アンソロピックは会議中の議論を計画やタスクに変える「Claude Meetings」を発表した。参加者の発言に合わせてClaudeが計画案を作成し、ホワイトボード上に工程表を描き、会議チャットで質問に答え、連携した業務アプリから昨年の数値などを取得する。ロイターによればGoogle Meetでもリアルタイムでタスクを処理でき、The Registerはシート、ホワイトボード、データといった成果物の種類が加わり生産性スイートに近づくと伝えている。IPOを控えた企業向け収益の拡大策で、マイクロソフトのOffice領域に踏み込む動きだ。",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "title": "OpenAIの7〜9月期売上は約100億ドルに　一方で巨額の損失を計上、WSJ報道",
+          "summary": "ブルームバーグによると、OpenAIの第3四半期売上高は前年同期比でほぼ50%増の約100億ドルとなった。ただしロイターが引用したWSJの報道では、売上が伸びる一方で巨額の損失も計上している。投資家に強気の評価額を認めさせてきた同社だが、収益の成長と投資負担のバランスが改めて問われる。アンソロピックのIPOを控え、AI企業の収益性に市場の関心が集まる局面で重要な開示となる。",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSWgwbFNYa2Z4R1pzeU83WUhSVTUwSG9vTC1tT0lfV0FMZk1oWGlNellpU083T2M2VGJDV19fLXhJY3N4dHJUUnUxMTNSeU1XdVdtd3YxNWZ6RWxlcTE1RTRyZDB5UDAweUhFTk9wRjVmNGlzSFUxOEpZTkc0TEdJY05DN3VNRDlidmJnVlJHTEY5dTJaakVFX0x3Mkl2TEZFTDBfN3dBTXhZVkxVRG41X2lyMENmWVFJQ2hHbWs0bHdzem5NSER6d0xhMjl0dw?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "title": "ニューヨーク州のAI安全法が施行へ　OpenAIやアンソロピックに登録・事故報告を義務づけ",
+          "summary": "ニューヨーク州が包括的なAI安全法の執行準備に入った。OpenAIやアンソロピックなど主要開発企業は、州への登録、安全対策の開示、重大インシデントの報告が求められ、違反すれば罰金を科される。連邦レベルの規制が定まらない中、州法が事実上の監督枠組みとして機能し始める形だ。先端モデルを開発する企業にとって、コンプライアンス負担と透明性の水準を左右する転機となる。",
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "title": "グーグル・ディープマインドのAIツール、Signalプロトコルの安全性を形式検証",
+          "summary": "グーグル・ディープマインドの研究者らは、新たなAIツールを使い、広く使われる暗号プロトコルSignalが意図どおりに機能することを形式的に検証した。ZDNETによれば、同社はAlphaProof関連のコードをオープンソース化する計画だ。Wiredによると、研究者らは最終的に「世界中のすべてのソフトウェア」で同様の検証を行うことを目標に掲げている。AIが重要システムの安全性を数学的に保証する道を開く成果として注目される。",
+          "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+          "source": "Wired",
+          "publishedAt": "2026-11-10"
+        }
+      ],
+      "outlook": "アンソロピックのIPOとOpenAIの損失を伴う成長が、AI企業の収益性と評価額に対する市場の見方を左右しそうだ。州レベルのAI規制の執行開始は、連邦政策の議論や企業の安全対策開示にも影響を与えるだろう。エージェントや業務ツールの競争は、検証技術や安全性の強化と並行して進む見通しだ。",
+      "note": "選定は既出リストとの重複を避けて行った。Claude Meetingsの記事は、ロイターとThe Registerの報道内容も踏まえてまとめている。"
+    },
     {
       "date": "2026-11-10",
       "items": [
