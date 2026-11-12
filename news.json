@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-11T10:48:07+09:00",
+  "updatedAt": "2026-11-12T11:47:34+09:00",
   "days": [
+    {
+      "date": "2026-11-12",
+      "items": [
+        {
+          "title": "エヌビディア取締役会、フアンCEOの解任を検討か　2件目の不倫疑惑が浮上",
+          "summary": "WSJ報道によると、エヌビディア取締役会はジェンスン・フアンCEOの解任に向けて動いている。NYTが、社内の部下との間に2件目の不倫があった疑いを報じたことが引き金とされる。中国のスパイとされる女性との関係を認めた数日後の展開だ。下院共和党は非公開の説明も求めており、同社株は下落した。創業者CEOの去就は、AIインフラ市場と対中規制の議論に大きく影響しそうだ。",
+          "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+          "source": "The Verge",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "title": "台湾TSMC、アンソロピックとOpenAIに各社へ計10億ドルを投資",
+          "summary": "半導体受託製造大手のTSMCが、アンソロピックとOpenAIに合計約10億ドルを投資すると報じられた。チップの供給元が顧客であるAI企業へ出資する構図で、AIブームに見られる「循環的な資金調達」の一例とされる。AI関連株が揺れる局面での動きでもある。AI企業の資金と半導体需要が相互に依存する関係が一段と強まり、投資の持続性への懸念も残る。",
+          "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "title": "ユナイテッド航空、AIエージェントによる航空券予約を認めず",
+          "summary": "ユナイテッド航空は、個人向けAIアシスタントが同社の航空券を予約することを認めない方針だ。理由にはプライバシーと規制上の懸念を挙げている。WSJによれば、AIエージェントで予約を試みる利用者はまだ多くないという。ホリデー需要期を前にした判断で、エージェントが消費者に代わって購買する時代に、事業者側がどこまで門戸を開くかという論点を示している。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+          "source": "The Verge",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "title": "コアウィーブ、顧客の前払いや短期契約でAI成長を賄う　決算で明らかに",
+          "summary": "AIクラウドのコアウィーブは第3四半期決算で、顧客に前払いを求める動きを強めていることを明らかにした。特定契約を担保にした借り入れも増やし、価格が上がり得る短期契約も視野に入れる。資金調達の手法が変わりつつあることを示す。一方でロイターによれば、決算は市場のAIバブル懸念を和らげ、AIクラウド関連株とエヌビディアの上昇につながった。",
+          "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "title": "グーグル・ディープマインド、DNA変異の影響を細胞単位で解析する「AlphaGenome 2」を発表",
+          "summary": "グーグル・ディープマインドの研究者が、DNAの変化が細胞ごとにどう影響するかを解き明かすAIモデル「AlphaGenome 2」を公開した。科学者は、これまで難しかった疾患の原因について、より詳細な視点を得られる。病気のメカニズム解明や新たな治療法の探索に役立つ可能性がある。AIによる生命科学研究の進展を示す成果といえる。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+          "source": "The Verge",
+          "publishedAt": "2026-11-12"
+        }
+      ],
+      "outlook": "フアンCEOの去就はエヌビディアの経営だけでなく、対中AIチップ規制や議会の動きにも波及しそうだ。一方、TSMCの出資やコアウィーブの資金調達は、AIインフラ投資が循環的な資金に支えられつつあることを示す。エージェントの普及では、事業者が自社サービスへのアクセスを制限する動きが広がるかが焦点になる。",
+      "note": "フアンCEO関連は既出だが、解任検討と2件目の疑惑という新展開に絞って記載した。"
+    },
     {
       "date": "2026-11-11",
       "items": [
