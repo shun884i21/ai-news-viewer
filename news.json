@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-11-12T11:47:34+09:00",
+  "updatedAt": "2026-11-13T11:30:11+09:00",
   "days": [
+    {
+      "date": "2026-11-13",
+      "items": [
+        {
+          "title": "エヌビディアのフアンCEOが辞任　CFOのクレス氏が暫定CEOに",
+          "summary": "エヌビディアは12日、ジェンスン・フアン氏がCEOを辞任したと発表した。中国の情報工作員とされる人物との関係をめぐる社内調査が続くなか、ロイターは3件目の不倫も報じている。後任にはCFOのコレット・クレス氏が暫定で就く。トランプ大統領はティム・クック氏を推す発言をしたと伝えられる。時価総額の大幅な下落や、来週の決算説明会への注目、対中チップ規制強化の観測も広がっており、AI業界の勢力図に影響しそうだ。",
+          "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
+          "source": "Wired",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "title": "グーグル、「Gemini 4 Hydrogen」をAIモードに投入　複雑な質問への回答力を強化",
+          "summary": "グーグルは新モデル「Gemini 4 Hydrogen」を発表し、検索のAIモードに搭載した。複数の要素を含む質問、分かりにくい誤字、細かな条件を伴う依頼を分解し、それぞれに答えるのが特徴だ。関連リンクの提示や視覚的な回答も改善されるという。Ars Technicaによれば、従来の3.8 Flashを置き換えるもので、CarbonやArgonのような段階的でセキュリティ重視の公開ではなく、一気に展開される。検索の主力モデルが世代交代する動きで、AI検索をめぐる競争にも影響しそうだ。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+          "source": "The Verge",
+          "publishedAt": "2026-11-13"
+        },
+        {
+          "title": "OpenAI・グーグル・アンソロピックに提訴　最先端AI開発の停止を求める",
+          "summary": "ロイターによると、OpenAI、グーグル、アンソロピックの3社が、最先端AIの開発停止を求める訴訟を起こされた。AIの安全性への懸念が、規制や世論だけでなく司法の場にも広がっていることを示す動きだ。The Registerは、非営利団体のグループがAI企業を提訴し、AIによるサイバー攻撃を根拠に挙げていると報じている。実際に開発停止が認められる可能性は不明だが、各社のIPO準備や投資家の見方に影響する可能性がある。",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-11-13"
+        },
+        {
+          "title": "エヌビディア、チップ追跡は技術的に可能と議員に非公開で認める　業界団体は公には否定",
+          "summary": "MITテクノロジーレビューによると、エヌビディアの担当者は民主党のビル・フォスター下院議員に対し、チップ・セキュリティ法が求める密輸対策は技術的に実現可能だと伝えていた。一方、業界団体は公の場でこの種の措置を問題視していた。フアン氏の辞任後、対中AIチップ規制の強化観測が強まるなかで、この発言は議論に影響しうる。ブルームバーグは、OpenAIも規制支持に加わったと報じている。業界の公的な主張と非公開の説明の食い違いが注目される。",
+          "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-11-13"
+        },
+        {
+          "title": "ネビウス、400億ドルのAIインフラ拡張を計画　顧客の前払いと融資で調達",
+          "summary": "新興クラウド事業者のネビウスは、総額400億ドルのAIインフラ拡張を予定し、資金を顧客からの前払いと融資で賄う方針だ。一方で、マイクロソフト向けデータセンターの遅れが、この資金調達モデルへの疑問を呼んでいる。AI需要の急拡大を背景に、新興クラウド各社が自己資本以外の手段で設備投資を進める構図が鮮明になっている。計画の実現性は、顧客の需要が続くかどうかと、建設の進捗にかかっている。",
+          "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-13"
+        }
+      ],
+      "outlook": "来週のエヌビディア決算は、暫定体制下での需要見通しと経営の安定性を測る場になる。後任人事や対中チップ規制の強化、チップ追跡義務化の議論が、AI半導体市場とAI株の評価を左右しそうだ。一方、グーグルは検索のAIモデルを刷新し、AI企業への訴訟も増えている。技術競争と並行して、司法・規制面のリスクも大きくなるだろう。"
+    },
     {
       "date": "2026-11-12",
       "items": [
