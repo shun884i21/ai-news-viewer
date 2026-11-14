@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-13T11:30:11+09:00",
+  "updatedAt": "2026-11-14T11:10:19+09:00",
   "days": [
+    {
+      "date": "2026-11-14",
+      "items": [
+        {
+          "title": "ChatGPT Wallet、AIエージェントの買い物と決済に対応　米国のProユーザーから順次提供",
+          "summary": "OpenAIは、AIエージェント基盤「Dots」が購入や決済を代行できる「ChatGPT Wallet」の提供を始めた。まずは米国在住で18歳以上のProサブスクライバーが対象で、アメリカン・エキスプレス、チェース、マスターカードなど米国発行の対象カードに対応する。カードネットワークと組んだ新しい支払い手段として導入された点が特徴だ。エージェントが情報収集にとどまらず、実際の購買まで担う段階に進んだことを示す。一方で、不正利用や誤発注への対応が今後の課題になりそうだ。",
+          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-14"
+        },
+        {
+          "title": "アマゾン、「World Product Graph」構想　他社商品も含む世界のEC商品データを集約へ",
+          "summary": "ロイターによると、アマゾンはインターネット上で販売されるあらゆる商品のデータを集めた「World Product Graph」を構築する計画だ。自社で扱わない商品も対象とし、同社サイトを通じて情報を提供する構想とされる。狙いは、買い物客がAI検索やAIショッピングエージェントなど他のサービスへ流れにくくすることにある。ChatGPT Walletのように、AIエージェントが購買の入り口を握りつつある中で、商品データの主導権を巡る競争が本格化していることを示す動きだ。",
+          "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+          "source": "The Verge",
+          "publishedAt": "2026-11-14"
+        },
+        {
+          "title": "中国の主要AIモデル、禁輸対象のエヌビディア製チップで訓練か　ブラックウェルの痕跡を指摘",
+          "summary": "元OpenAIのエンジニアらによる調査として、DeepSeek、Moonshot AI、MiniMax、アント・グループなど中国の先端AIモデルが、輸出規制対象のエヌビディア製ブラックウェルで訓練された痕跡があると報じられた。調査はモデルに残る「指紋」を分析したとされる。輸出規制の実効性に疑問を投げかける内容で、エヌビディアを巡る議論や対中AIチップ規制強化の論議に影響しそうだ。なお、手法や結論の確度は今後の検証が必要になる。",
+          "url": "https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891",
+          "source": "The Register",
+          "publishedAt": "2026-11-14"
+        },
+        {
+          "title": "AIが米金融システム最大の懸念に　FRB調査、AI主導の資産価格高騰にリスク",
+          "summary": "ロイターは、最新のFRBの調査で、AIが金融システムに対する懸念の首位に急浮上したと報じた。ブルームバーグも、FRBがAIに一部支えられた高い資産価格にリスクがあるとみていると伝えている。AI関連株の上昇や巨額の設備投資が続く中、市場の調整が金融の安定に波及しかねないとの警戒感が強まっている。エヌビディアを巡る混乱でネオクラウドやAI関連株が再び下落しており、足元のリスク認識を裏づける形となった。",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa05md1paYmE4WGRIS2pmdGhmS3ZkQUhQdnFNUHNpTURuUmNXc3A1OUNvQkQxamNhUmROd3o4a09ENzhkamVvSlJMUDcyR1FYVW5MOXhid3RjNEtLLVY0NDVTMWlxdGZxYWJ3YVVuRmhRSEQzbDJvSk9VakI2d3lORXZZbFdkdlJHcEpPdmpxOWh5Z1J1UjJQbG96S016ck1MSk1VVzJ4SFliWkhUMng3NEJuYVpEWjQ?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-11-14"
+        },
+        {
+          "title": "AIエージェント管理のLangChain、評価額30億ドルに　顧客7,000社",
+          "summary": "AIエージェント開発企業のLangChainが、評価額30億ドルに到達したと報じられた。同社は、モデルやプラットフォームに依存しないエージェント管理ツール「LangSmith」の顧客が7,000社に上ると説明している。企業のエージェント導入が広がる中、複数のモデルを横断して運用や監視を担う層への投資が増えていることを示す。大手AI企業がエージェントを自社基盤に囲い込む動きもあり、中立的なツールの価値が今後問われそうだ。",
+          "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-14"
+        }
+      ],
+      "outlook": "AIエージェントが決済や購買まで担う流れが進み、アマゾンのようなプラットフォーム側もデータ囲い込みで対抗する構図が強まりそうだ。一方、エヌビディアの混乱と対中輸出規制の実効性、AI関連資産の高騰への金融当局の警戒が重なり、市場と政策の両面で不確実性が高まる。エージェント基盤への投資は続くとみられるが、資金調達環境の変化が評価額に影響するかが注目点だ。",
+      "note": "Reuters項目のURLはGoogleニュース経由のリンク。FRBの懸念に関するブルームバーグ報道の内容はsnippetの見出しのみのため、詳細は一般化して記載。ChatGPT Walletは候補中に複数媒体あるがTechCrunchを採用。エヌビディア関連の続報は既出が多いため、新規性のある中国チップ訓練の調査のみ採用した。"
+    },
     {
       "date": "2026-11-13",
       "items": [
