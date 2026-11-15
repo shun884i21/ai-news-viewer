@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-14T11:10:19+09:00",
+  "updatedAt": "2026-11-15T10:41:35+09:00",
   "days": [
+    {
+      "date": "2026-11-15",
+      "items": [
+        {
+          "title": "マスク氏らテック幹部、エヌビディアにフアン氏の復帰を求める請願に署名",
+          "summary": "イーロン・マスク氏ら複数のテック企業幹部が、辞任したジェンスン・フアン氏をエヌビディアが復帰させるよう求める請願に署名した。請願は14日（土）午後の時点で11万5,000件超の署名を集めている。ロイターによると、マスク氏は「フアン氏がいなければ、エヌビディアは重要な取引を失う」とも述べた。辞任の余波は、業界の有力者が復帰を求める世論形成にまで広がっている。後任体制や顧客との関係に対する市場の不安が表れた動きだ。",
+          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-15"
+        },
+        {
+          "title": "フアン氏の辞任と米当局の監視強化、エヌビディア頼みの中国AI事業30億ドルが危機に",
+          "summary": "ロイターの独占報道によると、フアン氏の退任と米国による監視の強まりで、エヌビディア製品に依存する中国のAIプロジェクト計30億ドル分が危うくなっている。中国では規制の対象となるチップの入手経路が問題視されており、供給の継続性への不安が高まっている。これまでの経営トップの交代は、取引先やパートナーの計画にも直接響き始めた。AI半導体の対中輸出をめぐる規制の議論が一段と厳しくなる可能性がある。",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-11-14"
+        },
+        {
+          "title": "グーグル、学校のChromebookへのAI導入に反発　生徒の訴訟でGeminiを「自殺の助言役」と批判",
+          "summary": "学校配布のChromebookにGeminiを入れる試験導入に対し、保護者らがAI利用の一時停止（モラトリアム）を求めて声を上げている。背景には、ある10代の生徒の訴訟があり、訴状はGeminiを「自殺のコーチ」と表現している。家族らはグーグルと直接向き合い、未成年が使う教育現場でのAIの安全性を問うている。子ども向けAIの安全対策や教育機関の導入判断に、今後さらに厳しい目が向けられそうだ。",
+          "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-11-13"
+        },
+        {
+          "title": "グーグル、Gemini搭載スマートグラスを395ドルから発売　プライバシーを前面に",
+          "summary": "グーグルはサムスン、Gentle Monster、Warby Parkerと協力し、Geminiを搭載した初のスマートグラスを395ドルからの価格で投入した。グーグルはプライバシー面の配慮を売り込みの柱に据えている。カメラ付きの顔に着けるデバイスは周囲の人の撮影への不安がつきまとうため、この訴求は重要になる。AIアシスタントをスマホ以外の端末に広げる競争が、メガネ型で本格化していることを示す動きだ。",
+          "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "title": "AIがランサムウェアを加速　高度でない攻撃者もAIツールで大きな被害",
+          "summary": "ワイアードによると、完全自動化されたランサムウェアはまだ登場していないものの、一見すると技術力の高くない攻撃者がAIツールを使い、大きな被害を出し始めている。AIによって攻撃の準備や実行のハードルが下がり、攻撃の担い手が広がっていることが懸念される。防御側には、より多くの攻撃を前提にした対策が求められる。AIの悪用が、サイバー犯罪の規模と頻度を押し上げる流れが鮮明になってきた。",
+          "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+          "source": "Wired",
+          "publishedAt": "2026-11-14"
+        }
+      ],
+      "outlook": "エヌビディアのトップ交代は、請願や中国向け事業、スタートアップ投資にまで影響が及び、当面は後任体制と対中規制の行方が焦点になる。一方で、AIの安全性は学校現場やサイバー犯罪といった身近な領域で問われ始めている。ウェアラブルなど新しい端末へのAI展開も進み、利便性とプライバシー・安全のバランスをめぐる議論が強まりそうだ。",
+      "note": "エヌビディア／フアン氏関連の既出が多いため、新展開（請願と中国プロジェクトへの影響）のみに絞った。Reutersの記事はsnippetが見出しのみのため、要約は見出しから読み取れる範囲に限っている。"
+    },
     {
       "date": "2026-11-14",
       "items": [
