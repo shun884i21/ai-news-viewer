@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-18T12:32:31+09:00",
+  "updatedAt": "2026-11-19T12:04:22+09:00",
   "days": [
+    {
+      "date": "2026-11-19",
+      "items": [
+        {
+          "title": "アンソロピックのIPO、公開価格は1株83ドルで想定レンジ超え　完全希薄化ベースの評価額は1.5兆ドル",
+          "summary": "アンソロピックが新規株式公開（IPO）の公開価格を1株83ドルに決めたと報じられた。想定されていた価格帯を上回る水準で、完全希薄化ベースの企業評価額は約1.5兆ドルに達するという。生成AI専業企業として最大級の上場であり、投資家のAI需要への期待の強さを示す。エヌビディアの混乱でAI関連株に不安が広がる中での好調な価格設定は、市場心理を測る材料になる。上場後はAI各社の資金調達や評価額の基準にも影響しそうだ。",
+          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-19"
+        },
+        {
+          "title": "グーグル、AI機能を無効化できない学校にはSearchも停止へ　米大手学区が代替検討",
+          "summary": "ニューヨーク、ロサンゼルス、シカゴなど米国の大規模学区が、グーグル検索に代わる選択肢の検討を始めたとNYTが報じた。グーグルが、AI機能をオプトアウトした学校では検索を無効にする方針を示したためで、来年からはGemini搭載機能を無効にする選択肢自体がなくなるという。生徒の安全やプライバシーをめぐる懸念が高まる中での方針であり、教育現場へのAI浸透を事業者が事実上強制する構図になりつつある。教育市場でのグーグルの優位が揺らぐ可能性もあり、保護者や自治体の反発が続くとみられる。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+          "source": "The Verge",
+          "publishedAt": "2026-11-19"
+        },
+        {
+          "title": "マイクロソフトのCEO、6万人に自主退職を促した理由を説明　背景にAI",
+          "summary": "マイクロソフトのナデラCEOは、10月に従業員6万人へ早期退職の機会を提示した理由を語った。再び大規模な一括レイオフに踏み切るのではなく、自発的に退職を促す形を選んだもので、背景にはAIがあるという。ただし単純な人員代替ではなく、記事によれば期待されるのとは異なる文脈での説明だとされる。AIによる業務変革に合わせて組織を再編する動きは他の大手企業にも広がる可能性があり、雇用への影響を考えるうえで注目される。同氏は同じ場でAIエージェントがウェブの広告型ビジネスモデルを揺さぶるとの見方も示した。",
+          "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-19"
+        },
+        {
+          "title": "マイクロソフトの公式Pythonエージェントフレームワークが乗っ取られ、マルウェア配布に悪用",
+          "summary": "マイクロソフトが公式に提供するPython向けエージェントフレームワークが、マルウェアの配布に悪用されたとThe Registerが報じた。GitHubの組織管理者の認証情報が侵害されたとみられる。AIエージェント開発の基盤となるソフトウェアが供給網攻撃の標的になった形で、利用する開発者や企業への波及が懸念される。AI関連のオープンソースが急速に普及する一方で、配布経路の保護や依存関係の検証が追いついていない現状を示す事例だ。同社にとって、セキュリティ面での信頼性がまた問われる出来事となった。",
+          "url": "https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858",
+          "source": "The Register",
+          "publishedAt": "2026-11-19"
+        },
+        {
+          "title": "米政権、米企業に中国製AIの利用開示を義務づけ検討　ロイター独自報道",
+          "summary": "トランプ政権が、米国企業に対して中国製AIの利用状況の開示を義務づける案を検討していると、ロイターが独占で報じた。中国がチップ規制下で米国製モデルを活用して国産AIを育てているとの報道が続く中、米国は輸出規制に加えて利用側にも規制を広げようとしている。実現すれば、企業はサプライチェーンやソフトウェアに組み込まれた中国製モデルの把握を迫られ、コンプライアンス負担が増す。米中のAI覇権争いが、チップから利用実態の透明性へと広がる動きとして注目される。",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRDZYbWdKS2hHRWRxVU9jRTZmUW5GdUZXdXNnMW43cnNKNmV1d2JIcnByM0dBWVBKbkd0TkkydWpQSkdZVkNWQ1RnS2JRQmI1TFE0ODRrX1lCdXkwejVvN3Qwa0taTDZtMkt2VWlTblJqZ0FQeVlMajlocTZ5UE95V29GQ19xQUlkNDh6WVRKVXJDbjM2ZUdaM0c4X25lUlFWRk1qakhGSkwzMGhKdWxFNlBsSnVhVE0?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-11-19"
+        }
+      ],
+      "outlook": "アンソロピックの上場を機に、AI企業の評価額と資金調達の基準が改めて試される。一方、エヌビディアの混乱を背景に米中のチップ・AI規制は利用側の開示義務へと広がりつつある。AIエージェントの普及に伴い、供給網セキュリティや教育現場での導入をめぐる摩擦も強まりそうだ。",
+      "note": "一部記事（マイクロソフトCEOの退職勧奨、中国製AI開示の検討、Verge/Registerの記事）はsnippetが短いため、要約は一般化した表現に留めています。エヌビディア関連は既出が多く、新規性のある別テーマを優先しました。"
+    },
     {
       "date": "2026-11-18",
       "items": [
