@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-19T12:04:22+09:00",
+  "updatedAt": "2026-11-20T11:55:55+09:00",
   "days": [
+    {
+      "date": "2026-11-20",
+      "items": [
+        {
+          "title": "アップル、Mac操作やコーディングまでこなす独自AIエージェントを開発中　求人情報で判明",
+          "summary": "アップルがウェブ閲覧、アプリ間の作業、コード作成、各種サービスの呼び出しをこなす独自のAIエージェントを開発していることが、Bloombergが見つけた求人情報から分かった。エージェント開発を率いるエンジニアを募集している。Meta、Claude、OpenAIなどのエージェントと競合する狙いとみられる。グーグルもGeminiにMacを操作させる機能を出したばかりで、OS層でのエージェント競争が激しくなっている。Bloombergによると、この報道を受けてアンソロピック株は時間外取引で下落した。",
+          "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+          "source": "The Verge",
+          "publishedAt": "2026-11-20"
+        },
+        {
+          "title": "メタのAIエージェント「Muse」、会話の混線やプライバシー漏えいの恐れ　社員が報告",
+          "summary": "メタ社員の報告によると、AIエージェント「Muse」が他人の会話を混同し、本人が頼んでいない育児の依頼、キャリア助言、商品注文、他人の銀行口座残高を表示する例があった。ZDNETは、許可なくAirbnbを予約するなど無断の行動も報じている。エージェントが私的メッセージにアクセスしていた点も指摘された。メタは数百ドル規模のAI端末「Muse Charm」を年末商戦向けに投入する計画とされる。エージェントの権限管理とデータ分離が実用化の壁になっていることを示す事例だ。",
+          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-20"
+        },
+        {
+          "title": "欧州委員会、AIツールを使ったサイバー攻撃を受けたと確認　人事・医療費精算システムを停止",
+          "summary": "欧州委員会は、AIツールを悪用したサイバー攻撃の標的になったことを確認した。職員の人事システムと医療費精算システムがオフラインになり、個人データが漏れた可能性を調べている。ノルウェーのエネルギー大手エクイノールも別のサイバー攻撃で復旧のめどが立っておらず、重要インフラへの攻撃が相次いでいる。AIで攻撃が高度化・効率化し、公的機関や基幹企業の防御が追いつかなくなっている現状がうかがえる。",
+          "url": "https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103",
+          "source": "The Register",
+          "publishedAt": "2026-11-20"
+        },
+        {
+          "title": "米政権、半年で約90万個のAIチップの対中販売を承認　下院委員会が明らかに",
+          "summary": "米下院委員会によると、米政府は直近6カ月で中国向けにおよそ90万個のAIチップの販売を承認していた。Bloombergが伝えたデータでは、承認先にはテンセントやアリババが含まれる。政権は中国によるチップの遠隔利用の遮断など規制強化を打ち出しているが、実際の許可実績との落差が改めて問われそうだ。エヌビディア関連の不祥事で議会の目が厳しくなる中、輸出管理の運用の透明性や整合性をめぐる議論が強まる見通しだ。",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-11-20"
+        },
+        {
+          "title": "ドリトスの袋をAIが銃と誤検知、生徒らが学校と警察を提訴　誤警報は99%超と主張",
+          "summary": "ドリトスの袋がAI銃検知システムの警報を作動させ、恐怖を味わった10代の生徒らが学校と警察を提訴した。訴状は、この学区のAI銃警報の99%超が誤検知だったと主張している。誤警報は武装警官の出動を招き、生徒に深刻な心理的被害を与えかねない。学校へのAI監視技術の導入が広がる中、精度の検証、運用ルール、導入側の責任が法廷で問われる事例となる。",
+          "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-11-20"
+        }
+      ],
+      "outlook": "OSやデバイス上で動くAIエージェントの競争が、アップル、グーグル、メタを中心に本格化している。一方でMuseの事例のように、権限管理やプライバシーの問題が先に表面化している。AIを使った攻撃や誤検知による被害も増えており、安全性や責任をめぐる規制・訴訟の動きが強まるだろう。米中のチップ輸出管理も、実際の運用が焦点になりそうだ。",
+      "note": "既出リストと重複しないよう、エヌビディア関連やアンソロピックIPO関連の記事は除外した。Googleの「Gemini Mac操作」やAnthropic創業者の売却益なども候補だったが、テーマの偏りを避けて見送った。"
+    },
     {
       "date": "2026-11-19",
       "items": [
