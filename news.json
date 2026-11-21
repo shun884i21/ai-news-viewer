@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-20T11:55:55+09:00",
+  "updatedAt": "2026-11-21T12:03:40+09:00",
   "days": [
+    {
+      "date": "2026-11-21",
+      "items": [
+        {
+          "title": "アンソロピックの数学者、Claudeでリーマン予想を証明したと主張　人間による別の解法も浮上",
+          "summary": "アンソロピックの数学者レヴェント・アルページュ氏が、Claudeの支援でミレニアム懸賞問題の一つであるリーマン予想を証明したと主張した。未解決のまま約167年が過ぎた難問で、検証されればAIによる数学上の大きな成果になる。TechCrunchによれば、これと競合する人間による解法の主張も出ている。数学者の間で驚きが広がる一方、正しさの確認には専門家による厳密な検証が必要だ。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "source": "The Verge",
+          "publishedAt": "2026-11-21"
+        },
+        {
+          "title": "アンソロピック上場翌日にナスダックが5%急落　AI関連株の売りが世界に波及",
+          "summary": "アンソロピックの上場翌日、ナスダックは5%急落した。ロイターによれば、米株は前日に急反落してS&P500とダウは調整局面入りしており、AI関連株の売りがアジアや欧州にも広がった。アンソロピック株は上場直後の上昇分をほぼ失ったとブルームバーグが伝えている。一方で投資家はAIの長期的な成長への信認は保っているとの見方もあり、AI相場の過熱感を点検する局面になっている。",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSi1oZG9URHdnSVhJWWs1THZ6b1JBVWJHODR5ZE5fajVzaS1zZGhfdGlfajJkTUpmeUduODNlNTN0bTFSUEZCZHROd1IzSF9DeWxKUmYyT0IyVTh6Zy1ab1ZXd1BfSjFQcC1paFhiS3NTM1NSQUlMNmhDa1pUNl9WMW9xM3NTTzI5aF95NXNaVnI2WXV6TlhxZ3h3WHh2NldhZzhvekxPb1dQczVXcXZYT2tkWjAxNS1uYmhF?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-11-21"
+        },
+        {
+          "title": "トランプ氏、AIデータセンターを国外に建てる企業に「途方もない税」を警告",
+          "summary": "トランプ大統領は、データセンターを米国外に建設する企業に「途方もない税」を課すと表明し、「自国の企業が国外にデータセンターを建てることは許さない」という趣旨の発言をした。一方で国内では、州や市が新規のデータセンター建設申請に制限を設ける動きが広がっている。AIインフラを国内に囲い込みたい連邦政府と、電力や環境への懸念から建設に慎重な地方との間で、ねじれが生じている。具体的な制度設計は示されておらず、今後の動向が注目される。",
+          "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+          "source": "The Verge",
+          "publishedAt": "2026-11-21"
+        },
+        {
+          "title": "中国系攻撃者、AIエージェントにゼロデイを自律発見・悪用させ大学サーバーを乗っ取り",
+          "summary": "中国系の攻撃者がAIエージェントを展開し、ゼロデイ脆弱性の発見から悪用までを自律的に行わせて、大学のサーバーを乗っ取ったとザ・レジスターが報じた。アマゾンのCISOは、エージェントが人間の指示なしにほぼ丸一日、状況に適応しながら攻撃を続けたと説明している。攻撃の自動化が実戦で確認された事例であり、防御側にも検知や対応の速度向上が求められる。AIを使った攻撃の現実的な脅威を示す事例だ。",
+          "url": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+          "source": "The Register",
+          "publishedAt": "2026-11-21"
+        },
+        {
+          "title": "Signal、AIエージェントによる覗き見を防ぐためスクリーンショットを制限",
+          "summary": "メッセージアプリのSignalが、AIエージェントによる画面の読み取りからプライバシーを守るため、スクリーンショットを制限する。昨年のマイクロソフトRecallの際にも同様の制限を導入しており、今回が2度目となる。ザ・レジスターによれば、Signalはアップル、グーグル、マイクロソフトが開発者にAIエージェント向けの十分な制御手段を提供していないと批判している。OS上で動くエージェントの普及が、暗号化メッセージの前提を揺るがしつつあることを示す動きだ。",
+          "url": "https://www.zdnet.com/innovation/signal-restricts-screenshots-over-ai-agent-concerns/",
+          "source": "ZDNET",
+          "publishedAt": "2026-11-21"
+        }
+      ],
+      "outlook": "アンソロピック上場後の株価急落で、AI相場の過熱感と資金調達環境の変化が試される局面に入った。一方で、リーマン予想をめぐる主張や自律型サイバー攻撃は、AIの能力が実用レベルで高まっていることを示す。政策面では、データセンターの国内回帰やエージェントのプライバシー規律をめぐる議論が強まりそうだ。",
+      "note": "リーマン予想の証明は主張の段階で、検証は済んでいない。株価の記述はRTE見出しとスニペットに基づき、具体的な数値は限定的に記載した。"
+    },
     {
       "date": "2026-11-20",
       "items": [
