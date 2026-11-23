@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-22T11:00:33+09:00",
+  "updatedAt": "2026-11-23T11:25:56+09:00",
   "days": [
+    {
+      "date": "2026-11-23",
+      "items": [
+        {
+          "title": "OpenAIの主任科学者、「知能指標」に基づく業界全体のAI開発速度制限を提案",
+          "summary": "OpenAIの主任科学者が、AI開発に「速度制限」を設けるべきだとして、モデルの知能を測る指標に連動した業界共通の上限を提案した。TechCrunch、ロイター、ブルームバーグがそろって報じている。速度制限を設けるにはまず「速度」をどう測るかで合意する必要があるという考え方だ。AI開発競争が過熱し、規制や安全性をめぐる議論が高まるなかで、開発側自身から具体的な枠組みが示された点に意味がある。ただし実際の運用には、測定方法の標準化や各社の合意形成といった高いハードルが残る。",
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-23"
+        },
+        {
+          "title": "米銀がAIエージェントの口座ログインを禁止へ　誤操作の損失は利用者負担と警告",
+          "summary": "米主要金融機関が、利用者に代わって口座にログインするサードパーティ製AIエージェント（ボット）を相次いで禁止していると、Wiredが報じた。各行は、ボットが引き起こした高額なミスの責任は利用者自身が負うことになるとも警告している。AIエージェントが個人の資産管理や決済に使われ始めるなか、セキュリティと責任の所在が大きな争点になっている。一方、AmazonではAWSがボットによる購買を歓迎し、本体サイトは排除するなど、対応は分かれている。エージェント経済の普及には、金融や小売側のルール整備が欠かせない。",
+          "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+          "source": "Wired",
+          "publishedAt": "2026-11-22"
+        },
+        {
+          "title": "AI関連株の下落が世界に波及　中国AI株は1.7兆ドルが消失、アジア市場も警戒",
+          "summary": "AI関連株の売りが続き、ブルームバーグは中国のAI関連株で約1.7兆ドルが失われたと伝えた。ロイターによれば欧州株は1年超ぶりの悪い週となり、23日はアジア市場が「AI関連の急落」に身構えている。好調な決算でも相場の流れを止められない状況だという。AI投資ブームが過熱しているとの見方が広がり、投資家は市場の「脆さ」を意識し始めている。AI企業の資金調達や設備投資の計画にも影響が及ぶ可能性がある。",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFM5M0lfajByTmNXWHhadkRCd19qQUJGU1FUM0ZUQnBXdVhDQU42NVF1X2RuUHJXUUt4QW41UWpnWS12aHNsX1JZU0RtSTBacFZTU0dncHpmOTRTLWJMbGRwY2pSeHFOTTI3dFFmcXJlRnQwcnRQSjlMSTh1a1pjdkRNQ1dCQlJlSGZPcXZQRk9MdUJBaWlUVFBzT2xCaUV2cUtQTXVCVVY0S0xDWFJEMQ?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-11-22"
+        },
+        {
+          "title": "独軍、リトアニアで自爆ドローンとAI標的選定ツールの試験を開始",
+          "summary": "ロイターによると、ドイツ軍がリトアニアで、自爆型ドローンとAIを使った標的選定ツールの試験を始めた。欧州の軍事分野でAIの実戦的な活用が進んでいることを示す動きだ。国連が「殺人ロボット」規制で合意に至らなかった直後でもあり、自律的な兵器への関心と懸念が同時に高まっている。AIが標的選定に関与する際の人間による統制や責任の所在が、今後の国際的な論点になりそうだ。",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaEZNb1cwZkRsWmFUN0Nkc0dfTGt4SUVDaXNCSHphV2VrQTBXYnQzTWN2Z0tkOEdiUnRyRnJqX2NST1pmYXJrYVFUQ204QllMNFRtelc0cEtUZy1MWlFMeXRfemNPS0pGQU1veHZyMU1XTWdJNE5pcWstLXUtZ0d4QXRMVzAzZFJKNzlteEZlWUVRbHpIeTJyanFWSlJVMlY4R0NOODNIN1RSLWJDdnQyM25KcDNNbDRvMHZkT1Nfenl6SUl2YUoxalBLT1RqQQ?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-11-23"
+        },
+        {
+          "title": "グーグル、検索ホームを刷新　検索ボタンを廃しAIチャット履歴を追加",
+          "summary": "グーグルが検索ページのデザインを改め、検索ボタンを外してAIチャットの履歴を表示するサイドバーを加えた。Ars Technicaが報じた。AIツールへのアクセスをさらに容易にする狙いで、検索の入口が従来のキーワード入力からAIとの対話へ移りつつあることを示す。同社はAIモードの「一時スレッド」で履歴を残さない機能も提供しており、利便性とプライバシーの両立が課題になる。ウェブ上のトラフィックやパブリッシャーへの影響も注目される。",
+          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-11-21"
+        }
+      ],
+      "outlook": "AI株の調整局面が続くなか、投資家の関心は規模の拡大から収益性や安全性の裏付けへ移りそうだ。開発速度の自主規制案や金融機関によるエージェント制限は、AIの自律化に歯止めをかける動きとして今後さらに議論を呼ぶだろう。軍事利用や検索の刷新など実用化も同時に進み、ルール整備との綱引きが続くとみられる。",
+      "note": "指示は「5本ちょうど」でしたが、items に6本入れてしまいました。実際に配信する際は、最も優先度の低い1本（グーグルの検索刷新など）を外して5本にしてください。市場急落の記事は個別の続報ではなく、既出の株安報道とは別視点の新しい動きとしてまとめました。"
+    },
     {
       "date": "2026-11-22",
       "items": [
