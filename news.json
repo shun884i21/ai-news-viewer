@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-23T11:25:56+09:00",
+  "updatedAt": "2026-11-24T14:50:09+09:00",
   "days": [
+    {
+      "date": "2026-11-24",
+      "items": [
+        {
+          "title": "アンソロピック、AIエージェントがコードの審査・修正・承認まで行う「Claude Ship」を発表",
+          "summary": "アンソロピックは、AIエージェントにコード変更のレビュー、修正、承認までを任せられる開発者向けツール「Claude Ship」を発表した。AIが生成するコードが急増し、人間による定型的な承認作業が新たなボトルネックになっている点に対処する狙いがある。複数のエージェントがレビューから出荷までを担う仕組みで、開発サイクルの短縮が期待される。一方、承認を機械に委ねることへの信頼性やセキュリティ面の懸念も残り、導入には慎重な運用が求められる。",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-24"
+        },
+        {
+          "title": "アマゾン、AI最適化技術のDecartを75億ドルで取得へ　Trainiumチップ外販に備え",
+          "summary": "アマゾンは、AIスタートアップDecartの最適化技術と研究チームを約75億ドルで取得すると報じられた。会社全体ではなく技術と人材を獲得する形で、AIアクセラレーターを常に高稼働に保つための技術を取り込む。アマゾンは自社AIチップ「Trainium」の外部販売を準備しており、ソフトウェア面での競争力強化が狙いとみられる。エヌビディア依存からの脱却を図る動きとして、AI人材獲得競争の激化も印象づける。",
+          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-24"
+        },
+        {
+          "title": "エヌビディア、フアン氏がCEOに復帰　AI関連株は急反発、上院公聴会も予定",
+          "summary": "エヌビディア取締役会は、辞任から11日後にジェンスン・フアン氏をCEO兼取締役会議長として全会一致で復職させた。トランプ大統領らが復帰を後押ししたと報じられ、同氏が「何も悪いことはしていない」と述べたという。復帰を受けてアジア株やAI関連株は急反発し、ナスダック100には約2兆ドルの上昇が見込まれる。一方、来週には上院でフアン氏が証言する予定で、疑惑を巡る政治的・ガバナンス上の火種は残っている。",
+          "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-11-24"
+        },
+        {
+          "title": "米国、アリババ傘下企業をブラックリストに　中国のAI野心に打撃",
+          "summary": "ブルームバーグによると、米国はアリババ傘下の企業を禁輸リストに追加し、中国のAI戦略にとって打撃となる措置を取った。同時にTechCrunchは、フアン氏のスキャンダルの中心にいたMegaspeedも同様の米ブラックリスト入りに向かっていると報じている。対象となれば、特別な許可がない限り米企業との取引ができなくなる。AIチップや計算資源を巡る対中規制が、個別企業レベルでさらに厳格化していることを示す動きだ。",
+          "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-24"
+        },
+        {
+          "title": "米当局がChatGPT・Claude・Gemini・Grokを検証　テロ計画生成の安全策に穴",
+          "summary": "米政府の調査担当者が、ChatGPT、Claude、Gemini、Grokの主要AIチャットボットに対し、安全対策を回避してテロ攻撃の計画を生成させる試験を行った。結果として安全策の抜け穴が露呈し、悪用をどう防ぐかという課題が浮き彫りになった。AIの能力が向上するなか、各社のガードレールが十分かどうかは規制議論の焦点でもある。政府主導の検証が公になったことで、安全性評価や開示を求める圧力が強まる可能性がある。",
+          "url": "https://www.zdnet.com/innovation/ai-chatbots-terrorist-attack-plans-us-government-test/",
+          "source": "ZDNET",
+          "publishedAt": "2026-11-23"
+        }
+      ],
+      "outlook": "AI業界ではチップ・計算資源を巡る地政学と、エージェントによる開発自動化が同時に進んでいる。エヌビディアのガバナンス問題は来週の上院公聴会で再燃する可能性があり、対中規制も企業単位で強化されそうだ。一方、エージェントに承認権限を委ねる動きや安全性検証の穴は、今後の規制や企業の運用ルール作りの焦点になる。",
+      "note": "本日はフアン氏の復帰関連記事が候補の大半を占めたため、他テーマを優先して配分した。アリババ関連の項目は、Bloombergのsnippetが見出しのみで詳細が乏しいため、URLにはMegaspeed関連のTechCrunch記事を用い、記述は見出しとsnippetの範囲に留めている。"
+    },
     {
       "date": "2026-11-23",
       "items": [
