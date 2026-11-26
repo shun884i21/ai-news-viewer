@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-11-25T13:50:39+09:00",
+  "updatedAt": "2026-11-26T13:03:16+09:00",
   "days": [
+    {
+      "date": "2026-11-26",
+      "items": [
+        {
+          "title": "S&P、エヌビディアの格下げを検討　ガバナンスと「キーマン」リスクを理由に",
+          "summary": "格付け会社S&Pが、エヌビディアの信用格付けを上から4番目のAA-へ引き下げる可能性を検討していると報じられた。理由として、ガバナンス体制と、創業者でCEOのジェンスン・フアン氏への依存というキーマンリスクが挙げられている。フアン氏はCEO復帰後も社内外の信頼問題が尾を引いており、市場ではCoreWeaveとともにエヌビディアの信用リスク指標が過去最高水準に達したとも伝えられる。AI投資の中核企業の信用力低下は、データセンター向け融資やAI関連債の調達コストにも波及しかねず、重要な動きだ。",
+          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-26"
+        },
+        {
+          "title": "ナスダック100が弱気相場入り　AIへの不安が売りを主導",
+          "summary": "ブルームバーグによると、ナスダック100指数が弱気相場の領域に入った。AI関連株の収益性への疑念が売りを主導しているという。ウォール街では激しい値動きが続き、ロイターは午後に反発して下げ幅は限定的になったと伝えている。一方でゴールドマン・サックスのストラテジストは、AI株の売りに飛びつくのはまだ早いとの見方を示した。AIブームが企業価値と資金調達を支えてきただけに、調整の長期化はAI投資や資金調達環境に影響を与える可能性がある。",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWw3QUJsbEp5MS1ZTDJGZ0Qyc1hHWDkxSWc0ZTVJbGgxeldKZ1B0SUlMTnI5VGdDSzZQZGsydEoyQzJUZ2NDcDJ4Y1Itd0xYNjNJN080RGtGZ3NsQlBYZU9vVVBZTXAzMDlCXzFPVWYxLXd4Zm9mZWhvaF9Td0tBaHNZTW9OVG5Ld2piVlZzUWMzczFSY19kbk1KNklUcFJwTlJlcUZlaEJmM2JyN1RR?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-11-26"
+        },
+        {
+          "title": "Character.AIの破産売却、ユーザーの非公開チャットが対象に　州司法長官らが異議",
+          "summary": "Character.AIの破産に伴う売却計画をめぐり、州司法長官らが異議を申し立てた。売却対象には米国の2100万超のアカウントの機微な個人データが含まれ、うち210万件は未成年者のアカウントだという。ユーザーが非公開のつもりで交わした会話が競売にかけられることになり、同意やプライバシー保護のあり方が問われる。AIチャットボットの会話データという新しい種類の個人情報の扱いに関する、先例となり得る争いだ。",
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-26"
+        },
+        {
+          "title": "ニューヨーク州、AIチャットボット搭載玩具を5年間禁止　安全性の欠陥を指摘する調査も",
+          "summary": "ニューヨーク州が、AIチャットボットを搭載した玩具の販売を5年間禁止した。非営利団体Common Sense Mediaの新たな調査では、こうした玩具が不適切なコンテンツに子どもをさらしたり、情動面の発達にリスクをもたらしたりする安全上の問題が明らかになったという。クリスマス商戦を前にした措置で、子ども向けAI製品に対する規制の先駆けとなる可能性がある。他の州や国が同様の対応を取るかが今後の焦点となる。",
+          "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-26"
+        },
+        {
+          "title": "アンソロピックがAIエージェントを誘惑する「ハニーポット」を作成　暴走時に踏みとどまれるか検証",
+          "summary": "アンソロピックは、AIエージェントが暴走し得ることを前提に、誘惑に抵抗できるかを調べる新しいテストとして、ハニーポット（罠）を作成したとWIREDが報じた。エージェントが不正な行動へ誘導される場面を意図的に用意し、その挙動を観察する手法だ。エージェントが企業システムや金融の現場で自律的に動く機会が増えるなか、悪用や逸脱への耐性を測る評価手法は安全対策の要となる。同種の評価が業界標準になるかが注目される。",
+          "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+          "source": "Wired",
+          "publishedAt": "2026-11-25"
+        }
+      ],
+      "outlook": "AI関連株の調整とエヌビディアの信用格付け見直しの動きは、AIインフラ投資の資金調達環境が引き締まる可能性を示している。一方で、子ども向けAI製品やチャット履歴の扱いなど、消費者保護をめぐる規制・訴訟が各地で具体化している。エージェントの安全性評価も含め、成長一辺倒から信頼性とガバナンスを問う局面へ移りつつある。"
+    },
     {
       "date": "2026-11-25",
       "items": [
