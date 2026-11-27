@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-11-26T13:03:16+09:00",
+  "updatedAt": "2026-11-27T13:01:27+09:00",
   "days": [
+    {
+      "date": "2026-11-27",
+      "items": [
+        {
+          "title": "エヌビディア、東南アジア向けサーバー出荷を一時停止　対中チップ流出防止の圧力強まる",
+          "summary": "エヌビディアは製造パートナーに対し、マレーシア、シンガポール、タイ、インドネシア向けのサーバー出荷を一時停止するよう伝えた。米国がAIチップの中国流入を防ぐ取り組みを強めていることが背景にある。東南アジアは迂回輸送の経由地として警戒されてきた地域で、現地のデータセンター計画にも影響が及ぶ可能性がある。Bloombergは、チップ規制強化を受けて数十億ドル規模のデータセンター案件が止まったと報じている。",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-27"
+        },
+        {
+          "title": "SAP、AI再編で1万人以上の人員削減を検討　Bloomberg報道",
+          "summary": "BloombergとReutersによると、独SAPはAIを軸とした事業再編の一環として、少なくとも1万人規模のポジション削減を検討している。AIが企業向けソフトウェアの開発や業務の進め方を変えるなか、大手ソフト企業が人員構成の見直しに動く動きとして注目される。具体的な時期や対象部門は今回の報道では明らかでなく、正式発表を待つ必要がある。AI投資の拡大と雇用への影響をめぐる議論を一段と強めそうだ。",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEkwcUVNZU5SbHN4QWpxRU81d3p0eWFzcDY5VVd2dnBCeU8wMDlxVTM1NzhEM0NZMnNTNGZRVnA1WU1OUWM1N21tV29IZlJ6WUZLQ0xuWmd5cS1wU2dtaHpuRGRjZFA4V2I0VXRPYjhlN1ZQamVzMFBKQk1yRExURUFCX3B0MVdDRFd4djY2cEpmaERpbENDalRtcjFwd0trT3JHU3haMWRQdlBsRFNYNFhSTUt1QQ?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-11-27"
+        },
+        {
+          "title": "マイクロソフト、中国・北朝鮮のハッカーがAI攻撃ツール「ARTEX」を使用と警告",
+          "summary": "マイクロソフトは、中国と北朝鮮のハッカーが「ARTEX」というエージェント型の攻撃フレームワークを使い、世界のテック企業のシステムへ侵入していると明らかにした。このツールは既知の攻撃手法を自動化し、防御が弱い環境では数分で突破される恐れがあるという。攻撃のAI自動化が国家系の攻撃者にも広がっていることを示す事例で、防御側にもパッチ適用や監視の迅速化が求められる。",
+          "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+          "source": "The Register",
+          "publishedAt": "2026-11-27"
+        },
+        {
+          "title": "OpenAI、ChatGPTのChatとWorkを統合　使用量メーターも一本化、ヘビーユーザーは上限に早く到達も",
+          "summary": "OpenAIはChatGPT内のChatとWorkの体験を統合し、全体で単一の使用量メーターを導入すると発表した。これに伴い、利用頻度の高いユーザーは従来より早く利用上限に達する可能性があると説明している。チャットと業務用エージェント機能を一つの枠組みに束ねる動きで、計算資源のコストと提供価値の釣り合いをどう取るかという課題も浮かび上がる。有料ユーザーの使い方や課金設計に影響しそうだ。",
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+          "source": "TechCrunch",
+          "publishedAt": "2026-11-26"
+        },
+        {
+          "title": "メタ、AIエージェント「Muse」の共同テストを拒否　英金融行為監督機構が懸念",
+          "summary": "英金融行為監督機構（FCA）は、メタが個人向けAIエージェント「Muse」の共同テスト要請を断ったと不満を示した。メタは火曜日にMuseを英国で展開している。FCAはエージェントが金融システムにとって「新たな攻撃の力」になりうると警告した。先に社員から会話の混線やプライバシー漏えいの恐れが報告されたばかりで、エージェントの安全性検証を民間企業任せにしてよいのかという論点を、規制当局が改めて突きつけた形だ。",
+          "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+          "source": "Wired",
+          "publishedAt": "2026-11-26"
+        }
+      ],
+      "outlook": "米国のチップ規制は中国本土だけでなく東南アジア経由の流通にも及び始め、データセンター投資やサプライチェーンの再編を迫りそうだ。一方、AIエージェントは攻撃側の自動化にも、企業のリストラや製品統合にも使われ、金融当局などによる安全性検証や規制の要求も強まるとみられる。"
+    },
     {
       "date": "2026-11-26",
       "items": [
