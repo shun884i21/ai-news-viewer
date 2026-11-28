@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-27T13:01:27+09:00",
+  "updatedAt": "2026-11-28T12:48:28+09:00",
   "days": [
+    {
+      "date": "2026-11-28",
+      "items": [
+        {
+          "title": "OpenAI、アップルがサプライヤーにOpenAI端末の取引回避を圧力と主張",
+          "summary": "Bloombergによると、OpenAIはアップルが部品サプライヤーに対し、OpenAIのデバイス向けの取引を避けるよう圧力をかけたと主張している。OpenAIは独自のAI端末開発を進めているとされ、スマートフォン市場を握るアップルとの競合が表面化した形だ。サプライチェーンへの影響力を使った締め付けが事実なら、独占禁止法上の問題に発展する可能性もある。AIがソフトウェアからハードウェアへ広がる中、プラットフォーム支配をめぐる対立が一段と激しくなる兆しとして注目される。詳細は記事見出しに基づくもので、今後の続報が待たれる。",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0xaWXJoMk5iSnR5QTZlS2ZUeWNxZlVmQU9NZEs4TnpYVWRGYWdoeW1yWVdlNlUxRDZ2QmZtbVJncGxJUW5HcjBrbzFISUJKYkxGVzJmN2NvWW9QeWtmNkVOTHBpNkZBYXRwdjBOUjRyeDBHMWplZmQ4YUx0cjNMcE9naVV4bzZuSlVBZTB4WHg0RUlsZkRxLVdobWpUUFlUbmNVYkxMX3ZPQlQw?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-11-28"
+        },
+        {
+          "title": "米のチップ規制と蒸留対策、中国のAIモデル開発を圧迫　ロイター独自報道",
+          "summary": "ロイターは関係者の話として、米国の先端チップ輸出規制と、他社モデルの出力を利用する「蒸留」への取り締まり強化が、中国のAIモデル開発を脅かしていると報じた。計算資源の確保が難しくなる一方、米国製モデルから性能を引き出す手法も制限されるため、中国勢は二重の制約に直面する。国産チップや独自データでの巻き返しが焦点となる。米中のAI覇権争いが、ハードとモデル利用の両面に広がっていることを示す動きだ。",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHo5VjlHR1l4UkdCSmFGNUd6WVlZNXlwZXl6Yk5oYUFnTm9ISC1ZSWdmbi1aZ3R1b1Q3bXhpaXVoSXRaNy1hcWdSWHdCd2RFVGx6WlhYN25pZXI4Q2xHWGpQVkJYN2MwTk1ma2NERnBKTHhBUXpHSElLeFdwdEpVZFZZcWhxMm1QUEVpeHRYSXczYXNJelJTUWtHdEkxSGpud2NxeV90R0VjTXVkTmE4U0JRZWVRM1RFUmt3UGhIbw?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-11-26"
+        },
+        {
+          "title": "マスク氏、米国の全児童にスペースX株2株を付与と表明　180億ドルの「AIイメージ戦略」",
+          "summary": "ロイターによると、イーロン・マスク氏は米国の子ども一人ひとりにスペースX株を2株ずつ付与すると表明した。総額は約180億ドルに上り、AIへの不信感が高まる中での「魅力攻勢」と位置づけられている。AIの恩恵を広く分配する姿勢を示す狙いとみられるが、実現方法や対象範囲の詳細は記事見出しからは明らかでない。AI企業が社会的な支持を得るため巨額の還元策を打ち出す動きとして、業界や規制当局の反応が注目される。",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNklmekFZWmFURnFwVlBHa2FlTGZwYkxaSkNSRUxMV2lsanFDc2hkdGF1RGhHWlJoUTBicHFXY1B3dWxHa0xmdU5mYzFBbGpYN3Z5N2xTS2U1bVBJeVZQVHRucldkRVhsVlVfNldnTWpRclIzSjJQa0tMMnBFVGhDTS1HYzdwVlctaXowdDJtdVJaNkxLcXo2Tk9Odi1XZnI0c1JScHZycXhWRUNUZmQ4?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-11-27"
+        },
+        {
+          "title": "アマゾン、AIエージェント使うハッカーが0-dayを自律発見・悪用と報告　防御側にも恩恵",
+          "summary": "Ars Technicaによると、アマゾンは、攻撃者のAIエージェントがほとんど人手を介さずにゼロデイ脆弱性を見つけて悪用したと説明した。報告ではAIフレームワーク「Cairn」が取り上げられ、防御側と攻撃側の双方にとって大きな力になっていると指摘されている。脆弱性の発見から悪用までの時間が短縮されれば、パッチ適用や監視の体制見直しが急務となる。AIが攻防の速度を引き上げる現実を示す事例だ。",
+          "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+          "source": "Ars Technica",
+          "publishedAt": "2026-11-24"
+        },
+        {
+          "title": "AI設備投資で通信網機器の納期が最大18カ月に　光機器価格は約5割上昇",
+          "summary": "The Registerによると、AIブームの影響で通信事業者がネットワーク機器の入手まで最大18カ月待たされている。RETNの話として、光通信機器の価格は今年約50%上昇しており、通信事業者がデータセンター事業者と部品を奪い合う構図になっている。AI需要が半導体やデータセンターだけでなく、通信インフラの供給にも波及している形だ。ネットワーク整備の遅れや通信コストの上昇につながる恐れがあり、AI投資のボトルネックが広がっていることを示している。",
+          "url": "https://www.theregister.com/networks/2026/11/27/ai-boom-leaves-network-operators-waiting-up-to-18-months-for-kit/5312366",
+          "source": "The Register",
+          "publishedAt": "2026-11-27"
+        }
+      ],
+      "outlook": "AI投資の副作用は、チップ規制や米中対立、部品・通信機器の逼迫、サイバー攻撃の高度化へと広がっている。一方でAI企業は社会的支持を得るための施策や、アップルとのような競争面での衝突も増えるとみられる。規制当局や市場の反応が今後の焦点となる。",
+      "note": "Bloomberg・Reutersの一部記事はsnippetが見出しのみのため、要約は見出しに基づく一般的な内容に留めている。"
+    },
     {
       "date": "2026-11-27",
       "items": [
